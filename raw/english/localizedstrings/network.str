@@ -1,0 +1,39 @@
+// Note to translators:
+// If a sentence is the same in your language then please change it to "#same"
+//
+// eg:
+// LANG_ENGLISH  "HALT"
+// LANG_GERMAN   "#same"
+//
+// (This is so we can tell which strings have been signed-off as ok to be the same words for QA
+//  and because we do not store duplicate strings, which will then get exported again next time
+//  as being untranslated.)
+//
+VERSION             "1"
+CONFIG              "C:\trees\nx1\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           OPEN
+LANG_ENGLISH        "Open"
+
+REFERENCE           MODERATE
+LANG_ENGLISH        "Moderate"
+
+REFERENCE           STRICT
+LANG_ENGLISH        "Strict"
+
+REFERENCE           YOURNATTYPE
+LANG_ENGLISH        "Your NAT Type:"
+
+REFERENCE           MODERATEPARTYWARNING
+LANG_ENGLISH        "Your NAT type is Moderate.  This means players may have trouble connecting to you and joining your party."
+
+REFERENCE           STRICTPARTYWARNING
+LANG_ENGLISH        "Your NAT type is Strict.  This means it is hard for other players to connect to you - so if you invite people they may not make it into your party.  "
+
+REFERENCE           MODERATELOBBYWARNING
+LANG_ENGLISH        "Your NAT type is Moderate.  This means players may have trouble connecting to you and joining your Private Match lobby."
+
+REFERENCE           STRICTLOBBYWARNING
+LANG_ENGLISH        "Your NAT type is Strict.  This means it is hard for other players to connect to you - so if you invite people they may not make it into your Private Match lobby.  "
+

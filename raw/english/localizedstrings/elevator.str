@@ -1,0 +1,24 @@
+// Note to translators:
+// If a sentence is the same in your language then please change it to "#same"
+//
+// eg:
+// LANG_ENGLISH  "HALT"
+// LANG_GERMAN   "#same"
+//
+// (This is so we can tell which strings have been signed-off as ok to be the same words for QA
+//  and because we do not store duplicate strings, which will then get exported again next time
+//  as being untranslated.)
+//
+VERSION             "1"
+CONFIG              "C:\trees\nx1\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           CALL_HINT
+LANG_ENGLISH        "Press and hold &&1 to call elevator."
+
+REFERENCE           USE_HINT
+LANG_ENGLISH        "Press and hold &&1 to use elevator."
+
+REFERENCE           FLOOR_SELECT_HINT
+LANG_ENGLISH        "Press and hold &&1 to select floor."
+

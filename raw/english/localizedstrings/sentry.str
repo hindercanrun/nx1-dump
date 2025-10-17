@@ -1,0 +1,30 @@
+// Note to translators:
+// If a sentence is the same in your language then please change it to "#same"
+//
+// eg:
+// LANG_ENGLISH  "HALT"
+// LANG_GERMAN   "#same"
+//
+// (This is so we can tell which strings have been signed-off as ok to be the same words for QA
+//  and because we do not store duplicate strings, which will then get exported again next time
+//  as being untranslated.)
+//
+VERSION             "1"
+CONFIG              "C:\trees\nx1\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           DEBUG_SPAWN_ENEMIES
+LANG_ENGLISH        "Enemies spawn in 10 seconds"
+
+REFERENCE           PICKUP
+LANG_ENGLISH        "Press and hold ^3&&1^7 to pick up the turret."
+
+REFERENCE           MOVE
+LANG_ENGLISH        "Press and hold ^3&&1^7 to move the turret."
+
+REFERENCE           PLACE
+LANG_ENGLISH        "Press ^3[{+attack}]^7 to place the turret."
+
+REFERENCE           CANNOT_PLACE
+LANG_ENGLISH        "Move the turret to a valid location."
+

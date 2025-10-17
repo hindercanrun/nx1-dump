@@ -1,0 +1,876 @@
+// Note to translators:
+// If a sentence is the same in your language then please change it to "#same"
+//
+// eg:
+// LANG_ENGLISH  "HALT"
+// LANG_GERMAN   "#same"
+//
+// (This is so we can tell which strings have been signed-off as ok to be the same words for QA
+//  and because we do not store duplicate strings, which will then get exported again next time
+//  as being untranslated.)
+//
+VERSION             "1"
+CONFIG              "C:\trees\nx1\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           UI_SELECTBUTTON
+LANG_ENGLISH        ""
+
+REFERENCE           UI_PRESS_BUTTONSELECTCHOICE
+LANG_ENGLISH        "Press  button to skip."
+
+REFERENCE           UI_SELECTBUTTON_TOGGLE
+LANG_ENGLISH        "Press  button to toggle."
+
+REFERENCE           UI_SELECTBUTTON_ENABLE
+LANG_ENGLISH        "Press  button to enable."
+
+REFERENCE           UI_SELECTBUTTON_DISABLE
+LANG_ENGLISH        "Press  button to disable."
+
+REFERENCE           UI_SELECTBUTTON_SELECT
+LANG_ENGLISH        "Press  button to select."
+
+REFERENCE           UI_SELECTBUTTON_DESELECT
+LANG_ENGLISH        "Press  button to deselect."
+
+REFERENCE           UI_CLEAR_KILLSTREAKS
+LANG_ENGLISH        " Clear Kill Streaks"
+
+REFERENCE           UI_CLEAR_ATTACHMENTS
+LANG_ENGLISH        " CLEAR ATTACHMENTS"
+
+REFERENCE           UI_AC130_CHANGE_WEAPON
+LANG_ENGLISH        " Change Weapon"
+
+REFERENCE           UI_AC130_TOGGLE_THERMAL
+LANG_ENGLISH        " Toggle Thermal"
+
+REFERENCE           UI_EOG_SUMMARY_PLAY_AGAIN
+LANG_ENGLISH        " PLAY AGAIN"
+
+REFERENCE           UI_EOG_SUMMARY_RETURN
+LANG_ENGLISH        " RETURN TO SPECIAL OPS"
+
+REFERENCE           UI_PRESS_TO_CONTINUE
+LANG_ENGLISH        "Press  to continue."
+
+REFERENCE           UI_CANCEL_RIGHT
+LANG_ENGLISH        "Cancel "
+
+REFERENCE           PRESS_TO_COPYCAT
+LANG_ENGLISH        "[{weapnext}] Steal their class!"
+
+REFERENCE           PRESS_TO_SAFESPAWN
+LANG_ENGLISH        "[{+frag}] Safe Spawn"
+
+REFERENCE           FIRSTPERSON
+LANG_ENGLISH        " First Person"
+
+REFERENCE           THIRDPERSON
+LANG_ENGLISH        " Third Person"
+
+REFERENCE           NOMAD
+LANG_ENGLISH        "N0M4D"
+
+REFERENCE           MISSINGMAP
+LANG_ENGLISH        "You do not have this map.  You can get this map by downloading map packs from Xbox LIVE Marketplace."
+
+REFERENCE           DLCMAPS
+LANG_ENGLISH        "Maps downloaded from Xbox LIVE Marketplace."
+
+REFERENCE           PLAYLIST_REQUIRES_DLC
+LANG_ENGLISH        "This playlist requires a map pack that you do not have. You can download map packs from Xbox LIVE Marketplace."
+
+REFERENCE           FOLLOWNEXTPLAYER
+LANG_ENGLISH        " Next"
+
+REFERENCE           FOLLOWPREVPLAYER
+LANG_ENGLISH        " Previous"
+
+REFERENCE           FOLLOWSTART
+LANG_ENGLISH        " Chase"
+
+REFERENCE           FOLLOWSTOP
+LANG_ENGLISH        " Free"
+
+REFERENCE           STANCEHINT_JUMP
+LANG_ENGLISH        "Press &&1 to jump"
+
+REFERENCE           STANCEHINT_STAND
+LANG_ENGLISH        "Press &&1 to stand"
+
+REFERENCE           STANCEHINT_CROUCH
+LANG_ENGLISH        "Press &&1 to crouch"
+
+REFERENCE           STANCEHINT_PRONE
+LANG_ENGLISH        "Press &&1 to go prone"
+
+REFERENCE           SWAPWEAPONS
+LANG_ENGLISH        "Press and hold &&1 for"
+
+REFERENCE           MANTLE
+LANG_ENGLISH        "Press &&1 to  "
+
+REFERENCE           HOLD_BREATH
+LANG_ENGLISH        "Press and hold &&1 to steady"
+
+REFERENCE           PICKUPNEWWEAPON
+LANG_ENGLISH        "Hold &&1 to pick up"
+
+REFERENCE           THROWBACKGRENADE
+LANG_ENGLISH        "&&1 throw back"
+
+REFERENCE           PICKUPAMMO
+LANG_ENGLISH        "Press &&1 to pickup the &&2 ammo"
+
+REFERENCE           USEAION30CAL
+LANG_ENGLISH        "Hold &&1 to commandeer the .30 cal"
+
+REFERENCE           SELECT
+LANG_ENGLISH        " Select"
+
+REFERENCE           CANCEL
+LANG_ENGLISH        " Cancel"
+
+REFERENCE           REFRESH
+LANG_ENGLISH        " Refresh"
+
+REFERENCE           CREATEGAME
+LANG_ENGLISH        " Create game"
+
+REFERENCE           PRESS_TO_RESPAWN
+LANG_ENGLISH        " Respawn"
+
+REFERENCE           PRESS_TO_SPAWN
+LANG_ENGLISH        "Press  to spawn"
+
+REFERENCE           PRESS_TO_SKIP
+LANG_ENGLISH        " Skip"
+
+REFERENCE           YES
+LANG_ENGLISH        " Yes"
+
+REFERENCE           NO
+LANG_ENGLISH        " No"
+
+REFERENCE           MP_OPEN_MENU
+LANG_ENGLISH        "&&1 Menu"
+
+REFERENCE           SCOREBOARD
+LANG_ENGLISH        "&&1 Score"
+
+REFERENCE           SAVE_AND_QUIT
+LANG_ENGLISH        "Save and Quit"
+
+REFERENCE           HOLD_TO_USE
+LANG_ENGLISH        "Hold &&1 to use"
+
+REFERENCE           HOLD_TO_DROP
+LANG_ENGLISH        "Press &&1 to drop"
+
+REFERENCE           CONTROLLER_REMOVED
+LANG_ENGLISH        "The controller has been removed,"
+
+REFERENCE           REINSERT_CONTROLLER
+LANG_ENGLISH        "please reinsert the controller and"
+
+REFERENCE           CLICK_TO_CONTINUE
+LANG_ENGLISH        "click to continue."
+
+REFERENCE           HOLD_TO_PLANT_EXPLOSIVES
+LANG_ENGLISH        "Press and hold &&1 to plant explosives  "
+
+REFERENCE           HOLD_TO_DEFUSE_EXPLOSIVES
+LANG_ENGLISH        "Press and hold &&1 to defuse explosives  "
+
+REFERENCE           DONE
+LANG_ENGLISH        " Done"
+
+REFERENCE           BACK
+LANG_ENGLISH        " Back"
+
+REFERENCE           LEAVE_GAME
+LANG_ENGLISH        " Leave game"
+
+REFERENCE           DIFFICULTY_REGULAR
+LANG_ENGLISH        " Difficulty: Regular"
+
+REFERENCE           DIFFICULTY_SKILLED
+LANG_ENGLISH        " Difficulty: Skilled"
+
+REFERENCE           DIFFICULTY_HARDENED
+LANG_ENGLISH        " Difficulty: Hardened"
+
+REFERENCE           DIFFICULTY_VETERAN
+LANG_ENGLISH        " Difficulty: Veteran"
+
+REFERENCE           QUIT
+LANG_ENGLISH        "Quit"
+
+REFERENCE           DIFFICULTY_EASY
+LANG_ENGLISH        " Difficulty: Easy"
+
+REFERENCE           UNABLE_TO_READ_FROM_DEVICE
+LANG_ENGLISH        "Unable to read from memory device. Please check that the device is inserted correctly. "
+
+REFERENCE           ERR_SAVEGAME_BAD
+LANG_ENGLISH        "Unable to read save data. It may be corrupt, or have an incorrect version. "
+
+REFERENCE           FINDGAME
+LANG_ENGLISH        "find game "
+
+REFERENCE           CREATELOBBY
+LANG_ENGLISH        " Create lobby"
+
+REFERENCE           STARTGAME
+LANG_ENGLISH        " Start game"
+
+REFERENCE           STATSREADERROR
+LANG_ENGLISH        "We have detected an error in the saved persistent data.  Your level has been reset to 1."
+
+REFERENCE           LEAVELOBBY
+LANG_ENGLISH        " Leave lobby"
+
+REFERENCE           VIEWGAMER
+LANG_ENGLISH        " View gamer"
+
+REFERENCE           STARTPRIVATEGAME
+LANG_ENGLISH        " Start match"
+
+REFERENCE           FINDGAMEFROMPARTY
+LANG_ENGLISH        " Find game"
+
+REFERENCE           OPTIONS
+LANG_ENGLISH        " Options"
+
+REFERENCE           VIEW_MAP
+LANG_ENGLISH        " View map"
+
+REFERENCE           VIEW_GEAR
+LANG_ENGLISH        " View gear"
+
+REFERENCE           KICKEDFROMPARTY
+LANG_ENGLISH        "You were kicked from the party."
+
+REFERENCE           END_GAME
+LANG_ENGLISH        " End game"
+
+REFERENCE           EDIT
+LANG_ENGLISH        " Edit"
+
+REFERENCE           DELETE
+LANG_ENGLISH        " Delete"
+
+REFERENCE           CREATECUSTOM
+LANG_ENGLISH        " Create custom"
+
+REFERENCE           DELETECHOICE
+LANG_ENGLISH        "Are You Sure You Want To Delete?"
+
+REFERENCE           PRESS_TO_USE_ARTILLERY
+LANG_ENGLISH        "Hold &&1 to call in artillery"
+
+REFERENCE           PRESS_TO_USE_COPTER
+LANG_ENGLISH        "Hold &&1 to call in helicopter"
+
+REFERENCE           PRESS_TO_USE_RADAR
+LANG_ENGLISH        "Hold &&1 to call in UAV Recon"
+
+REFERENCE           NEXTPLAYLISTENTRY
+LANG_ENGLISH        " next map/gametype"
+
+REFERENCE           PGUP
+LANG_ENGLISH        " Page up"
+
+REFERENCE           PGDOWN
+LANG_ENGLISH        " Page down"
+
+REFERENCE           GOTOTOP
+LANG_ENGLISH        "Top of List"
+
+REFERENCE           CONTINUE
+LANG_ENGLISH        "Continue "
+
+REFERENCE           STARTPRIVATEMATCH
+LANG_ENGLISH        "start match "
+
+REFERENCE           SAVECUSTOMMODE
+LANG_ENGLISH        " Save / Back"
+
+REFERENCE           PRESS_TO_USE_AIRSTRIKE
+LANG_ENGLISH        "Hold &&1 to call in air strike"
+
+REFERENCE           LOCSEL_DIR_CONTROLS
+LANG_ENGLISH        "Set direction with "
+
+REFERENCE           LOCSEL_POSITION_CONTROLS
+LANG_ENGLISH        "Set location with "
+
+REFERENCE           PRESS_TO_SET_AIRSTRIKE
+LANG_ENGLISH        "Press  to call in air strike"
+
+REFERENCE           CHANGE_FILTER
+LANG_ENGLISH        " Change filter"
+
+REFERENCE           LOW_AMMO_NO_RELOAD
+LANG_ENGLISH        "Low Ammo"
+
+REFERENCE           RELOAD
+LANG_ENGLISH        " Reload"
+
+REFERENCE           COWARDS_WAY_OUT
+LANG_ENGLISH        "Hold  Coward's way out"
+
+REFERENCE           RESET_OPTIONS
+LANG_ENGLISH        "Reset Options "
+
+REFERENCE           GAME_SUMMARY
+LANG_ENGLISH        " Game Summary"
+
+REFERENCE           PICK_UP_STOPPING_POWER
+LANG_ENGLISH        "Hold  to pick up Stopping Power"
+
+REFERENCE           PICK_UP_JUGGERNAUT
+LANG_ENGLISH        "Hold  to pick up Juggernaut"
+
+REFERENCE           PICK_UP_DOUBLE_TAP
+LANG_ENGLISH        "Hold  to pick up Double Tap"
+
+REFERENCE           PICK_UP_LAST_STAND
+LANG_ENGLISH        "Hold  to pick up Last Stand"
+
+REFERENCE           PICK_UP_MARTYRDOM
+LANG_ENGLISH        "Hold  to pick up Martyrdom"
+
+REFERENCE           PICK_UP_SLEIGHT_OF_HAND
+LANG_ENGLISH        "Hold  to pick up Sleight of Hand"
+
+REFERENCE           PLAY_ONLINE
+LANG_ENGLISH        "Xbox LIVE"
+
+REFERENCE           NOMOTD
+LANG_ENGLISH        "Connect to Xbox LIVE to get Modern Warfare 2 news and updates"
+
+REFERENCE           NOMOTD_MP
+LANG_ENGLISH        "Welcome to Modern Warfare 2 multiplayer"
+
+REFERENCE           DISCONNECTED_FROM_SERVER
+LANG_ENGLISH        "Host has left the game"
+
+REFERENCE           CONTROLLER_DISCONNECTED
+LANG_ENGLISH        "Please reconnect your controller."
+
+REFERENCE           SELECT_SAVE_DEVICE
+LANG_ENGLISH        "Select Save Device"
+
+REFERENCE           RESELECT_SAVE_DEVICE
+LANG_ENGLISH        "Re-Select Save Device"
+
+REFERENCE           SAVE_ERROR
+LANG_ENGLISH        "Unable to Write to Default Save Device"
+
+REFERENCE           SAVE_ERROR_NOW_OKAY
+LANG_ENGLISH        "Save Device Selected"
+
+REFERENCE           READING_SAVE_DEVICE
+LANG_ENGLISH        "READING SAVE DEVICE"
+
+REFERENCE           SYSTEM_LINK
+LANG_ENGLISH        "System Link"
+
+REFERENCE           SYSTEM_LINK_TITLE
+LANG_ENGLISH        "SYSTEM LINK"
+
+REFERENCE           SYSTEM_LINK_SPLIT_SCREEN
+LANG_ENGLISH        "Split Screen Online"
+
+REFERENCE           SYSTEM_LINK_SETUP
+LANG_ENGLISH        "SYSTEM LINK SETUP"
+
+REFERENCE           DYK_MSG1
+LANG_ENGLISH        "Gain XP! You get experience points(XP) for getting kills, completing challenges, and completing matches."
+
+REFERENCE           DYK_MSG2
+LANG_ENGLISH        "Level up! As you gain XP, you earn promotions, unlockables, and new challenges."
+
+REFERENCE           DYK_MSG3
+LANG_ENGLISH        "Customize your weapon! You can add a camouflage pattern or attachment to your weapons in Create-a-class."
+
+REFERENCE           DYK_MSG4
+LANG_ENGLISH        "Design your own class! Create-a-class lets you choose your weapons, perks, and name the class to your liking."
+
+REFERENCE           DYK_MSG5
+LANG_ENGLISH        "Use teamwork! If you damage an enemy but someone else gets the kill, you are awarded assist points."
+
+REFERENCE           DYK_MSG6
+LANG_ENGLISH        "Get hardcore.  Hardcore modes remove your hud and make weapons even more deadly."
+
+REFERENCE           DYK_MSG7
+LANG_ENGLISH        "Join a clan! Enter the Barracks to add a clan tag to your name.  Clan tags are available when you've achieved the proper rank."
+
+REFERENCE           DYK_MSG8
+LANG_ENGLISH        "Start a party! You can invite your friends into a party from the Xbox LIVE main menu, find games together or start your own match."
+
+REFERENCE           DYK_MSG9
+LANG_ENGLISH        "Host a match! Invite your friends to a party and start a Private Match.  There you can change the game rules to your liking."
+
+REFERENCE           DYK_MSG10
+LANG_ENGLISH        "Challenges are rewarding.  Weapon challenges unlock attachments and camouflage patterns for use in Create-a-class."
+
+REFERENCE           DYK_MSG11
+LANG_ENGLISH        "Check your stats! Leaderboards are available in the Barracks.  See how you stack up against your friends and in the world."
+
+REFERENCE           DYK_MSG12
+LANG_ENGLISH        "Get more XP!  You get extra XP bonuses for completing Challenges, located in the Barracks."
+
+REFERENCE           DYK_MSG13
+LANG_ENGLISH        "Listen in... You can hear the enemy team's voice chat with the Eavesdrop perk."
+
+REFERENCE           DYK_MSG14
+LANG_ENGLISH        "Be aware... You can spot enemy explosive devices like claymores and C4 with the Bomb Squad perk."
+
+REFERENCE           DYK_MSG15
+LANG_ENGLISH        "Take a stand!  Pull out your pistol and make that last ditch effort to get some kills before you die with the Last Stand perk."
+
+REFERENCE           DYK_MSG16
+LANG_ENGLISH        "Combine your air support!  Call in an airstrike in combination with a UAV for a pinpoint accurate carpet bomb."
+
+REFERENCE           DYK_MSG17
+LANG_ENGLISH        "Chopper down!  Don't be afraid to fire at enemy choppers with your primary weapon.  It may do less damage than a rocket, but it definitely hurts."
+
+REFERENCE           DYK_MSG18
+LANG_ENGLISH        "Find the enemy!  Calling in a UAV shows enemies on your radar as red dots.  Knowing the enemy position is a big advantage."
+
+REFERENCE           DYK_MSG19
+LANG_ENGLISH        "Stay current!  Watch the Infinity Ward message of the day for important up-to-date information about Modern Warfare 2."
+
+REFERENCE           DYK_MSG20
+LANG_ENGLISH        "Defend your flags!  In the Domination game mode, holding marked objectives gives your team points.  The more objectives you hold, the more points you get."
+
+REFERENCE           DYK_MSG21
+LANG_ENGLISH        "Watch those corners... Be careful playing Search and Destroy - when you die you don't respawn."
+
+REFERENCE           DYK_MSG22
+LANG_ENGLISH        "Escort the bomb!  Protect the bomb carrier in Sabotage.  It takes teamwork to get to the enemy objective."
+
+REFERENCE           DYK_MSG23
+LANG_ENGLISH        "Call in radar!  You can earn radar for you and your team by getting 3 kills in a row without dying."
+
+REFERENCE           DYK_MSG24
+LANG_ENGLISH        "Call in an airstrike!  Get 5 kills in a row without dying and you can call in an air strike on the position of your choice."
+
+REFERENCE           DYK_MSG25
+LANG_ENGLISH        "Call in a chopper!  You can earn helicopter air support by getting 7 kills in a row without dying."
+
+REFERENCE           DYK_MSG26
+LANG_ENGLISH        "Pick your shots!  When you fire a weapon WITHOUT a silencer, you appear as a red dot on your enemies' compass."
+
+REFERENCE           DYK_MSG27
+LANG_ENGLISH        "Get quiet...  Using a silencer doesn't show your shots as a red dot on the enemy compass, but your weapon's range is reduced."
+
+REFERENCE           DYK_MSG28
+LANG_ENGLISH        "Stealth technology.  Using the UAV Jammer perk will prevent you from showing as a red dot on the enemy compass."
+
+REFERENCE           DYK_MSG29
+LANG_ENGLISH        "Show your worth!  After leveling up to max level, Prestige Mode is unlocked.  Then you make a tough choice..."
+
+REFERENCE           DYK_MSG30
+LANG_ENGLISH        "Create your own game mode!  In Private Match and offline games you can tweak game mode settings to whatever you like."
+
+REFERENCE           DYK_MSG31
+LANG_ENGLISH        "Private Matches are fun!  Private Matches offer great customization and fun games with your friends, but don't forget that you don't earn XP."
+
+REFERENCE           DYK_MSG32
+LANG_ENGLISH        "Dominate with teamwork!  Domination flags capture faster with multiple teammates capturing together."
+
+REFERENCE           DYK_MSG33
+LANG_ENGLISH        "Use your knife!  Click melee to attack the enemy with your knife."
+
+REFERENCE           DYK_MSG34
+LANG_ENGLISH        "Run faster!  Clicking left stick puts you into sprint mode.  You can run faster for short amount of time, but can't use your weapon."
+
+REFERENCE           DYK_MSG35
+LANG_ENGLISH        "Hold your breath!  Holding down the left stick holds your breath with scoped weapons for increased accuracy."
+
+REFERENCE           DYK_MSG36
+LANG_ENGLISH        "Throw back grenades!  Look for the grenade throwback icon when a grenade is near you.  You can throw back the enemy's grenades with the grenade throw button (RB)."
+
+REFERENCE           DYK_MSG37
+LANG_ENGLISH        "Shoot through walls!  Different weapons can fire through many different surfaces with reduced damage."
+
+REFERENCE           DYK_MSG38
+LANG_ENGLISH        "Use your inventory!  Inventory items like grenade launchers, RPGs, claymores, and C4 are stored in your inventory:  D-pad Left."
+
+REFERENCE           DYK_MSG39
+LANG_ENGLISH        "Set a trap!  Throw C4 with the left trigger and detonate it with the right trigger."
+
+REFERENCE           DYK_MSG40
+LANG_ENGLISH        "Explosive shortcut!  Double tap reload to detonate thrown C4 while using another weapon."
+
+REFERENCE           DYK_MSG41
+LANG_ENGLISH        "Change classes!  You can change classes at any time during the game by pressing Start.  Class changes take effect after you respawn."
+
+REFERENCE           DYK_MSG42
+LANG_ENGLISH        "Back to basics... The Old School game modes don't have classes.  Everyone starts with the same weapons and must pick up new weapons and perks in the level."
+
+REFERENCE           DYK_MSG43
+LANG_ENGLISH        "Grenades from a rifle mounted grenade launcher need to travel before they are armed.  They do damage if they hit your enemy, but only explode at a distance."
+
+REFERENCE           DYK_MSG44
+LANG_ENGLISH        "Headshots only mode option can be found in Game Rules.  Bullet weapons will only kill by shots to the head, although explosives and knives are still fatal."
+
+REFERENCE           PLAYER_TOGGLE_MUTE_BTN
+LANG_ENGLISH        " Toggle Mute"
+
+REFERENCE           RESUPPLY
+LANG_ENGLISH        "Press and hold ^3&&1^7 to resupply"
+
+REFERENCE           GET_SENTRY
+LANG_ENGLISH        "Press and hold ^3&&1^7 to pick up a turret."
+
+REFERENCE           GET_AUTO_SHOT
+LANG_ENGLISH        "Press and hold ^3&&1^7 to pick up an Auto Shotgun."
+
+REFERENCE           GET_THUMPER
+LANG_ENGLISH        "Press and hold ^3&&1^7 to pick up a Thumper."
+
+REFERENCE           GET_RANDOM
+LANG_ENGLISH        "Press and hold ^3&&1^7 to pick up a random item."
+
+REFERENCE           DELETE_MAIL
+LANG_ENGLISH        " Delete"
+
+REFERENCE           OPEN_MAIL
+LANG_ENGLISH        " Open"
+
+REFERENCE           PRESS_Y_FOR_CREATE_A_CLASS
+LANG_ENGLISH        " Create a Class"
+
+REFERENCE           PRESS_FOR_LOTTERY
+LANG_ENGLISH        " Lottery"
+
+REFERENCE           ONE_OR_MORE_PLAYERS_NOT_SIGNED_IN_OFFLINE
+LANG_ENGLISH        "One or more players are not signed in to a profile. Players who are not signed in will be unable to save their progress. Do you wish to continue?"
+
+REFERENCE           VEH_BOOST
+LANG_ENGLISH        " Boost"
+
+REFERENCE           VEH_BRAKE
+LANG_ENGLISH        " Reverse"
+
+REFERENCE           VEH_FIRE
+LANG_ENGLISH        " Fire"
+
+REFERENCE           VEH_THROTTLE
+LANG_ENGLISH        " Throttle"
+
+REFERENCE           GET_KIT
+LANG_ENGLISH        "Press and hold ^3&&1^7 for new kit."
+
+REFERENCE           REVIVE
+LANG_ENGLISH        "Press and hold ^3&&1^7 to revive player."
+
+REFERENCE           DOWNLOADING_UPDATE
+LANG_ENGLISH        "DOWNLOADING UPDATE"
+
+REFERENCE           LOADING_UPDATE
+LANG_ENGLISH        "LOADING UPDATE"
+
+REFERENCE           UPDATE_FAILED
+LANG_ENGLISH        "UPDATE FAILED TO SAVE"
+
+REFERENCE           LOADED_UPDATE
+LANG_ENGLISH        "Loaded update."
+
+REFERENCE           WRITING_SAVE_DEVICE
+LANG_ENGLISH        "SAVING TO SAVE DEVICE"
+
+REFERENCE           SAVE_READ_FAIL
+LANG_ENGLISH        "Failed to access save device."
+
+REFERENCE           CHECKING_ONLINE_UPDATE
+LANG_ENGLISH        "CHECKING FOR ONLINE UPDATE"
+
+REFERENCE           CHECKING_LOCAL_UPDATE
+LANG_ENGLISH        "CHECKING FOR LOCAL UPDATE"
+
+REFERENCE           USEONLINESTATS_TRUE
+LANG_ENGLISH        "Xbox LIVE Unlocks: On"
+
+REFERENCE           USEONLINESTATS_FALSE
+LANG_ENGLISH        "Xbox LIVE Unlocks: Off"
+
+REFERENCE           FIND_GAME
+LANG_ENGLISH        "Find Match"
+
+REFERENCE           DESC_FIND_GAME
+LANG_ENGLISH        "Pick a game mode and quickly join a match online."
+
+REFERENCE           DESC_FIND_GAME_LOCKED
+LANG_ENGLISH        "Only the party host can find games."
+
+REFERENCE           REFRESH_CAPS
+LANG_ENGLISH        "REFRESH    "
+
+REFERENCE           BACK_CAPS
+LANG_ENGLISH        "BACK    "
+
+REFERENCE           GAME_SUMMARY_CAPS
+LANG_ENGLISH        "GAME SUMMARY    "
+
+REFERENCE           FIND_GAME_CAPS
+LANG_ENGLISH        "FIND MATCH"
+
+REFERENCE           PLAY_ONLINE_CAPS
+LANG_ENGLISH        "XBOX LIVE"
+
+REFERENCE           SYSTEM_LINK_CAPS
+LANG_ENGLISH        "SYSTEM LINK"
+
+REFERENCE           DETONATE
+LANG_ENGLISH        "Press ^3&&1^7 to detonate"
+
+REFERENCE           CHANGE_FILTER_CAPS
+LANG_ENGLISH        "CHANGE FILTER    "
+
+REFERENCE           PAGE_UP_CAPS
+LANG_ENGLISH        "PAGE UP    "
+
+REFERENCE           PAGE_DOWN_CAPS
+LANG_ENGLISH        "PAGE DOWN    "
+
+REFERENCE           TOP_OF_LIST_CAPS
+LANG_ENGLISH        "TOP OF LIST    "
+
+REFERENCE           SELECT_CAPS
+LANG_ENGLISH        "SELECT    "
+
+REFERENCE           GET_KILLSTREAK
+LANG_ENGLISH        "Press and hold ^3&&1^7 for Killstreak"
+
+REFERENCE           USE_BUTTONMOVE_TO_POSITION
+LANG_ENGLISH        "Use  to position"
+
+REFERENCE           USE_BUTTONLOOK_TO_AIM
+LANG_ENGLISH        "Use  to aim"
+
+REFERENCE           PRESS_BUTTON_TO_CONFIRM_TARGET
+LANG_ENGLISH        "Press  to confirm target"
+
+REFERENCE           DEFAULT_CLASSES
+LANG_ENGLISH        "DEFAULT CLASSES    "
+
+REFERENCE           CUSTOM_CLASSES
+LANG_ENGLISH        "CUSTOM CLASSES    "
+
+REFERENCE           VIEW_CHALLENGES
+LANG_ENGLISH        " View Challenges"
+
+REFERENCE           VIEW_CHALLENGE_DETAILS
+LANG_ENGLISH        " Challenge Details"
+
+REFERENCE           PREDATOR_MISSILE_AIM
+LANG_ENGLISH        " Steer"
+
+REFERENCE           PREDATOR_MISSILE_BOOST
+LANG_ENGLISH        "[{+attack}] Boost"
+
+REFERENCE           CONTINUE_CAPS
+LANG_ENGLISH        " CONTINUE"
+
+REFERENCE           CLOSE_CAPS
+LANG_ENGLISH        " CLOSE"
+
+REFERENCE           DYK_IW4_MSG1
+LANG_ENGLISH        "Complete Perk challenges to unlock upgraded Perks."
+
+REFERENCE           DYK_IW4_MSG2
+LANG_ENGLISH        "Get Killstreak Rewards by getting consecutive kills without dying."
+
+REFERENCE           DYK_IW4_MSG3
+LANG_ENGLISH        "Use weapon attachments to unlock special weapon attachments."
+
+REFERENCE           DYK_IW4_MSG4
+LANG_ENGLISH        "Some killstreak rewards are controllable but leave you vulnerable on the ground."
+
+REFERENCE           DYK_IW4_MSG5
+LANG_ENGLISH        "Check out all of your Accolades in the Barracks."
+
+REFERENCE           DYK_IW4_MSG6
+LANG_ENGLISH        "Earn XP, level up, and unlock items in System Link and Splitscreen, separately from Xbox LIVE."
+
+REFERENCE           DYK_IW4_MSG7
+LANG_ENGLISH        "Swap out Frag grenades for Tactical Insertion, Blast Shield, and other equipment."
+
+REFERENCE           DYK_IW4_MSG8
+LANG_ENGLISH        "Deathstreaks give you a boost when things aren't going your way."
+
+REFERENCE           DYK_IW4_MSG9
+LANG_ENGLISH        "Bullets can ricochet off of Riot Shields and kill!"
+
+REFERENCE           DYK_IW4_MSG10
+LANG_ENGLISH        "Edit your Callsign to show off Titles and Emblems you've earned."
+
+REFERENCE           DYK_IW4_MSG11
+LANG_ENGLISH        "Scroll left and right on the Game Summary for more detailed info."
+
+REFERENCE           DYK_IW4_MSG12
+LANG_ENGLISH        "Titles and Emblems you've earned don't reset after entering Prestige Mode."
+
+REFERENCE           DYK_IW4_MSG13
+LANG_ENGLISH        "Shutting down mid-game will cause you to lose your Match Bonus."
+
+REFERENCE           DYK_IW4_MSG14
+LANG_ENGLISH        "Care Package is an airdrop that awards a random killstreak reward or ammo."
+
+REFERENCE           DYK_IW4_MSG15
+LANG_ENGLISH        "Tactical Insertion is a flare that marks where your next respawn will be."
+
+REFERENCE           DYK_IW4_MSG16
+LANG_ENGLISH        "Destroy red flares to prevent an enemy Tactical Insertion."
+
+REFERENCE           DYK_IW4_MSG17
+LANG_ENGLISH        "Semtex will stick to your enemy."
+
+REFERENCE           DYK_IW4_MSG18
+LANG_ENGLISH        "Blast Shield increases your resistance to explosions but limits your view."
+
+REFERENCE           DYK_IW4_MSG19
+LANG_ENGLISH        "Even when your Riot Shield is on your back it blocks bullets."
+
+REFERENCE           DYK_IW4_MSG20
+LANG_ENGLISH        "The Heartbeat Sensor attachment detects enemies that are close by."
+
+REFERENCE           DYK_IW4_MSG21
+LANG_ENGLISH        "The Cold-Blooded perk makes you invisible to thermal vision, UAV, and enemy air support."
+
+REFERENCE           DYK_IW4_MSG22
+LANG_ENGLISH        "Hardline makes killstreak rewards require 1 less kill."
+
+REFERENCE           DYK_IW4_MSG23
+LANG_ENGLISH        "You can crawl while in Last Stand."
+
+REFERENCE           DYK_IW4_MSG24
+LANG_ENGLISH        "Crouch with the Riot Shield to protect your feet."
+
+REFERENCE           DYK_IW4_MSG25
+LANG_ENGLISH        "The Painkiller Deathstreak gives you extra protection when you respawn."
+
+REFERENCE           DYK_IW4_MSG26
+LANG_ENGLISH        "Point your Riot Shield directly at the person shooting you for maximum effectiveness."
+
+REFERENCE           DYK_IW4_MSG27
+LANG_ENGLISH        "Sentry Guns can be temporarily disabled by using Flashbangs or Stun Grenades on them."
+
+REFERENCE           DYK_IW4_MSG28
+LANG_ENGLISH        "The Predator Missile lets you control a missile fired from above."
+
+REFERENCE           DYK_IW4_MSG29
+LANG_ENGLISH        "Crouch with the Riot Shield to cover your feet and get maximum protection."
+
+REFERENCE           DYK_IW4_MSG30
+LANG_ENGLISH        "Killstreak Rewards are unlocked in the order you choose."
+
+REFERENCE           DYK_IW4_MSG31
+LANG_ENGLISH        "3rd Person modes allow you to experience tactical gameplay from an over the shoulder perspective."
+
+REFERENCE           DYK_IW4_MSG32
+LANG_ENGLISH        "The default Classes contain items unlocked at later levels, giving you a preview of things to come."
+
+REFERENCE           DYK_IW4_MSG33
+LANG_ENGLISH        "The Scavenger Perk lets you resupply your loadout by taking it from fallen foes."
+
+REFERENCE           DYK_IW4_MSG34
+LANG_ENGLISH        "Steal your killer's loadout during killcam with the Copycat Deathstreak."
+
+REFERENCE           DYK_IW4_MSG35
+LANG_ENGLISH        "The Tactical Knife attachment for Handguns speeds up your melee."
+
+REFERENCE           DYK_IW4_MSG36
+LANG_ENGLISH        "The Bling Perk allows you to have 2 attachments on your primary weapon."
+
+REFERENCE           CALL_NUKE
+LANG_ENGLISH        "Press and hold ^3&&1^7 for Nuclear Strike."
+
+REFERENCE           DYK_IW4_MSG37
+LANG_ENGLISH        "Survive a Final Stand bleedout and you stand back up."
+
+REFERENCE           DYK_IW4_MSG38
+LANG_ENGLISH        "Killstreak Rewards attained from airdrop crates do not count towards your killstreak count."
+
+REFERENCE           DYK_IW4_MSG39
+LANG_ENGLISH        "Akimbo weapons give you more firepower but restrict your ability to aim down the sight."
+
+REFERENCE           ACCEPT_INVITE
+LANG_ENGLISH        "Accept Invite"
+
+REFERENCE           OPTIONS_STICK_LAYOUT_DESC
+LANG_ENGLISH        "Adjust your stick layout."
+
+REFERENCE           OPTIONS_BUTTON_LAYOUT_DESC
+LANG_ENGLISH        "Adjust your button layout."
+
+REFERENCE           OPTIONS_SENSITIVITY_DESC
+LANG_ENGLISH        "Adjust the sensitivity of your Xbox 360 controller's sticks."
+
+REFERENCE           OPTIONS_LOOK_INVERSION_DESC
+LANG_ENGLISH        "Toggle inversion of your view pitch."
+
+REFERENCE           OPTIONS_VIBRATION_DESC
+LANG_ENGLISH        "Enable or disable your Xbox 360 controller vibration."
+
+REFERENCE           OPTIONS_HORIZONTAL_MARGIN_DESC
+LANG_ENGLISH        "Adjust the horizontal margin of your in-game HUD."
+
+REFERENCE           OPTIONS_VERTICAL_MARGIN_DESC
+LANG_ENGLISH        "Adjust the vertical margin of your in-game HUD."
+
+REFERENCE           OPTIONS_GAME_VOLUME_DESC
+LANG_ENGLISH        "Adjust the volume of in-game sound effects and music."
+
+REFERENCE           OPTIONS_AIM_ASSIST_DESC
+LANG_ENGLISH        "Enable or disable Aim Assist."
+
+REFERENCE           OPTIONS_SUBTITLES_DESC
+LANG_ENGLISH        "Enable or disable Subtitles."
+
+REFERENCE           OPTIONS_SAVE_DEVICE_DESC
+LANG_ENGLISH        "Select save device."
+
+REFERENCE           PARTYCHATNOTALLOWED
+LANG_ENGLISH        "You must be in the game voice channel for online games."
+
+REFERENCE           CLOSE_BUTTONCANCEL_CAPS
+LANG_ENGLISH        "CLOSE    "
+
+REFERENCE           OFFENSIVE_NO_PANELTY
+LANG_ENGLISH        "(You will not be penalized in terms of Achievements or game completion.)"
+
+REFERENCE           UNLOCK_KILLSTREAK
+LANG_ENGLISH        "Press  to unlock killstreak."
+
+REFERENCE           SAVE_DEVICE_LOST
+LANG_ENGLISH        "Selected save device has been lost."
+
+REFERENCE           FRIEND_GAMER_CARD
+LANG_ENGLISH        "Friend's Gamer Card"
+
+REFERENCE           FRIEND_GAMER_CARD_DESC
+LANG_ENGLISH        "View your partner's gamer card."
+
+REFERENCE           HOLD_TO_UPLOAD_INTEL
+LANG_ENGLISH        "Press and hold &&1 to upload intel"
+
+REFERENCE           DELETE_REPLAY
+LANG_ENGLISH        "DELETE    "
+
+REFERENCE           UPLOAD_REPLAY
+LANG_ENGLISH        "UPLOAD    "
+
+REFERENCE           DOWNLOAD_REPLAY
+LANG_ENGLISH        "DOWNLOAD    "
+
+REFERENCE           CHARGING
+LANG_ENGLISH        "Charging"
+

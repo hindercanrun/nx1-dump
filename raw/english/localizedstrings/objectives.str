@@ -1,0 +1,264 @@
+// Note to translators:
+// If a sentence is the same in your language then please change it to "#same"
+//
+// eg:
+// LANG_ENGLISH  "HALT"
+// LANG_GERMAN   "#same"
+//
+// (This is so we can tell which strings have been signed-off as ok to be the same words for QA
+//  and because we do not store duplicate strings, which will then get exported again next time
+//  as being untranslated.)
+//
+VERSION             "1"
+CONFIG              "C:\trees\nx1\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           WAR
+LANG_ENGLISH        "Gain points by eliminating enemy players."
+
+REFERENCE           WAR_SCORE
+LANG_ENGLISH        "Gain points by eliminating enemy players.  First team to &&1 wins."
+
+REFERENCE           WAR_HINT
+LANG_ENGLISH        "Eliminate enemy players."
+
+REFERENCE           SD_ATTACKER
+LANG_ENGLISH        "Destroy target A or B by planting explosives at it's location."
+
+REFERENCE           SD_ATTACKER_SCORE
+LANG_ENGLISH        "Destroy target A or B by planting explosives at it's location.  Prevent the explosives from being defused once they have been planted.  First team to &&1 wins."
+
+REFERENCE           SD_ATTACKER_HINT
+LANG_ENGLISH        "Destroy target A or B."
+
+REFERENCE           SD_DEFENDER
+LANG_ENGLISH        "Protect the targets from being destroyed."
+
+REFERENCE           SD_DEFENDER_SCORE
+LANG_ENGLISH        "Protect the targets from being destroyed. If explosives are planted at either location, defuse them before they explode. First team to &&1 wins."
+
+REFERENCE           SD_DEFENDER_HINT
+LANG_ENGLISH        "Protect targets A and B."
+
+REFERENCE           SAB
+LANG_ENGLISH        "Recover the explosives and plant them at the enemy target, while protecting your own."
+
+REFERENCE           SAB_SCORE
+LANG_ENGLISH        "Recover the explosives and plant them at the enemy target, while protecting your own. First team to &&1 wins."
+
+REFERENCE           SAB_HINT
+LANG_ENGLISH        "Destroy the enemy target."
+
+REFERENCE           DOM
+LANG_ENGLISH        "Capture and defend the flags."
+
+REFERENCE           DOM_SCORE
+LANG_ENGLISH        "Capture and defend the flags.  First team to &&1 wins."
+
+REFERENCE           DOM_HINT
+LANG_ENGLISH        "Capture the flags and defend them."
+
+REFERENCE           DM
+LANG_ENGLISH        "Gain points by eliminating other players."
+
+REFERENCE           DM_SCORE
+LANG_ENGLISH        "Gain points by eliminating other players.  First player to &&1 points wins."
+
+REFERENCE           DM_HINT
+LANG_ENGLISH        "Eliminate other players."
+
+REFERENCE           KOTH
+LANG_ENGLISH        "Gain points by holding the headquarters."
+
+REFERENCE           KOTH_SCORE
+LANG_ENGLISH        "Gain points by holding the headquarters.  First team to &&1 points wins."
+
+REFERENCE           KOTH_HINT
+LANG_ENGLISH        "Hold the headquarters."
+
+REFERENCE           CTF
+LANG_ENGLISH        "Gain points by stealing the enemy flag and then touching your flag at your base."
+
+REFERENCE           CTF_SCORE
+LANG_ENGLISH        "Gain points by stealing the enemy flag and then touching your flag at your base. First team with &&1 captures wins."
+
+REFERENCE           CTF_HINT
+LANG_ENGLISH        "Capture the enemy flag."
+
+REFERENCE           ONE_FLAG_ATTACKER
+LANG_ENGLISH        "Gain points by stealing the enemy flag and then touching the beacon at your base."
+
+REFERENCE           ONE_FLAG_DEFENDER
+LANG_ENGLISH        "Protect the flag from being captured."
+
+REFERENCE           ONE_FLAG_ATTACKER_SCORE
+LANG_ENGLISH        "Gain points by stealing the enemy flag and then touching the beacon at your base. First team with &&1 captures wins."
+
+REFERENCE           ONE_FLAG_DEFENDER_SCORE
+LANG_ENGLISH        "Protect the flag from being captured. First team with &&1 captures wins."
+
+REFERENCE           ONE_FLAG_ATTACKER_HINT
+LANG_ENGLISH        "Capture the enemy flag."
+
+REFERENCE           ONE_FLAG_DEFENDER_HINT
+LANG_ENGLISH        "Defend the flag."
+
+REFERENCE           DD_ATTACKER_HINT
+LANG_ENGLISH        "Destroy targets A and B."
+
+REFERENCE           DD_DEFENDER_HINT
+LANG_ENGLISH        "Protect targets A and B."
+
+REFERENCE           DD_ATTACKER
+LANG_ENGLISH        "Destroy both targets by planting explosives at both A and B."
+
+REFERENCE           DD_DEFENDER
+LANG_ENGLISH        "Protect targets A and B from being destroyed."
+
+REFERENCE           DD_DEFENDER_SCORE
+LANG_ENGLISH        "Protect the targets from being destroyed. If explosives are planted at either location, defuse them before they explode."
+
+REFERENCE           DD_ATTACKER_SCORE
+LANG_ENGLISH        "Destroy targets A and B by planting explosives at their location.  Prevent the explosives from being defused once they have been planted."
+
+REFERENCE           VIP
+LANG_ENGLISH        "VIP mode"
+
+REFERENCE           VIP_ATTACKER_HINT
+LANG_ENGLISH        "Kill the VIP and keep him from reaching the extraction zone."
+
+REFERENCE           VIP_DEFENDER_HINT
+LANG_ENGLISH        "Defend the VIP and help him reach the extraction zone."
+
+REFERENCE           VIP_ATTACKER
+LANG_ENGLISH        "Kill the VIP and keep him from reaching the extraction zone."
+
+REFERENCE           VIP_DEFENDER
+LANG_ENGLISH        "Defend the VIP and help him reach the extraction zone."
+
+REFERENCE           VIP_DEFENDER_SCORE
+LANG_ENGLISH        "Protect the VIP and assist his extraction. When the VIP reaches the extraction zone defend him until extraction is complete."
+
+REFERENCE           VIP_ATTACKER_SCORE
+LANG_ENGLISH        "Kill the VIP and any defenders.  Prevent the VIP from being extracted from battle."
+
+REFERENCE           ARENA
+LANG_ENGLISH        "Team elimination with a twist"
+
+REFERENCE           ARENA_HINT
+LANG_ENGLISH        "Eliminate the enemy or capture the flag"
+
+REFERENCE           ARENA_SCORE
+LANG_ENGLISH        "Eliminate the enemy or capture the flag. The flag will spawn when a team is down to one player."
+
+REFERENCE           GTNW
+LANG_ENGLISH        "Be the first team to capture the Nuclear Strike crate to win."
+
+REFERENCE           FLAG_HOME
+LANG_ENGLISH        "AT BASE"
+
+REFERENCE           FLAG_NAME
+LANG_ENGLISH        "&&1"
+
+REFERENCE           FLAG_AWAY
+LANG_ENGLISH        "AWAY"
+
+REFERENCE           GTNW_SCORE
+LANG_ENGLISH        "Be the first team to capture the Nuclear Strike crate to win. First team to &&1 capture wins."
+
+REFERENCE           GTNW_HINT
+LANG_ENGLISH        "Capture the nuke."
+
+REFERENCE           GRAB_FLAG
+LANG_ENGLISH        "First to grab the flag wins!"
+
+REFERENCE           GRAB_FLAG_SCORE
+LANG_ENGLISH        "First team to grab the enemy flag wins!"
+
+REFERENCE           GRAB_FLAG_HINT
+LANG_ENGLISH        "Grab the enemy flag."
+
+REFERENCE           OVERTIME_CTF
+LANG_ENGLISH        "Be the first team to grab the enemy flag to win."
+
+REFERENCE           ESCORT_DEFENDER_HINT
+LANG_ENGLISH        "ESCORT DEFENDER HINT"
+
+REFERENCE           ESCORT_ATTACKER_HINT
+LANG_ENGLISH        "ESCORT ATTACKER HINT"
+
+REFERENCE           UGVHH_D_OBJECTIVE01
+LANG_ENGLISH        "DEFEND THE ANTI AIR CRAFT CONTROLS"
+
+REFERENCE           UGVHH_A_OBJECTIVE01
+LANG_ENGLISH        "UPLOAD THE VIRUS TO THE ANTI-AIRCRAFT CONTROLS"
+
+REFERENCE           UGVHH_A_OBJECTIVE02
+LANG_ENGLISH        "ESCORT THE UGV TO SECURITY GATE"
+
+REFERENCE           UGVHH_D_OBJECTIVE02
+LANG_ENGLISH        "STOP THE UGV FROM REACHING SECURITY GATE"
+
+REFERENCE           UGVHH_A_OBJECTIVE03
+LANG_ENGLISH        "OPEN THE SECURITY GATE"
+
+REFERENCE           UGVHH_D_OBJECTIVE03
+LANG_ENGLISH        "PROTECT THE SECURITY TERMINAL"
+
+REFERENCE           UGVHH_A_OBJECTIVE04
+LANG_ENGLISH        "ESCORT UGV TO FREIGHT ELEVATOR"
+
+REFERENCE           UGVHH_D_OBJECTIVE04
+LANG_ENGLISH        "STOP UGV FROM REACHING FREIGHT ELEVATOR"
+
+REFERENCE           UGVHH_A_OBJECTIVE05
+LANG_ENGLISH        "ESCORT UGV TO THE TARGET ZONE"
+
+REFERENCE           UGVHH_D_OBJECTIVE05
+LANG_ENGLISH        "STOP UGV FROM REACHING TARGET ZONE"
+
+REFERENCE           UGVHH_A_OBJECTIVE06
+LANG_ENGLISH        "DEFEND UGV UPLINK"
+
+REFERENCE           UGVHH_D_OBJECTIVE06
+LANG_ENGLISH        "PREVENT UGV UPLINK"
+
+REFERENCE           OIC
+LANG_ENGLISH        "Gain Ammo by eliminating enemies.  Be the last to survive."
+
+REFERENCE           OIC_SCORE
+LANG_ENGLISH        "Gain Ammo by eliminating enemies.  Be the last to survive."
+
+REFERENCE           OIC_HINT
+LANG_ENGLISH        "Make your shot count."
+
+REFERENCE           ESC_A_PUSH
+LANG_ENGLISH        "ESCORT THE UGV"
+
+REFERENCE           ESC_D_PUSH
+LANG_ENGLISH        "SECURE THE UGV"
+
+REFERENCE           ESC_A_OPEN
+LANG_ENGLISH        "ACTIVATE THE DOOR"
+
+REFERENCE           ESC_D_OPEN
+LANG_ENGLISH        "DEFEND THE DOOR"
+
+REFERENCE           ESC_A_VIRUS
+LANG_ENGLISH        "CAPTURE THE CONTROLS"
+
+REFERENCE           ESC_D_VIRUS
+LANG_ENGLISH        "DEFEND THE TERMINAL"
+
+REFERENCE           UGV_A_PUSH_GENERIC
+LANG_ENGLISH        "PUSH THE UGV TO THE NEXT CHECKPOINT"
+
+REFERENCE           UGV_A_PUSH_END
+LANG_ENGLISH        "PUSH THE UGV TO THE LAST CHECKPOINT"
+
+REFERENCE           UGV_D_STOP_GENERIC
+LANG_ENGLISH        "STOP THE UGV FROM GETTING TO THE NEXT CHECKPOINT"
+
+REFERENCE           UGV_D_STOP_END
+LANG_ENGLISH        "STOP THE UGV FROM GETTING TO THE LAST CHECKPOINT"
+

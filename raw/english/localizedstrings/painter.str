@@ -1,0 +1,87 @@
+// Note to translators:
+// If a sentence is the same in your language then please change it to "#same"
+//
+// eg:
+// LANG_ENGLISH  "HALT"
+// LANG_GERMAN   "#same"
+//
+// (This is so we can tell which strings have been signed-off as ok to be the same words for QA
+//  and because we do not store duplicate strings, which will then get exported again next time
+//  as being untranslated.)
+//
+VERSION             "1"
+CONFIG              "C:\trees\nx1\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           DOT
+LANG_ENGLISH        "."
+
+REFERENCE           5PLACED_MODELS_
+LANG_ENGLISH        "^5Placed Models: "
+
+REFERENCE           5DENSITY_
+LANG_ENGLISH        "^5Spacing: "
+
+REFERENCE           5RADIUS_
+LANG_ENGLISH        "^5Radius: "
+
+REFERENCE           4X3Y_
+LANG_ENGLISH        "^4X/^3Y: "
+
+REFERENCE           2A1B7_
+LANG_ENGLISH        "^2A/^1B^7: "
+
+REFERENCE           8LSTICK7RSTICK7_
+LANG_ENGLISH        "^8LStick/^7RStick^7: "
+
+REFERENCE           8LBUTTON7RBUTTON7_
+LANG_ENGLISH        "^8Lbutton/^7Rbutton^7: "
+
+REFERENCE           8DPADL7DPADR7_
+LANG_ENGLISH        "^8DPadL/^7DpadR^7: "
+
+REFERENCE           8DPADU7DPADD7_
+LANG_ENGLISH        "^8DPadU/^7DpadD^7: "
+
+REFERENCE           8F5_
+LANG_ENGLISH        "^8F: "
+
+REFERENCE           GROUP_UP_DOWN
+LANG_ENGLISH        "Group Up / Down"
+
+REFERENCE           DENSITY_DOWN_UP
+LANG_ENGLISH        "Density Down / Up"
+
+REFERENCE           RADIUS_DOWN_UP
+LANG_ENGLISH        "Radius Down / Up"
+
+REFERENCE           SPAM_REMOVE_PLACE
+LANG_ENGLISH        "Remove / Place"
+
+REFERENCE           ZOFFSET_CLEAR_SET
+LANG_ENGLISH        "zOffset Clear / Set"
+
+REFERENCE           ROTATION_CLEAR_SET
+LANG_ENGLISH        "Rotation Clear / Set"
+
+REFERENCE           DUMP_3MAPSOURCEXENONEXPORTLEVELSCRIPTMODELDUMPMAP
+LANG_ENGLISH        "(dump) ^3map_source/xenon_export/<levelname>_modeldump.map"
+
+REFERENCE           BLANK
+LANG_ENGLISH        "-"
+
+REFERENCE           HEIGHT_DOWN_UP
+LANG_ENGLISH        "Height Down / Up"
+
+REFERENCE           _SET
+LANG_ENGLISH        " - / Set"
+
+REFERENCE           ROTATEOTHER_UP_DOWN
+LANG_ENGLISH        "RotateOther Up / Down"
+
+REFERENCE           _SET_
+LANG_ENGLISH        " Set / -"
+
+REFERENCE           DBL_BLANK
+LANG_ENGLISH        " -- -- "
+

@@ -1,0 +1,2301 @@
+// Note to translators:
+// If a sentence is the same in your language then please change it to "#same"
+//
+// eg:
+// LANG_ENGLISH  "HALT"
+// LANG_GERMAN   "#same"
+//
+// (This is so we can tell which strings have been signed-off as ok to be the same words for QA
+//  and because we do not store duplicate strings, which will then get exported again next time
+//  as being untranslated.)
+//
+VERSION             "1"
+CONFIG              "C:\trees\nx1\bin\StringEd.cfg"
+FILENOTES           "Strings used in the weapon settings go in this file."
+
+REFERENCE           MP44
+LANG_ENGLISH        "MP44"
+
+REFERENCE           M2FRAGGRENADE
+LANG_ENGLISH        "M2 Frag Grenade"
+
+REFERENCE           MK1_FRAG_GRENADE
+LANG_ENGLISH        "MK1 Frag Grenade"
+
+REFERENCE           HOLDPIN
+LANG_ENGLISH        "Hold-Pin"
+
+REFERENCE           COOKOFF
+LANG_ENGLISH        "Cook-Off"
+
+REFERENCE           OFFENSIVEGRENADE
+LANG_ENGLISH        "MK3A2 Offensive Grenade"
+
+REFERENCE           FRAGGRENADE
+LANG_ENGLISH        "Frag"
+
+REFERENCE           SMOKEGRENADE
+LANG_ENGLISH        "Smoke"
+
+REFERENCE           DEFAULTWEAPON
+LANG_ENGLISH        "Default Weapon"
+
+REFERENCE           NO_AMMO
+LANG_ENGLISH        "No Ammo"
+
+REFERENCE           NO_WEAPON_AMMO
+LANG_ENGLISH        "No &&1 Ammo Remaining"
+
+REFERENCE           NO_WEAPON_AMMO_MP
+LANG_ENGLISH        "No Equipment Available"
+
+REFERENCE           NO_FRAG_GRENADE
+LANG_ENGLISH        "No Frag Grenades Remaining"
+
+REFERENCE           NO_SPECIAL_GRENADE
+LANG_ENGLISH        "No Special Grenades Remaining"
+
+REFERENCE           FREERUNNER
+LANG_ENGLISH        "No Weapon Available"
+
+REFERENCE           LOCATION_SELECTOR
+LANG_ENGLISH        "Select a location"
+
+REFERENCE           C4
+LANG_ENGLISH        "C4"
+
+REFERENCE           C4_DETONATOR
+LANG_ENGLISH        "C4 Detonator"
+
+REFERENCE           CLAYMORE
+LANG_ENGLISH        "Claymore"
+
+REFERENCE           CLAYMORE_DETONATOR
+LANG_ENGLISH        "Claymore Detonator"
+
+REFERENCE           RPG_LAUNCHER
+LANG_ENGLISH        "RPG Launcher"
+
+REFERENCE           SMOKE_GRENADE
+LANG_ENGLISH        "Smoke Grenade"
+
+REFERENCE           FLASH_GRENADE
+LANG_ENGLISH        "Flash Grenade"
+
+REFERENCE           CONCUSSION_GRENADE
+LANG_ENGLISH        "Stun Grenade"
+
+REFERENCE           THROWING_KNIFE
+LANG_ENGLISH        "Throwing Knife"
+
+REFERENCE           RAPPEL_KNIFE
+LANG_ENGLISH        "Knife"
+
+REFERENCE           RPG
+LANG_ENGLISH        "RPG-7"
+
+REFERENCE           RPG_X2
+LANG_ENGLISH        "RPG-7 x 2"
+
+REFERENCE           AT4
+LANG_ENGLISH        "AT4"
+
+REFERENCE           MP5_SILENCER
+LANG_ENGLISH        "MP5KSD"
+
+REFERENCE           MP5
+LANG_ENGLISH        "MP5K"
+
+REFERENCE           MAC10
+LANG_ENGLISH        "Mac-10"
+
+REFERENCE           P90
+LANG_ENGLISH        "P90"
+
+REFERENCE           P90_SILENCER
+LANG_ENGLISH        "P90 Silenced"
+
+REFERENCE           P90_ACOG
+LANG_ENGLISH        "P90 ACOG Sight"
+
+REFERENCE           P90_REDDOT
+LANG_ENGLISH        "P90 Red Dot Sight"
+
+REFERENCE           M16
+LANG_ENGLISH        "M16A4"
+
+REFERENCE           M203
+LANG_ENGLISH        "M203"
+
+REFERENCE           G36C
+LANG_ENGLISH        "G36C"
+
+REFERENCE           M14
+LANG_ENGLISH        "M14"
+
+REFERENCE           M40A3
+LANG_ENGLISH        "M40A3"
+
+REFERENCE           BARRETT
+LANG_ENGLISH        "Barrett .50cal"
+
+REFERENCE           WINCHESTER1200
+LANG_ENGLISH        "W1200"
+
+REFERENCE           M1014
+LANG_ENGLISH        "M1014"
+
+REFERENCE           M1014_EOTECH
+LANG_ENGLISH        "M1014 Holographic"
+
+REFERENCE           M4M203
+LANG_ENGLISH        "M4A1 Grenadier"
+
+REFERENCE           M4
+LANG_ENGLISH        "M4A1"
+
+REFERENCE           M4_SILENCER
+LANG_ENGLISH        "M4A1 Suppressed"
+
+REFERENCE           M4M203_SILENCER
+LANG_ENGLISH        "M4A1 SOPMOD"
+
+REFERENCE           M4M203_ACOG
+LANG_ENGLISH        "M4A1 Grenadier w/ ACOG Sight"
+
+REFERENCE           M4M203_REFLEX
+LANG_ENGLISH        "M4A1 Grenadier w/ Red Dot Sight"
+
+REFERENCE           M4M203_EOTECH
+LANG_ENGLISH        "M4A1 Grenadier w/ Holographic"
+
+REFERENCE           SAW
+LANG_ENGLISH        "M249 SAW"
+
+REFERENCE           M60E4
+LANG_ENGLISH        "M60E4"
+
+REFERENCE           M240
+LANG_ENGLISH        "M240"
+
+REFERENCE           M240_REDDOT
+LANG_ENGLISH        "M240 Red Dot Sight"
+
+REFERENCE           M240_SILENCER
+LANG_ENGLISH        "M240 Silenced"
+
+REFERENCE           M240_EOTECH
+LANG_ENGLISH        "M240 Holographic"
+
+REFERENCE           M240_ACOG
+LANG_ENGLISH        "M240 ACOG Sight"
+
+REFERENCE           M240_THERMAL
+LANG_ENGLISH        "M240 Thermal Sight"
+
+REFERENCE           M240_HEARTBEAT
+LANG_ENGLISH        "M240 Heartbeat"
+
+REFERENCE           M240_BLING
+LANG_ENGLISH        "M240 Custom"
+
+REFERENCE           M240_SHELLSHOCK
+LANG_ENGLISH        "M240 Shellshock Ammo"
+
+REFERENCE           SKORPION
+LANG_ENGLISH        "Skorpion"
+
+REFERENCE           MINI_UZI
+LANG_ENGLISH        "Mini-Uzi"
+
+REFERENCE           UZI
+LANG_ENGLISH        "Mini-Uzi"
+
+REFERENCE           AK47
+LANG_ENGLISH        "AK-47"
+
+REFERENCE           AK47_GP25
+LANG_ENGLISH        "AK-47 Grenadier"
+
+REFERENCE           GP25
+LANG_ENGLISH        "GP-25"
+
+REFERENCE           G3
+LANG_ENGLISH        "G3"
+
+REFERENCE           DRAGUNOV
+LANG_ENGLISH        "Dragunov"
+
+REFERENCE           REMINGTON700
+LANG_ENGLISH        "R700"
+
+REFERENCE           AW50
+LANG_ENGLISH        "AW-50"
+
+REFERENCE           AK74U
+LANG_ENGLISH        "AK-74u"
+
+REFERENCE           RPD
+LANG_ENGLISH        "RPD"
+
+REFERENCE           BERETTA
+LANG_ENGLISH        "M9"
+
+REFERENCE           DESERTEAGLE
+LANG_ENGLISH        "Desert Eagle"
+
+REFERENCE           COLT1911
+LANG_ENGLISH        "M1911 .45"
+
+REFERENCE           COLT45
+LANG_ENGLISH        "M1911 .45"
+
+REFERENCE           AG36
+LANG_ENGLISH        "AG36"
+
+REFERENCE           HK79
+LANG_ENGLISH        "HK79"
+
+REFERENCE           EGLM
+LANG_ENGLISH        "FN EGLM"
+
+REFERENCE           SMGS
+LANG_ENGLISH        "Sub Machine Guns"
+
+REFERENCE           ASSAULTRIFLES
+LANG_ENGLISH        "Assault Rifles"
+
+REFERENCE           SHOTGUNS
+LANG_ENGLISH        "Shotguns"
+
+REFERENCE           SNIPERRIFLES
+LANG_ENGLISH        "Sniper Rifles"
+
+REFERENCE           JAVELIN
+LANG_ENGLISH        "Javelin"
+
+REFERENCE           STINGER
+LANG_ENGLISH        "Stinger"
+
+REFERENCE           TARGET_TOO_CLOSE
+LANG_ENGLISH        "Too Close to Target"
+
+REFERENCE           LOCKON_REQUIRED
+LANG_ENGLISH        "Lock-On Required"
+
+REFERENCE           TARGET_NOT_ENOUGH_CLEARANCE
+LANG_ENGLISH        "Not Enough Room To Fire"
+
+REFERENCE           M4_CARBINE
+LANG_ENGLISH        "M4A1"
+
+REFERENCE           DESERTEAGLEGOLD
+LANG_ENGLISH        "Gold Desert Eagle"
+
+REFERENCE           NO_ATTACHMENT
+LANG_ENGLISH        "No Attachment"
+
+REFERENCE           SILENCER
+LANG_ENGLISH        "Silencer"
+
+REFERENCE           REDDOT
+LANG_ENGLISH        "Red Dot Sight"
+
+REFERENCE           ACOG
+LANG_ENGLISH        "ACOG Scope"
+
+REFERENCE           GRENADE_LAUNCHER
+LANG_ENGLISH        "Grenade Launcher"
+
+REFERENCE           NO_CAMO
+LANG_ENGLISH        "No Camo"
+
+REFERENCE           DESERT_CAMO
+LANG_ENGLISH        "Desert"
+
+REFERENCE           WOODLAND_CAMO
+LANG_ENGLISH        "Woodland"
+
+REFERENCE           DIGITAL_CAMO
+LANG_ENGLISH        "Digital"
+
+REFERENCE           RED_TIGER_CAMO
+LANG_ENGLISH        "Red Tiger"
+
+REFERENCE           BLUE_TIGER_CAMO
+LANG_ENGLISH        "Blue Tiger"
+
+REFERENCE           GOLDEN_CAMO
+LANG_ENGLISH        "Golden"
+
+REFERENCE           PRESTIGE_CAMO
+LANG_ENGLISH        "Prestige"
+
+REFERENCE           BINOCULARS
+LANG_ENGLISH        "Binoculars"
+
+REFERENCE           ANM8_SMOKE_GRENADE
+LANG_ENGLISH        "ANM8 Smoke Grenade"
+
+REFERENCE           UZI_SILENCER
+LANG_ENGLISH        "Mini-Uzi Silenced"
+
+REFERENCE           GRIP
+LANG_ENGLISH        "Grip"
+
+REFERENCE           STUN_GRENADE
+LANG_ENGLISH        "Stun Grenade"
+
+REFERENCE           M16A4_GRENADIER
+LANG_ENGLISH        "M16A4 Grenadier"
+
+REFERENCE           AK47_ACOG
+LANG_ENGLISH        "AK-47 ACOG Sight"
+
+REFERENCE           AK47_SILENCER
+LANG_ENGLISH        "AK-47 Silenced"
+
+REFERENCE           AK47_SHOTGUN
+LANG_ENGLISH        "AK-47 w/ Shotgun"
+
+REFERENCE           AK47_REDDOT
+LANG_ENGLISH        "AK-47 Red Dot Sight"
+
+REFERENCE           AK47_FMJ
+LANG_ENGLISH        "AK-47 FMJ"
+
+REFERENCE           SENTRY_GUN
+LANG_ENGLISH        "Sentry Gun"
+
+REFERENCE           SENTRY_MINIGUN
+LANG_ENGLISH        "Sentry MiniGun"
+
+REFERENCE           KRISS
+LANG_ENGLISH        "Vector"
+
+REFERENCE           KRISS_ACOG
+LANG_ENGLISH        "Vector ACOG Sight"
+
+REFERENCE           KRISS_ACOG_SILENCER
+LANG_ENGLISH        "Vector Silenced ACOG Sight"
+
+REFERENCE           G3_ACOG
+LANG_ENGLISH        "G3 ACOG Sight"
+
+REFERENCE           G3_SILENCER
+LANG_ENGLISH        "G3 Silenced"
+
+REFERENCE           G3_REDDOT
+LANG_ENGLISH        "G3 Red Dot Sight"
+
+REFERENCE           G3_GL
+LANG_ENGLISH        "G3 Grenade Launcher"
+
+REFERENCE           G36C_ACOG
+LANG_ENGLISH        "G36C ACOG Sight"
+
+REFERENCE           G36C_SILENCER
+LANG_ENGLISH        "G36C Silenced"
+
+REFERENCE           G36C_REDDOT
+LANG_ENGLISH        "G36C Red Dot Sight"
+
+REFERENCE           G36C_GL
+LANG_ENGLISH        "G36C Grenade Launcher"
+
+REFERENCE           AK74U_ACOG
+LANG_ENGLISH        "AK-74u ACOG Sight"
+
+REFERENCE           AK74U_SILENCER
+LANG_ENGLISH        "AK-74u Silenced"
+
+REFERENCE           AK74U_REDDOT
+LANG_ENGLISH        "AK-74u Red Dot Sight"
+
+REFERENCE           RPD_ACOG
+LANG_ENGLISH        "RPD ACOG Sight"
+
+REFERENCE           RPD_GRIP
+LANG_ENGLISH        "RPD Foregrip"
+
+REFERENCE           RPD_REDDOT
+LANG_ENGLISH        "RPD Red Dot Sight"
+
+REFERENCE           RPD_SHELLSHOCK
+LANG_ENGLISH        "RPD Shellshock Ammo"
+
+REFERENCE           REMINGTON700_ACOG
+LANG_ENGLISH        "R700 ACOG Sight"
+
+REFERENCE           AW50_ACOG
+LANG_ENGLISH        "AW-50 ACOG Sight"
+
+REFERENCE           BARRETT_ACOG
+LANG_ENGLISH        "Barrett .50cal ACOG"
+
+REFERENCE           BARRETT_JHP
+LANG_ENGLISH        "Barrett .50cal Jacketed Hollow Point"
+
+REFERENCE           BERETTA_SILENCER
+LANG_ENGLISH        "M9 Silenced"
+
+REFERENCE           COLT1911_SILENCER
+LANG_ENGLISH        "M1911 .45 Silenced"
+
+REFERENCE           DRAGUNOV_ACOG
+LANG_ENGLISH        "Dragunov ACOG Sight"
+
+REFERENCE           BENELLI_GRIP
+LANG_ENGLISH        "M1014 Foregrip"
+
+REFERENCE           BENELLI_REDDOT
+LANG_ENGLISH        "M1014 Red Dot Sight"
+
+REFERENCE           BENELLI
+LANG_ENGLISH        "M1014"
+
+REFERENCE           M14_ACOG
+LANG_ENGLISH        "M14 ACOG Sight"
+
+REFERENCE           M14_GL
+LANG_ENGLISH        "M14 Grenade Launcher"
+
+REFERENCE           M14_SILENCER
+LANG_ENGLISH        "M14 Silencer"
+
+REFERENCE           M14_REDDOT
+LANG_ENGLISH        "M14 Red Dot Sight"
+
+REFERENCE           M16_REDDOT
+LANG_ENGLISH        "M16A4 Red Dot Sight"
+
+REFERENCE           M16_GL
+LANG_ENGLISH        "M16A4 Grenade Launcher"
+
+REFERENCE           M16_SILENCER
+LANG_ENGLISH        "M16A4 Silenced"
+
+REFERENCE           M16_ACOG
+LANG_ENGLISH        "M16A4 ACOG Sight"
+
+REFERENCE           M4_CARBINE_ACOG
+LANG_ENGLISH        "M4 ACOG Sight"
+
+REFERENCE           M4_CARBINE_REDDOT
+LANG_ENGLISH        "M4A1 Red Dot Sight"
+
+REFERENCE           M4_CARBINE_SILENCER
+LANG_ENGLISH        "M4A1 Silenced"
+
+REFERENCE           M4_CARBINE_GL
+LANG_ENGLISH        "M4A1 Grenade Launcher"
+
+REFERENCE           M40A3_ACOG
+LANG_ENGLISH        "M40A3 ACOG Sight"
+
+REFERENCE           M60E4_ACOG
+LANG_ENGLISH        "M60E4 ACOG Sight"
+
+REFERENCE           M60E4_GRIP
+LANG_ENGLISH        "M60E4 Foregrip"
+
+REFERENCE           M60E4_REDDOT
+LANG_ENGLISH        "M60E4 Red Dot Sight"
+
+REFERENCE           MP5_ACOG
+LANG_ENGLISH        "MP5K ACOG Sight"
+
+REFERENCE           MP5_GRIP
+LANG_ENGLISH        "MP5K Foregrip"
+
+REFERENCE           MP5_REDDOT
+LANG_ENGLISH        "MP5K Red Dot Sight"
+
+REFERENCE           MP5_EOTECH
+LANG_ENGLISH        "MP5K Holographic"
+
+REFERENCE           MP5_SILENCED
+LANG_ENGLISH        "MP5K Silenced"
+
+REFERENCE           MP5_SILENCED_REDDOT
+LANG_ENGLISH        "MP5K Silenced Red Dot"
+
+REFERENCE           M21_SILENCER
+LANG_ENGLISH        "M21 EBR Silenced"
+
+REFERENCE           M21
+LANG_ENGLISH        "M21 EBR"
+
+REFERENCE           M21_SOCOM
+LANG_ENGLISH        "M21 EBR"
+
+REFERENCE           M21_JHP
+LANG_ENGLISH        "M21 EBR Jacketed Hollow Point"
+
+REFERENCE           M21_ACOG
+LANG_ENGLISH        "M21 EBR ACOG Sight"
+
+REFERENCE           SAW_ACOG
+LANG_ENGLISH        "M249 SAW ACOG"
+
+REFERENCE           SAW_GRIP
+LANG_ENGLISH        "M249 SAW Foregrip"
+
+REFERENCE           SAW_REDDOT
+LANG_ENGLISH        "M249 SAW Red Dot"
+
+REFERENCE           SKORPION_ACOG
+LANG_ENGLISH        "Skorpion ACOG Sight"
+
+REFERENCE           SKORPION_REDDOT
+LANG_ENGLISH        "Skorpion Red Dot Sight"
+
+REFERENCE           SKORPION_SILENCER
+LANG_ENGLISH        "Skorpion Silenced"
+
+REFERENCE           UZI_ACOG
+LANG_ENGLISH        "Mini-Uzi ACOG Sight"
+
+REFERENCE           UZI_REDDOT
+LANG_ENGLISH        "Mini-Uzi Red Dot Sight"
+
+REFERENCE           USP
+LANG_ENGLISH        "USP .45"
+
+REFERENCE           USP_SCRIPTED
+LANG_ENGLISH        "USP .45"
+
+REFERENCE           USP_SILENCER
+LANG_ENGLISH        "USP .45 Silenced"
+
+REFERENCE           WINCHESTER1200_GRIP
+LANG_ENGLISH        "W1200 Foregrip"
+
+REFERENCE           WINCHESTER1200_REDDOT
+LANG_ENGLISH        "W1200 Red Dot Sight"
+
+REFERENCE           RANGER
+LANG_ENGLISH        "Ranger"
+
+REFERENCE           UMP45
+LANG_ENGLISH        "UMP45"
+
+REFERENCE           UMP45_BURST
+LANG_ENGLISH        "UMP45 (Burst)"
+
+REFERENCE           FN2000
+LANG_ENGLISH        "F2000"
+
+REFERENCE           FN2000_REDDOT
+LANG_ENGLISH        "F2000 Red Dot Sight"
+
+REFERENCE           FN2000_SCOPE
+LANG_ENGLISH        "F2000 Scope"
+
+REFERENCE           FN2000_SHOTGUN
+LANG_ENGLISH        "F2000 w/ Shotgun"
+
+REFERENCE           FN2000_ACOG
+LANG_ENGLISH        "F2000 ACOG Sight"
+
+REFERENCE           FN2000_THERMAL
+LANG_ENGLISH        "F2000 Thermal Sight"
+
+REFERENCE           FN2000_SILENCER
+LANG_ENGLISH        "F2000 Silenced"
+
+REFERENCE           FN2000_GL
+LANG_ENGLISH        "F2000 Grenade Launcher"
+
+REFERENCE           ANACONDA
+LANG_ENGLISH        ".44 Magnum"
+
+REFERENCE           M79
+LANG_ENGLISH        "Thumper"
+
+REFERENCE           BARRETT_USE
+LANG_ENGLISH        "Press and hold^3 &&1 ^7to use the M82 .50 Caliber Sniper Rifle"
+
+REFERENCE           PRESS_FORWARDS_OR_BACKWARDS
+LANG_ENGLISH        "Press forward to zoom"
+
+REFERENCE           STRIKER
+LANG_ENGLISH        "Striker"
+
+REFERENCE           CHEYTAC
+LANG_ENGLISH        "Intervention"
+
+REFERENCE           M4M203_MOTION_TRACKER
+LANG_ENGLISH        "M4 Carbine Heartbeat Sensor"
+
+REFERENCE           ANACONDA_SILENCER
+LANG_ENGLISH        ".44 Magnum Silenced"
+
+REFERENCE           UMP45_ACOG
+LANG_ENGLISH        "UMP45 ACOG Sight"
+
+REFERENCE           UMP45_REDDOT
+LANG_ENGLISH        "UMP45 Red Dot Sight"
+
+REFERENCE           UMP45_SILENCER
+LANG_ENGLISH        "UMP45 Silenced"
+
+REFERENCE           UMP45_MATCH
+LANG_ENGLISH        "UMP45 Match Grade Ammo"
+
+REFERENCE           UMP45_ASTOCK
+LANG_ENGLISH        "UMP45 Adjustable Stock"
+
+REFERENCE           KRISS_SILENCER
+LANG_ENGLISH        "Vector Silenced"
+
+REFERENCE           KRISS_REDDOT
+LANG_ENGLISH        "Vector Red Dot Sight"
+
+REFERENCE           STRIKER_GRIP
+LANG_ENGLISH        "Striker Foregrip"
+
+REFERENCE           STRIKER_REFLEX
+LANG_ENGLISH        "Striker Red Dot Sight"
+
+REFERENCE           STRIKER_REDDOT
+LANG_ENGLISH        "Striker Red Dot Sight"
+
+REFERENCE           STRIKER_EOTECH
+LANG_ENGLISH        "Striker Holographic"
+
+REFERENCE           CHEYTAC_ACOG
+LANG_ENGLISH        "Intervention ACOG Sight"
+
+REFERENCE           CHEYTAC_THERMAL
+LANG_ENGLISH        "Intervention Thermal Sight"
+
+REFERENCE           CHEYTAC_SILENCER
+LANG_ENGLISH        "Intervention Silenced"
+
+REFERENCE           CHEYTAC_JHP
+LANG_ENGLISH        "Intervention Jacketed Hollow Point"
+
+REFERENCE           MASADA
+LANG_ENGLISH        "ACR"
+
+REFERENCE           MASADA_GL_ACOG
+LANG_ENGLISH        "ACR Grenadier ACOG Sight"
+
+REFERENCE           MASADA_ACOG
+LANG_ENGLISH        "ACR ACOG Sight"
+
+REFERENCE           MASADA_THERMAL
+LANG_ENGLISH        "ACR Thermal Sight"
+
+REFERENCE           MASADA_SILENCER
+LANG_ENGLISH        "ACR Silenced"
+
+REFERENCE           MASADA_REDDOT
+LANG_ENGLISH        "ACR Red Dot Sight"
+
+REFERENCE           MASADA_SILENCER_OFF
+LANG_ENGLISH        "Silenced ACR with Heartbeat Sensor"
+
+REFERENCE           MASADA_SILENCER_ON
+LANG_ENGLISH        "Silenced ACR with Heartbeat Sensor"
+
+REFERENCE           MASADA_HEARTBEAT
+LANG_ENGLISH        "ACR Heartbeat Sensor"
+
+REFERENCE           ICE_AXE
+LANG_ENGLISH        "Ice Picks"
+
+REFERENCE           AA12SP
+LANG_ENGLISH        "AA-12 Shotgun"
+
+REFERENCE           AA12SP_EOTECH
+LANG_ENGLISH        "AA-12 Shotgun Holographic"
+
+REFERENCE           AA12SP_HB
+LANG_ENGLISH        "AA-12 Shotgun w/ Heartbeat Sensor"
+
+REFERENCE           AA12SP_HB_SILENCER
+LANG_ENGLISH        "AA-12 Shotgun Heartbeat & Silenced"
+
+REFERENCE           AA12SP_REDDOT
+LANG_ENGLISH        "AA-12 Shotgun Red Dot Sight"
+
+REFERENCE           AA12SP_SILENCER
+LANG_ENGLISH        "AA-12 Shotgun Silenced"
+
+REFERENCE           AA12
+LANG_ENGLISH        "AA-12"
+
+REFERENCE           CLAYMORE_PICKUP
+LANG_ENGLISH        "Press and hold^3 &&1 ^7to pickup Claymore Mines"
+
+REFERENCE           CACHE_USE_HINT
+LANG_ENGLISH        "Press ^3 &&1 ^7to refill your ammo"
+
+REFERENCE           GLOCK
+LANG_ENGLISH        "G18"
+
+REFERENCE           SCAR
+LANG_ENGLISH        "SCAR-H"
+
+REFERENCE           SCAR_SILENCER
+LANG_ENGLISH        "SCAR-H Silenced"
+
+REFERENCE           SCAR_REFLEX_SHOTGUN
+LANG_ENGLISH        "SCAR-H Red Dot Sight w/ Shotgun"
+
+REFERENCE           SCAR_REFLEX
+LANG_ENGLISH        "SCAR-H Red Dot Sight"
+
+REFERENCE           SCAR_REDDOT
+LANG_ENGLISH        "SCAR-H Red Dot Sight"
+
+REFERENCE           SCAR_THERMAL
+LANG_ENGLISH        "SCAR-H Thermal Sight"
+
+REFERENCE           SCAR_THERMAL_SILENCER
+LANG_ENGLISH        "SCAR-H Silenced Thermal Sight"
+
+REFERENCE           SCAR_ACOG
+LANG_ENGLISH        "SCAR-H ACOG Sight"
+
+REFERENCE           SCAR_EOTECH
+LANG_ENGLISH        "SCAR-H Holographic"
+
+REFERENCE           SCAR_GL
+LANG_ENGLISH        "SCAR-H Grenade Launcher"
+
+REFERENCE           SCAR_HEARTBEAT
+LANG_ENGLISH        "SCAR-H Heartbeat Sensor"
+
+REFERENCE           SCAR_SHOTGUN
+LANG_ENGLISH        "SCAR-H w/ Shotgun"
+
+REFERENCE           SCAR_BLING
+LANG_ENGLISH        "SCAR-H Custom"
+
+REFERENCE           SCAR_ROF
+LANG_ENGLISH        "SCAR-H Rapid Fire"
+
+REFERENCE           SCAR_XMAGS
+LANG_ENGLISH        "SCAR-H Extended Mags"
+
+REFERENCE           SCAR_FMJ
+LANG_ENGLISH        "SCAR-H FMJ"
+
+REFERENCE           SCAR_GRIP
+LANG_ENGLISH        "SCAR-H Foregrip"
+
+REFERENCE           SCAR_MATCH
+LANG_ENGLISH        "SCAR-H Match Grade Ammo"
+
+REFERENCE           SA80
+LANG_ENGLISH        "L86 LSW"
+
+REFERENCE           SA80_SCOPE
+LANG_ENGLISH        "L86 LSW Scoped"
+
+REFERENCE           TAVOR
+LANG_ENGLISH        "TAR-21"
+
+REFERENCE           TAVOR_EOTECH
+LANG_ENGLISH        "TAR-21 Holographic"
+
+REFERENCE           TAVOR_ACOG
+LANG_ENGLISH        "TAR-21 ACOG Sight"
+
+REFERENCE           TAVOR_THERMAL
+LANG_ENGLISH        "TAR-21 Thermal Sight"
+
+REFERENCE           TMP_AKIMBO
+LANG_ENGLISH        "TMP Akimbo"
+
+REFERENCE           PP2000
+LANG_ENGLISH        "PP2000"
+
+REFERENCE           PP2000_SILENCER
+LANG_ENGLISH        "PP2000 Silenced"
+
+REFERENCE           PP2000_REDDOT
+LANG_ENGLISH        "PP2000 Red Dot Sight"
+
+REFERENCE           PP2000_THERMAL
+LANG_ENGLISH        "PP2000 Thermal Sight"
+
+REFERENCE           RIOTSHIELD
+LANG_ENGLISH        "Riot Shield"
+
+REFERENCE           RIOTSHIELD_CLOAK
+LANG_ENGLISH        "Cloaking Shield"
+
+REFERENCE           RIOTSHIELD_COVER
+LANG_ENGLISH        "Deployable Shield"
+
+REFERENCE           RIOTSHIELD_XRAY
+LANG_ENGLISH        "X-Ray Shield"
+
+REFERENCE           MODEL1887
+LANG_ENGLISH        "Model 1887"
+
+REFERENCE           AIRDROP_MARKER
+LANG_ENGLISH        "Care Package Marker"
+
+REFERENCE           FRAG_GRENADE
+LANG_ENGLISH        "Frag Grenade"
+
+REFERENCE           MG4
+LANG_ENGLISH        "MG4"
+
+REFERENCE           G36_LMG
+LANG_ENGLISH        "G36 LMG"
+
+REFERENCE           AUG_HBAR
+LANG_ENGLISH        "AUG HBAR"
+
+REFERENCE           AUG_SCOPE
+LANG_ENGLISH        "AUG HBAR Scoped"
+
+REFERENCE           AUG_REFLEX
+LANG_ENGLISH        "AUG HBAR Red Dot Sight"
+
+REFERENCE           AUG_SILENCER
+LANG_ENGLISH        "AUG HBAR Silenced"
+
+REFERENCE           AUG
+LANG_ENGLISH        "AUG HBAR"
+
+REFERENCE           AUG_BLING
+LANG_ENGLISH        "AUG HBAR Custom"
+
+REFERENCE           TAVOR_SILENCER
+LANG_ENGLISH        "TAR-21 Silenced"
+
+REFERENCE           KRISS_GRIP
+LANG_ENGLISH        "Vector Foregrip"
+
+REFERENCE           TMP
+LANG_ENGLISH        "TMP"
+
+REFERENCE           TMP_REDDOT
+LANG_ENGLISH        "TMP Red Dot Sight"
+
+REFERENCE           M14EBR
+LANG_ENGLISH        "M14 EBR"
+
+REFERENCE           M14EBR_SCOPED
+LANG_ENGLISH        "M14 EBR Scoped"
+
+REFERENCE           M14EBR_THERMAL
+LANG_ENGLISH        "M14 EBR Thermal"
+
+REFERENCE           M14EBR_SCOPED_SILENCED
+LANG_ENGLISH        "M14 EBR Scoped Silenced"
+
+REFERENCE           WA2000
+LANG_ENGLISH        "WA2000"
+
+REFERENCE           WA2000_HEARTBEAT
+LANG_ENGLISH        "WA2000 Heartbeat"
+
+REFERENCE           WA2000_THERMAL
+LANG_ENGLISH        "WA2000 Thermal Sight"
+
+REFERENCE           WA2000_JHP
+LANG_ENGLISH        "WA2000 Jacketed Hollow Point"
+
+REFERENCE           SEMTEX
+LANG_ENGLISH        "SEMTEX"
+
+REFERENCE           BERETTA393
+LANG_ENGLISH        "M93 Raffica"
+
+REFERENCE           M4_CARBINE_FMJ
+LANG_ENGLISH        "M4A1 FMJ"
+
+REFERENCE           M4_CARBINE_XMAGS
+LANG_ENGLISH        "M4A1 Extended Mags"
+
+REFERENCE           M4_CARBINE_ROF
+LANG_ENGLISH        "M4A1 Rapid Fire"
+
+REFERENCE           FN2000_FMJ
+LANG_ENGLISH        "F2000 FMJ"
+
+REFERENCE           FN2000_ROF
+LANG_ENGLISH        "F2000 Rapid Fire"
+
+REFERENCE           FN2000_XMAGS
+LANG_ENGLISH        "F2000 Extended Mags"
+
+REFERENCE           MASADA_XMAGS
+LANG_ENGLISH        "ACR Extended Mags"
+
+REFERENCE           MASADA_GL_EOTECH
+LANG_ENGLISH        "ACR Grenadier Holographic"
+
+REFERENCE           MASADA_FMJ
+LANG_ENGLISH        "ACR FMJ"
+
+REFERENCE           MASADA_SHOTGUN
+LANG_ENGLISH        "ACR w/ Shotgun"
+
+REFERENCE           MASADA_MATCH
+LANG_ENGLISH        "ACR Match Grade Ammo"
+
+REFERENCE           M16_FMJ
+LANG_ENGLISH        "M16A4 FMJ"
+
+REFERENCE           M16_ROF
+LANG_ENGLISH        "M16A4 Rapid Fire"
+
+REFERENCE           M16_XMAGS
+LANG_ENGLISH        "M16A4 Extended Mags"
+
+REFERENCE           TAVOR_REDDOT
+LANG_ENGLISH        "TAR-21 Red Dot Sight"
+
+REFERENCE           TAVOR_MARS
+LANG_ENGLISH        "TAR-21 Mars Sight"
+
+REFERENCE           TAVOR_FMJ
+LANG_ENGLISH        "TAR-21 FMJ"
+
+REFERENCE           TAVOR_ROF
+LANG_ENGLISH        "TAR-21 Rapid Fire"
+
+REFERENCE           TAVOR_XMAGS
+LANG_ENGLISH        "TAR-21 Extended Mags"
+
+REFERENCE           TAVOR_HEARTBEAT
+LANG_ENGLISH        "TAR-21 Heartbeat Sensor"
+
+REFERENCE           SA80_ACOG
+LANG_ENGLISH        "L86 LSW ACOG Sight"
+
+REFERENCE           SA80_GRIP
+LANG_ENGLISH        "L86 LSW Foregrip"
+
+REFERENCE           SA80_SILENCER
+LANG_ENGLISH        "L86 LSW Silenced"
+
+REFERENCE           SA80_FMJ
+LANG_ENGLISH        "L86 LSW FMJ"
+
+REFERENCE           SA80_ROF
+LANG_ENGLISH        "L86 LSW Rapid Fire"
+
+REFERENCE           SA80_XMAGS
+LANG_ENGLISH        "L86 LSW Extended Mags"
+
+REFERENCE           RPD_FMJ
+LANG_ENGLISH        "RPD FMJ"
+
+REFERENCE           RPD_ROF
+LANG_ENGLISH        "RPD Rapid Fire"
+
+REFERENCE           RPD_XMAGS
+LANG_ENGLISH        "RPD Extended Mags"
+
+REFERENCE           PP2000_AKIMBO
+LANG_ENGLISH        "PP-2000 Akimbo"
+
+REFERENCE           PP2000_FMJ
+LANG_ENGLISH        "PP2000 FMJ"
+
+REFERENCE           PP2000_ROF
+LANG_ENGLISH        "PP2000 Rapid Fire"
+
+REFERENCE           PP2000_XMAGS
+LANG_ENGLISH        "PP2000 Extended Mags"
+
+REFERENCE           PP2000_EOTECH
+LANG_ENGLISH        "PP2000 Holographic"
+
+REFERENCE           KRISS_FMJ
+LANG_ENGLISH        "Vector FMJ"
+
+REFERENCE           KRISS_ROF
+LANG_ENGLISH        "Vector Rapid Fire"
+
+REFERENCE           KRISS_XMAGS
+LANG_ENGLISH        "Vector Extended Mags"
+
+REFERENCE           MP5K_FMJ
+LANG_ENGLISH        "MP5K FMJ"
+
+REFERENCE           MP5K_ROF
+LANG_ENGLISH        "MP5K Rapid Fire"
+
+REFERENCE           MP5K_XMAGS
+LANG_ENGLISH        "MP5K Extended Mags"
+
+REFERENCE           MP5K
+LANG_ENGLISH        "MP5K"
+
+REFERENCE           MP5K_SILENCER
+LANG_ENGLISH        "MP5K Silenced"
+
+REFERENCE           MP5K_REDDOT
+LANG_ENGLISH        "MP5K Red Dot Sight"
+
+REFERENCE           MP5K_GRIP
+LANG_ENGLISH        "MP5K Foregrip"
+
+REFERENCE           P90_FMJ
+LANG_ENGLISH        "P90 FMJ"
+
+REFERENCE           P90_HROF
+LANG_ENGLISH        "P90 Rapid Fire"
+
+REFERENCE           P90_XMAGS
+LANG_ENGLISH        "P90 Extended Mags"
+
+REFERENCE           P90_HEARTBEAT
+LANG_ENGLISH        "P90 Heartbeat"
+
+REFERENCE           P90_MATCH
+LANG_ENGLISH        "P90 Match Grade Ammo"
+
+REFERENCE           TMP_SILENCER
+LANG_ENGLISH        "TMP Silenced"
+
+REFERENCE           TMP_FMJ
+LANG_ENGLISH        "TMP FMJ"
+
+REFERENCE           TMP_ROF
+LANG_ENGLISH        "TMP Rapid Fire"
+
+REFERENCE           TMP_XMAGS
+LANG_ENGLISH        "TMP Extended Mags"
+
+REFERENCE           TMP_EOTECH
+LANG_ENGLISH        "TMP Holographic"
+
+REFERENCE           UMP45_FMJ
+LANG_ENGLISH        "UMP45 FMJ"
+
+REFERENCE           UMP45_HROF
+LANG_ENGLISH        "UMP45 Rapid Fire"
+
+REFERENCE           UMP45_XMAGS
+LANG_ENGLISH        "UMP45 Extended Mags"
+
+REFERENCE           UZI_FMJ
+LANG_ENGLISH        "Mini-Uzi FMJ"
+
+REFERENCE           UZI_ROF
+LANG_ENGLISH        "Mini-Uzi Rapid Fire"
+
+REFERENCE           UZI_XMAGS
+LANG_ENGLISH        "Mini-Uzi Extended Mags"
+
+REFERENCE           UMP45_HEARTBEAT
+LANG_ENGLISH        "UMP45 Heartbeat"
+
+REFERENCE           STRIKER_SILENCER
+LANG_ENGLISH        "Striker Silenced"
+
+REFERENCE           AA12_HB
+LANG_ENGLISH        "AA-12 Heartbeat Sensor"
+
+REFERENCE           AA12_EOTECH
+LANG_ENGLISH        "AA-12 Holographic"
+
+REFERENCE           AA12_REDDOT
+LANG_ENGLISH        "AA-12 Red Dot Sight"
+
+REFERENCE           AA12_GRIP
+LANG_ENGLISH        "AA-12 Foregrip"
+
+REFERENCE           AA12_SILENCER
+LANG_ENGLISH        "AA-12 Silenced"
+
+REFERENCE           AA12_XRAY
+LANG_ENGLISH        "AA-12 X-Ray"
+
+REFERENCE           BENELLI_SILENCER
+LANG_ENGLISH        "M1014 Silenced"
+
+REFERENCE           ANACONDA_AKIMBO
+LANG_ENGLISH        ".44 Magnum Akimbo"
+
+REFERENCE           ANACONDA_FMJ
+LANG_ENGLISH        ".44 Magnum FMJ"
+
+REFERENCE           ANACONDA_XMAGS
+LANG_ENGLISH        ".44 Magnum Extended Mags"
+
+REFERENCE           GLOCK_SILENCER
+LANG_ENGLISH        "G18 Silenced"
+
+REFERENCE           GLOCK_FMJ
+LANG_ENGLISH        "G18 FMJ"
+
+REFERENCE           GLOCK_XMAGS
+LANG_ENGLISH        "G18 Extended Mags"
+
+REFERENCE           BERETTA393_SILENCER
+LANG_ENGLISH        "M93 Raffica Silenced"
+
+REFERENCE           BERETTA393_FMJ
+LANG_ENGLISH        "M93 Raffica FMJ"
+
+REFERENCE           BERETTA393_XMAGS
+LANG_ENGLISH        "M93 Raffica Extended Mags"
+
+REFERENCE           DESERTEAGLE_AKIMBO
+LANG_ENGLISH        "Desert Eagle Akimbo"
+
+REFERENCE           DESERTEAGLE_FMJ
+LANG_ENGLISH        "Desert Eagle FMJ"
+
+REFERENCE           DESERTEAGLE_XMAGS
+LANG_ENGLISH        "Desert Eagle Extended Mags"
+
+REFERENCE           STRIKER_FMJ
+LANG_ENGLISH        "Striker FMJ"
+
+REFERENCE           BENELLI_FMJ
+LANG_ENGLISH        "M1014 FMJ"
+
+REFERENCE           BENELLI_XMAGS
+LANG_ENGLISH        "M1014 Extended Mags"
+
+REFERENCE           BENELLI_XRAY
+LANG_ENGLISH        "M1014 X-Ray"
+
+REFERENCE           AA12_FMJ
+LANG_ENGLISH        "AA-12 FMJ"
+
+REFERENCE           AA12_XMAGS
+LANG_ENGLISH        "AA-12 Extended Mags"
+
+REFERENCE           RPG_BOOM
+LANG_ENGLISH        "RPG-7 Sonic Boom"
+
+REFERENCE           RPG_LOCKAIR
+LANG_ENGLISH        "RPG-7 Lock-on"
+
+REFERENCE           STINGER_LOCKAIR
+LANG_ENGLISH        "Stinger Lock-on"
+
+REFERENCE           STINGER_BOOM
+LANG_ENGLISH        "Stinger Sonic Boom"
+
+REFERENCE           AT4_BOOM
+LANG_ENGLISH        "AT4 Sonic Boom"
+
+REFERENCE           AT4_LOCKAIR
+LANG_ENGLISH        "AT4-HS"
+
+REFERENCE           JAVELIN_BOOM
+LANG_ENGLISH        "Javelin Sonic Boom"
+
+REFERENCE           JAVELIN_LOCKAIR
+LANG_ENGLISH        "Javelin Lock-on"
+
+REFERENCE           M79_BOOM
+LANG_ENGLISH        "Thumper Sonic Boom"
+
+REFERENCE           BARRETT_HEARTBEAT
+LANG_ENGLISH        "Barrett .50cal Heartbeat"
+
+REFERENCE           BARRETT_FMJ
+LANG_ENGLISH        "Barrett .50cal FMJ"
+
+REFERENCE           BARRETT_XMAGS
+LANG_ENGLISH        "Barrett .50cal Extended Mags"
+
+REFERENCE           M21_FMJ
+LANG_ENGLISH        "M21 EBR FMJ"
+
+REFERENCE           M21_THERMAL
+LANG_ENGLISH        "M21 EBR Thermal"
+
+REFERENCE           M21_XMAGS
+LANG_ENGLISH        "M21 EBR Extended Mags"
+
+REFERENCE           CHEYTAC_BLING
+LANG_ENGLISH        "Intervention Custom"
+
+REFERENCE           M21_BLING
+LANG_ENGLISH        "M21 EBR Custom"
+
+REFERENCE           BARRETT_BLING
+LANG_ENGLISH        "Barrett .50cal Custom"
+
+REFERENCE           FN2000_BLING
+LANG_ENGLISH        "F2000 Custom"
+
+REFERENCE           MASADA_BLING
+LANG_ENGLISH        "ACR Custom"
+
+REFERENCE           AK47_BLING
+LANG_ENGLISH        "AK-47 Custom"
+
+REFERENCE           M4_CARBINE_BLING
+LANG_ENGLISH        "M4A1 Custom"
+
+REFERENCE           TAVOR_BLING
+LANG_ENGLISH        "TAR-21 Custom"
+
+REFERENCE           M16_BLING
+LANG_ENGLISH        "M16A4 Custom"
+
+REFERENCE           RPD_BLING
+LANG_ENGLISH        "RPD Custom"
+
+REFERENCE           SA80_BLING
+LANG_ENGLISH        "L86 LSW Custom"
+
+REFERENCE           PP2000_BLING
+LANG_ENGLISH        "PP2000 Custom"
+
+REFERENCE           TMP_BLING
+LANG_ENGLISH        "TMP Custom"
+
+REFERENCE           P90_BLING
+LANG_ENGLISH        "P90 Custom"
+
+REFERENCE           UZI_BLING
+LANG_ENGLISH        "Mini-Uzi Custom"
+
+REFERENCE           KRISS_BLING
+LANG_ENGLISH        "Vector Custom"
+
+REFERENCE           UMP45_BLING
+LANG_ENGLISH        "UMP45 Custom"
+
+REFERENCE           STRIKER_BLING
+LANG_ENGLISH        "Striker Custom"
+
+REFERENCE           BENELLI_BLING
+LANG_ENGLISH        "M1014 Custom"
+
+REFERENCE           AA12_BLING
+LANG_ENGLISH        "AA-12 Custom"
+
+REFERENCE           ANACONDA_BLING
+LANG_ENGLISH        ".44 Magnum Custom"
+
+REFERENCE           GLOCK_BLING
+LANG_ENGLISH        "G18 Custom"
+
+REFERENCE           BERETTA393_BLING
+LANG_ENGLISH        "M93 Raffica Custom"
+
+REFERENCE           DESERTEAGLE_BLING
+LANG_ENGLISH        "Desert Eagle Custom"
+
+REFERENCE           RPG_BLING
+LANG_ENGLISH        "RPG-7 Custom"
+
+REFERENCE           AT4_BLING
+LANG_ENGLISH        "AT4 Custom"
+
+REFERENCE           STINGER_BLING
+LANG_ENGLISH        "Stinger Custom"
+
+REFERENCE           JAVELIN_BLING
+LANG_ENGLISH        "Javelin Custom"
+
+REFERENCE           M79_BLING
+LANG_ENGLISH        "Thumper Custom"
+
+REFERENCE           MP5K_BLING
+LANG_ENGLISH        "MP5K Custom"
+
+REFERENCE           AK47_XMAGS
+LANG_ENGLISH        "AK-47 Extended Mags"
+
+REFERENCE           AK47_ROF
+LANG_ENGLISH        "AK-47 Rapid Fire"
+
+REFERENCE           ONE_MAN_ARMY
+LANG_ENGLISH        "One Man Army"
+
+REFERENCE           AK47_EOTECH
+LANG_ENGLISH        "AK-47 Holographic"
+
+REFERENCE           AK47_THERMAL
+LANG_ENGLISH        "AK-47 Thermal Sight"
+
+REFERENCE           AK47_HEARTBEAT
+LANG_ENGLISH        "AK-47 Heartbeat Sensor"
+
+REFERENCE           FN2000_EOTECH
+LANG_ENGLISH        "F2000 Holographic"
+
+REFERENCE           FN2000_HEARTBEAT
+LANG_ENGLISH        "F2000 Heartbeat Sensor"
+
+REFERENCE           MASADA_EOTECH
+LANG_ENGLISH        "ACR Holographic"
+
+REFERENCE           MASADA_GL
+LANG_ENGLISH        "ACR Grenade Launcher"
+
+REFERENCE           M4_CARBINE_EOTECH
+LANG_ENGLISH        "M4A1 Holographic"
+
+REFERENCE           M4_CARBINE_HEARTBEAT
+LANG_ENGLISH        "M4A1 Heartbeat Sensor"
+
+REFERENCE           M4_CARBINE_SHOTGUN
+LANG_ENGLISH        "M4A1 w/ Shotgun"
+
+REFERENCE           M4_CARBINE_THERMAL
+LANG_ENGLISH        "M4A1 Thermal Sight"
+
+REFERENCE           TAVOR_GL
+LANG_ENGLISH        "TAR-21 Grenade Launcher"
+
+REFERENCE           TAVOR_SHOTGUN
+LANG_ENGLISH        "TAR-21 w/ Shotgun"
+
+REFERENCE           M16_EOTECH
+LANG_ENGLISH        "M16A4 Holographic"
+
+REFERENCE           M16_HEARTBEAT
+LANG_ENGLISH        "M16A4 Heartbeat Sensor"
+
+REFERENCE           M16_SHOTGUN
+LANG_ENGLISH        "M16A4 w/ Shotgun"
+
+REFERENCE           M16_THERMAL
+LANG_ENGLISH        "M16A4 Thermal Sight"
+
+REFERENCE           P90_AKIMBO
+LANG_ENGLISH        "P90 Akimbo"
+
+REFERENCE           P90_EOTECH
+LANG_ENGLISH        "P90 Holographic"
+
+REFERENCE           P90_THERMAL
+LANG_ENGLISH        "P90 Thermal Sight"
+
+REFERENCE           P90_XRAY
+LANG_ENGLISH        "P90 X-Ray"
+
+REFERENCE           UZI_AKIMBO
+LANG_ENGLISH        "Mini-Uzi Akimbo"
+
+REFERENCE           UZI_EOTECH
+LANG_ENGLISH        "Mini-Uzi Holographic"
+
+REFERENCE           UZI_THERMAL
+LANG_ENGLISH        "Mini-Uzi Thermal Sight"
+
+REFERENCE           MP5K_AKIMBO
+LANG_ENGLISH        "MP5K Akimbo"
+
+REFERENCE           MP5K_ACOG
+LANG_ENGLISH        "MP5K ACOG Sight"
+
+REFERENCE           MP5K_EOTECH
+LANG_ENGLISH        "MP5K Holographic"
+
+REFERENCE           MP5K_THERMAL
+LANG_ENGLISH        "MP5K Thermal Sight"
+
+REFERENCE           KRISS_AKIMBO
+LANG_ENGLISH        "Vector Akimbo"
+
+REFERENCE           KRISS_EOTECH
+LANG_ENGLISH        "Vector Holographic"
+
+REFERENCE           KRISS_THERMAL
+LANG_ENGLISH        "Vector Thermal Sight"
+
+REFERENCE           UMP45_AKIMBO
+LANG_ENGLISH        "UMP45 Akimbo"
+
+REFERENCE           UMP45_EOTECH
+LANG_ENGLISH        "UMP45 Holographic"
+
+REFERENCE           UMP45_THERMAL
+LANG_ENGLISH        "UMP45 Thermal Sight"
+
+REFERENCE           UMP45_XRAY
+LANG_ENGLISH        "UMP45 X-Ray"
+
+REFERENCE           SPAS12
+LANG_ENGLISH        "SPAS-12"
+
+REFERENCE           SPAS12_BLING
+LANG_ENGLISH        "SPAS-12 Custom"
+
+REFERENCE           SPAS12_REDDOT
+LANG_ENGLISH        "SPAS-12 Red Dot Sight"
+
+REFERENCE           SPAS12_EOTECH
+LANG_ENGLISH        "SPAS-12 Holographic"
+
+REFERENCE           SPAS12_SILENCER
+LANG_ENGLISH        "SPAS-12 Silencer"
+
+REFERENCE           SPAS12_HEARTBEAT_SENSOR
+LANG_ENGLISH        "SPAS-12 Heartbeat"
+
+REFERENCE           SPAS12_XRAY
+LANG_ENGLISH        "SPAS-12 X-Ray"
+
+REFERENCE           M79_X2
+LANG_ENGLISH        "Thumper x 2"
+
+REFERENCE           CAMO
+LANG_ENGLISH        "&&1 - Camo"
+
+REFERENCE           UPGRADE
+LANG_ENGLISH        "&&1 - &&2"
+
+REFERENCE           AIRDROP_SENTRY_MARKER
+LANG_ENGLISH        "Sentry Airdrop Marker"
+
+REFERENCE           AIRDROP_MEGA_MARKER
+LANG_ENGLISH        "Emergency Airdrop Marker"
+
+REFERENCE           WA2000_ACOG
+LANG_ENGLISH        "WA2000 ACOG Sight"
+
+REFERENCE           WA2000_FMJ
+LANG_ENGLISH        "WA2000 FMJ"
+
+REFERENCE           WA2000_SILENCER
+LANG_ENGLISH        "WA2000 Silenced"
+
+REFERENCE           WA2000_XMAGS
+LANG_ENGLISH        "WA2000 Extended Mags"
+
+REFERENCE           AUG_EOTECH
+LANG_ENGLISH        "AUG HBAR Holographic"
+
+REFERENCE           AUG_ACOG
+LANG_ENGLISH        "AUG HBAR ACOG Sight"
+
+REFERENCE           AUG_FMJ
+LANG_ENGLISH        "AUG HBAR FMJ"
+
+REFERENCE           AUG_GRIP
+LANG_ENGLISH        "AUG HBAR Foregrip"
+
+REFERENCE           AUG_HEARTBEAT
+LANG_ENGLISH        "AUG HBAR Heartbeat Sensor"
+
+REFERENCE           AUG_THERMAL
+LANG_ENGLISH        "AUG HBAR Thermal Sight"
+
+REFERENCE           AUG_XMAGS
+LANG_ENGLISH        "AUG HBAR Extended Mags"
+
+REFERENCE           AUG_SHELLSHOCK
+LANG_ENGLISH        "AUG HBAR Shellshock Ammo"
+
+REFERENCE           M240_FMJ
+LANG_ENGLISH        "M240 FMJ"
+
+REFERENCE           M240_XMAGS
+LANG_ENGLISH        "M240 Extended Mags"
+
+REFERENCE           SA80_EOTECH
+LANG_ENGLISH        "L86 LSW Holographic"
+
+REFERENCE           SA80_REDDOT
+LANG_ENGLISH        "L86 LSW Red Dot Sight"
+
+REFERENCE           SA80_THERMAL
+LANG_ENGLISH        "L86 LSW Thermal Sight"
+
+REFERENCE           BERETTA_AKIMBO
+LANG_ENGLISH        "M9 Akimbo"
+
+REFERENCE           BERETTA_FMJ
+LANG_ENGLISH        "M9 FMJ"
+
+REFERENCE           BERETTA_TACTICAL
+LANG_ENGLISH        "M9 Tactical Knife"
+
+REFERENCE           BERETTA_XMAGS
+LANG_ENGLISH        "M9 Extended Mags"
+
+REFERENCE           BERETTA393_AKIMBO
+LANG_ENGLISH        "M93 Raffica Akimbo"
+
+REFERENCE           BERETTA_BLING
+LANG_ENGLISH        "M9 Custom"
+
+REFERENCE           BERETTA393_EOTECH
+LANG_ENGLISH        "M93 Raffica Holographic"
+
+REFERENCE           BERETTA393_REDDOT
+LANG_ENGLISH        "M93 Raffica Red Dot Sight"
+
+REFERENCE           ANACONDA_TACTICAL
+LANG_ENGLISH        ".44 Magnum Tactical Knife"
+
+REFERENCE           DESERTEAGLE_TACTICAL
+LANG_ENGLISH        "Desert Eagle Tactical Knife"
+
+REFERENCE           GLOCK_AKIMBO
+LANG_ENGLISH        "G18 Akimbo"
+
+REFERENCE           GLOCK_EOTECH
+LANG_ENGLISH        "G18 Holographic"
+
+REFERENCE           GLOCK_REDDOT
+LANG_ENGLISH        "G18 Red Dot Sight"
+
+REFERENCE           USP_AKIMBO
+LANG_ENGLISH        "USP .45 Akimbo"
+
+REFERENCE           USP_FMJ
+LANG_ENGLISH        "USP .45 FMJ"
+
+REFERENCE           USP_TACTICAL
+LANG_ENGLISH        "USP .45 Tactical Knife"
+
+REFERENCE           USP_BLING
+LANG_ENGLISH        "USP .45 Custom"
+
+REFERENCE           USP_XMAGS
+LANG_ENGLISH        "USP .45 Extended Mags"
+
+REFERENCE           BENELLI_EOTECH
+LANG_ENGLISH        "M1014 Holographic"
+
+REFERENCE           SPAS12_FMJ
+LANG_ENGLISH        "SPAS-12 FMJ"
+
+REFERENCE           SPAS12_GRIP
+LANG_ENGLISH        "SPAS-12 Foregrip"
+
+REFERENCE           SPAS12_XMAGS
+LANG_ENGLISH        "SPAS-12 Extended Mags"
+
+REFERENCE           STRIKER_XMAGS
+LANG_ENGLISH        "Striker Extended Mags"
+
+REFERENCE           BARRETT_SILENCER
+LANG_ENGLISH        "Barrett .50cal Silenced"
+
+REFERENCE           CHEYTAC_HEARTBEAT
+LANG_ENGLISH        "Intervention Heartbeat Sensor"
+
+REFERENCE           M21_HEARTBEAT
+LANG_ENGLISH        "M21 EBR Heartbeat Sensor"
+
+REFERENCE           BARRETT_THERMAL
+LANG_ENGLISH        "Barrett .50cal Thermal Sight"
+
+REFERENCE           WA2000_BLING
+LANG_ENGLISH        "WA2000 Custom"
+
+REFERENCE           CHEYTAC_FMJ
+LANG_ENGLISH        "Intervention FMJ"
+
+REFERENCE           CHEYTAC_XMAGS
+LANG_ENGLISH        "Intervention Extended Mags"
+
+REFERENCE           RPD_EOTECH
+LANG_ENGLISH        "RPD Holographic"
+
+REFERENCE           RPD_HEARTBEAT
+LANG_ENGLISH        "RPD Heartbeat Sensor"
+
+REFERENCE           RPD_SILENCER
+LANG_ENGLISH        "RPD Silenced"
+
+REFERENCE           RPD_THERMAL
+LANG_ENGLISH        "RPD Thermal Sight"
+
+REFERENCE           SA80_HEARTBEAT
+LANG_ENGLISH        "L86 LSW Heartbeat Sensor"
+
+REFERENCE           M240_GRIP
+LANG_ENGLISH        "M240 Foregrip"
+
+REFERENCE           FLARE
+LANG_ENGLISH        "Tactical Insertion"
+
+REFERENCE           SCAVENGER_BAG
+LANG_ENGLISH        "Scavenger"
+
+REFERENCE           AA12_HB_SILENCER
+LANG_ENGLISH        "AA-12 Shotgun Heartbeat & Silenced"
+
+REFERENCE           P22
+LANG_ENGLISH        "WALTHER P22"
+
+REFERENCE           P22_3PT
+LANG_ENGLISH        "WALTHER_P22_3PT"
+
+REFERENCE           NXRAILGUN
+LANG_ENGLISH        "Punisher"
+
+REFERENCE           NXTESTWEAPON
+LANG_ENGLISH        "Test Weapon"
+
+REFERENCE           ATBR
+LANG_ENGLISH        "ATBR"
+
+REFERENCE           LASERRIFLE
+LANG_ENGLISH        "Laser Rifle"
+
+REFERENCE           XM25
+LANG_ENGLISH        "XM25"
+
+REFERENCE           XM25_ABG
+LANG_ENGLISH        "Air Burst Grenade Launcher"
+
+REFERENCE           XM25_FLASH
+LANG_ENGLISH        "25mm Flash Grenade Launcher"
+
+REFERENCE           XM25_FRAG
+LANG_ENGLISH        "XM25 Frag Grenades"
+
+REFERENCE           XM25_SMOKE
+LANG_ENGLISH        "XM25 Smoke Grenades"
+
+REFERENCE           XM25_STICK
+LANG_ENGLISH        "XM25 Sticky Grenades"
+
+REFERENCE           ABG
+LANG_ENGLISH        "Air Burst Grenades."
+
+REFERENCE           NEEDLER
+LANG_ENGLISH        "Sticky Grenade Launcher"
+
+REFERENCE           STREAMGUN
+LANG_ENGLISH        "Streamgun"
+
+REFERENCE           STREAMGUN_XRAY
+LANG_ENGLISH        "Streamgun X-Ray"
+
+REFERENCE           LASERSNIPER
+LANG_ENGLISH        "ESR"
+
+REFERENCE           LASERSNIPER_ACOG
+LANG_ENGLISH        "ESR ACOG Sight"
+
+REFERENCE           LASERSNIPER_BLING
+LANG_ENGLISH        "ESR Custom"
+
+REFERENCE           LASERSNIPER_FMJ
+LANG_ENGLISH        "ESR FMJ"
+
+REFERENCE           LASERSNIPER_SILENCER
+LANG_ENGLISH        "ESR Silenced"
+
+REFERENCE           LASERSNIPER_THERMAL
+LANG_ENGLISH        "ESR Thermal Sight"
+
+REFERENCE           LASERSNIPER_XMAGS
+LANG_ENGLISH        "ESR Extended Mags"
+
+REFERENCE           EXPISTOL
+LANG_ENGLISH        "Explosive Pistol"
+
+REFERENCE           EXPISTOL_AKIMBO
+LANG_ENGLISH        "Explosive Pistol Akimbo"
+
+REFERENCE           EXPISTOL_BLING
+LANG_ENGLISH        "Explosive Pistol Custom"
+
+REFERENCE           EXPISTOL_SILENCER
+LANG_ENGLISH        "Explosive Pistol Silenced"
+
+REFERENCE           EXPISTOL_TACTICAL
+LANG_ENGLISH        "Explosive Pistol Tactical Knife"
+
+REFERENCE           EXPISTOL_XMAGS
+LANG_ENGLISH        "Explosive Pistol Extended Mags"
+
+REFERENCE           ARESMINIGUN
+LANG_ENGLISH        "Ares Minigun"
+
+REFERENCE           LASERBURST
+LANG_ENGLISH        "Laser Burst Rifle"
+
+REFERENCE           SRM1216
+LANG_ENGLISH        "SRM 1216"
+
+REFERENCE           SRM1216DIST
+LANG_ENGLISH        "SRM 1216 Long Distance"
+
+REFERENCE           SRM1216EXP
+LANG_ENGLISH        "SRM 1216 Exploding Rounds"
+
+REFERENCE           SRM1216PEN
+LANG_ENGLISH        "SRM 1216 High Penetration"
+
+REFERENCE           M320
+LANG_ENGLISH        "M320"
+
+REFERENCE           SRM1216_EOTECH
+LANG_ENGLISH        "SRM1216 Holographic"
+
+REFERENCE           SRM1216_FMJ
+LANG_ENGLISH        "SRM1216 FMJ"
+
+REFERENCE           SRM1216_GRIP
+LANG_ENGLISH        "SRM1216 Grip"
+
+REFERENCE           SRM1216_REDDOT
+LANG_ENGLISH        "SRM1216 Red Dot"
+
+REFERENCE           SRM1216_SILENCER
+LANG_ENGLISH        "SRM1216 Silenced"
+
+REFERENCE           SRM1216_XMAGS
+LANG_ENGLISH        "SRM1216 Extended Mags"
+
+REFERENCE           SRM1216_XRAY
+LANG_ENGLISH        "SRM1216 XRAY"
+
+REFERENCE           BEAMCANNON
+LANG_ENGLISH        "Beam Cannon"
+
+REFERENCE           AMMO_REGULAR
+LANG_ENGLISH        "Regular"
+
+REFERENCE           AMMO_EXPLOSIVE
+LANG_ENGLISH        "Explosive"
+
+REFERENCE           AMMO_PENETRATION
+LANG_ENGLISH        "Penetration"
+
+REFERENCE           AMMO_SLUG
+LANG_ENGLISH        "Slug"
+
+REFERENCE           AMMO_DISTANCE
+LANG_ENGLISH        "Distance"
+
+REFERENCE           UZI_MOON
+LANG_ENGLISH        "Type 207"
+
+REFERENCE           LUNARABG
+LANG_ENGLISH        "ABG-4L"
+
+REFERENCE           CHINESE_LGV_TURRET_MAGICBULLET
+LANG_ENGLISH        "EC LGV Turret"
+
+REFERENCE           LUNARRIFLE
+LANG_ENGLISH        "HERA-82"
+
+REFERENCE           EMP_GRENADE
+LANG_ENGLISH        "EMP Grenade"
+
+REFERENCE           GAS_GRENADE
+LANG_ENGLISH        "Gas Grenade"
+
+REFERENCE           LIDAR_GRENADE
+LANG_ENGLISH        "Lidar Grenade"
+
+REFERENCE           SONIC_WARDEN
+LANG_ENGLISH        "Sonic Warden"
+
+REFERENCE           LIDARGRENADE
+LANG_ENGLISH        "Lidar"
+
+REFERENCE           GASGRENADE
+LANG_ENGLISH        "Gas"
+
+REFERENCE           EMPGRENADE
+LANG_ENGLISH        "EMP"
+
+REFERENCE           UAV_STRIKE_BINOCULARS
+LANG_ENGLISH        "Laser Strike Binoculars"
+
+REFERENCE           UMP55
+LANG_ENGLISH        "UMP"
+
+REFERENCE           UMP55_REFLEX
+LANG_ENGLISH        "UMP Red Dot Sight"
+
+REFERENCE           RPGX
+LANG_ENGLISH        "RPG"
+
+REFERENCE           TASER
+LANG_ENGLISH        "X-11 BREP"
+
+REFERENCE           CD2B
+LANG_ENGLISH        "CDD"
+
+REFERENCE           CD2B_GRIP
+LANG_ENGLISH        "CDD Grip"
+
+REFERENCE           BREACHER
+LANG_ENGLISH        "EC Breacher"
+
+REFERENCE           AA12_AKIMBO
+LANG_ENGLISH        "AA12 Akimbo"
+
+REFERENCE           AUGKS
+LANG_ENGLISH        "X-Aug"
+
+REFERENCE           XM25KS
+LANG_ENGLISH        "Noisy Cricket"
+
+REFERENCE           JAVELINKS
+LANG_ENGLISH        "X-Javelin"
+
+REFERENCE           LANCER
+LANG_ENGLISH        "Lancer"
+
+REFERENCE           LANCER_XRAY
+LANG_ENGLISH        "Lancer Sonoscope"
+
+REFERENCE           LANCER_SILENCER_XRAY
+LANG_ENGLISH        "Lancer Sonoscope Silenced"
+
+REFERENCE           XMPROTO
+LANG_ENGLISH        "Lancer XT80"
+
+REFERENCE           XRAYDEVICE
+LANG_ENGLISH        "X-Ray Device"
+
+REFERENCE           SCARH
+LANG_ENGLISH        "SCAR - Heavy"
+
+REFERENCE           SCARRG
+LANG_ENGLISH        "SCAR - Run and Gun"
+
+REFERENCE           MASADARG
+LANG_ENGLISH        "ACR - Run and Gun"
+
+REFERENCE           MASADASN
+LANG_ENGLISH        "ACR - Sniper"
+
+REFERENCE           GRAPPLINGHOOK
+LANG_ENGLISH        "Grappling Hook"
+
+REFERENCE           BLOCKOUTA
+LANG_ENGLISH        "Blockout A Test Weapon"
+
+REFERENCE           BLOCKOUTB
+LANG_ENGLISH        "Blockout B Test Weapon"
+
+REFERENCE           BLOCKOUTC
+LANG_ENGLISH        "Blockout C Test Weapon"
+
+REFERENCE           PRED_GRENADE
+LANG_ENGLISH        "Predator Grenade"
+
+REFERENCE           KSG_FMJ
+LANG_ENGLISH        "KSG FMJ"
+
+REFERENCE           KSG_GRIP
+LANG_ENGLISH        "KSG Grip"
+
+REFERENCE           KSG
+LANG_ENGLISH        "KSG"
+
+REFERENCE           KSG_REDDOT
+LANG_ENGLISH        "KSG Red Dot Sight"
+
+REFERENCE           KSG_SILENCER
+LANG_ENGLISH        "KSG Silenced"
+
+REFERENCE           KSG_XMAGS
+LANG_ENGLISH        "KSG Extended Mags"
+
+REFERENCE           AJAX
+LANG_ENGLISH        "AJAX"
+
+REFERENCE           MASADA_ASTOCK
+LANG_ENGLISH        "ACR Adjustable Stock"
+
+REFERENCE           SCAR_ASTOCK
+LANG_ENGLISH        "SCAR Adjustable Stock"
+
+REFERENCE           LUNAR_EC_SNIPER
+LANG_ENGLISH        "Lunar EC Sniper"
+
+REFERENCE           EC_SHOTGUN
+LANG_ENGLISH        "EC Shotgun (Lunar)"
+
+REFERENCE           YEVGENY
+LANG_ENGLISH        "Yevgeny"
+
+REFERENCE           M240_HROF
+LANG_ENGLISH        "M240 Rapid Fire"
+
+REFERENCE           M240_LROF
+LANG_ENGLISH        "M240 Reduced Fire"
+
+REFERENCE           RPD_HROF
+LANG_ENGLISH        "RPD Rapid Fire"
+
+REFERENCE           RPD_LROF
+LANG_ENGLISH        "RPD Reduced Fire"
+
+REFERENCE           HULC_GRENADE
+LANG_ENGLISH        "HULC grenade"
+
+REFERENCE           ASMK27
+LANG_ENGLISH        "Atlas Mk.27"
+
+REFERENCE           ASMK27_BLING
+LANG_ENGLISH        "Atlas Mk.27 Custom"
+
+REFERENCE           ASMK27_XRAY
+LANG_ENGLISH        "Atlas Mk.27 X-Ray"
+
+REFERENCE           ASMK27_ACOG
+LANG_ENGLISH        "Atlas Mk.27 ACOG sight"
+
+REFERENCE           ASMK27_EOTECH
+LANG_ENGLISH        "Atlas Mk.27 Holographic"
+
+REFERENCE           ASMK27_FGRIP
+LANG_ENGLISH        "Atlas Mk.27 Forerip"
+
+REFERENCE           ASMK27_ABG
+LANG_ENGLISH        "Atlas Mk.27 w/ ABG"
+
+REFERENCE           ASMK27_GL
+LANG_ENGLISH        "Atlas Mk.27 Grenade Launcher"
+
+REFERENCE           ASMK27_SILENCER
+LANG_ENGLISH        "Atlas Mk.27 Silenced"
+
+REFERENCE           ASMK27_SILENCER_XRAY
+LANG_ENGLISH        "Atlas Mk.27 Silenced w/ X-Ray"
+
+REFERENCE           ASMK27_FMJ
+LANG_ENGLISH        "Atlas Mk.27 FMJ"
+
+REFERENCE           ASMK27_XMAGS
+LANG_ENGLISH        "Atlas Mk.27 Extended Mags"
+
+REFERENCE           ASMK27_REFLEX
+LANG_ENGLISH        "Atlas Mk.27 Red Dot Sight"
+
+REFERENCE           ASMK27_THERMAL
+LANG_ENGLISH        "Atlas Mk.27 Thermal Sight"
+
+REFERENCE           ASMK27_MATCH
+LANG_ENGLISH        "Atlas Mk.27 Match Grade Ammo"
+
+REFERENCE           ASMK27_ASTOCK
+LANG_ENGLISH        "Atlas Mk.27 Adjustable Stock"
+
+REFERENCE           ASMK27_HROF
+LANG_ENGLISH        "Atlas Mk.27 Rapid Fire"
+
+REFERENCE           ASMK27_PLUSONE
+LANG_ENGLISH        "Atlas Mk.27 Plus One"
+
+REFERENCE           ECR
+LANG_ENGLISH        "ECR Phoenix"
+
+REFERENCE           ECR_SILENCER
+LANG_ENGLISH        "ECR Silenced"
+
+REFERENCE           ECR_FMJ
+LANG_ENGLISH        "ECR FMJ"
+
+REFERENCE           ECR_XMAGS
+LANG_ENGLISH        "ECR Extended Mags"
+
+REFERENCE           ECR_ACOG
+LANG_ENGLISH        "ECR ACOG Sight"
+
+REFERENCE           ECR_THERMAL
+LANG_ENGLISH        "ECR Thermal Sight"
+
+REFERENCE           ECR_REFLEX
+LANG_ENGLISH        "ECR Red Dot Sight"
+
+REFERENCE           ECR_BLING
+LANG_ENGLISH        "ECR Custom"
+
+REFERENCE           ECR_MATCH
+LANG_ENGLISH        "ECR Match Grade Ammo"
+
+REFERENCE           ECR_ASTOCK
+LANG_ENGLISH        "ECR Adjustable Stock"
+
+REFERENCE           ECR_AR
+LANG_ENGLISH        "ECR Phoenix AR (Lunar)"
+
+REFERENCE           ECR_SMG
+LANG_ENGLISH        "ECR Phoenix SMG (Lunar)"
+
+REFERENCE           FAL
+LANG_ENGLISH        "FAL"
+
+REFERENCE           FAL_ACOG
+LANG_ENGLISH        "XCR ACOG Sight"
+
+REFERENCE           FAL_REDDOT
+LANG_ENGLISH        "FAL Red Dot Sight"
+
+REFERENCE           FAL_SHOTGUN
+LANG_ENGLISH        "XCR w/ Shotgun"
+
+REFERENCE           FAL_MATCH
+LANG_ENGLISH        "XCR Match Grade Ammo"
+
+REFERENCE           FAL_FMJ
+LANG_ENGLISH        "XCR FMJ"
+
+REFERENCE           FAL_ROF
+LANG_ENGLISH        "XCR Rapid Fire"
+
+REFERENCE           FAL_XMAGS
+LANG_ENGLISH        "XCR Extended Mags"
+
+REFERENCE           FAL_BLING
+LANG_ENGLISH        "XCR Custom"
+
+REFERENCE           FAL_EOTECH
+LANG_ENGLISH        "XCR Holographic"
+
+REFERENCE           FAL_GL
+LANG_ENGLISH        "XCR Grenade Laucher"
+
+REFERENCE           FAL_HEARTBEAT
+LANG_ENGLISH        "XCR Heartbeat Sensor"
+
+REFERENCE           FAL_SILENCER
+LANG_ENGLISH        "XCR Silenced"
+
+REFERENCE           FAL_THERMAL
+LANG_ENGLISH        "XCR Thermal Sight"
+
+REFERENCE           FAL_ASTOCK
+LANG_ENGLISH        "XCR Adjustable Stock"
+
+REFERENCE           FAMAS
+LANG_ENGLISH        "FAMAS"
+
+REFERENCE           FAMAS_ACOG
+LANG_ENGLISH        "FAMAS ACOG Sight"
+
+REFERENCE           FAMAS_SILENCER
+LANG_ENGLISH        "FAMAS Silenced"
+
+REFERENCE           FAMAS_REDDOT
+LANG_ENGLISH        "FAMAS Red Dot Sight"
+
+REFERENCE           FAMAS_SHOTGUN
+LANG_ENGLISH        "FAMAS w/ Shotgun"
+
+REFERENCE           FAMAS_THERMAL
+LANG_ENGLISH        "FAMAS Thermal Sight"
+
+REFERENCE           FAMAS_FMJ
+LANG_ENGLISH        "FAMAS FMJ"
+
+REFERENCE           FAMAS_ROF
+LANG_ENGLISH        "FAMAS Rapid Fire"
+
+REFERENCE           FAMAS_XMAGS
+LANG_ENGLISH        "FAMAS Extended Mags"
+
+REFERENCE           FAMAS_BLING
+LANG_ENGLISH        "FAMAS Custom"
+
+REFERENCE           FAMAS_EOTECH
+LANG_ENGLISH        "FAMAS Holographic"
+
+REFERENCE           FAMAS_GL
+LANG_ENGLISH        "FAMAS Grenade Launcher"
+
+REFERENCE           FAMAS_HEARTBEAT
+LANG_ENGLISH        "FAMAS Heartbeat Sensor"
+
+REFERENCE           FAMAS_ASTOCK
+LANG_ENGLISH        "FAMAS Adjustable Stock"
+
+REFERENCE           FAMAS_MATCH
+LANG_ENGLISH        "FAMAS Match Grade Ammo"
+
+REFERENCE           FAMAS_HROF
+LANG_ENGLISH        "FAMAS Rapid Fire"
+
+REFERENCE           FAMAS_PLUSONE
+LANG_ENGLISH        "FAMAS Plus One"
+
+REFERENCE           PULSERIFLE
+LANG_ENGLISH        "Pulse Rifle"
+
+REFERENCE           PULSERIFLE_BLING
+LANG_ENGLISH        "Pulse Rifle Custom"
+
+REFERENCE           PULSERIFLE_THERMAL
+LANG_ENGLISH        "Pulse Rifle Thermal Sight"
+
+REFERENCE           PULSERIFLE_SILENCER
+LANG_ENGLISH        "Pulse Rifle Silenced"
+
+REFERENCE           PULSERIFLE_REFLEX
+LANG_ENGLISH        "Pulse Rifle Red Dot Sight"
+
+REFERENCE           PULSERIFLE_FMJ
+LANG_ENGLISH        "Pulse Rifle FMJ"
+
+REFERENCE           PULSERIFLE_ACOG
+LANG_ENGLISH        "Pulse Rifle ACOG Sight"
+
+REFERENCE           PULSERIFLE_XRAY
+LANG_ENGLISH        "Pulse Rifle X-Ray"
+
+REFERENCE           PULSERIFLE_XMAGS
+LANG_ENGLISH        "Pulse Rifle Extended Mags"
+
+REFERENCE           PULSERIFLE_BOOST
+LANG_ENGLISH        "Pulse Rifle Boosted"
+
+REFERENCE           PULSERIFLE_ASTOCK
+LANG_ENGLISH        "Pulse Rifle Adjustable Stock"
+
+REFERENCE           SCAR2_ACOG
+LANG_ENGLISH        "SCAR Mod 2 ACOG Sight"
+
+REFERENCE           SCAR2_FMJ
+LANG_ENGLISH        "SCAR Mod 2 FMJ"
+
+REFERENCE           SCAR2
+LANG_ENGLISH        "SCAR Mod 2"
+
+REFERENCE           SCAR2_REDDOT
+LANG_ENGLISH        "SCAR Mod 2 Red Dot Sight"
+
+REFERENCE           SCAR2_SILENCER
+LANG_ENGLISH        "SCAR Mod 2 Silenced"
+
+REFERENCE           SCAR2_THERMAL
+LANG_ENGLISH        "SCAR Mod 2 Thermal Sight"
+
+REFERENCE           SCAR2_XMAGS
+LANG_ENGLISH        "SCAR Mod 2 Extended Mags"
+
+REFERENCE           SCAR2_BLING
+LANG_ENGLISH        "SCAR Mod 2 Custom"
+
+REFERENCE           SCAR2_MATCH
+LANG_ENGLISH        "SCAR Mod 2 Match Grade Ammo"
+
+REFERENCE           SCAR2_ASTOCK
+LANG_ENGLISH        "SCAR Mod 2 Adjustable Stock"
+
+REFERENCE           XM108_BLING
+LANG_ENGLISH        "XM108 SEAR Custom"
+
+REFERENCE           XM108
+LANG_ENGLISH        "XM108 SEAR"
+
+REFERENCE           XM108_ACOG
+LANG_ENGLISH        "XM108 SEAR ACOG Sight"
+
+REFERENCE           XM108_FMJ
+LANG_ENGLISH        "XM108 SEAR FMJ"
+
+REFERENCE           XM108_REFLEX
+LANG_ENGLISH        "XM108 SEAR Red Dot Sight"
+
+REFERENCE           XM108_SILENCER
+LANG_ENGLISH        "XM108 SEAR Silenced"
+
+REFERENCE           XM108_THERMAL
+LANG_ENGLISH        "XM108 SEAR Thermal Sight"
+
+REFERENCE           XM108_XMAGS
+LANG_ENGLISH        "XM108 SEAR Extended Mags"
+
+REFERENCE           XM108_XRAY
+LANG_ENGLISH        "XM108 SEAR X-Ray Sight"
+
+REFERENCE           XM108_MATCH
+LANG_ENGLISH        "XM108 SEAR Match Grade Ammo"
+
+REFERENCE           XM108_ASTOCK
+LANG_ENGLISH        "XM108 SEAR Adjustable Stock"
+
+REFERENCE           XM108_HHH_VZOOM
+LANG_ENGLISH        "XM108 SEAR 3X"
+
+REFERENCE           XM108_HHH_VZOOM_2
+LANG_ENGLISH        "XM108 SEAR 6X"
+
+REFERENCE           XM108_ASCO_ATTACH
+LANG_ENGLISH        "XM108 ASCO Sight / 6x"
+
+REFERENCE           XM108_ASCO
+LANG_ENGLISH        "XM108 ASCO Sight / Red Dot"
+
+REFERENCE           TYPE104
+LANG_ENGLISH        "Type 104"
+
+REFERENCE           TYPE104_BLING
+LANG_ENGLISH        "Type 104 Custom"
+
+REFERENCE           TYPE104_ACOG
+LANG_ENGLISH        "Type 104 ACOG Sight"
+
+REFERENCE           TYPE104_AKIMBO
+LANG_ENGLISH        "Type 104 Akimbo"
+
+REFERENCE           TYPE104_FMJ
+LANG_ENGLISH        "Type 104 FMJ"
+
+REFERENCE           TYPE104_REFLEX
+LANG_ENGLISH        "Type 104 Red Dot sight"
+
+REFERENCE           TYPE104_HROF
+LANG_ENGLISH        "Type 104 Rapid Fire"
+
+REFERENCE           TYPE104_SILENCER
+LANG_ENGLISH        "Type 104 Silenced"
+
+REFERENCE           TYPE104_XMAGS
+LANG_ENGLISH        "Type 104 Extended Mags"
+
+REFERENCE           TYPE104_MATCH
+LANG_ENGLISH        "Type 104 Match Grade Ammo"
+
+REFERENCE           TYPE104_ASTOCK
+LANG_ENGLISH        "Type 104 Adjustable Stock"
+
+REFERENCE           GLO
+LANG_ENGLISH        "G-LO 7.62mm"
+
+REFERENCE           GLO_ACOG
+LANG_ENGLISH        "G-LO 7.62mm ACOG Sight"
+
+REFERENCE           GLO_BLING
+LANG_ENGLISH        "G-LO 7.62mm Custom"
+
+REFERENCE           GLO_FMJ
+LANG_ENGLISH        "G-LO 7.62mm FMJ"
+
+REFERENCE           GLO_REFLEX
+LANG_ENGLISH        "G-LO 7.62mm Red Dot Sight"
+
+REFERENCE           GLO_SILENCER
+LANG_ENGLISH        "G-LO 7.62mm Silenced"
+
+REFERENCE           GLO_THERMAL
+LANG_ENGLISH        "G-LO 7.62mm Thermal Sight"
+
+REFERENCE           GLO_XMAGS
+LANG_ENGLISH        "G-LO 7.62mm Extended Mags"
+
+REFERENCE           GLO_XRAY
+LANG_ENGLISH        "G-LO 7.62mm X-Ray"
+
+REFERENCE           GLO_SHELLSHOCK
+LANG_ENGLISH        "G-LO 7.62mm Shellshock Ammo"
+
+REFERENCE           GLO_HROF
+LANG_ENGLISH        "G-LO 7.62mm Rapid Fire"
+
+REFERENCE           GLO_LROF
+LANG_ENGLISH        "G-LO 7.62mm Reduced Fire"
+
+REFERENCE           HELISUPPORT_MARKER
+LANG_ENGLISH        "Helicopter Support Marker"
+

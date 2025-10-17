@@ -1,0 +1,174 @@
+// Note to translators:
+// If a sentence is the same in your language then please change it to "#same"
+//
+// eg:
+// LANG_ENGLISH  "HALT"
+// LANG_GERMAN   "#same"
+//
+// (This is so we can tell which strings have been signed-off as ok to be the same words for QA
+//  and because we do not store duplicate strings, which will then get exported again next time
+//  as being untranslated.)
+//
+VERSION             "1"
+CONFIG              "C:\trees\nx1\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           CLASS
+LANG_ENGLISH        "Class"
+
+REFERENCE           CLASS1
+LANG_ENGLISH        "Assault"
+
+REFERENCE           CLASS2
+LANG_ENGLISH        "Assault Heavy"
+
+REFERENCE           CLASS3
+LANG_ENGLISH        "Assault Burst"
+
+REFERENCE           CLASS4
+LANG_ENGLISH        "Assault Energy"
+
+REFERENCE           CLASS5
+LANG_ENGLISH        "Run And Gun"
+
+REFERENCE           DEFAULT_ASSAULT
+LANG_ENGLISH        "Default Assault - Burst"
+
+REFERENCE           DEFAULT_SPECOPS
+LANG_ENGLISH        "Default Assault - Heavy"
+
+REFERENCE           DEFAULT_HEAVYGUNNER
+LANG_ENGLISH        "Default Shield"
+
+REFERENCE           DEFAULT_DEMOLITIONS
+LANG_ENGLISH        "Default Sniper"
+
+REFERENCE           DEFAULT_RUNANDGUN
+LANG_ENGLISH        "Default Spec Ops"
+
+REFERENCE           DEFAULT_SNIPER
+LANG_ENGLISH        "Default LMG"
+
+REFERENCE           MARINES_CLASSES
+LANG_ENGLISH        "MARINES CLASSES"
+
+REFERENCE           OPFOR_CLASSES
+LANG_ENGLISH        "OPPOSITION CLASSES"
+
+REFERENCE           SAS_CLASSES
+LANG_ENGLISH        "SAS CLASSES"
+
+REFERENCE           SPETSNAZ_CLASSES
+LANG_ENGLISH        "SPETSNAZ CLASSES"
+
+REFERENCE           GRENADIER
+LANG_ENGLISH        "Grenadier"
+
+REFERENCE           CUSTOM1
+LANG_ENGLISH        "My Assault"
+
+REFERENCE           CUSTOM2
+LANG_ENGLISH        "My Spec Ops"
+
+REFERENCE           CUSTOM3
+LANG_ENGLISH        "My Heavy Gunner"
+
+REFERENCE           CUSTOM5
+LANG_ENGLISH        "My Sniper"
+
+REFERENCE           CUSTOM4
+LANG_ENGLISH        "My Demolitions"
+
+REFERENCE           SLOT1
+LANG_ENGLISH        "Heavy Gunner"
+
+REFERENCE           SLOT2
+LANG_ENGLISH        "CQB"
+
+REFERENCE           SLOT3
+LANG_ENGLISH        "Cloaking Shield"
+
+REFERENCE           SLOT4
+LANG_ENGLISH        "LMG"
+
+REFERENCE           SLOT5
+LANG_ENGLISH        "Sniper"
+
+REFERENCE           OFFLINE_CLASS1
+LANG_ENGLISH        "Grenadier"
+
+REFERENCE           OFFLINE_CLASS2
+LANG_ENGLISH        "Ghost"
+
+REFERENCE           OFFLINE_CLASS3
+LANG_ENGLISH        "Survivalist"
+
+REFERENCE           OFFLINE_CLASS4
+LANG_ENGLISH        "Pointman"
+
+REFERENCE           OFFLINE_CLASS5
+LANG_ENGLISH        "Marksman"
+
+REFERENCE           OFFLINE_CLASS6
+LANG_ENGLISH        "Warfighter"
+
+REFERENCE           OFFLINE_CLASS7
+LANG_ENGLISH        "Close Quarters"
+
+REFERENCE           OFFLINE_CLASS8
+LANG_ENGLISH        "Overwatch"
+
+REFERENCE           OFFLINE_CLASS9
+LANG_ENGLISH        "Defender"
+
+REFERENCE           OFFLINE_CLASS10
+LANG_ENGLISH        "Sharpshooter"
+
+REFERENCE           CLASS6
+LANG_ENGLISH        "Commando"
+
+REFERENCE           CLASS7
+LANG_ENGLISH        "First Recon"
+
+REFERENCE           CLASS8
+LANG_ENGLISH        "Defender"
+
+REFERENCE           CLASS9
+LANG_ENGLISH        "Sharpshooter"
+
+REFERENCE           CLASS10
+LANG_ENGLISH        "Crowd Control"
+
+REFERENCE           CLASS11
+LANG_ENGLISH        "Charger"
+
+REFERENCE           NEWREF
+LANG_ENGLISH        "New text"
+
+REFERENCE           CLASS12
+LANG_ENGLISH        "Scout"
+
+REFERENCE           CLASS13
+LANG_ENGLISH        "Overwatch"
+
+REFERENCE           CLASS14
+LANG_ENGLISH        "Raider"
+
+REFERENCE           CLASS15
+LANG_ENGLISH        "Cleaner"
+
+REFERENCE           SLOT6
+LANG_ENGLISH        "Custom Class 1"
+
+REFERENCE           SLOT7
+LANG_ENGLISH        "Custom Class 2"
+
+REFERENCE           SLOT8
+LANG_ENGLISH        "Custom Class 3"
+
+REFERENCE           SLOT9
+LANG_ENGLISH        "Custom Class 4"
+
+REFERENCE           SLOT10
+LANG_ENGLISH        "Custom Class 5"
+

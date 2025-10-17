@@ -1,0 +1,1926 @@
+// Note to translators:
+// If a sentence is the same in your language then please change it to "#same"
+//
+// eg:
+// LANG_ENGLISH  "HALT"
+// LANG_GERMAN   "#same"
+//
+// (This is so we can tell which strings have been signed-off as ok to be the same words for QA
+//  and because we do not store duplicate strings, which will then get exported again next time
+//  as being untranslated.)
+//
+VERSION             "1"
+CONFIG              "C:\trees\nx1\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           EXTREME_CONDITIONING
+LANG_ENGLISH        "Extreme Conditioning"
+
+REFERENCE           STOPPING_POWER
+LANG_ENGLISH        "Stopping Power"
+
+REFERENCE           BOMB_SQUAD
+LANG_ENGLISH        "SitRep"
+
+REFERENCE           SONIC_BOOM
+LANG_ENGLISH        "Sonic Boom"
+
+REFERENCE           LAST_STAND
+LANG_ENGLISH        "Last Stand"
+
+REFERENCE           MARTYRDOM
+LANG_ENGLISH        "Martyrdom"
+
+REFERENCE           DEEP_IMPACT
+LANG_ENGLISH        "Deep Impact"
+
+REFERENCE           STEADY_AIM
+LANG_ENGLISH        "Steady Aim"
+
+REFERENCE           SLEIGHT_OF_HAND
+LANG_ENGLISH        "Sleight of Hand"
+
+REFERENCE           BANDOLIER
+LANG_ENGLISH        "Bandolier"
+
+REFERENCE           OVERKILL
+LANG_ENGLISH        "Overkill"
+
+REFERENCE           JUGGERNAUT
+LANG_ENGLISH        "Juggernaut"
+
+REFERENCE           FRAG_X_3
+LANG_ENGLISH        "Frag x 3"
+
+REFERENCE           SPECIAL_GRENADES_X_3
+LANG_ENGLISH        "Special Grenades x 3"
+
+REFERENCE           C4_X_2
+LANG_ENGLISH        "C4 x 2"
+
+REFERENCE           DEAD_SILENCE
+LANG_ENGLISH        "Dead Silence"
+
+REFERENCE           IRON_LUNGS
+LANG_ENGLISH        "Iron Lungs"
+
+REFERENCE           UAV_JAMMER
+LANG_ENGLISH        "UAV Jammer"
+
+REFERENCE           EAVESDROP
+LANG_ENGLISH        "Eavesdrop"
+
+REFERENCE           CLAYMORE_X_2
+LANG_ENGLISH        "Claymore x 2"
+
+REFERENCE           RPG7_X_2
+LANG_ENGLISH        "RPG-7 x 2"
+
+REFERENCE           NONE
+LANG_ENGLISH        "None"
+
+REFERENCE           GRENADE_LAUNCHER
+LANG_ENGLISH        "Grenade Launcher"
+
+REFERENCE           GRIP
+LANG_ENGLISH        "Grip"
+
+REFERENCE           ATTACHMENT
+LANG_ENGLISH        "Attachment"
+
+REFERENCE           SEMIAUTOMATIC_WITH_A
+LANG_ENGLISH        "Semi-automatic with a high capacity.  Effective at close range."
+
+REFERENCE           SEMIAUTOMATIC_WITH_MEDIUM
+LANG_ENGLISH        "Semi-automatic with medium capacity and power.  Effective at close range."
+
+REFERENCE           SEMIAUTOMATIC_WITH_MEDIUM1
+LANG_ENGLISH        "Semi-automatic with medium capacity and power.  Effective at close range."
+
+REFERENCE           SEMIAUTOMATIC_WITH_HIGH
+LANG_ENGLISH        "Semi-automatic with high power.  Effective at close range."
+
+REFERENCE           GOLD_PLATED_SEMIAUTOMATIC
+LANG_ENGLISH        "Gold plated semi-automatic with high power.  Effective at close range."
+
+REFERENCE           FULLY_AUTOMATIC_WITH
+LANG_ENGLISH        "Fully automatic with good accuracy.  Effective at close to medium range."
+
+REFERENCE           FULLY_AUTOMATIC_WITH1
+LANG_ENGLISH        "Fully automatic with a high rate of fire.  Effective at close range."
+
+REFERENCE           FULLY_AUTOMATIC_WITH2
+LANG_ENGLISH        "Fully automatic with a high rate of fire.  Effective at close to medium range."
+
+REFERENCE           FULLY_AUTOMATIC_WITH3
+LANG_ENGLISH        "Fully automatic with high power.  Effective at close to medium range."
+
+REFERENCE           FULLY_AUTOMATIC_WITH4
+LANG_ENGLISH        "Fully automatic with a high capacity.  Effective at close to medium range."
+
+REFERENCE           FULLY_AUTOMATIC_WITH5
+LANG_ENGLISH        "Fully automatic with high power.  Effective at medium range."
+
+REFERENCE           SINGLEFIRE_WITH_HIGH
+LANG_ENGLISH        "Single-fire with high power.  Effective at medium to long range."
+
+REFERENCE           FULLY_AUTOMATIC_WITH6
+LANG_ENGLISH        "Fully automatic with good accuracy.  Effective at medium range."
+
+REFERENCE           SINGLEFIRE_WITH_A_HIGH
+LANG_ENGLISH        "Single-fire with a high capacity.  Effective at medium to long range."
+
+REFERENCE           FULLY_AUTOMATIC_WITH7
+LANG_ENGLISH        "Fully automatic with a high rate of fire.  Effective at medium range."
+
+REFERENCE           SEMIAUTOMATIC_WITH_THREE
+LANG_ENGLISH        "Semi-automatic with three round burst fire.  Effective at medium to long range."
+
+REFERENCE           FULLY_AUTOMATIC_WITH8
+LANG_ENGLISH        "Fully automatic with low recoil.  Effective at medium range."
+
+REFERENCE           GRENADE_LAUNCHER_ATTACHMENT
+LANG_ENGLISH        "Undermounted grenade launcher."
+
+REFERENCE           PORTABLE_SHOULDERLAUNCHED
+LANG_ENGLISH        "Portable shoulder-launched rocket propelled grenade.  Causes a large explosive blast on impact."
+
+REFERENCE           SEMIAUTOMATIC_SNIPER
+LANG_ENGLISH        "Semi-automatic sniper rifle.  Effective at long range."
+
+REFERENCE           BOLTACTION_SNIPER_RIFLE
+LANG_ENGLISH        "Bolt-action sniper rifle.  Effective at long range."
+
+REFERENCE           SEMIAUTOMATIC_SNIPER1
+LANG_ENGLISH        "Semi-automatic sniper rifle.  Effective at long range."
+
+REFERENCE           BOLTACTION_SNIPER_RIFLE1
+LANG_ENGLISH        "Bolt-action sniper rifle.  Effective at long range."
+
+REFERENCE           SEMIAUTOMATIC_SNIPER2
+LANG_ENGLISH        "Semi-automatic sniper rifle.  Effective at long range."
+
+REFERENCE           SEMIAUTOMATIC_COMBAT
+LANG_ENGLISH        "Semi-automatic combat shotgun.  Effective at close range."
+
+REFERENCE           PUMP_ACTION_SHOTGUN_EFFECTIVE
+LANG_ENGLISH        "Pump action shotgun.  Effective at close range."
+
+REFERENCE           FULLY_AUTOMATIC_WITH9
+LANG_ENGLISH        "Fully automatic with good power and quick fire rate.  Effective at medium to long range."
+
+REFERENCE           FULLY_AUTOMATIC_WITH10
+LANG_ENGLISH        "Fully automatic with a high rate of fire.  Effective at medium to long range."
+
+REFERENCE           FULLY_AUTOMATIC_WITH11
+LANG_ENGLISH        "Fully automatic with high power.  Effective at medium to long range."
+
+REFERENCE           CHARGE_OF_PLASTIC_EXPLOSIVES
+LANG_ENGLISH        "Charge of plastic explosives, set off manually with a detonator."
+
+REFERENCE           DIRECTIONAL_ANTIPERSONNEL
+LANG_ENGLISH        "Directional anti-personnel mine, set off by an enemy entering its proximity."
+
+REFERENCE           ANTIPERSONNEL_DEVICE
+LANG_ENGLISH        "Anti-personnel device that destroys the target with a burst of flying shrapnel."
+
+REFERENCE           DEVICE_THAT_BLINDS_AND
+LANG_ENGLISH        "Blinds and deafens target."
+
+REFERENCE           DEVICE_THAT_CREATES_A
+LANG_ENGLISH        "Smoke screen."
+
+REFERENCE           DEVICE_THAT_DISORIENTS
+LANG_ENGLISH        "Disorients and slows targets."
+
+REFERENCE           HEAR_VOICE_CHAT_OF_NEARBY
+LANG_ENGLISH        "Hear voice chat of nearby enemies."
+
+REFERENCE           UNDETECTABLE_ON_ENEMY
+LANG_ENGLISH        "Invisible to enemy UAVs."
+
+REFERENCE           LONGER_BREATH_FOR_STEADIER
+LANG_ENGLISH        "Longer hold breath duration."
+
+REFERENCE           MAKE_LESS_SOUND_WHEN
+LANG_ENGLISH        "Move quietly and less time on minimap if shot by recon"
+
+REFERENCE           SPRINT_FOR_LONGER_DISTANCES
+LANG_ENGLISH        "Sprint for longer distances."
+
+REFERENCE           HIGHER_EXPLOSIVE_WEAPON
+LANG_ENGLISH        "Increased explosive weapon damage."
+
+REFERENCE           ABILITY_TO_SEEK_OUT_ENEMY
+LANG_ENGLISH        "Detect enemy explosives and tactical insertions."
+
+REFERENCE           PULL_OUT_YOUR_PISTOL
+LANG_ENGLISH        "+Pull out your pistol before dying."
+
+REFERENCE           DROP_A_LIVE_GRENADE_WHEN
+LANG_ENGLISH        "Drop a live grenade just after dying."
+
+REFERENCE           INCREASED_BULLET_DAMAGE
+LANG_ENGLISH        "Increased bullet damage."
+
+REFERENCE           DEEPER_BULLET_PENETRATION
+LANG_ENGLISH        "Deeper bullet penetration."
+
+REFERENCE           INCREASED_HIPFIRE_ACCURACY
+LANG_ENGLISH        "Increased hip fire accuracy"
+
+REFERENCE           INCREASED_RATE_OF_FIRE
+LANG_ENGLISH        "Increased rate of fire."
+
+REFERENCE           FASTER_RELOADING
+LANG_ENGLISH        "Faster reloading"
+
+REFERENCE           EXTRA_AMMUNITION_MAGAZINES
+LANG_ENGLISH        "+Extra mags."
+
+REFERENCE           CARRY_TWO_PRIMARY_WEAPONS
+LANG_ENGLISH        "Carry two primary weapons, no pistol."
+
+REFERENCE           INCREASED_HEALTH
+LANG_ENGLISH        "Increased health."
+
+REFERENCE           3_FRAG_GRENADES
+LANG_ENGLISH        "3 Frag grenades."
+
+REFERENCE           3_SPECIAL_GRENADES_NO
+LANG_ENGLISH        "3 special grenades. No smoke."
+
+REFERENCE           REMOTE_DETONATION_EXPLOSIVE
+LANG_ENGLISH        "Remote detonation explosive."
+
+REFERENCE           TRIP_ACTIVATED_EXPLOSIVE
+LANG_ENGLISH        "Proximity activated explosive mine."
+
+REFERENCE           ROCKET_LAUNCHER_WITH
+LANG_ENGLISH        "Rocket Launcher with 2 rockets."
+
+REFERENCE           GRENADE_LAUNCHER_ATTACHMENT1
+LANG_ENGLISH        "Grenade launcher attachment."
+
+REFERENCE           GRIP_ATTACHMENT_
+LANG_ENGLISH        "Grip attachment.
+"
+
+REFERENCE           WEAPON_ATTACHMENT
+LANG_ENGLISH        "Weapon attachment."
+
+REFERENCE           SHARPSHOOTER
+LANG_ENGLISH        "Scout Sniper"
+
+REFERENCE           CROWD_CONTROL
+LANG_ENGLISH        "Riot Control"
+
+REFERENCE           CREATE_A_CLASS
+LANG_ENGLISH        "Create a Class"
+
+REFERENCE           KILLSTREAK_REWARDS
+LANG_ENGLISH        "Killstreak Rewards"
+
+REFERENCE           CHALLENGES
+LANG_ENGLISH        "Challenges"
+
+REFERENCE           HARDCORE_GAMETYPES
+LANG_ENGLISH        "Hardcore Gametypes"
+
+REFERENCE           OLDSCHOOL_GAMETYPES
+LANG_ENGLISH        "Oldschool Gametypes"
+
+REFERENCE           CLAN_TAG
+LANG_ENGLISH        "Clan Tags"
+
+REFERENCE           FRAG_1
+LANG_ENGLISH        "Frag / &&1 x 1"
+
+REFERENCE           WEAPON_FLASH_GRENADE
+LANG_ENGLISH        "Flash x 2"
+
+REFERENCE           WEAPON_SMOKE_GRENADE
+LANG_ENGLISH        "Smoke x 1"
+
+REFERENCE           WEAPON_STUN_GRENADE
+LANG_ENGLISH        "Stun x 2"
+
+REFERENCE           _X_1
+LANG_ENGLISH        "&&1 x 1"
+
+REFERENCE           GRENADES_COMBO1
+LANG_ENGLISH        "Frag / &&1 x 1"
+
+REFERENCE           FRAG_X_1
+LANG_ENGLISH        "Frag"
+
+REFERENCE           3X_WEAPON_FLASH_GRENADE
+LANG_ENGLISH        "Flash x 3"
+
+REFERENCE           3X_WEAPON_SMOKE_GRENADE
+LANG_ENGLISH        "Smoke x 3"
+
+REFERENCE           3X_WEAPON_STUN_GRENADE
+LANG_ENGLISH        "Stun x 3"
+
+REFERENCE           OPTION_NOT_AVAILABLE
+LANG_ENGLISH        "Option not available when Smoke Grenade is equiped in Special Grenade Option."
+
+REFERENCE           NO_ATTACHMENT
+LANG_ENGLISH        "No attachment"
+
+REFERENCE           ENHANCED_ZOOM_ACOG_SCOPE
+LANG_ENGLISH        "Enhanced zoom ACOG scope."
+
+REFERENCE           REPLACE_THE_IRON_SIGHTS
+LANG_ENGLISH        "Precision sight."
+
+REFERENCE           INVISIBLE_ON_GPS_WHEN
+LANG_ENGLISH        "Invisible on radar when firing."
+
+REFERENCE           VERTICAL_FOREGRIP_FOR
+LANG_ENGLISH        "Vertical foregrip for reduced recoil."
+
+REFERENCE           GRENADE_LAUNCHER_ATTACHMENT2
+LANG_ENGLISH        "Undermounted grenade launcher."
+
+REFERENCE           STANDARD_FINISH
+LANG_ENGLISH        "Standard finish."
+
+REFERENCE           TAN_DESERT_CAMOUFLAGE
+LANG_ENGLISH        "Tan desert camouflage finish."
+
+REFERENCE           GREEN_WOODLAND_CAMOUFLAGE
+LANG_ENGLISH        "Green woodland camouflage finish."
+
+REFERENCE           BLACK_AND_WHITE_MARPAT
+LANG_ENGLISH        "Black and white marpat camouflage finish."
+
+REFERENCE           RED_TIGER_STRIPE_CAMOUFLAGE
+LANG_ENGLISH        "Red tiger stripe camouflage finish."
+
+REFERENCE           BLUE_TIGER_STRIPE_CAMOUFLAGE
+LANG_ENGLISH        "Blue tiger stripe camouflage finish."
+
+REFERENCE           GO_GET_SOME_SUN
+LANG_ENGLISH        "Go get some sun."
+
+REFERENCE           COMPLETE_THE_MARKSMAN
+LANG_ENGLISH        "Complete the Marksman challenge for this weapon."
+
+REFERENCE           COMPLETE_THE_EXPERT_CHALLENGE
+LANG_ENGLISH        "Complete the Expert challenge for this weapon."
+
+REFERENCE           UNLOCK_EVERYTHING_IN
+LANG_ENGLISH        "Complete all challenges for every weapon in this weapon category."
+
+REFERENCE           ALL_PLAY_AND_NO_WORK
+LANG_ENGLISH        "All play and no work makes Jack a dull boy..."
+
+REFERENCE           SMOKE_SELECTION_WARNING
+LANG_ENGLISH        "Option not available when Special Grenades x3 is selected in Perk 1."
+
+REFERENCE           UNLOCKED_AT_LV1
+LANG_ENGLISH        "Unlocked at Private (Lv1)."
+
+REFERENCE           UNLOCKED_AT_LV2
+LANG_ENGLISH        "Unlocked at Private I (Lv2)."
+
+REFERENCE           UNLOCKED_AT_LV3
+LANG_ENGLISH        "Unlocked at Private II (Lv3)."
+
+REFERENCE           UNLOCKED_AT_LV4
+LANG_ENGLISH        "Unlocked at Private First Class (Lv4)."
+
+REFERENCE           UNLOCKED_AT_LV5
+LANG_ENGLISH        "Unlocked at Private First Class I (Lv5)."
+
+REFERENCE           UNLOCKED_AT_LV6
+LANG_ENGLISH        "Unlocked at Private First Class II (Lv6)."
+
+REFERENCE           UNLOCKED_AT_LV7
+LANG_ENGLISH        "Unlocked at Specialist (Lv7)."
+
+REFERENCE           UNLOCKED_AT_LV8
+LANG_ENGLISH        "Unlocked at Specialist I (Lv8)."
+
+REFERENCE           UNLOCKED_AT_LV9
+LANG_ENGLISH        "Unlocked at Specialist II (Lv9)."
+
+REFERENCE           UNLOCKED_AT_LV10
+LANG_ENGLISH        "Unlocked at Corporal (Lv10)."
+
+REFERENCE           UNLOCKED_AT_LV11
+LANG_ENGLISH        "Unlocked at Corporal I (Lv11)."
+
+REFERENCE           UNLOCKED_AT_LV12
+LANG_ENGLISH        "Unlocked at Corporal II (Lv12)."
+
+REFERENCE           UNLOCKED_AT_LV13
+LANG_ENGLISH        "Unlocked at Sergeant (Lv13)."
+
+REFERENCE           UNLOCKED_AT_LV14
+LANG_ENGLISH        "Unlocked at Sergeant I (Lv14)."
+
+REFERENCE           UNLOCKED_AT_LV15
+LANG_ENGLISH        "Unlocked at Sergeant II (Lv15)."
+
+REFERENCE           UNLOCKED_AT_LV16
+LANG_ENGLISH        "Unlocked at Staff Sergeant (Lv16)."
+
+REFERENCE           UNLOCKED_AT_LV17
+LANG_ENGLISH        "Unlocked at Staff Sergeant I (Lv17)."
+
+REFERENCE           UNLOCKED_AT_LV18
+LANG_ENGLISH        "Unlocked at Staff Sergeant II (Lv18)."
+
+REFERENCE           UNLOCKED_AT_LV19
+LANG_ENGLISH        "Unlocked at Sergeant First Class (Lv19)."
+
+REFERENCE           UNLOCKED_AT_LV20
+LANG_ENGLISH        "Unlocked at Sergeant First Class I (Lv20)."
+
+REFERENCE           UNLOCKED_AT_LV21
+LANG_ENGLISH        "Unlocked at Sergeant First Class II (Lv21)."
+
+REFERENCE           UNLOCKED_AT_LV22
+LANG_ENGLISH        "Unlocked at Master Sergeant (Lv22)."
+
+REFERENCE           UNLOCKED_AT_LV23
+LANG_ENGLISH        "Unlocked at Master Sergeant I (Lv23)."
+
+REFERENCE           UNLOCKED_AT_LV24
+LANG_ENGLISH        "Unlocked at Master Sergeant II (Lv24)."
+
+REFERENCE           UNLOCKED_AT_LV25
+LANG_ENGLISH        "Unlocked at First Sergeant (Lv25)."
+
+REFERENCE           UNLOCKED_AT_LV26
+LANG_ENGLISH        "Unlocked at First Sergeant I (Lv26)."
+
+REFERENCE           UNLOCKED_AT_LV27
+LANG_ENGLISH        "Unlocked at First Sergeant II (Lv27)."
+
+REFERENCE           UNLOCKED_AT_LV28
+LANG_ENGLISH        "Unlocked at Sergeant Major (Lv28)."
+
+REFERENCE           UNLOCKED_AT_LV29
+LANG_ENGLISH        "Unlocked at Sergeant Major I (Lv29)."
+
+REFERENCE           UNLOCKED_AT_LV30
+LANG_ENGLISH        "Unlocked at Sergeant Major II (Lv30)."
+
+REFERENCE           UNLOCKED_AT_LV31
+LANG_ENGLISH        "Unlocked at Command Sergeant Major (Lv31)."
+
+REFERENCE           UNLOCKED_AT_LV32
+LANG_ENGLISH        "Unlocked at Command Sergeant Major I (Lv32)."
+
+REFERENCE           UNLOCKED_AT_LV33
+LANG_ENGLISH        "Unlocked at Command Sergeant Major II (Lv33)."
+
+REFERENCE           UNLOCKED_AT_LV34
+LANG_ENGLISH        "Unlocked at 2nd Lieutenant (Lv34)."
+
+REFERENCE           UNLOCKED_AT_LV35
+LANG_ENGLISH        "Unlocked at 2nd Lieutenant I (Lv35)."
+
+REFERENCE           UNLOCKED_AT_LV36
+LANG_ENGLISH        "Unlocked at 2nd Lieutenant II (Lv36)."
+
+REFERENCE           UNLOCKED_AT_LV37
+LANG_ENGLISH        "Unlocked at 2nd Lieutenant III (Lv37)."
+
+REFERENCE           UNLOCKED_AT_LV38
+LANG_ENGLISH        "Unlocked at 1st Lieutenant (Lv38)."
+
+REFERENCE           UNLOCKED_AT_LV39
+LANG_ENGLISH        "Unlocked at 1st Lieutenant I (Lv39)."
+
+REFERENCE           UNLOCKED_AT_LV40
+LANG_ENGLISH        "Unlocked at 1st Lieutenant II (Lv40)."
+
+REFERENCE           UNLOCKED_AT_LV41
+LANG_ENGLISH        "Unlocked at Captain (Lv41)."
+
+REFERENCE           UNLOCKED_AT_LV42
+LANG_ENGLISH        "Unlocked at Captain I (Lv42)."
+
+REFERENCE           UNLOCKED_AT_LV43
+LANG_ENGLISH        "Unlocked at Captain II (Lv43)."
+
+REFERENCE           UNLOCKED_AT_LV44
+LANG_ENGLISH        "Unlocked at Major (Lv44)."
+
+REFERENCE           UNLOCKED_AT_LV45
+LANG_ENGLISH        "Unlocked at Major I (Lv45)."
+
+REFERENCE           UNLOCKED_AT_LV46
+LANG_ENGLISH        "Unlocked at Major II (Lv46)."
+
+REFERENCE           UNLOCKED_AT_LV47
+LANG_ENGLISH        "Unlocked at Lieutenant Colonel (Lv47)."
+
+REFERENCE           UNLOCKED_AT_LV48
+LANG_ENGLISH        "Unlocked at Lieutenant Colonel I (Lv48)."
+
+REFERENCE           UNLOCKED_AT_LV49
+LANG_ENGLISH        "Unlocked at Lieutenant Colonel II (Lv49)."
+
+REFERENCE           UNLOCKED_AT_LV50
+LANG_ENGLISH        "Unlocked at Colonel (Lv50)."
+
+REFERENCE           UNLOCKED_AT_LV51
+LANG_ENGLISH        "Unlocked at Colonel I (Lv51)."
+
+REFERENCE           UNLOCKED_AT_LV52
+LANG_ENGLISH        "Unlocked at Colonel II (Lv52)."
+
+REFERENCE           UNLOCKED_AT_LV53
+LANG_ENGLISH        "Unlocked at Colonel III (Lv53)."
+
+REFERENCE           UNLOCKED_AT_LV54
+LANG_ENGLISH        "Unlocked at Brigadier General (Lv54)."
+
+REFERENCE           UNLOCKED_AT_LV55
+LANG_ENGLISH        "Unlocked at Brigadier General I (Lv55)."
+
+REFERENCE           UNLOCKED_AT_LV56
+LANG_ENGLISH        "Unlocked at Brigadier General II (Lv56)."
+
+REFERENCE           UNLOCKED_AT_LV57
+LANG_ENGLISH        "Unlocked at Brigadier General III (Lv57)."
+
+REFERENCE           UNLOCKED_AT_LV58
+LANG_ENGLISH        "Unlocked at Major General (Lv58)."
+
+REFERENCE           UNLOCKED_AT_LV59
+LANG_ENGLISH        "Unlocked at Major General I (Lv59)."
+
+REFERENCE           UNLOCKED_AT_LV60
+LANG_ENGLISH        "Unlocked at Major General II (Lv60)."
+
+REFERENCE           UNLOCKED_AT_LV61
+LANG_ENGLISH        "Unlocked at Major General III (Lv61)."
+
+REFERENCE           UNLOCKED_AT_LV62
+LANG_ENGLISH        "Unlocked at Lieutenant General (Lv62)."
+
+REFERENCE           UNLOCKED_AT_LV63
+LANG_ENGLISH        "Unlocked at Lieutenant General I (Lv63)."
+
+REFERENCE           UNLOCKED_AT_LV64
+LANG_ENGLISH        "Unlocked at Lieutenant General II (Lv64)."
+
+REFERENCE           UNLOCKED_AT_LV65
+LANG_ENGLISH        "Unlocked at Lieutenant General III (Lv65)."
+
+REFERENCE           UNLOCKED_AT_LV66
+LANG_ENGLISH        "Unlocked at General (Lv66)."
+
+REFERENCE           UNLOCKED_AT_LV67
+LANG_ENGLISH        "Unlocked at General I (Lv67)."
+
+REFERENCE           UNLOCKED_AT_LV68
+LANG_ENGLISH        "Unlocked at General II (Lv68)."
+
+REFERENCE           UNLOCKED_AT_LV69
+LANG_ENGLISH        "Unlocked at General III (Lv69)."
+
+REFERENCE           UNLOCKED_AT_LV70
+LANG_ENGLISH        "Unlocked at Commander (Lv70)."
+
+REFERENCE           UNLOCKED_AT_NONE
+LANG_ENGLISH        "Unlocked by unknown means."
+
+REFERENCE           SMARTARROW_DESC
+LANG_ENGLISH        "Like C4 with a camera."
+
+REFERENCE           SMARTARROW
+LANG_ENGLISH        "Smart Arrow"
+
+REFERENCE           SENTRY_MINIGUN
+LANG_ENGLISH        "Sentry Minigun"
+
+REFERENCE           DESC_SENTRY_MINIGUN
+LANG_ENGLISH        "2 killstreak to call in a portable sentry gun."
+
+REFERENCE           HELICOPTER_MINIGUN
+LANG_ENGLISH        "Helicopter Minigun"
+
+REFERENCE           DESC_HELICOPTER_MINIGUN
+LANG_ENGLISH        "5 killstreak for chopper minigun."
+
+REFERENCE           AT4
+LANG_ENGLISH        "AT4 x 1"
+
+REFERENCE           M79
+LANG_ENGLISH        "M79 x 2"
+
+REFERENCE           DESC_M79
+LANG_ENGLISH        "A Single shot shoulder-fired 40mm grenade launcher"
+
+REFERENCE           AA12
+LANG_ENGLISH        "A low recoil fully automatic combat shotgun. Effective at close range."
+
+REFERENCE           HIGHLY_ACCURATE_ROCKET_LAUNCHER
+LANG_ENGLISH        "Fast, accurate rocket launcher."
+
+REFERENCE           DEDICATED_GRENADE_LAUNCHER
+LANG_ENGLISH        "Dedicated grenade launcher."
+
+REFERENCE           MAGNUM_REVOLVER
+LANG_ENGLISH        ".44 Magnum revolver with a six-round cylinder."
+
+REFERENCE           DEVICE_THAT_DISABLES
+LANG_ENGLISH        "Device that disables enemy electronics temporarily."
+
+REFERENCE           FRAG_1_WEAPON_EMP_GRENADE
+LANG_ENGLISH        "Frag / EMP x 1"
+
+REFERENCE           3X_WEAPON_EMP_GRENADE
+LANG_ENGLISH        "EMP x 3"
+
+REFERENCE           BLASTSHIELD
+LANG_ENGLISH        "Blast Shield"
+
+REFERENCE           DESC_BLASTSHIELD
+LANG_ENGLISH        "Increased explosive resistance."
+
+REFERENCE           BURSTFIRE
+LANG_ENGLISH        "Mozambique"
+
+REFERENCE           DESC_BURSTFIRE
+LANG_ENGLISH        "3 round burst mode."
+
+REFERENCE           MARATHON
+LANG_ENGLISH        "Marathon"
+
+REFERENCE           DESC_MARATHON
+LANG_ENGLISH        "Unlimited sprint."
+
+REFERENCE           LIGHTWEIGHT
+LANG_ENGLISH        "Lightweight"
+
+REFERENCE           DESC_LIGHTWEIGHT
+LANG_ENGLISH        "Move faster."
+
+REFERENCE           DESC_SHIELD
+LANG_ENGLISH        "A protective shield."
+
+REFERENCE           SHIELD
+LANG_ENGLISH        "Riot Shield"
+
+REFERENCE           SHIELD_NO_PRONE
+LANG_ENGLISH        "Riot Shield unavailable while prone."
+
+REFERENCE           DESC_SIEGE
+LANG_ENGLISH        "Immobile but greater accuracy."
+
+REFERENCE           SIEGE
+LANG_ENGLISH        "Siege"
+
+REFERENCE           DESC_FREEFALL
+LANG_ENGLISH        "+No fall damage"
+
+REFERENCE           FREEFALL
+LANG_ENGLISH        "Free Fall"
+
+REFERENCE           DESC_FMJ
+LANG_ENGLISH        "Increased bullet penetration."
+
+REFERENCE           FMJ
+LANG_ENGLISH        "Explosive Rounds"
+
+REFERENCE           DESC_NINJA
+LANG_ENGLISH        "+Delay enemy Claymore explosions."
+
+REFERENCE           DESC_FINALSTAND
+LANG_ENGLISH        "Get back up after being wounded."
+
+REFERENCE           FINALSTAND
+LANG_ENGLISH        "Final Stand"
+
+REFERENCE           DOUBLEBARREL_DESC
+LANG_ENGLISH        "Double barrel sawed-off shotgun.  Each barrel fires independently.  Very effective at close range."
+
+REFERENCE           UPGRADE_DEADSILENCE
+LANG_ENGLISH        "+Silent Footsteps"
+
+REFERENCE           FEIGNDEATH
+LANG_ENGLISH        "Feign Death"
+
+REFERENCE           SHELLSHOCK
+LANG_ENGLISH        "Shellshock"
+
+REFERENCE           DESC_SHELLSHOCK
+LANG_ENGLISH        "A riot shield on your back."
+
+REFERENCE           FASTMANTLE
+LANG_ENGLISH        "Freerunner"
+
+REFERENCE           DESC_FASTMANTLE
+LANG_ENGLISH        "+Climb obstacles faster."
+
+REFERENCE           EXPLOSIVEBULLETS
+LANG_ENGLISH        "Explosive Rounds"
+
+REFERENCE           DESC_EXPLOSIVEBULLETS
+LANG_ENGLISH        "Bullets explode on impact."
+
+REFERENCE           LOCALJAMMER
+LANG_ENGLISH        "Scrambler"
+
+REFERENCE           DESC_LOCALJAMMER
+LANG_ENGLISH        "Jam enemy radar near you."
+
+REFERENCE           THERMAL
+LANG_ENGLISH        "Thermal Vision"
+
+REFERENCE           DESC_THERMAL
+LANG_ENGLISH        "Enemies glow white hot."
+
+REFERENCE           JUMPDIVE
+LANG_ENGLISH        "Dive"
+
+REFERENCE           DESC_JUMPDIVE
+LANG_ENGLISH        "Jump to dodge bullets."
+
+REFERENCE           BLACKBOX
+LANG_ENGLISH        "Blackbox"
+
+REFERENCE           DESC_BLACKBOX
+LANG_ENGLISH        "Longer killstreak duration."
+
+REFERENCE           STEELNERVES
+LANG_ENGLISH        "Steel Nerves"
+
+REFERENCE           DESC_STEELNERVES
+LANG_ENGLISH        "Improves marksmanship."
+
+REFERENCE           QUICKDRAW
+LANG_ENGLISH        "Quickdraw"
+
+REFERENCE           DESC_QUICKDRAW
+LANG_ENGLISH        "Faster aiming"
+
+REFERENCE           ENDGAME
+LANG_ENGLISH        "Painkiller"
+
+REFERENCE           DESC_ENDGAME
+LANG_ENGLISH        "Big burst of health before you die."
+
+REFERENCE           FLASHGRENADE
+LANG_ENGLISH        "Flash Grenade x 3"
+
+REFERENCE           DESC_FLASHGRENADE
+LANG_ENGLISH        "Blinds and deafens targets."
+
+REFERENCE           CONCUSSIONGRENADE
+LANG_ENGLISH        "Stun Grenade x 3"
+
+REFERENCE           DESC_CONCUSSIONGRENADE
+LANG_ENGLISH        "Disorients and slows targets.
+"
+
+REFERENCE           SMOKEGRENADE
+LANG_ENGLISH        "Smoke Grenade x 2"
+
+REFERENCE           DESC_SMOKEGRENADE
+LANG_ENGLISH        "Smoke screen."
+
+REFERENCE           EMPGRENADE
+LANG_ENGLISH        "EMP Grenade"
+
+REFERENCE           SCAVENGER
+LANG_ENGLISH        "Scavenger"
+
+REFERENCE           DESC_SCAVENGER
+LANG_ENGLISH        "Resupply from dead enemies"
+
+REFERENCE           DESC_EMPGRENADE
+LANG_ENGLISH        "Utilize the grenades of KIA."
+
+REFERENCE           SITREP
+LANG_ENGLISH        "SitRep"
+
+REFERENCE           DESC_SITREP
+LANG_ENGLISH        "Enhanced view of explosive devices."
+
+REFERENCE           AMPLIFY
+LANG_ENGLISH        "Amplify"
+
+REFERENCE           DESC_AMPLIFY
+LANG_ENGLISH        "Enhanced hearing of enemy footsteps."
+
+REFERENCE           EXTENDEDMAGS
+LANG_ENGLISH        "Extended Mags"
+
+REFERENCE           DESC_EXTENDEDMAGS
+LANG_ENGLISH        "More ammo per magazine."
+
+REFERENCE           SABOTEUR
+LANG_ENGLISH        "Saboteur"
+
+REFERENCE           DESC_SABOTEUR
+LANG_ENGLISH        "Quickly complete objectives."
+
+REFERENCE           COLDBLOODED
+LANG_ENGLISH        "Assassin"
+
+REFERENCE           DESC_COLDBLOODED
+LANG_ENGLISH        "Undetectable by UAV and thermal"
+
+REFERENCE           HEARTBREAKER
+LANG_ENGLISH        "Heart-Breaker"
+
+REFERENCE           DESC_HEARTBREAKER
+LANG_ENGLISH        "Invisible to heartbeat sensors."
+
+REFERENCE           EXTENDEDMELEE
+LANG_ENGLISH        "Commando"
+
+REFERENCE           DESC_EXTENDEDMELEE
+LANG_ENGLISH        "Increased melee distance."
+
+REFERENCE           SELECTIVEHEARING
+LANG_ENGLISH        "Selective Hearing"
+
+REFERENCE           DESC_SELECTIVEHEARING
+LANG_ENGLISH        "+Louder enemy footsteps"
+
+REFERENCE           FREERUNNER
+LANG_ENGLISH        "Freerunner"
+
+REFERENCE           DESC_FREERUNNER
+LANG_ENGLISH        "Auto climb quickly? NEEDS DESC"
+
+REFERENCE           AUTOMANTLE
+LANG_ENGLISH        "Auto-Mantle"
+
+REFERENCE           DESC_AUTOMANTLE
+LANG_ENGLISH        "Auto-climb OMG NEEDS DESC."
+
+REFERENCE           FASTSPRINTRECOVERY
+LANG_ENGLISH        "+Fast sprint recovery"
+
+REFERENCE           DESC_FASTSPRINTRECOVERY
+LANG_ENGLISH        "+Quick aim after sprinting."
+
+REFERENCE           CHALLENGER
+LANG_ENGLISH        "Challenger"
+
+REFERENCE           DESC_CHALLENGER
+LANG_ENGLISH        "Easy death but extra experience."
+
+REFERENCE           REARVIEW
+LANG_ENGLISH        "Rearview"
+
+REFERENCE           DESC_REARVIEW
+LANG_ENGLISH        "Minimap is replaced with rear view."
+
+REFERENCE           TACTICALINSERTION
+LANG_ENGLISH        "Tactical Insertion"
+
+REFERENCE           DESC_TACTICALINSERTION
+LANG_ENGLISH        "Choose where to respawn."
+
+REFERENCE           STINGER
+LANG_ENGLISH        "Stinger x 1"
+
+REFERENCE           DESC_STINGER
+LANG_ENGLISH        "A portable homing surface to air missile."
+
+REFERENCE           AKIMBO
+LANG_ENGLISH        "Akimbo"
+
+REFERENCE           DESC_AKIMBO
+LANG_ENGLISH        "Hip fire two weapons."
+
+REFERENCE           JAVELIN
+LANG_ENGLISH        "Javelin x 1"
+
+REFERENCE           DESC_JAVELIN
+LANG_ENGLISH        "Rocket launcher with lock-on."
+
+REFERENCE           GLOCK
+LANG_ENGLISH        "Fully automatic with fast fire rate. Effective at close range."
+
+REFERENCE           DESC_SHOTGUN
+LANG_ENGLISH        "Undermounted shotgun attachment"
+
+REFERENCE           SHOTGUN
+LANG_ENGLISH        "Shotgun"
+
+REFERENCE           BLINDEYE
+LANG_ENGLISH        "Blind Eye"
+
+REFERENCE           HARDLINE
+LANG_ENGLISH        "Hardline"
+
+REFERENCE           DESC_HARDLINE
+LANG_ENGLISH        "Killstreaks require 1 less kill."
+
+REFERENCE           DESC_BLING
+LANG_ENGLISH        "2 primary weapon attachments."
+
+REFERENCE           PREDATOR_MISSILE
+LANG_ENGLISH        "Predator Missile"
+
+REFERENCE           DESC_PREDATOR_MISSILE
+LANG_ENGLISH        "4 killstreak for guided missle."
+
+REFERENCE           AC130
+LANG_ENGLISH        "AC130"
+
+REFERENCE           DESC_AC130
+LANG_ENGLISH        "7 killstreak for an AC130."
+
+REFERENCE           CAREPACKAGE
+LANG_ENGLISH        "Care Package"
+
+REFERENCE           DESC_CAREPACKAGE
+LANG_ENGLISH        "2 killstreak for airdropped supplies."
+
+REFERENCE           ONEMANARMY
+LANG_ENGLISH        "One Man Army"
+
+REFERENCE           DESC_ONEMANARMY
+LANG_ENGLISH        "Swap classes at any time."
+
+REFERENCE           TANK
+LANG_ENGLISH        "6 killstreak for armor support."
+
+REFERENCE           PRECISION_AIRSTRIKE
+LANG_ENGLISH        "Precision Airstrike"
+
+REFERENCE           DESC_PRECISION_AIRSTRIKE
+LANG_ENGLISH        "6 killstreak for harrier supported airstrike."
+
+REFERENCE           LITTLEBIRD_SUPPORT
+LANG_ENGLISH        "OH-6 combat support"
+
+REFERENCE           DESC_LITTLEBIRD_SUPPORT
+LANG_ENGLISH        "2 killstreak for littlebird support."
+
+REFERENCE           DESC_FRAG_X1
+LANG_ENGLISH        "Cookable frag grenades."
+
+REFERENCE           SEMTEX
+LANG_ENGLISH        "Semtex"
+
+REFERENCE           DESC_SEMTEX
+LANG_ENGLISH        "Timed sticky explosives."
+
+REFERENCE           KNIFETHROW
+LANG_ENGLISH        "Throwing Knife"
+
+REFERENCE           DESC_KNIFETHROW
+LANG_ENGLISH        "Throw it and pick it back up."
+
+REFERENCE           COMMANDO
+LANG_ENGLISH        "Commando"
+
+REFERENCE           DESC_COMMANDO
+LANG_ENGLISH        "Increased melee distance."
+
+REFERENCE           RIOT_SHIELD
+LANG_ENGLISH        "Bullet resistant."
+
+REFERENCE           RIOT_SHIELD_CLOAK
+LANG_ENGLISH        "Near invisible when standing behind."
+
+REFERENCE           RIOT_SHIELD_COVER
+LANG_ENGLISH        "Drop and use as cover or to block entrances."
+
+REFERENCE           RIOT_SHIELD_XRAY
+LANG_ENGLISH        "See friends and foes behind solid objects."
+
+REFERENCE           FASTSNIPE
+LANG_ENGLISH        "Fast Snipe Recovery"
+
+REFERENCE           DESC_FASTSNIPE
+LANG_ENGLISH        "Quickly steady aim after scoped shots."
+
+REFERENCE           IMPROVEDEXTRABREATH
+LANG_ENGLISH        "Improved Iron Lungs"
+
+REFERENCE           DESC_IMPROVEDEXTRABREATH
+LANG_ENGLISH        "Even longer breath for steadier sniper shots."
+
+REFERENCE           LAST_STAND_PRIMARY
+LANG_ENGLISH        "Primary Stand"
+
+REFERENCE           DESC_LAST_STAND_PRIMARY
+LANG_ENGLISH        "Use any weapon in Last Stand."
+
+REFERENCE           SECONDARY_BLING
+LANG_ENGLISH        "Secondary Bling"
+
+REFERENCE           DESC_SECONDARY_BLING
+LANG_ENGLISH        "+2 secondary attachments, Deep Impact"
+
+REFERENCE           SPYGAME
+LANG_ENGLISH        "Spy Game"
+
+REFERENCE           DESC_SPYGAME
+LANG_ENGLISH        "+No red name or crosshair"
+
+REFERENCE           SPYGAME2
+LANG_ENGLISH        "Spy Game Upgrade"
+
+REFERENCE           DESC_SPYGAME2
+LANG_ENGLISH        "Enemy crosshairs don't turn red for you."
+
+REFERENCE           C4
+LANG_ENGLISH        "C4"
+
+REFERENCE           CLAYMORE
+LANG_ENGLISH        "Claymore"
+
+REFERENCE           FRAG_X_2
+LANG_ENGLISH        "Frag x 2"
+
+REFERENCE           LOCKAIR
+LANG_ENGLISH        "Air Vehicle Lockon"
+
+REFERENCE           DESC_LOCKAIR
+LANG_ENGLISH        "Lock-on to enemy vehicles"
+
+REFERENCE           DESC_BOOM
+LANG_ENGLISH        "Increased explosion radius"
+
+REFERENCE           DESC_HROF
+LANG_ENGLISH        "Increased fire rate."
+
+REFERENCE           DESC_LROF
+LANG_ENGLISH        "Decreased fire rate"
+
+REFERENCE           DESC_XMAGS
+LANG_ENGLISH        "Extended magazines."
+
+REFERENCE           ARCTIC
+LANG_ENGLISH        "Arctic camouflage finish."
+
+REFERENCE           DIGITAL
+LANG_ENGLISH        "Digital camouflage finish."
+
+REFERENCE           RED_URBAN
+LANG_ENGLISH        "Red urban camouflage finish."
+
+REFERENCE           ORANGE_FALL
+LANG_ENGLISH        "Orange fall camouflage finish."
+
+REFERENCE           GOLDEN
+LANG_ENGLISH        "Gold plated finish."
+
+REFERENCE           DESC_HEARTBEAT
+LANG_ENGLISH        "Track enemy locations."
+
+REFERENCE           COMBATHIGH
+LANG_ENGLISH        "Pain Killer"
+
+REFERENCE           DESC_COMBATHIGH
+LANG_ENGLISH        "Big health boost when you spawn.  "
+
+REFERENCE           DESC_C4DEATH
+LANG_ENGLISH        "Pull out C4 before death."
+
+REFERENCE           C4DEATH
+LANG_ENGLISH        "Dead Man's Hand"
+
+REFERENCE           DESC_SHARPSHOOTER
+LANG_ENGLISH        "Play as the Scout Sniper Class."
+
+REFERENCE           DESC_CROWD_CONTROL
+LANG_ENGLISH        "Play as the Riot Control Class."
+
+REFERENCE           DESC_CREATE_A_CLASS
+LANG_ENGLISH        "Create and customize your own character classes."
+
+REFERENCE           DESC_KILLSTREAK_REWARDS
+LANG_ENGLISH        "Create and customize your killstreak rewards."
+
+REFERENCE           DESC_CHALLENGES
+LANG_ENGLISH        "Complete Challenges to gain experience and unlock a variety of items."
+
+REFERENCE           DESC_CLAN_TAGS
+LANG_ENGLISH        "Clan tags are now available."
+
+REFERENCE           UNLOCKED_BY_CHALLENGE
+LANG_ENGLISH        "Unlocked by challenge."
+
+REFERENCE           PAINKILLER
+LANG_ENGLISH        "Painkiller"
+
+REFERENCE           AR_FULLAUTO
+LANG_ENGLISH        "Fully automatic, all purpose weapon."
+
+REFERENCE           AR_THREEROUND
+LANG_ENGLISH        "3 round burst."
+
+REFERENCE           AR_SEMIAUTO
+LANG_ENGLISH        "Semi-automatic (single fire)"
+
+REFERENCE           UPGRADE_AMPLIFY
+LANG_ENGLISH        "+Louder Enemy Footsteps"
+
+REFERENCE           UPGRADE_QUICKDRAW
+LANG_ENGLISH        "+Faster throwing, planting, and melee recovery"
+
+REFERENCE           UPGRADE_BANDOLIER
+LANG_ENGLISH        "+Extra Mags"
+
+REFERENCE           UPGRADE_FASTSPRINTRECOVERY
+LANG_ENGLISH        "+Quick Aim After Sprinting"
+
+REFERENCE           UPGRADE_HEARTBREAKER
+LANG_ENGLISH        "+Undetectable Heartbeat"
+
+REFERENCE           UPGRADE_STEADY_AIM2
+LANG_ENGLISH        "+Even Steadier Aim"
+
+REFERENCE           UPGRADE_SECONDARY_BLING
+LANG_ENGLISH        "+2 Secondary Attachments"
+
+REFERENCE           UPGRADE_UAVJAMMER
+LANG_ENGLISH        "+Undetectable On Radar"
+
+REFERENCE           UPGRADE_FASTMANTLE
+LANG_ENGLISH        "+Climb Faster"
+
+REFERENCE           UPGRADE_ARMOR_DAMAGE
+LANG_ENGLISH        "Takedown Pro"
+
+REFERENCE           UPGRADE_ROLLOVER
+LANG_ENGLISH        "+Earlier deathstreaks"
+
+REFERENCE           UPGRADE_QUICKCHANGE
+LANG_ENGLISH        "+Faster Class Swap"
+
+REFERENCE           UPGRADE_PRIMARYDEATH
+LANG_ENGLISH        "+Primary Weapon"
+
+REFERENCE           UPGRADE_FASTSNIPE
+LANG_ENGLISH        "+Faster Recovery"
+
+REFERENCE           UPGRADE_SPYGAME2
+LANG_ENGLISH        "+No red name or crosshair"
+
+REFERENCE           UPGRADE_SPECIALGRENADE
+LANG_ENGLISH        "+Extra Special Grenade"
+
+REFERENCE           UPGRADE_FLASHGRENADE
+LANG_ENGLISH        "+Extra Flash Grenade"
+
+REFERENCE           UPGRADE_STUNGRENADE
+LANG_ENGLISH        "+Extra Stun Grenade"
+
+REFERENCE           UPGRADE_SMOKEGRENADE
+LANG_ENGLISH        "+Extra Smoke Grenade"
+
+REFERENCE           UPGRADE_NINJA
+LANG_ENGLISH        "+Delay claymores"
+
+REFERENCE           UPGRADE_FASTMELEERECOVER
+LANG_ENGLISH        "+Faster Melee Recovery"
+
+REFERENCE           UPGRADE_LAST_STAND_OFFHAND
+LANG_ENGLISH        "+Use Equipment"
+
+REFERENCE           DESC_EOTECH
+LANG_ENGLISH        "Holographic sight."
+
+REFERENCE           DESC_SPAS12
+LANG_ENGLISH        "A semi-automatic combat shotgun. Effective at close range."
+
+REFERENCE           DESC_ARMOR_DAMAGE
+LANG_ENGLISH        "Extra damage vs Trophy Suit and Vehicles"
+
+REFERENCE           DESC_QUICKCHANGE
+LANG_ENGLISH        "+Swap classes faster."
+
+REFERENCE           DESC_ROLLOVER
+LANG_ENGLISH        "+Earlier deathstreaks"
+
+REFERENCE           LONGSPECIALGRENADES
+LANG_ENGLISH        "Shell Shock"
+
+REFERENCE           DESC_STEADY_AIM2
+LANG_ENGLISH        "hip fire accuracy further increased."
+
+REFERENCE           DESC_FASTMELEERECOVER
+LANG_ENGLISH        "Quickly recover after melee."
+
+REFERENCE           LMG
+LANG_ENGLISH        "Fully automatic, large magazines."
+
+REFERENCE           SMG
+LANG_ENGLISH        "Fully automatic, close range."
+
+REFERENCE           SNIPER_BOLT
+LANG_ENGLISH        "Bolt action."
+
+REFERENCE           SNIPER_SEMIAUTO
+LANG_ENGLISH        "Semi-automatic (single fire)"
+
+REFERENCE           MPISTOL_FULLAUTO
+LANG_ENGLISH        "Fully automatic, close range."
+
+REFERENCE           MPISTOL_BURST
+LANG_ENGLISH        "3 round burst, close range."
+
+REFERENCE           SHOTGUN_SEMIAUTO
+LANG_ENGLISH        "Semi-automatic (single fire)"
+
+REFERENCE           SHOTGUN_PUMP
+LANG_ENGLISH        "Pump action."
+
+REFERENCE           SHOTGUN_FULLAUTO
+LANG_ENGLISH        "Fully automatic, low ammo."
+
+REFERENCE           SHOTGUN_DOUBLE
+LANG_ENGLISH        "Double barrel."
+
+REFERENCE           SHOTGUN_LEVER
+LANG_ENGLISH        "Lever-action."
+
+REFERENCE           PISTOL_SEMIAUTO
+LANG_ENGLISH        "Semi-automatic (single fire)"
+
+REFERENCE           PISTOL_REVOLVER
+LANG_ENGLISH        "Revolver."
+
+REFERENCE           LAUNCHER_GL
+LANG_ENGLISH        "Grenade Launcher."
+
+REFERENCE           LAUNCHER_ROCKET
+LANG_ENGLISH        "Fires unguided rockets."
+
+REFERENCE           LAUNCHER_JAVELIN
+LANG_ENGLISH        "Location and vehicle lock-on."
+
+REFERENCE           LAUNCHER_STINGER
+LANG_ENGLISH        "Vehicle lock-on only."
+
+REFERENCE           LAUNCHER_AT4
+LANG_ENGLISH        "Free fire or vehicle lock-on."
+
+REFERENCE           UPGRADE_IRONLUNGS
+LANG_ENGLISH        "Longer Hold Breath"
+
+REFERENCE           UPRGRADE_MARATHON
+LANG_ENGLISH        "+Unlimited Sprint"
+
+REFERENCE           UPGRADE
+LANG_ENGLISH        "&&1 Upgrade"
+
+REFERENCE           SLEIGHT_OF_HAND_PRO
+LANG_ENGLISH        "Sleight of Hand Pro"
+
+REFERENCE           LOCALJAMMER_PRO
+LANG_ENGLISH        "Scrambler Pro"
+
+REFERENCE           MARATHON_PRO
+LANG_ENGLISH        "Marathon Pro"
+
+REFERENCE           SCAVENGER_PRO
+LANG_ENGLISH        "Scavenger Pro"
+
+REFERENCE           DEEP_IMPACT_PRO
+LANG_ENGLISH        "Deep Impact Pro"
+
+REFERENCE           STOPPING_POWER_PRO
+LANG_ENGLISH        "Stopping Power Pro"
+
+REFERENCE           COLDBLOODED_PRO
+LANG_ENGLISH        "Assassin Pro"
+
+REFERENCE           LIGHTWEIGHT_PRO
+LANG_ENGLISH        "Lightweight Pro"
+
+REFERENCE           HARDLINE_PRO
+LANG_ENGLISH        "Hardline Pro"
+
+REFERENCE           BLING_PRO
+LANG_ENGLISH        "Bling Pro"
+
+REFERENCE           ONEMANARMY_PRO
+LANG_ENGLISH        "One Man Army Pro"
+
+REFERENCE           EXTENDEDMELEE_PRO
+LANG_ENGLISH        "+Extended melee"
+
+REFERENCE           LAST_STAND_PRO
+LANG_ENGLISH        "Last Stand Pro"
+
+REFERENCE           SONIC_BOOM_PRO
+LANG_ENGLISH        "Sonic Boom Pro"
+
+REFERENCE           BOMB_SQUAD_PRO
+LANG_ENGLISH        "SitRep Pro"
+
+REFERENCE           DEAD_SILENCE_PRO
+LANG_ENGLISH        "Dead Silence Pro"
+
+REFERENCE           STEADY_AIM_PRO
+LANG_ENGLISH        "Steady Aim Pro"
+
+REFERENCE           DESC_TACTICAL
+LANG_ENGLISH        "Faster melee attack"
+
+REFERENCE           COPYCAT
+LANG_ENGLISH        "Copycat"
+
+REFERENCE           DESC_COPYCAT
+LANG_ENGLISH        "Steal your killer's class in killcam."
+
+REFERENCE           DESC_LAST_STAND_OFFHAND
+LANG_ENGLISH        "+Use equipment in last stand."
+
+REFERENCE           DANGERCLOSE_PRO
+LANG_ENGLISH        "Danger Close Pro"
+
+REFERENCE           DESC_DANGERCLOSE
+LANG_ENGLISH        "+Extra air support damage."
+
+REFERENCE           DANGERCLOSE
+LANG_ENGLISH        "Danger Close"
+
+REFERENCE           UPGRADE_DANGERCLOSE
+LANG_ENGLISH        "+Delayed mine explosions"
+
+REFERENCE           UPGRADE_SONICBOOM
+LANG_ENGLISH        "+Extra explosive weapon damage"
+
+REFERENCE           RAPID_FIRE
+LANG_ENGLISH        "Rapid Fire"
+
+REFERENCE           DEATHS_WITHOUT_KILL
+LANG_ENGLISH        " (&&1 deaths without a kill)"
+
+REFERENCE           SMG_RAPID
+LANG_ENGLISH        "Fully automatic, high fire rate."
+
+REFERENCE           SMG_AMMO
+LANG_ENGLISH        "Fully automatic, large magazines."
+
+REFERENCE           SMG_DAMAGE
+LANG_ENGLISH        "Fully automatic, powerful."
+
+REFERENCE           LMG_RAPID
+LANG_ENGLISH        "Fully automatic, high fire rate."
+
+REFERENCE           LMG_AUG
+LANG_ENGLISH        "Fully automatic, high accuracy and damage."
+
+REFERENCE           GHILLIE_ARCTIC
+LANG_ENGLISH        "Arctic Ghillie"
+
+REFERENCE           DESC_GHILLIE_ARCTIC
+LANG_ENGLISH        "You will now be camouflaged when sniping in snowy environments."
+
+REFERENCE           DESC_GHILLIE_DESERT
+LANG_ENGLISH        "You will now be camouflaged when sniping in desert environments."
+
+REFERENCE           DESC_GHILLIE_URBAN
+LANG_ENGLISH        "You will now be camouflaged when sniping in urban environments."
+
+REFERENCE           GHILLIE_URBAN
+LANG_ENGLISH        "Urban Ghillie"
+
+REFERENCE           GHILLIE_DESERT
+LANG_ENGLISH        "Desert Ghillie"
+
+REFERENCE           DESC_JUGGERSUIT
+LANG_ENGLISH        "Move slow but crush your enemies.  Take less damage and 2nd chance on death."
+
+REFERENCE           JUGGERSUIT
+LANG_ENGLISH        "Ares exoskeleton"
+
+REFERENCE           STEALTHSUIT
+LANG_ENGLISH        "Chameleon"
+
+REFERENCE           TACSUIT
+LANG_ENGLISH        "Tac Suit"
+
+REFERENCE           AGISUIT
+LANG_ENGLISH        "Agi Suit"
+
+REFERENCE           DESC_STEALTHSUIT
+LANG_ENGLISH        "Blend in with your surroundings"
+
+REFERENCE           DESC_TACSUIT
+LANG_ENGLISH        "More slots, Scrambler, Cap/Hack faster"
+
+REFERENCE           DESC_AGISUIT
+LANG_ENGLISH        "Jump higher, run faster, Fast Mantle"
+
+REFERENCE           NXRAILGUN
+LANG_ENGLISH        "Fires high speed projectile.  One shot kill.  No splash damage so direct hits are necessary."
+
+REFERENCE           XRAY
+LANG_ENGLISH        "X-Ray Vision"
+
+REFERENCE           DESC_XRAY
+LANG_ENGLISH        "Highlight hidden enemies when ADS"
+
+REFERENCE           XM25
+LANG_ENGLISH        "25mm grenade rounds.  Smaller and less powerful than M320 with flatter trajectory."
+
+REFERENCE           DESC_ABG
+LANG_ENGLISH        "ABG's explode just past doorways and openings."
+
+REFERENCE           DESC_FLASH
+LANG_ENGLISH        "Blind and defen the player temporarily."
+
+REFERENCE           DESC_FRAG
+LANG_ENGLISH        "High explosive grenade"
+
+REFERENCE           DESC_SMOKE
+LANG_ENGLISH        "Smoke screen grenades."
+
+REFERENCE           DESC_STICK
+LANG_ENGLISH        "Stick to objects and players, timed explosion."
+
+REFERENCE           LASERRIFLE
+LANG_ENGLISH        "Med-long distance laser rifle.  Must keep target painted to inflict enough damage."
+
+REFERENCE           ASMK27
+LANG_ENGLISH        "2-shot burst.  Slightly longer range than most AR's.  2-shot kill close, 4-shot kill at distance."
+
+REFERENCE           NEEDLER
+LANG_ENGLISH        "Rapid fire sticky grenades.  3-shot direct hit kill.  Small explosive damage and radius."
+
+REFERENCE           STREAMGUN
+LANG_ENGLISH        "Short range beam weapon that can inflict high damage.  No recharge, uses batteries."
+
+REFERENCE           LASERBURST
+LANG_ENGLISH        "Burst round laser rifle.  Time the bursts to avoid cooldown."
+
+REFERENCE           LASERSNIPER
+LANG_ENGLISH        "Sniper - Energy based sniper rifle. "
+
+REFERENCE           EXPISTOL
+LANG_ENGLISH        "Explosive rounds. Highest damage and recoil of any pistol. Splash damage unlike other pistols.  Med-high range, low ammo count."
+
+REFERENCE           SRM1216
+LANG_ENGLISH        "Shotgun with 2 different types of ammo.  Regular shot rounds and a slug round that is high damage and longer range.  Use L-dpad to toggle."
+
+REFERENCE           CCAMO
+LANG_ENGLISH        "Changes color based on what your enemy sees behind you."
+
+REFERENCE           JETSUIT
+LANG_ENGLISH        "Jet Suit"
+
+REFERENCE           XM108
+LANG_ENGLISH        "Caseless, electric fire assault rifle.  Full auto, high rate of fire, low damage and low recoil."
+
+REFERENCE           DESC_FASTHEALTHREGEN
+LANG_ENGLISH        "Regenerate health faster"
+
+REFERENCE           FASTHEALTHREGEN
+LANG_ENGLISH        "Fortitude"
+
+REFERENCE           EQUIPMENT_HACK
+LANG_ENGLISH        "Hacker"
+
+REFERENCE           TWO_PRIMARIES_PRO
+LANG_ENGLISH        "Overkill Pro"
+
+REFERENCE           DESC_EQUIPMENT_HACK
+LANG_ENGLISH        "+Hack enemy C4 and claymores"
+
+REFERENCE           FASTHEALTHREGEN_PRO
+LANG_ENGLISH        "Fortitude Pro"
+
+REFERENCE           IRON_LUNGS_PRO
+LANG_ENGLISH        "Iron Lungs Pro"
+
+REFERENCE           FASTADSMOVE
+LANG_ENGLISH        "Stalker"
+
+REFERENCE           DESC_FASTADSMOVE
+LANG_ENGLISH        "Move faster while in ADS"
+
+REFERENCE           BULLETFLINCH
+LANG_ENGLISH        "Calm Nerves"
+
+REFERENCE           DESC_BULLETFLINCH
+LANG_ENGLISH        "+Reduced flinch when shot"
+
+REFERENCE           FASTADSMOVE_PRO
+LANG_ENGLISH        "Stalker Pro"
+
+REFERENCE           FASTMELEE_RECOVERY
+LANG_ENGLISH        "Guerrilla Pro"
+
+REFERENCE           DESC_FASTMELEE_RECOVERY
+LANG_ENGLISH        "+Faster melee recovery "
+
+REFERENCE           FASTWEAPONSWITCH
+LANG_ENGLISH        "Fast Weapon Switch"
+
+REFERENCE           _DESC_FASTWEAPONSWITCH
+LANG_ENGLISH        "+Faster weapon switching"
+
+REFERENCE           REDUCED_SHELLSHOCK
+LANG_ENGLISH        "Gas Mask"
+
+REFERENCE           DESC_REDUCED_SHELLSHOCK
+LANG_ENGLISH        "+Reduced shellshock, protection from flash, stun and gas"
+
+REFERENCE           ARESMINIGUN
+LANG_ENGLISH        "Ares minigun"
+
+REFERENCE           FLAKJACKET
+LANG_ENGLISH        "Blast Shield"
+
+REFERENCE           FLAKJACKET_PRO
+LANG_ENGLISH        "Blast Shield Pro"
+
+REFERENCE           DESC_FLAKJACKET
+LANG_ENGLISH        "Body armor protects against explosives"
+
+REFERENCE           M320
+LANG_ENGLISH        "40mm Grenade Launcher.  Same as n00b tube."
+
+REFERENCE           PULSERIFLE
+LANG_ENGLISH        "Shoots powerful bursts of energy. Single-shot.  2-shot kill at closer ranges."
+
+REFERENCE           NETBUFF_PAINKILLER
+LANG_ENGLISH        "Network Shield"
+
+REFERENCE           NETBUFF_DESC_PAINKILLER
+LANG_ENGLISH        "All networked soldiers receive damage reduction"
+
+REFERENCE           BEAMCANNON
+LANG_ENGLISH        "High powered beam weapon.  Full charge bar is equal to Stinger or Javelin damage bu you need to hold it on target.  Long recharge delay. Use against Kill Streaks."
+
+REFERENCE           NETBUFF_DISHCLIP
+LANG_ENGLISH        "Network Extra Mag"
+
+REFERENCE           NETBUFF_SCRAMBLER
+LANG_ENGLISH        "Network Scrambler"
+
+REFERENCE           DESC_SHELLSHOCK1
+LANG_ENGLISH        "Ammo with shellshock splash radius."
+
+REFERENCE           TYPE104
+LANG_ENGLISH        "Med damge, faster fire rate and longer distance than other SMG's."
+
+REFERENCE           DESC_JHP
+LANG_ENGLISH        "Increased bullet damage."
+
+REFERENCE           DESC_MATCH
+LANG_ENGLISH        "Increased bullet damage at a distance."
+
+REFERENCE           EMP_GRENADE
+LANG_ENGLISH        "Sticky grenade that shuts down enemy electronics when within range."
+
+REFERENCE           LIDAR_GRENADE
+LANG_ENGLISH        "Sticky grenade that spews particles alerting you of enemy positions."
+
+REFERENCE           GAS_GRENADE
+LANG_ENGLISH        "Poisonous gas that affects enemies vision, movement and health."
+
+REFERENCE           SONIC_WARDEN
+LANG_ENGLISH        "Sonic Warden"
+
+REFERENCE           PROXIMITY_EMITTER
+LANG_ENGLISH        "Proximity-based sonic wave emitter."
+
+REFERENCE           UAV
+LANG_ENGLISH        "UAV"
+
+REFERENCE           DESC_UAV
+LANG_ENGLISH        "Get a UAV when you spawn."
+
+REFERENCE           REVENGE
+LANG_ENGLISH        "Revenge"
+
+REFERENCE           DESC_REVENGE
+LANG_ENGLISH        "See the position of the last enemy that killed you."
+
+REFERENCE           LIDAR_MINE
+LANG_ENGLISH        "Lidar Mine"
+
+REFERENCE           LIDAR_MINE_DESC
+LANG_ENGLISH        "Its a Lidar!"
+
+REFERENCE           GLO
+LANG_ENGLISH        "2-shot kill close, 3-shot at distance.  Low rate of fire helps mitigate recoil."
+
+REFERENCE           RECHARGETEST
+LANG_ENGLISH        "Rechargeable Perk"
+
+REFERENCE           DESC_RECHARGETEST
+LANG_ENGLISH        "This is a test."
+
+REFERENCE           R_STEALTHEXPERT
+LANG_ENGLISH        "Stealth"
+
+REFERENCE           DESC_R_STEALTHEXPERT
+LANG_ENGLISH        "This ability provides active camo and makes you undetectable by enemy radar and uav."
+
+REFERENCE           DESC_R_MOBILITYEXPERT
+LANG_ENGLISH        "This ability provides faster movement speed, as well as fast automatic manteling."
+
+REFERENCE           DESC_R_AWARENESSEXPERT
+LANG_ENGLISH        "This ability provides a portable radar device you can activate to locate nearby threats."
+
+REFERENCE           R_MOBILITYEXPERT
+LANG_ENGLISH        "Speed"
+
+REFERENCE           R_AWARENESSEXPERT
+LANG_ENGLISH        "Awareness"
+
+REFERENCE           SCRAMBLER_ITEM
+LANG_ENGLISH        "Scrambler"
+
+REFERENCE           DESC_SCRAMBLER_ITEM
+LANG_ENGLISH        "A deployable that jams enemy radar based on proximity."
+
+REFERENCE           PORTABLE_RADAR_ITEM
+LANG_ENGLISH        "Portable Radar"
+
+REFERENCE           DESC_PORTABLE_RADAR_ITEM
+LANG_ENGLISH        "A deployable that detects enemies based on proximity."
+
+REFERENCE           LOADED
+LANG_ENGLISH        "Special Grenades"
+
+REFERENCE           DESC_LOADED
+LANG_ENGLISH        "Stock up with special grenades."
+
+REFERENCE           DESC_XRAYVISION
+LANG_ENGLISH        "Device that provides for x-ray vision."
+
+REFERENCE           DESC_DISRUPTOR
+LANG_ENGLISH        "Disrupts enemy special powers."
+
+REFERENCE           DISRUPTOR
+LANG_ENGLISH        "Disruptor"
+
+REFERENCE           XRAYVISION
+LANG_ENGLISH        "X-Ray"
+
+REFERENCE           DESC_BLINDEYE
+LANG_ENGLISH        "Undetectable from air support and sentries"
+
+REFERENCE           UPGRADE_BLINDEYE
+LANG_ENGLISH        "+Faster lockon, armor piercing bullets"
+
+REFERENCE           UPGRADE_FLAKJACKET
+LANG_ENGLISH        "+Reduced shellshock, protection from flash and stun"
+
+REFERENCE           UPGRADE_MARATHON
+LANG_ENGLISH        "+No fall damage"
+
+REFERENCE           DESC_DELAYMINE
+LANG_ENGLISH        "+Delay claymores"
+
+REFERENCE           UPGRADE_HOLDBREATH
+LANG_ENGLISH        "+Hold breath longer, fast snipe recovery, reduced flinch and recoil"
+
+REFERENCE           DESC_HOLDBREATH
+LANG_ENGLISH        "+Hold breath longer, fast snipe recovery, reduced flinch and recoil"
+
+REFERENCE           OVERKILL_PRO
+LANG_ENGLISH        "Overkill Pro"
+
+REFERENCE           DESC_OVERKILL
+LANG_ENGLISH        "Two primary weapons, faster health regen"
+
+REFERENCE           XMPROTO
+LANG_ENGLISH        "CP FTW!  High rate of fire SMG.  Probably does everything too well."
+
+REFERENCE           CD2B
+LANG_ENGLISH        "Double barrel air burst grenades."
+
+REFERENCE           SCARH
+LANG_ENGLISH        "Customized!  Heavy damage version of SCAR.  Similar to an LMG."
+
+REFERENCE           SCARRG
+LANG_ENGLISH        "Customized!  Run and gun version of the SCAR.  Similar to an SMG."
+
+REFERENCE           MASADARG
+LANG_ENGLISH        "Customized!  Run and gun version of ACR.  Similar to an SMG."
+
+REFERENCE           DESC_GRAPPLING
+LANG_ENGLISH        "SANDSTORM MAP ONLY - Use an offhand grappling hook to ascend to new heights."
+
+REFERENCE           GRAPPLINGHOOK
+LANG_ENGLISH        "Grappling Hook"
+
+REFERENCE           MASADASN
+LANG_ENGLISH        "Customized!  Sniper variation of ACR."
+
+REFERENCE           KSG
+LANG_ENGLISH        "Shotgun with 2 types of ammo.  Regular shot pellets and a single slug for longer distances."
+
+REFERENCE           ECR
+LANG_ENGLISH        "Extremely high rate of fire, med damage.  Electric firing mechanism and mag eject."
+
+REFERENCE           DESC_FASTWEAPONSWITCH
+LANG_ENGLISH        "+Faster weapon switching"
+
+REFERENCE           UPGRADE_LIGHTWEIGHT
+LANG_ENGLISH        "+No fall damage"
+
+REFERENCE           QUICKDRAW_PRO
+LANG_ENGLISH        "Quickdraw Pro"
+
+REFERENCE           FASTERLOCKON
+LANG_ENGLISH        "Faster Lockon"
+
+REFERENCE           DESC_FASTERLOCKON
+LANG_ENGLISH        "+Faster lockon with launchers, extra bullet damage to vehicles"
+
+REFERENCE           BLING
+LANG_ENGLISH        "Bling"
+
+REFERENCE           GASMASK
+LANG_ENGLISH        "Gas Mask"
+
+REFERENCE           UPGRADE_GASMASK
+LANG_ENGLISH        "Gas Mask Pro"
+
+REFERENCE           DESC_GASMASK
+LANG_ENGLISH        "Immune to poisonous gas"
+
+REFERENCE           DESC_BOOST
+LANG_ENGLISH        "Boost alt-mode for a more powerful shot."
+
+REFERENCE           DESC_LBARREL
+LANG_ENGLISH        "Entended barrel.  Longer range, reduced mobility."
+
+REFERENCE           DESC_SBARREL
+LANG_ENGLISH        "Shorter barrel.  Reduced range, greater mobility."
+
+REFERENCE           DESC_ASTOCK
+LANG_ENGLISH        "Adjustable stock.  Greater mobility, increased recoil. L-DPad to trigger."
+
+REFERENCE           SCAR2
+LANG_ENGLISH        "High damage and slower fire rate."
+
+REFERENCE           DESC_PLUSONE
+LANG_ENGLISH        "Increase your burst by 1 shot."
+
+REFERENCE           FAST_CARE_PACKAGE_RECOVERY
+LANG_ENGLISH        "Recover the care package crate faster"
+
+REFERENCE           CARE_PACKAGE_PRO
+LANG_ENGLISH        "Care Package Pro"
+
+REFERENCE           TROPHY
+LANG_ENGLISH        "Trophy Suit"
+
+REFERENCE           TROPHY_PRO
+LANG_ENGLISH        "Trophy Ability"
+
+REFERENCE           SPECTRE
+LANG_ENGLISH        "Spectre Suit"
+
+REFERENCE           SPECTRE_PRO
+LANG_ENGLISH        "Spectre Ability"
+
+REFERENCE           GAZELLE
+LANG_ENGLISH        "Gazelle Suit"
+
+REFERENCE           GAZELLE_PRO
+LANG_ENGLISH        "Gazelle Ability"
+
+REFERENCE           SMART
+LANG_ENGLISH        "Smart Suit"
+
+REFERENCE           SMART_PRO
+LANG_ENGLISH        "Smart Ability"
+
+REFERENCE           HULC
+LANG_ENGLISH        "Overkill"
+
+REFERENCE           HULC_PRO
+LANG_ENGLISH        "Overkill Pro"
+
+REFERENCE           DESC_TROPHY
+LANG_ENGLISH        "Shoulder mounted trophy system protects nearby allies from grenades "
+
+REFERENCE           DESC_GAZELLE
+LANG_ENGLISH        "Move faster, sprint indefinitely, and suffer no fall damage"
+
+REFERENCE           DESC_GAZELLE_PRO
+LANG_ENGLISH        "Reload while sprinting and automatically mantle over objects"
+
+REFERENCE           DESC_SMART
+LANG_ENGLISH        "Earn strike packages and deathstreaks quicker while recovering care packages faster"
+
+REFERENCE           DESC_SMART_PRO
+LANG_ENGLISH        "Portable radar provides a small radius of enemy detection for the team and  nearby bullet whizbys appear in the HUD"
+
+REFERENCE           DESC_HULC
+LANG_ENGLISH        "Carry two primary weapons"
+
+REFERENCE           DESC_HULC_PRO
+LANG_ENGLISH        "+Attachment on second primary weapon"
+
+REFERENCE           DESC_SPECTRE
+LANG_ENGLISH        "Undetectable by UAV, thermal, air support and sentries.  No red name or crosshairs and invisible to red box targeting systems
+"
+
+REFERENCE           DESC_SPECTREPRO
+LANG_ENGLISH        "Melee an enemy and hack into their network, providing directional radar for the player showing the entire enemy team"
+
+REFERENCE           ARMOR_DAMAGE
+LANG_ENGLISH        "Takedown"
+
+REFERENCE           HULC_LETHAL
+LANG_ENGLISH        "Hulc Suit"
+
+REFERENCE           HULC_OFFHAND
+LANG_ENGLISH        "Tactical Rockets"
+
+REFERENCE           DESC_HULC_OFFHAND
+LANG_ENGLISH        "Shoulder fired offhand"
+
+REFERENCE           DESC_HULC_LETHAL
+LANG_ENGLISH        "Shoulder fired lethal"
+
+REFERENCE           HULC_LIDAR
+LANG_ENGLISH        "Disruptors"
+
+REFERENCE           HULC_ROCKET
+LANG_ENGLISH        "Rockets"
+
+REFERENCE           UPGRADE_ARMORVEST
+LANG_ENGLISH        "Armor protection"
+
+REFERENCE           DESC_HULC_ROCKET
+LANG_ENGLISH        "Rockets fired from the shoulder launcher."
+
+REFERENCE           DESC_HULC_LIDAR
+LANG_ENGLISH        "Disruptor rockets pass undetected through the Trophy's defenses.  EMP and team HUD detection."
+
+REFERENCE           UPGRADE_REDUCEDSHELLSHOCK
+LANG_ENGLISH        "+Reduced shellshock, protection from flash, stun and gas"
+
+REFERENCE           HULC_LETHAL_PRO
+LANG_ENGLISH        "Hulc Ability"
+
+REFERENCE           DESC_HULC_LIDAR_GRENADE
+LANG_ENGLISH        "Lights up enemies and the team can track them in the HUD"
+
+REFERENCE           HULC_SEMTEX
+LANG_ENGLISH        "Semtex"
+
+REFERENCE           DESC_HULC_SEMTEX
+LANG_ENGLISH        "Shoulder fired semtex grenades."
+
+REFERENCE           HULC_FRAG
+LANG_ENGLISH        "Frags"
+
+REFERENCE           DESC_HULC_FRAG
+LANG_ENGLISH        "Shoulder fired frag greandes."
+
+REFERENCE           HULC_N00B
+LANG_ENGLISH        "Impact"
+
+REFERENCE           DESC_HULC_N00B
+LANG_ENGLISH        "Shoulder fired grenades that explode on impact."
+
+REFERENCE           EXTREME_CONDITIONING_PRO
+LANG_ENGLISH        "Extreme Conditioning Pro"
+
+REFERENCE           DESC_FASTOFFHAND
+LANG_ENGLISH        "+Recover from equipment and grenade usage quicker"
+
+REFERENCE           AUTO_SPOT
+LANG_ENGLISH        "Marksman"
+
+REFERENCE           DESC_AUTO_SPOT
+LANG_ENGLISH        "Enemy names draw at farther distances"
+
+REFERENCE           TWO_PRIMARIES
+LANG_ENGLISH        "Overkill"
+
+REFERENCE           BLINDEYE_PRO
+LANG_ENGLISH        "Blind Eye Pro"
+
+REFERENCE           PAINT
+LANG_ENGLISH        "Recon"
+
+REFERENCE           PAINT_PRO
+LANG_ENGLISH        "Recon Pro"
+
+REFERENCE           DESC_PAINT
+LANG_ENGLISH        "Explosive damage paints targets on minimap"
+
+REFERENCE           UPGRADE_PAINT
+LANG_ENGLISH        "+Bullet damage paints targets on the minimap"
+
+REFERENCE           JUICED
+LANG_ENGLISH        "Juiced"
+
+REFERENCE           DESC_JUICED
+LANG_ENGLISH        "Run faster for a while after respawning"
+

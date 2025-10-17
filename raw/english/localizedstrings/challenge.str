@@ -1,0 +1,1880 @@
+// Note to translators:
+// If a sentence is the same in your language then please change it to "#same"
+//
+// eg:
+// LANG_ENGLISH  "HALT"
+// LANG_GERMAN   "#same"
+//
+// (This is so we can tell which strings have been signed-off as ok to be the same words for QA
+//  and because we do not store duplicate strings, which will then get exported again next time
+//  as being untranslated.)
+//
+VERSION             "1"
+CONFIG              "C:\trees\nx1\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           ASSAULT
+LANG_ENGLISH        "Assault"
+
+REFERENCE           SMG
+LANG_ENGLISH        "SMG"
+
+REFERENCE           LMG
+LANG_ENGLISH        "LMG"
+
+REFERENCE           SHOTGUN
+LANG_ENGLISH        "Shotgun"
+
+REFERENCE           SNIPER
+LANG_ENGLISH        "Sniper"
+
+REFERENCE           BOOT_CAMP
+LANG_ENGLISH        "Boot Camp"
+
+REFERENCE           OPERATIONS
+LANG_ENGLISH        "Operations"
+
+REFERENCE           KILLER
+LANG_ENGLISH        "Killer"
+
+REFERENCE           HUMILIATION
+LANG_ENGLISH        "Humiliation"
+
+REFERENCE           ELITE
+LANG_ENGLISH        "Elite"
+
+REFERENCE           BOOT_CAMP_CHALLENGES
+LANG_ENGLISH        "Boot Camp challenges"
+
+REFERENCE           OPERATIONS_CHALLENGES
+LANG_ENGLISH        "Individuals play the game, but teams beat the odds."
+
+REFERENCE           KILLER_CHALLENGES
+LANG_ENGLISH        "Killer challenges"
+
+REFERENCE           HUMILIATION_CHALLENGES
+LANG_ENGLISH        "Terminate with extreme prejudice."
+
+REFERENCE           ELITE_CHALLENGES
+LANG_ENGLISH        "An amateur practices until he can get it right, a professional practices until he can't get it wrong."
+
+REFERENCE           FLYSWATTER
+LANG_ENGLISH        "Flyswatter"
+
+REFERENCE           GOODBYE
+LANG_ENGLISH        "Goodbye"
+
+REFERENCE           BASE_JUMP
+LANG_ENGLISH        "Base Jump"
+
+REFERENCE           KILL_3_ENEMIES_WITHOUT
+LANG_ENGLISH        "Call in a UAV."
+
+REFERENCE           KILL_5_ENEMIES_WITHOUT
+LANG_ENGLISH        "Call in an airstrike."
+
+REFERENCE           KILL_7_ENEMIES_WITHOUT
+LANG_ENGLISH        "Call in a chopper."
+
+REFERENCE           SHOOT_DOWN_AN_ENEMY_HELICOPTER
+LANG_ENGLISH        "Shoot down an enemy helicopter."
+
+REFERENCE           FALL_30_FEET_OR_MORE
+LANG_ENGLISH        "Fall 30 feet or more to your death."
+
+REFERENCE           FALL_15_FEET_OR_MORE
+LANG_ENGLISH        "Fall 15 feet or more and survive."
+
+REFERENCE           MVP_TEAM_DEATHMATCH
+LANG_ENGLISH        "MVP Team Deathmatch"
+
+REFERENCE           MVP_TEAM_HARDCORE
+LANG_ENGLISH        "MVP Team Hardcore"
+
+REFERENCE           BOMB_DOWN
+LANG_ENGLISH        "Bomb Down"
+
+REFERENCE           BOMB_DEFENDER
+LANG_ENGLISH        "Bomb Defender"
+
+REFERENCE           BOMB_PLANTER
+LANG_ENGLISH        "Bomb Prevention"
+
+REFERENCE           DEFUSER
+LANG_ENGLISH        "Defuser"
+
+REFERENCE           LAST_MAN_STANDING
+LANG_ENGLISH        "Last Man Standing"
+
+REFERENCE           PLAY_TEAM_DEATHMATCH
+LANG_ENGLISH        "Play Team Deathmatch and get the top score overall."
+
+REFERENCE           WIN_A_TEAM_HARDCORE_MATCH
+LANG_ENGLISH        "Win a Team Hardcore match with the top score."
+
+REFERENCE           KILL_THE_BOMB_CARRIER
+LANG_ENGLISH        "Kill a bomb carrier in Sabotage or Search and Destroy."
+
+REFERENCE           KILL_A_BOMB_DEFUSER_IN
+LANG_ENGLISH        "Kill &&1 enemies while they are defusing a bomb."
+
+REFERENCE           KILL_A_BOMB_PLANTER_IN
+LANG_ENGLISH        "Kill &&1 enemies while they are planting a bomb."
+
+REFERENCE           DEFUSE_A_BOMB_IN_SABOTAGE
+LANG_ENGLISH        "Defuse &&1 bombs."
+
+REFERENCE           BE_THE_LAST_MAN_STANDING
+LANG_ENGLISH        "Be the last man standing in Search and Destroy."
+
+REFERENCE           CLAYMORE_SHOT
+LANG_ENGLISH        "Claymore Shot"
+
+REFERENCE           ASSAULT_EXPERT
+LANG_ENGLISH        "Assault Expert"
+
+REFERENCE           SMG_EXPERT
+LANG_ENGLISH        "SMG Expert"
+
+REFERENCE           LMG_EXPERT
+LANG_ENGLISH        "LMG Expert"
+
+REFERENCE           LAST_STAND_VETERAN
+LANG_ENGLISH        "Last Stand Veteran"
+
+REFERENCE           MASTER_CHEF
+LANG_ENGLISH        "Master Chef"
+
+REFERENCE           AIRSTRIKE_VETERAN
+LANG_ENGLISH        "Airstrike Veteran"
+
+REFERENCE           CHOPPER_VETERAN
+LANG_ENGLISH        "Chopper Veteran"
+
+REFERENCE           STUN_VETERAN
+LANG_ENGLISH        "Stun Veteran"
+
+REFERENCE           MARTYRDOM_VETERAN
+LANG_ENGLISH        "Martyrdom Veteran"
+
+REFERENCE           STEALTH
+LANG_ENGLISH        "Stealth"
+
+REFERENCE           INVISIBLE
+LANG_ENGLISH        "Invisible"
+
+REFERENCE           COUNTERCLAYMORE
+LANG_ENGLISH        "Counter-Claymore"
+
+REFERENCE           COUNTERC4
+LANG_ENGLISH        "Counter-C4"
+
+REFERENCE           MULTIRPG
+LANG_ENGLISH        "Multi-RPG"
+
+REFERENCE           CLAY_MORE
+LANG_ENGLISH        "Clay More"
+
+REFERENCE           KILL_5_ENEMIES_BY_USING
+LANG_ENGLISH        "Kill &&1 enemies with claymores."
+
+REFERENCE           KILL_N_ENEMIES_WITH_A1
+LANG_ENGLISH        "Kill &&1 enemies with a headshot while using an assault rifle."
+
+REFERENCE           KILL_25_ENEMIES_WITH
+LANG_ENGLISH        "Kill 25 enemies with a headshot while using an assault rifle. (Phase 2 of 3)"
+
+REFERENCE           KILL_50_ENEMIES_WITH
+LANG_ENGLISH        "Kill 50 enemies with a headshot while using an assault rifle. (Phase 3 of 3)"
+
+REFERENCE           KILL_N_ENEMIES_WITH_HEADSHOTS
+LANG_ENGLISH        "Kill &&1 enemies with headshots while using a submachine gun."
+
+REFERENCE           KILL_N_ENEMIES_WITH_HEADSHOTS1
+LANG_ENGLISH        "Kill &&1 enemies with headshots while using a light machine gun."
+
+REFERENCE           KILL_N_ENEMY_WHILE_USING
+LANG_ENGLISH        "Kill &&1 enemies while using the Last Stand perk."
+
+REFERENCE           KILL_N_ENEMIES_WITH_COOKED
+LANG_ENGLISH        "Kill &&1 enemies with cooked grenades."
+
+REFERENCE           KILL_N_ENEMIES_BY_CALLING
+LANG_ENGLISH        "Kill &&1 enemies by calling in airstrikes."
+
+REFERENCE           KILL_N_ENEMIES_BY_CALLING1
+LANG_ENGLISH        "Kill &&1 enemies by calling in helicopters."
+
+REFERENCE           KILL_N_ENEMIES_STILL
+LANG_ENGLISH        "Kill &&1 enemies still dazed by a stun grenade."
+
+REFERENCE           KILL_2_OR_MORE_ENEMIES
+LANG_ENGLISH        "Kill 2 or more enemies with a single RPG shot, &&1 times."
+
+REFERENCE           KILL_N_ENEMY_WITH_A_DROPPED
+LANG_ENGLISH        "Kill &&1 enemies with a dropped grenade from the Martyrdom Deathstreak."
+
+REFERENCE           KILL_2_OR_MORE_ENEMIES1
+LANG_ENGLISH        "Kill 2 or more enemies with a single claymore, &&1 times."
+
+REFERENCE           KILL_N_ENEMIES_BY_SHOOTING
+LANG_ENGLISH        "Kill &&1 enemies by shooting a claymore."
+
+REFERENCE           KILL_N_ENEMIES_BY_SHOOTING1
+LANG_ENGLISH        "Kill &&1 enemies by shooting C4."
+
+REFERENCE           AIRBORNE
+LANG_ENGLISH        "Airborne"
+
+REFERENCE           MULTIFRAG
+LANG_ENGLISH        "Multi-frag"
+
+REFERENCE           CARPET_BOMB
+LANG_ENGLISH        "Carpet Bomb"
+
+REFERENCE           MG_MASTER
+LANG_ENGLISH        "MG Master"
+
+REFERENCE           SLASHER
+LANG_ENGLISH        "Slasher"
+
+REFERENCE           MULTIC4
+LANG_ENGLISH        "Multi-C4"
+
+REFERENCE           HOT_POTATO
+LANG_ENGLISH        "Hot Potato"
+
+REFERENCE           CAR_BOMB
+LANG_ENGLISH        "Car Bomb"
+
+REFERENCE           BACKSTABBER
+LANG_ENGLISH        "Backstabber"
+
+REFERENCE           SLOW_BUT_SURE
+LANG_ENGLISH        "Slow But Sure"
+
+REFERENCE           FLASHBANG_VETERAN
+LANG_ENGLISH        "Flashbang Veteran"
+
+REFERENCE           MISERY_LOVES_COMPANY
+LANG_ENGLISH        "Misery Loves Company"
+
+REFERENCE           OUCH
+LANG_ENGLISH        "Ouch"
+
+REFERENCE           RIVAL
+LANG_ENGLISH        "Rival"
+
+REFERENCE           CRUELTY
+LANG_ENGLISH        "Cruelty"
+
+REFERENCE           THINK_FAST
+LANG_ENGLISH        "Think Fast"
+
+REFERENCE           THINK_FAST_STUN
+LANG_ENGLISH        "Think Fast Stun"
+
+REFERENCE           THINK_FAST_FLASH
+LANG_ENGLISH        "Think Fast Flash"
+
+REFERENCE           RETURN_TO_SENDER
+LANG_ENGLISH        "Return To Sender"
+
+REFERENCE           BLINDFIRE
+LANG_ENGLISH        "Blindfire"
+
+REFERENCE           GET_A_2_KILL_STREAK_WHILE
+LANG_ENGLISH        "Get a 2 kill streak with bullets while in mid-air."
+
+REFERENCE           KILL_2_OR_MORE_ENEMIES2
+LANG_ENGLISH        "Kill 2 or more enemies with a single frag grenade, &&1 times."
+
+REFERENCE           KILL_5_ENEMIES_WITH_A3
+LANG_ENGLISH        "Kill 5 enemies with a single airstrike."
+
+REFERENCE           GET_A_5_KILL_STREAK_WHILE
+LANG_ENGLISH        "Get a 5 kill streak while on a mounted machine gun."
+
+REFERENCE           GET_A_3_MELEE_KILL_STREAK
+LANG_ENGLISH        "Get a 3 melee kill streak without dying."
+
+REFERENCE           KILL_2_OR_MORE_ENEMIES3
+LANG_ENGLISH        "Kill 2 or more enemies with a single C4 pack, &&1 times."
+
+REFERENCE           KILL_N_ENEMIES_WITH_THROWN
+LANG_ENGLISH        "Kill &&1 enemies with thrown back grenades."
+
+REFERENCE           KILL_5_ENEMIES_WITH_THROWN
+LANG_ENGLISH        "Kill 5 enemies with thrown back grenades. (Phase 2 of 3)"
+
+REFERENCE           KILL_15_ENEMIES_WITH2
+LANG_ENGLISH        "Kill &&1 enemies with thrown back grenades."
+
+REFERENCE           KILL_1_ENEMY_BY_DESTROYING
+LANG_ENGLISH        "Destroy a car."
+
+REFERENCE           STAB_AN_ENEMY_IN_THE
+LANG_ENGLISH        "Stab an enemy in the back with your knife."
+
+REFERENCE           KILL_1_ENEMY_WHILE_BEING
+LANG_ENGLISH        "Kill 1 enemy while being stunned by a stun grenade."
+
+REFERENCE           KILL_N_ENEMIES_DAZED
+LANG_ENGLISH        "Kill &&1 enemies dazed by a flashbang."
+
+REFERENCE           KILL_10_ENEMIES_DAZED
+LANG_ENGLISH        "Kill &&1 enemies dazed by a flashbang."
+
+REFERENCE           KILL_YOURSELF_AND_1_ENEMY
+LANG_ENGLISH        "Kill yourself and 1 enemy by cooking a grenade without throwing it."
+
+REFERENCE           KILL_N_ENEMIES_WITH_A_RIFLEMOUNTED
+LANG_ENGLISH        "Kill an enemy with a rifle-mounted grenade launcher without detonation. (Direct impact)"
+
+REFERENCE           KILL_THE_SAME_ENEMY_5
+LANG_ENGLISH        "Kill the same enemy 5 times in a single match."
+
+REFERENCE           KILL_AN_ENEMY_PICK_UP
+LANG_ENGLISH        "Kill an enemy, pick up his weapon, then kill him again with his own weapon."
+
+REFERENCE           FINISH_AN_ENEMY_OFF_BY
+LANG_ENGLISH        "Finish an enemy off by hitting them with a frag grenade. (Direct impact)"
+
+REFERENCE           FINISH_AN_ENEMY_OFF_BY1
+LANG_ENGLISH        "Finish an enemy off by hitting them with a stun grenade. (Direct impact)"
+
+REFERENCE           FINISH_AN_ENEMY_OFF_BY2
+LANG_ENGLISH        "Finish an enemy off by hitting them with a flashbang. (Direct impact)"
+
+REFERENCE           KILL_AN_ENEMY_BY_SHOOTING
+LANG_ENGLISH        "Kill 1 enemy by shooting their own explosive."
+
+REFERENCE           KILL_AN_ENEMY_WHILE_YOU
+LANG_ENGLISH        "Kill an enemy while you are still dazed by a flashbang."
+
+REFERENCE           THE_BRINK
+LANG_ENGLISH        "The Brink"
+
+REFERENCE           COLLATERAL_DAMAGE
+LANG_ENGLISH        "Collateral Damage"
+
+REFERENCE           THE_EDGE
+LANG_ENGLISH        "The Edge"
+
+REFERENCE           FLAWLESS
+LANG_ENGLISH        "Flawless"
+
+REFERENCE           TANGO_DOWN
+LANG_ENGLISH        "Tango Down"
+
+REFERENCE           HARD_LANDING
+LANG_ENGLISH        "Hard Landing"
+
+REFERENCE           EXTREME_CRUELTY
+LANG_ENGLISH        "Extreme Cruelty"
+
+REFERENCE           FAST_SWAP
+LANG_ENGLISH        "Fast Swap"
+
+REFERENCE           STAR_PLAYER
+LANG_ENGLISH        "Star Player"
+
+REFERENCE           HOW_THE_
+LANG_ENGLISH        "How the ?"
+
+REFERENCE           DOMINOS
+LANG_ENGLISH        "Dominos"
+
+REFERENCE           NO_SECRETS
+LANG_ENGLISH        "No Secrets"
+
+REFERENCE           AFTERBURNER
+LANG_ENGLISH        "Afterburner"
+
+REFERENCE           AIR_SUPERIORITY
+LANG_ENGLISH        "Air Superiority"
+
+REFERENCE           FEARLESS
+LANG_ENGLISH        "Fearless"
+
+REFERENCE           COUNTERMVP
+LANG_ENGLISH        "Counter-MVP"
+
+REFERENCE           INVINCIBLE
+LANG_ENGLISH        "Invincible"
+
+REFERENCE           SURVIVALIST
+LANG_ENGLISH        "Survivalist"
+
+REFERENCE           GET_A_3_OR_MORE_KILL
+LANG_ENGLISH        "Get a 3 or more kill streak while near death.  (Screen flashing red)"
+
+REFERENCE           KILL_2_OR_MORE_ENEMIES4
+LANG_ENGLISH        "Kill 2 or more enemies with a single sniper rifle bullet."
+
+REFERENCE           GET_THE_MATCH_WINNING_KILL_N_TIMES
+LANG_ENGLISH        "Get the match winning kill &&1 time(s)."
+
+REFERENCE           GET_THE_LAST_KILL_IN1
+LANG_ENGLISH        "Get the last kill in a match 5 times. (Phase 2 of 3)"
+
+REFERENCE           GET_THE_LAST_KILL_IN2
+LANG_ENGLISH        "Get the last kill in a match 10 times. (Phase 3 of 3)"
+
+REFERENCE           PLAY_AN_ENTIRE_FULLLENGTH
+LANG_ENGLISH        "Play an entire full-length match without dying."
+
+REFERENCE           KILL_EVERY_MEMBER_OF
+LANG_ENGLISH        "Kill every member of the enemy team. (4 enemy minimum)"
+
+REFERENCE           KILL_AN_ENEMY_THAT_IS
+LANG_ENGLISH        "Kill an enemy that is in mid-air."
+
+REFERENCE           KILL_EVERY_MEMBER_OF1
+LANG_ENGLISH        "Kill every member of the enemy team (at least 4 enemies) without dying."
+
+REFERENCE           HURT_AN_ENEMY_WITH_A
+LANG_ENGLISH        "Hurt an enemy with a primary weapon, then finish them off with a pistol."
+
+REFERENCE           PLAY_AN_ENTIRE_MATCH
+LANG_ENGLISH        "Play an entire match of any game type with a 5:1 kill / death ratio."
+
+REFERENCE           KILL_AN_ENEMY_BY_USING
+LANG_ENGLISH        "Kill an enemy by using bullet penetration to shoot an explosive device through a wall."
+
+REFERENCE           KILL_AN_ENEMY_BY_SETTING
+LANG_ENGLISH        "Kill an enemy by setting off chain reactions of explosives."
+
+REFERENCE           CALL_IN_A_UAV_3_TIMES
+LANG_ENGLISH        "Call in a UAV 3 times in a single match."
+
+REFERENCE           CALL_IN_AN_AIRSTRIKE
+LANG_ENGLISH        "Call in an airstrike 2 times in a single match.
+"
+
+REFERENCE           CALL_IN_A_HELICOPTER
+LANG_ENGLISH        "Call in a helicopter 2 times in a single match."
+
+REFERENCE           KILL_10_ENEMIES_IN_A
+LANG_ENGLISH        "Kill 10 enemies in a single match without dying."
+
+REFERENCE           KILL_THE_1_PLAYER_ON
+LANG_ENGLISH        "Kill the #1 player on the enemy team 10 times in a single match."
+
+REFERENCE           GET_5_HEALTH_REGENERATIONS
+LANG_ENGLISH        "Get 5 health regenerations from enemy damage in a row, without dying."
+
+REFERENCE           SURVIVE_FOR_5_CONSECUTIVE
+LANG_ENGLISH        "Survive for 5 consecutive minutes."
+
+REFERENCE           KILL_N_ENEMY_WITH_SHIELD
+LANG_ENGLISH        "Kill &&1 enemies with the shield melee attack."
+
+REFERENCE           SHIELD_VETERAN
+LANG_ENGLISH        "Shield Veteran"
+
+REFERENCE           BACKSMASHER
+LANG_ENGLISH        "Back-Smasher"
+
+REFERENCE           CRUSH_AN_ENEMY
+LANG_ENGLISH        "Crush an enemy from behind."
+
+REFERENCE           GET_A_3_SHIELD_KILL_STREAK
+LANG_ENGLISH        "Get a 3 kill streak with the Riot Shield without dying."
+
+REFERENCE           HANDGUN
+LANG_ENGLISH        "Handgun"
+
+REFERENCE           MACHINEPISTOL
+LANG_ENGLISH        "Machine Pistol"
+
+REFERENCE           LAUNCHER
+LANG_ENGLISH        "Launcher"
+
+REFERENCE           HANDGUN_CHALLENGES
+LANG_ENGLISH        "Handgun challenges"
+
+REFERENCE           MACHINEPISTOL_CHALLENGES
+LANG_ENGLISH        "Machine Pistol challenges"
+
+REFERENCE           LAUNCHER_CHALLENGES
+LANG_ENGLISH        "Launcher challenges"
+
+REFERENCE           GET_10_MULTIKILLS_WITH
+LANG_ENGLISH        "Get 10 Multi-Kills with this weapon."
+
+REFERENCE           GET_25_MULTIKILLS_WITH
+LANG_ENGLISH        "Get 25 Multi-Kills with this weapon."
+
+REFERENCE           GET_75_MULTIKILLS_WITH
+LANG_ENGLISH        "Get 75 Multi-Kills with this weapon."
+
+REFERENCE           GET_150_MULTIKILLS_WITH
+LANG_ENGLISH        "Get 150 Multi-Kills with this weapon."
+
+REFERENCE           GET_250_MULTIKILLS_WITH
+LANG_ENGLISH        "Get 250 Multi-Kills with this weapon."
+
+REFERENCE           GET_400_MULTIKILLS_WITH
+LANG_ENGLISH        "Get 400 Multi-Kills with this weapon."
+
+REFERENCE           GET_500_MULTIKILLS_WITH
+LANG_ENGLISH        "Get 500 Multi-Kills with this weapon."
+
+REFERENCE           GET_1000_MULTIKILLS_WITH
+LANG_ENGLISH        "Get 1,000 Multi-Kills with this weapon."
+
+REFERENCE           GET_10000_MULTIKILLS_WITH
+LANG_ENGLISH        "Get 10,000 Multi-Kills with this weapon."
+
+REFERENCE           BULLETACCURACY_PRO
+LANG_ENGLISH        "Steady Aim Pro"
+
+REFERENCE           GET_N_HIPFIRE_KILLS
+LANG_ENGLISH        "Get &&1 hipfire kills using Steady Aim."
+
+REFERENCE           EXTENDEDMELEE_PRO
+LANG_ENGLISH        "Commando Pro"
+
+REFERENCE           GET_N_MELEE_KILLS
+LANG_ENGLISH        "Get &&1 melee kills using Commando."
+
+REFERENCE           MARATHON_PRO
+LANG_ENGLISH        "Marathon Pro"
+
+REFERENCE           RUN_N_MILES
+LANG_ENGLISH        "Run &&1 miles using Marathon."
+
+REFERENCE           SPYGAME_PRO
+LANG_ENGLISH        "Spy Game Pro"
+
+REFERENCE           IRONLUNGS_PRO
+LANG_ENGLISH        "Iron Lungs Pro"
+
+REFERENCE           ONEMANARMY_PRO
+LANG_ENGLISH        "One Man Army Pro"
+
+REFERENCE           GET_N_KILLS_OMA
+LANG_ENGLISH        "Get &&1 kills using One Man Army."
+
+REFERENCE           COLDBLOODED_PRO
+LANG_ENGLISH        "Cold-Blooded Pro"
+
+REFERENCE           DEADSILENCE_PRO
+LANG_ENGLISH        "Ninja Pro"
+
+REFERENCE           GET_N_CLOSE_DS_KILLS
+LANG_ENGLISH        "Get &&1 close range kills using Ninja."
+
+REFERENCE           UAVJAMMER_PRO
+LANG_ENGLISH        "UAV Jammer Pro"
+
+REFERENCE           SCAVENGER_PRO
+LANG_ENGLISH        "Scavenger Pro"
+
+REFERENCE           PICKUP_N_SCAVENGER_PACKS
+LANG_ENGLISH        "Resupply &&1 times while using Scavenger."
+
+REFERENCE           LASTSTAND_PRO
+LANG_ENGLISH        "Last Stand Pro"
+
+REFERENCE           GET_N_LASTSTAND_KILLS
+LANG_ENGLISH        "Get &&1 kills while in Last Stand."
+
+REFERENCE           STOPPINGPOWER_PRO
+LANG_ENGLISH        "Stopping Power Pro"
+
+REFERENCE           GET_N_SP_KILLS
+LANG_ENGLISH        "Get &&1 kills using Stopping Power."
+
+REFERENCE           BLING_PRO
+LANG_ENGLISH        "Bling Pro"
+
+REFERENCE           GET_N_BLING_KILLS
+LANG_ENGLISH        "Get &&1 kills using a weapon with 2 attachments."
+
+REFERENCE           LIGHTWEIGHT_PRO
+LANG_ENGLISH        "Lightweight Pro"
+
+REFERENCE           SPRINT_N_MILES
+LANG_ENGLISH        "Sprint &&1 miles using Lightweight."
+
+REFERENCE           HARDLINE_PRO
+LANG_ENGLISH        "Hardline Pro"
+
+REFERENCE           GET_N_KILLSTREAKS
+LANG_ENGLISH        "Get &&1 killstreaks while using Hardline. (2 kills in a row)"
+
+REFERENCE           KILL_N_KILLSTREAKS
+LANG_ENGLISH        "Destroy &&1 enemy killstreak rewards using Cold-Blooded."
+
+REFERENCE           SLEIGHTOFHAND_PRO
+LANG_ENGLISH        "Sleight of Hand Pro"
+
+REFERENCE           GET_N_SOH_KILLS
+LANG_ENGLISH        "Get &&1 kills using Sleight of Hand."
+
+REFERENCE           SCRAMBLER_PRO
+LANG_ENGLISH        "Scrambler Pro"
+
+REFERENCE           GET_N_CLOSE_SC_KILLS
+LANG_ENGLISH        "Get &&1 close range kills using Scrambler."
+
+REFERENCE           DETECTEXPLOSIVES_PRO
+LANG_ENGLISH        "SitRep Pro"
+
+REFERENCE           GET_N_DE_KILLS
+LANG_ENGLISH        "Destroy &&1 enemy devices while using SitRep."
+
+REFERENCE           EXPLOSIVEDAMAGE_PRO
+LANG_ENGLISH        "Sonic Boom Pro"
+
+REFERENCE           GET_N_EXPLOSIVE_KILLS
+LANG_ENGLISH        "Get &&1 kills with any explosive while using Sonic Boom."
+
+REFERENCE           PERKS
+LANG_ENGLISH        "Perks"
+
+REFERENCE           PERK_CHALLENGES
+LANG_ENGLISH        "Upgrade your perks by completing these challenges."
+
+REFERENCE           SMASHER
+LANG_ENGLISH        "Smasher"
+
+REFERENCE           THEWATCHMAN
+LANG_ENGLISH        "The Watchman"
+
+REFERENCE           DESC_THEWATCHMAN
+LANG_ENGLISH        "Call in &&1 UAVs."
+
+REFERENCE           THESUPPLIER
+LANG_ENGLISH        "The Supplier"
+
+REFERENCE           DESC_THESUPPLIER
+LANG_ENGLISH        "Refill your ammo with Care Package 50 times."
+
+REFERENCE           SUNBLOCK
+LANG_ENGLISH        "Sunblock"
+
+REFERENCE           DESC_SUNBLOCK
+LANG_ENGLISH        "Counter the enemy's UAV 3 times in a single match."
+
+REFERENCE           PREDATOR
+LANG_ENGLISH        "Predator"
+
+REFERENCE           DESC_PREDATOR
+LANG_ENGLISH        "Get &&1 kills with a Predator Missile."
+
+REFERENCE           CARPETBOMBER
+LANG_ENGLISH        "Carpet bomber"
+
+REFERENCE           DESC_CARPETBOMBER
+LANG_ENGLISH        "Get &&1 kills with a Precision Airstrike."
+
+REFERENCE           LOOKNOHANDS
+LANG_ENGLISH        "Look! No hands!"
+
+REFERENCE           DESC_LOOKNOHANDS
+LANG_ENGLISH        "Get &&1 kills with a Sentry Gun."
+
+REFERENCE           YOUREFIRED
+LANG_ENGLISH        "You're Fired"
+
+REFERENCE           DESC_YOUREFIRED
+LANG_ENGLISH        "Get &&1 kills with a Harrier."
+
+REFERENCE           COBRACOMMANDER
+LANG_ENGLISH        "Cobra Commander"
+
+REFERENCE           DESC_COBRACOMMANDER
+LANG_ENGLISH        "Get &&1 kills as a Chopper Gunner."
+
+REFERENCE           THECHOPPER
+LANG_ENGLISH        "The Chopper"
+
+REFERENCE           DESC_THECHOPPER
+LANG_ENGLISH        "Get &&1 kills with the Attack Helicopter."
+
+REFERENCE           THESPIRIT
+LANG_ENGLISH        "The Spirit"
+
+REFERENCE           DESC_THESPIRIT
+LANG_ENGLISH        "Get &&1 kills with a Stealth Bomber."
+
+REFERENCE           SPECTRE
+LANG_ENGLISH        "Spectre"
+
+REFERENCE           DESC_SPECTRE
+LANG_ENGLISH        "Get &&1 kills with an AC-130."
+
+REFERENCE           JOLLYGREENGIANT
+LANG_ENGLISH        "Jolly Green Giant"
+
+REFERENCE           DESC_JOLLYGREENGIANT
+LANG_ENGLISH        "Get &&1 kills with a Pave Low."
+
+REFERENCE           SHOCKWAVE
+LANG_ENGLISH        "Shockwave"
+
+REFERENCE           DESC_SHOCKWAVE
+LANG_ENGLISH        "EMP the enemy team 5 times."
+
+REFERENCE           WARGAMER
+LANG_ENGLISH        "Wargamer"
+
+REFERENCE           DESC_WARGAMER
+LANG_ENGLISH        "Nuke the enemy."
+
+REFERENCE           THELONER
+LANG_ENGLISH        "The Loner"
+
+REFERENCE           DESC_THELONER
+LANG_ENGLISH        "Get a 10 killstreak with 0 killstreaks selected."
+
+REFERENCE           HIJACKER
+LANG_ENGLISH        "Hijacker"
+
+REFERENCE           DESC_HIJACKER
+LANG_ENGLISH        "Hijack &&1 crates."
+
+REFERENCE           MARTYR
+LANG_ENGLISH        "Martyr"
+
+REFERENCE           DESC_MARTYR
+LANG_ENGLISH        "Get 1 kill with a Martyrdom deathstreak."
+
+REFERENCE           LIVINGDEAD
+LANG_ENGLISH        "Living Dead"
+
+REFERENCE           DESC_LIVINGDEAD
+LANG_ENGLISH        "Survive Final Stand."
+
+REFERENCE           CLICKCLICKBOOM
+LANG_ENGLISH        "Click Click Boom"
+
+REFERENCE           DESC_CLICKCLICKBOOM
+LANG_ENGLISH        "Get 1 kill with C4 while in Last Stand."
+
+REFERENCE           THENUMB
+LANG_ENGLISH        "The Numb"
+
+REFERENCE           DESC_THENUMB
+LANG_ENGLISH        "Take enough damage that would normally kill you with Painkiller active."
+
+REFERENCE           WOPR
+LANG_ENGLISH        "Ultimate Sacrifice"
+
+REFERENCE           DESC_WOPR
+LANG_ENGLISH        "Nuke the enemy while your team is losing."
+
+REFERENCE           ENEMYOFTHESTATE
+LANG_ENGLISH        "Enemy of the State"
+
+REFERENCE           DESC_ENEMYOFTHESTATE
+LANG_ENGLISH        "Kill 3 enemies while you are the only surviving member of your team."
+
+REFERENCE           THEDENIER
+LANG_ENGLISH        "The Denier"
+
+REFERENCE           DESC_THEDENIER
+LANG_ENGLISH        "Kill an enemy before they earn a 10 or higher killstreak reward."
+
+REFERENCE           DICTATOR
+LANG_ENGLISH        "Dictator"
+
+REFERENCE           DESC_DICTATOR
+LANG_ENGLISH        "Change the DEFCON 3 times in one game."
+
+REFERENCE           MACH5
+LANG_ENGLISH        "Mach 5"
+
+REFERENCE           DESC_MACH5
+LANG_ENGLISH        "Change the DEFCON in the first minute of a game."
+
+REFERENCE           NEWJACK
+LANG_ENGLISH        "New Jack"
+
+REFERENCE           DESC_NEWJACK
+LANG_ENGLISH        "Hijack 10 Emergency Drops."
+
+REFERENCE           DARKBRINGER
+LANG_ENGLISH        "Darkbringer"
+
+REFERENCE           DESC_DARKBRINGER
+LANG_ENGLISH        "Prevent 25 Tactical Insertions."
+
+REFERENCE           TACTICALDELETION
+LANG_ENGLISH        "Tactical Deletion"
+
+REFERENCE           DESC_TACTICALDELETION
+LANG_ENGLISH        "Kill 25 players that spawn using Tactical Insertion."
+
+REFERENCE           JACKINTHEBOX
+LANG_ENGLISH        "Jack-in-the-Box"
+
+REFERENCE           DESC_JACKINTHEBOX
+LANG_ENGLISH        "Kill an enemy within 5 seconds of tactically inserting, &&1 times."
+
+REFERENCE           MASTERBLASTER
+LANG_ENGLISH        "Solid Steel"
+
+REFERENCE           DESC_MASTERBLASTER
+LANG_ENGLISH        "Survive &&1 explosions while using Blast Shield."
+
+REFERENCE           BULLSEYE
+LANG_ENGLISH        "Plastered"
+
+REFERENCE           DESC_BULLSEYE
+LANG_ENGLISH        "Stick &&1 players with a Semtex grenade."
+
+REFERENCE           CARNIE
+LANG_ENGLISH        "Carnie"
+
+REFERENCE           DESC_CARNIE
+LANG_ENGLISH        "Kill &&1 players with a Throwing Knife."
+
+REFERENCE           BASELINE
+LANG_ENGLISH        "Baseline"
+
+REFERENCE           DESC_BASELINE
+LANG_ENGLISH        "Get 1 kill with every default class primary and secondary weapon."
+
+REFERENCE           6FEARS7
+LANG_ENGLISH        "6 Fears 7"
+
+REFERENCE           DESC_6FEARS7
+LANG_ENGLISH        "Get a 7-8-9 killstreak."
+
+REFERENCE           KILLSTREAK
+LANG_ENGLISH        "Killstreak"
+
+REFERENCE           KILLSTREAK_CHALLENGES
+LANG_ENGLISH        "There is no such thing as too much firepower."
+
+REFERENCE           EQUIPMENT
+LANG_ENGLISH        "Equipment"
+
+REFERENCE           EQUIPMENT_CHALLENGES
+LANG_ENGLISH        "If you can't remember, the claymore is pointed toward you."
+
+REFERENCE           DEFCON
+LANG_ENGLISH        "Defcon"
+
+REFERENCE           DEFCON_CHALLENGES
+LANG_ENGLISH        "DEFCON Challenges"
+
+REFERENCE           GET_N_ASSISTS
+LANG_ENGLISH        "Get &&1 assists."
+
+REFERENCE           KILL_N_ENEMY_THROUGH
+LANG_ENGLISH        "Kill &&1 enemies through a surface using bullet penetration."
+
+REFERENCE           BLOW_UP_N_CARS
+LANG_ENGLISH        "Blow up &&1 cars."
+
+REFERENCE           CALL_IN_A_UAV_N_TIMES
+LANG_ENGLISH        "Call in a UAV &&1 times."
+
+REFERENCE           DESTROY_N_ENEMY_EXPLOSIVES
+LANG_ENGLISH        "Destroy &&1 enemy equipment."
+
+REFERENCE           KILL_N_ENEMY_WITH_THE
+LANG_ENGLISH        "Kill &&1 enemies with the knife melee attack."
+
+REFERENCE           FREEFORALL_VICTOR
+LANG_ENGLISH        "Free-for-all Victor"
+
+REFERENCE           TEAM_PLAYER
+LANG_ENGLISH        "Team Player"
+
+REFERENCE           SD_VICTOR
+LANG_ENGLISH        "Search And Destroy Victor"
+
+REFERENCE           MARKSMAN_1
+LANG_ENGLISH        ": Marksman I"
+
+REFERENCE           MARKSMAN_2
+LANG_ENGLISH        ": Marksman II"
+
+REFERENCE           MARKSMAN_3
+LANG_ENGLISH        ": Marksman III"
+
+REFERENCE           MARKSMAN_4
+LANG_ENGLISH        ": Marksman IV"
+
+REFERENCE           MARKSMAN_5
+LANG_ENGLISH        ": Marksman V"
+
+REFERENCE           MARKSMAN_6
+LANG_ENGLISH        ": Marksman VI"
+
+REFERENCE           MARKSMAN_7
+LANG_ENGLISH        ": Marksman VII"
+
+REFERENCE           MARKSMAN_8
+LANG_ENGLISH        ": Marksman VIII"
+
+REFERENCE           MARKSMAN_9
+LANG_ENGLISH        ": Marksman IX"
+
+REFERENCE           MARKSMAN_10
+LANG_ENGLISH        ": Marksman X"
+
+REFERENCE           EXPERT_1
+LANG_ENGLISH        ": Expert I"
+
+REFERENCE           EXPERT_2
+LANG_ENGLISH        ": Expert II"
+
+REFERENCE           EXPERT_3
+LANG_ENGLISH        ": Expert III"
+
+REFERENCE           EXPERT_4
+LANG_ENGLISH        ": Expert IV"
+
+REFERENCE           EXPERT_5
+LANG_ENGLISH        ": Expert V"
+
+REFERENCE           EXPERT_6
+LANG_ENGLISH        ": Expert VI"
+
+REFERENCE           EXPERT_7
+LANG_ENGLISH        ": Expert VII"
+
+REFERENCE           EXPERT_8
+LANG_ENGLISH        ": Expert VIII"
+
+REFERENCE           EXPERT_9
+LANG_ENGLISH        ": Expert IX"
+
+REFERENCE           EXPERT_10
+LANG_ENGLISH        ": Expert X"
+
+REFERENCE           LEVEL_1
+LANG_ENGLISH        ": I"
+
+REFERENCE           LEVEL_2
+LANG_ENGLISH        ": II"
+
+REFERENCE           LEVEL_3
+LANG_ENGLISH        ": III"
+
+REFERENCE           LEVEL_4
+LANG_ENGLISH        ": IV"
+
+REFERENCE           LEVEL_5
+LANG_ENGLISH        ": V"
+
+REFERENCE           LEVEL_6
+LANG_ENGLISH        ": VI"
+
+REFERENCE           LEVEL_7
+LANG_ENGLISH        ": VII"
+
+REFERENCE           LEVEL_8
+LANG_ENGLISH        ": VIII"
+
+REFERENCE           LEVEL_9
+LANG_ENGLISH        ": IX"
+
+REFERENCE           LEVEL_10
+LANG_ENGLISH        ": X"
+
+REFERENCE           GET_N_KILLS
+LANG_ENGLISH        "Get &&1 kills with this weapon."
+
+REFERENCE           GET_N_HEADSHOTS
+LANG_ENGLISH        "Get &&1 headshots with this weapon."
+
+REFERENCE           GET_ALL_ATTACHMENTS
+LANG_ENGLISH        "Unlock all this weapon's attachments."
+
+REFERENCE           GET_N_KILLS_REFLEX
+LANG_ENGLISH        "Get &&1 kills while looking through the Red Dot Sight attached to this weapon."
+
+REFERENCE           GET_N_KILLS_ACOG
+LANG_ENGLISH        "Get &&1 kills while looking through the ACOG Sight attached to this weapon."
+
+REFERENCE           GET_N_KILLS_FMJ
+LANG_ENGLISH        "Get &&1 bullet penetration kills with FMJ attached to this weapon."
+
+REFERENCE           GET_N_KILLS_SILENCER
+LANG_ENGLISH        "Get &&1 kills with the Silencer attached to this weapon."
+
+REFERENCE           GET_N_KILLS_GL
+LANG_ENGLISH        "Get &&1 kills with the attached Grenade Launcher."
+
+REFERENCE           GET_N_KILLS_RAPIDFIRE
+LANG_ENGLISH        "Get &&1 kills with Rapid Fire attached to this weapon."
+
+REFERENCE           ATTACHMENT_SILENCER_1
+LANG_ENGLISH        ": Heartbeat Sensor"
+
+REFERENCE           ATTACHMENT_REFLEX_1
+LANG_ENGLISH        ": Holographic Sight"
+
+REFERENCE           ATTACHMENT_ACOG_1
+LANG_ENGLISH        ": Thermal Scope"
+
+REFERENCE           ATTACHMENT_FMJ_1
+LANG_ENGLISH        ": Extended Mags"
+
+REFERENCE           ATTACHMENT_RAPIDFIRE_1
+LANG_ENGLISH        ": Akimbo"
+
+REFERENCE           ATTACHMENT_GL_1
+LANG_ENGLISH        ": Shotgun"
+
+REFERENCE           AK47_MASTERY
+LANG_ENGLISH        "AK-47: Mastery"
+
+REFERENCE           AUG_MASTERY
+LANG_ENGLISH        "AUG HBAR: Mastery"
+
+REFERENCE           RPD_MASTERY
+LANG_ENGLISH        "RPD: Mastery"
+
+REFERENCE           MG4_MASTERY
+LANG_ENGLISH        "MG4: Mastery"
+
+REFERENCE           M240_MASTERY
+LANG_ENGLISH        "M240: Mastery"
+
+REFERENCE           AA12_MASTERY
+LANG_ENGLISH        "AA12: Mastery"
+
+REFERENCE           BARRETT_MASTERY
+LANG_ENGLISH        "Barrett .50cal: Mastery"
+
+REFERENCE           BERETTA393_MASTERY
+LANG_ENGLISH        "Beretta393: Mastery"
+
+REFERENCE           BERETTA_MASTERY
+LANG_ENGLISH        "Beretta: Mastery"
+
+REFERENCE           CHEYTAC_MASTERY
+LANG_ENGLISH        "Intervention: Mastery"
+
+REFERENCE           COLTANACONDA_MASTERY
+LANG_ENGLISH        "Magnum: Mastery"
+
+REFERENCE           DESERTEAGLE_MASTERY
+LANG_ENGLISH        "Desert: Eagle Mastery"
+
+REFERENCE           FAL_MASTERY
+LANG_ENGLISH        "FAL: Mastery"
+
+REFERENCE           FAMAS_MASTERY
+LANG_ENGLISH        "FAMAS: Mastery"
+
+REFERENCE           FN2000_MASTERY
+LANG_ENGLISH        "F2000: Mastery"
+
+REFERENCE           KRISS_MASTERY
+LANG_ENGLISH        "Vector: Mastery"
+
+REFERENCE           M4_MASTERY
+LANG_ENGLISH        "M4A1: Mastery"
+
+REFERENCE           M16_MASTERY
+LANG_ENGLISH        "M16A4: Mastery"
+
+REFERENCE           M21_MASTERY
+LANG_ENGLISH        "M21-EBR: Mastery"
+
+REFERENCE           M1014_MASTERY
+LANG_ENGLISH        "M1014: Mastery"
+
+REFERENCE           UZI_MASTERY
+LANG_ENGLISH        "Mini-Uzi: Mastery"
+
+REFERENCE           MP5K_MASTERY
+LANG_ENGLISH        "MP5K: Mastery"
+
+REFERENCE           UMP45_MASTERY
+LANG_ENGLISH        "UMP45: Mastery"
+
+REFERENCE           MASADA_MASTERY
+LANG_ENGLISH        "ACR: Mastery"
+
+REFERENCE           P90_MASTERY
+LANG_ENGLISH        "P90: Mastery"
+
+REFERENCE           TAVOR_MASTERY
+LANG_ENGLISH        "TAR-21: Mastery"
+
+REFERENCE           SCAR_MASTERY
+LANG_ENGLISH        "SCAR-H: Mastery"
+
+REFERENCE           CROUCH_SHOT
+LANG_ENGLISH        "Crouch Shot"
+
+REFERENCE           PRONE_SHOT
+LANG_ENGLISH        "Prone Shot"
+
+REFERENCE           GRENADE_KILL
+LANG_ENGLISH        "Grenade Kill"
+
+REFERENCE           POINT_GUARD
+LANG_ENGLISH        "Point Guard"
+
+REFERENCE           XRAY_VISION
+LANG_ENGLISH        "X-Ray Vision"
+
+REFERENCE           VANDALISM
+LANG_ENGLISH        "Vandalism"
+
+REFERENCE           EXPOSED
+LANG_ENGLISH        "Exposed"
+
+REFERENCE           BACKDRAFT
+LANG_ENGLISH        "Backdraft"
+
+REFERENCE           KNIFE_VETERAN
+LANG_ENGLISH        "Knife Veteran"
+
+REFERENCE           KILL_N_ENEMIES_WHILE_CROUCHING
+LANG_ENGLISH        "Kill &&1 enemies while you are crouching."
+
+REFERENCE           KILL_N_ENEMIES_WHILE1
+LANG_ENGLISH        "Kill &&1 enemies while you are prone."
+
+REFERENCE           KILL_N_ENEMIES_WITH_A_GRENADE
+LANG_ENGLISH        "Kill &&1 enemies with grenades."
+
+REFERENCE           KILL_N_ENEMIES_SILENCED
+LANG_ENGLISH        "Kill &&1 enemies while using a silenced weapon."
+
+REFERENCE           KILL_N_ENEMIES_WHILE_PRONE
+LANG_ENGLISH        "Kill &&1 enemies while you are prone."
+
+REFERENCE           HARDCORE_TEAM_PLAYER
+LANG_ENGLISH        "Hardcore Team Player"
+
+REFERENCE           SABOTAGE_VICTOR
+LANG_ENGLISH        "Sabotage Victor"
+
+REFERENCE           WIN_N_HARDCORE_TEAM_DEATHMATCH
+LANG_ENGLISH        "Win &&1 Hardcore Team Deathmatch game(s)."
+
+REFERENCE           WIN_N_SABOTAGE_MATCHES
+LANG_ENGLISH        "Win &&1 Sabotage matches."
+
+REFERENCE           WIN_N_SEARCH_AND_DESTROY
+LANG_ENGLISH        "Win &&1 Search And Destroy matches."
+
+REFERENCE           WIN_N_TEAM_DEATHMATCH
+LANG_ENGLISH        "Win &&1 Team Deathmatch matches."
+
+REFERENCE           PLACE_IN_THE_TOP_3_IN
+LANG_ENGLISH        "Place first, second or third in &&1 Free-for-all matches."
+
+REFERENCE           PROGRESS_X_OF_Y
+LANG_ENGLISH        "Progress: &&1/&&2"
+
+REFERENCE           COMPLETE
+LANG_ENGLISH        "Challenge Completed!"
+
+REFERENCE           MARKSMAN
+LANG_ENGLISH        ": Marksman I"
+
+REFERENCE           EXPERT
+LANG_ENGLISH        ": Expert I"
+
+REFERENCE           HEADS_UP
+LANG_ENGLISH        "Heads Up!"
+
+REFERENCE           DESC_HEADS_UP
+LANG_ENGLISH        "Kill an enemy by dropping a crate on them."
+
+REFERENCE           ITS_PERSONAL
+LANG_ENGLISH        "It's Personal!"
+
+REFERENCE           DESC_ITS_PERSONAL
+LANG_ENGLISH        "Hurt an enemy then finish them with a Throwing Knife."
+
+REFERENCE           SNIPE_N_WHILE_PRONE
+LANG_ENGLISH        "Snipe &&1 enemies while prone."
+
+REFERENCE           GET_N_KILLS_ROF
+LANG_ENGLISH        "Get &&1 kills using the Rapid Fire attachment."
+
+REFERENCE           ROF
+LANG_ENGLISH        "Rapid Fire Pro"
+
+REFERENCE           GET_N_KS_EXPLOSIVE_KILLS
+LANG_ENGLISH        "Get &&1 kills with explosives while using Danger Close."
+
+REFERENCE           DANGERCLOSE_PRO
+LANG_ENGLISH        "Danger Close Pro"
+
+REFERENCE           SA80_MASTERY
+LANG_ENGLISH        "L86 LSW: Mastery"
+
+REFERENCE           WA2000_MASTERY
+LANG_ENGLISH        "WA2000 Mastery"
+
+REFERENCE           OMNICIDE
+LANG_ENGLISH        "Omnicide!"
+
+REFERENCE           DESC_OMNICIDE
+LANG_ENGLISH        "Kill the entire enemy team within 10 seconds."
+
+REFERENCE           MONEYSHOT
+LANG_ENGLISH        "Money Shot!"
+
+REFERENCE           DESC_MONEYSHOT
+LANG_ENGLISH        "Get a payback in the game winning killcam."
+
+REFERENCE           THEHARDERTHEYFALL
+LANG_ENGLISH        "...The Harder They Fall"
+
+REFERENCE           DESC_THEHARDERTHEYFALL
+LANG_ENGLISH        "Kill the top player 5 times in a row."
+
+REFERENCE           BOTHBARRELS
+LANG_ENGLISH        "Both Barrels"
+
+REFERENCE           DESC_BOTHBARRELS
+LANG_ENGLISH        "Kill an enemy with the Ranger by firing both barrels at the same time."
+
+REFERENCE           THEBIGGERTHEYARE
+LANG_ENGLISH        "The Bigger they are..."
+
+REFERENCE           DESC_THEBIGGERTHEYARE
+LANG_ENGLISH        "Kill the top player 3 times in a row."
+
+REFERENCE           COLOROFMONEY
+LANG_ENGLISH        "Color Of Money"
+
+REFERENCE           DESC_COLOROFMONEY
+LANG_ENGLISH        "Get Payback &&1 times with headshots."
+
+REFERENCE           BANGFORBUCK
+LANG_ENGLISH        "Bang for your Buck"
+
+REFERENCE           DESC_BANGFORBUCK
+LANG_ENGLISH        "Get Payback &&1 times with Frag Grenades."
+
+REFERENCE           WARGASM
+LANG_ENGLISH        "Wargasm"
+
+REFERENCE           DESC_WARGASM
+LANG_ENGLISH        "Get all 3 of your killstreak rewards within 20 seconds."
+
+REFERENCE           TIMEISMONEY
+LANG_ENGLISH        "Time Is Money"
+
+REFERENCE           DESC_TIMEISMONEY
+LANG_ENGLISH        "Get Payback &&1 times with Semtex."
+
+REFERENCE           NO
+LANG_ENGLISH        "Martyrdoh!"
+
+REFERENCE           DESC_NO
+LANG_ENGLISH        "Kill an enemy cooking a Frag Grenade."
+
+REFERENCE           RENAISSANCE
+LANG_ENGLISH        "Renaissance Man"
+
+REFERENCE           DESC_RENAISSANCE
+LANG_ENGLISH        "Kill 3 different people with 3 different weapons in one life."
+
+REFERENCE           OVERDRAFT
+LANG_ENGLISH        "Overdraft"
+
+REFERENCE           DESC_OVERDRAFT
+LANG_ENGLISH        "Get a Payback that sticks to the victim."
+
+REFERENCE           SURVIVOR
+LANG_ENGLISH        "The Survivor"
+
+REFERENCE           DESC_SURVIVOR
+LANG_ENGLISH        "Get a knife kill when all of your ammo is empty."
+
+REFERENCE           BOOT_CAMP_CAPS
+LANG_ENGLISH        "BOOT CAMP"
+
+REFERENCE           OPERATIONS_CAPS
+LANG_ENGLISH        "OPERATIONS"
+
+REFERENCE           KILLER_CAPS
+LANG_ENGLISH        "KILLER"
+
+REFERENCE           HUMILIATION_CAPS
+LANG_ENGLISH        "HUMILIATION"
+
+REFERENCE           ELITE_CAPS
+LANG_ENGLISH        "ELITE"
+
+REFERENCE           PERKS_CAPS
+LANG_ENGLISH        "PERKS"
+
+REFERENCE           KILLSTREAK_CAPS
+LANG_ENGLISH        "KILLSTREAK"
+
+REFERENCE           EQUIPMENT_CAPS
+LANG_ENGLISH        "EQUIPMENT"
+
+REFERENCE           UAVS
+LANG_ENGLISH        "Radar Inbound"
+
+REFERENCE           AIRSTRIKES
+LANG_ENGLISH        "Airstrike Inbound"
+
+REFERENCE           HELICOPTERS
+LANG_ENGLISH        "Helicopter Inbound"
+
+REFERENCE           AIRDROPS
+LANG_ENGLISH        "Airdrop Inbound"
+
+REFERENCE           DESC_UAV
+LANG_ENGLISH        "Call in &&1 UAVs."
+
+REFERENCE           DESC_AIRDROP
+LANG_ENGLISH        "Call in &&1 Care Packages."
+
+REFERENCE           DESC_COUNTER_UAV
+LANG_ENGLISH        "Call in &&1 Counter-UAVs."
+
+REFERENCE           DESC_SENTRY
+LANG_ENGLISH        "Call in &&1 Sentry Guns."
+
+REFERENCE           DESC_PREDATOR_MISSILE
+LANG_ENGLISH        "Call in &&1 Predator Missiles."
+
+REFERENCE           DESC_PRECISION_AIRSTRIKE
+LANG_ENGLISH        "Call in &&1 Precision Airstrikes."
+
+REFERENCE           DESC_HARRIER_AIRSTRIKE
+LANG_ENGLISH        "Call in &&1 Harrier strikes."
+
+REFERENCE           DESC_HELICOPTER
+LANG_ENGLISH        "Call in &&1 Attack Helicopters."
+
+REFERENCE           DESC_AIRDROP_MEGA
+LANG_ENGLISH        "Call in &&1 Emergency Airdrops."
+
+REFERENCE           DESC_HELICOPTER_FLARES
+LANG_ENGLISH        "Call in &&1 Pave Lows."
+
+REFERENCE           DESC_STEALTH_AIRSTRIKE
+LANG_ENGLISH        "Call in &&1 Stealth Bombers."
+
+REFERENCE           DESC_HELICOPTER_MINIGUN
+LANG_ENGLISH        "Call in &&1 Chopper Gunners."
+
+REFERENCE           DESC_AC130
+LANG_ENGLISH        "Call in &&1 AC130s."
+
+REFERENCE           DESC_EMP
+LANG_ENGLISH        "Call in &&1 EMPs."
+
+REFERENCE           DESC_NUKE
+LANG_ENGLISH        "Call in &&1 Nukes."
+
+REFERENCE           DESC_UAVS
+LANG_ENGLISH        "Call in &&1 UAVs or Counter-UAVs."
+
+REFERENCE           DESC_AIRSTRIKES
+LANG_ENGLISH        "Call in &&1 Precision, Stealth or Harrier airstrikes."
+
+REFERENCE           DESC_HELICOPTERS
+LANG_ENGLISH        "Call in &&1 armed helicopters."
+
+REFERENCE           DESC_AIRDROPS
+LANG_ENGLISH        "Call in &&1 total airdrop crates using Care Package, Sentry Gun, and Emergency Airdrop."
+
+REFERENCE           CLOSER
+LANG_ENGLISH        "The Closer"
+
+REFERENCE           DESC_CLOSER
+LANG_ENGLISH        "Be the killer in &&1 Game Winning Killcams."
+
+REFERENCE           LAST_RESORT
+LANG_ENGLISH        "Last Resort"
+
+REFERENCE           DESC_LAST_RESORT
+LANG_ENGLISH        "Get a Last Stand or Final Stand kill in Game Winning Killcam."
+
+REFERENCE           UNBELIEVABLE
+LANG_ENGLISH        "Unbelievable"
+
+REFERENCE           DESC_UNBELIEVABLE
+LANG_ENGLISH        "Get a Throwing Knife kill in Game Winning Killcam."
+
+REFERENCE           DESC_OWNED
+LANG_ENGLISH        "Get a Riot Shield melee kill in Game Winning Killcam."
+
+REFERENCE           OWNED
+LANG_ENGLISH        "Owned"
+
+REFERENCE           DRONEKILLER
+LANG_ENGLISH        "Dronekiller"
+
+REFERENCE           DESC_DRONEKILLER
+LANG_ENGLISH        "Get a Predator Missile kill in the Game Winning Killcam."
+
+REFERENCE           DROPPINCRATES
+LANG_ENGLISH        "Droppin' Crates"
+
+REFERENCE           DESC_DROPPINCRATES
+LANG_ENGLISH        "Get a Game Winning Killcam by dropping a crate on the enemy."
+
+REFERENCE           STICKMAN
+LANG_ENGLISH        "Stickman"
+
+REFERENCE           DESC_STICKMAN
+LANG_ENGLISH        "Stick a Semtex to the enemy in a Game Winning Killcam."
+
+REFERENCE           DIDYOUSEETHAT
+LANG_ENGLISH        "Did you see that?"
+
+REFERENCE           DESC_DIDYOUSEETHAT
+LANG_ENGLISH        "Kill someone with a Throwing Knife while flashed or stunned."
+
+REFERENCE           GROUPHUG
+LANG_ENGLISH        "Group Hug"
+
+REFERENCE           DESC_GROUPHUG
+LANG_ENGLISH        "Kill multiple enemies with a Semtex stuck to one of them."
+
+REFERENCE           ROBINHOOD
+LANG_ENGLISH        "Robin Hood"
+
+REFERENCE           DESC_ROBINHOOD
+LANG_ENGLISH        "Get Payback &&1 times while in Last Stand."
+
+REFERENCE           IDENTITYTHEFT
+LANG_ENGLISH        "Identity Thief"
+
+REFERENCE           DESC_IDENTITYTHEFT
+LANG_ENGLISH        "Get a Payback with the killer's Copycat Class."
+
+REFERENCE           ATM
+LANG_ENGLISH        "ATM"
+
+REFERENCE           DESC_ATM
+LANG_ENGLISH        "Get a Payback with a Throwing Knife."
+
+REFERENCE           IAMRICH
+LANG_ENGLISH        "I'm Rich!"
+
+REFERENCE           DESC_IAMRICH
+LANG_ENGLISH        "Get Payback &&1 times with C4."
+
+REFERENCE           BREAKBANK
+LANG_ENGLISH        "Break the Bank"
+
+REFERENCE           DESC_BREAKBANK
+LANG_ENGLISH        "Get a Payback with a Claymore."
+
+REFERENCE           DESC_SMOOTHCRIMINAL
+LANG_ENGLISH        "Steal an enemy's Care Package."
+
+REFERENCE           SMOOTHCRIMINAL
+LANG_ENGLISH        "Smooth Criminal"
+
+REFERENCE           POOLSHARK
+LANG_ENGLISH        "Pool Shark"
+
+REFERENCE           DESC_POOLSHARK
+LANG_ENGLISH        "Steal an enemy's Emergency Airdrop crate."
+
+REFERENCE           ABSENTEE
+LANG_ENGLISH        "Absentee Killer"
+
+REFERENCE           DESC_ABSENTEE
+LANG_ENGLISH        "Get a Game Winning Killcam with a Sentry Gun."
+
+REFERENCE           TRUELIES
+LANG_ENGLISH        "True Liar"
+
+REFERENCE           DESC_TRUELIES
+LANG_ENGLISH        "Get a Game Winning Killcam with a Harrier."
+
+REFERENCE           FINISHINGTOUCH
+LANG_ENGLISH        "Finishing Touch"
+
+REFERENCE           DESC_FINISHINGTOUCH
+LANG_ENGLISH        "Get a Game Winning Killcam with a Precision Airstrike."
+
+REFERENCE           TECHNOKILLER
+LANG_ENGLISH        "Techno Killer"
+
+REFERENCE           DESC_TECHNOKILLER
+LANG_ENGLISH        "Get a Game Winning Killcam with a Stealth Bomber."
+
+REFERENCE           TRANSFORMER
+LANG_ENGLISH        "Transformer"
+
+REFERENCE           DESC_TRANSFORMER
+LANG_ENGLISH        "Get a Game Winning Killcam with a Pave Low."
+
+REFERENCE           OG
+LANG_ENGLISH        "OG"
+
+REFERENCE           DESC_OG
+LANG_ENGLISH        "Get a Game Winning Killcam with an Attack Helicopter."
+
+REFERENCE           HIDEF
+LANG_ENGLISH        "Hi Def"
+
+REFERENCE           DESC_HIDEF
+LANG_ENGLISH        "Get a Game Winning Killcam with a Chopper Gunner."
+
+REFERENCE           DEATHFROMABOVE
+LANG_ENGLISH        "Death From Above"
+
+REFERENCE           DESC_DEATHFROMABOVE
+LANG_ENGLISH        "Get a Game Winning Killcam with an AC130."
+
+REFERENCE           SIDEKICK
+LANG_ENGLISH        "Sidekick"
+
+REFERENCE           DESC_SIDEKICK
+LANG_ENGLISH        "Get 3 kills in one life with your secondary weapon."
+
+REFERENCE           NBK
+LANG_ENGLISH        "NBK"
+
+REFERENCE           DESC_NBK
+LANG_ENGLISH        "Get 3 longshots in one life."
+
+REFERENCE           SURGICAL_ASSAULT
+LANG_ENGLISH        "The Surgical"
+
+REFERENCE           DESC_SURGICAL_ASSAULT
+LANG_ENGLISH        "Fire an entire Assault Rifle magazine into your enemies without missing."
+
+REFERENCE           SURGICAL_SMG
+LANG_ENGLISH        "Mach 5"
+
+REFERENCE           DESC_SURGICAL_SMG
+LANG_ENGLISH        "Fire an entire SMG magazine into your enemies without missing.
+"
+
+REFERENCE           SURGICAL_LMG
+LANG_ENGLISH        "Dictator"
+
+REFERENCE           DESC_SURGICAL_LMG
+LANG_ENGLISH        "Fire an entire LMG magazine into your enemies without missing."
+
+REFERENCE           SURGICAL_SNIPER
+LANG_ENGLISH        "Perfectionist"
+
+REFERENCE           DESC_SURGICAL_SNIPER
+LANG_ENGLISH        "Fire an entire Sniper magazine into your enemies without missing."
+
+REFERENCE           NEVERFORGET
+LANG_ENGLISH        "Never Forget"
+
+REFERENCE           DESC_NEVERFORGET
+LANG_ENGLISH        "Get hurt by an enemy but survive and backstab them."
+
+REFERENCE           TURTLEPOWER
+LANG_ENGLISH        "Turtle Power"
+
+REFERENCE           DESC_TURTLEPOWER
+LANG_ENGLISH        "Kill 3 enemies with a Riot Shield bash without dying."
+
+REFERENCE           RESOURCEFUL
+LANG_ENGLISH        "The Resourceful"
+
+REFERENCE           DESC_RESOURCEFUL
+LANG_ENGLISH        "Kill an enemy by sticking Semtex to a teammate."
+
+REFERENCE           ALLPRO
+LANG_ENGLISH        "All Pro"
+
+REFERENCE           DESC_ALLPRO
+LANG_ENGLISH        "Headshot 2+ enemies with 1 bullet."
+
+REFERENCE           RADIATIONSICKNESS
+LANG_ENGLISH        "Radiation Sickness"
+
+REFERENCE           DESC_RADIATIONSICKNESS
+LANG_ENGLISH        "Get Nuked by an enemy"
+
+REFERENCE           INFECTED
+LANG_ENGLISH        "Infected"
+
+REFERENCE           DESC_INFECTED
+LANG_ENGLISH        "Killed by an infected..."
+
+REFERENCE           PLAGUE
+LANG_ENGLISH        "STD"
+
+REFERENCE           DESC_PLAGUE
+LANG_ENGLISH        "Transmission complete."
+
+REFERENCE           C4SHOT
+LANG_ENGLISH        "C4 Shot"
+
+REFERENCE           DESC_C4SHOT
+LANG_ENGLISH        "Kill &&1 enemies by using C4."
+
+REFERENCE           PRECISION
+LANG_ENGLISH        "Precision"
+
+REFERENCE           PRECISION_CAPS
+LANG_ENGLISH        "PRECISION"
+
+REFERENCE           PRIMARY_WEAPONS_CAPS
+LANG_ENGLISH        "PRIMARY WEAPONS"
+
+REFERENCE           SECONDARY_WEAPONS_CAPS
+LANG_ENGLISH        "SECONDARY WEAPONS"
+
+REFERENCE           REVENGE_CAPS
+LANG_ENGLISH        "PAYBACK"
+
+REFERENCE           FINAL_KILLCAM_CAPS
+LANG_ENGLISH        "FINISHING MOVES"
+
+REFERENCE           CRABMEAT
+LANG_ENGLISH        "Crab Meat"
+
+REFERENCE           DESC_CRABMEAT
+LANG_ENGLISH        "Kill 10 enemies with a single killstreak."
+
+REFERENCE           DESC_CAR_BOMB
+LANG_ENGLISH        "Kill &&1 enemies by destroying cars."
+
+REFERENCE           RED_CARPET
+LANG_ENGLISH        "Red Carpet"
+
+REFERENCE           DESC_RED_CARPET
+LANG_ENGLISH        "Kill 6 enemies with a single Stealth Bomber."
+
+REFERENCE           SABOTEUR
+LANG_ENGLISH        "Saboteur"
+
+REFERENCE           DESC_SABOTEUR
+LANG_ENGLISH        "Plant &&1 bombs."
+
+REFERENCE           UAV
+LANG_ENGLISH        "Exposed"
+
+REFERENCE           AIRDROP_MEGA
+LANG_ENGLISH        "Special Delivery"
+
+REFERENCE           EMP
+LANG_ENGLISH        "Blackout"
+
+REFERENCE           COUNTER_UAV
+LANG_ENGLISH        "Interference"
+
+REFERENCE           AIRDROP
+LANG_ENGLISH        "Air Mail"
+
+REFERENCE           SENTRY
+LANG_ENGLISH        "Sentry Veteran"
+
+REFERENCE           PREDATOR_MISSILE
+LANG_ENGLISH        "Air to Ground"
+
+REFERENCE           PRECISION_AIRSTRIKE
+LANG_ENGLISH        "Airstrike Veteran"
+
+REFERENCE           HARRIER_AIRSTRIKE
+LANG_ENGLISH        "Vertical Takeoff"
+
+REFERENCE           HELICOPTER
+LANG_ENGLISH        "Attack Helicopter Veteran"
+
+REFERENCE           HELICOPTER_FLARES
+LANG_ENGLISH        "21 Ton Giant"
+
+REFERENCE           STEALTH_AIRSTRIKE
+LANG_ENGLISH        "Stealth Bomber Veteran"
+
+REFERENCE           HELICOPTER_MINIGUN
+LANG_ENGLISH        "Chopper Gunner Veteran"
+
+REFERENCE           AC130
+LANG_ENGLISH        "AC130 Veteran"
+
+REFERENCE           NUKE
+LANG_ENGLISH        "End Game"
+
+REFERENCE           REAPER
+LANG_ENGLISH        "Grim Reaper"
+
+REFERENCE           DESC_REAPER
+LANG_ENGLISH        "Kill 5 enemies with a single Predator Missile."
+
+REFERENCE           GHILLIE
+LANG_ENGLISH        "Ghillie in the Mist"
+
+REFERENCE           DESC_GHILLIE
+LANG_ENGLISH        "Get &&1 one-shot kills with sniper rifles."
+
+REFERENCE           SHIELD_DAMAGE
+LANG_ENGLISH        "Sponge"
+
+REFERENCE           DESC_SHIELD_DAMAGE
+LANG_ENGLISH        "Absorb &&1 damage with your Riot Shield."
+
+REFERENCE           SHIELD_BULLET
+LANG_ENGLISH        "Bullet Proof"
+
+REFERENCE           DESC_SHIELD_BULLET
+LANG_ENGLISH        "Deflect &&1 bullets with your Riot Shield."
+
+REFERENCE           SHIELD_EXPLOSIVE
+LANG_ENGLISH        "Unbreakable"
+
+REFERENCE           DESC_SHIELD_EXPLOSIVE
+LANG_ENGLISH        "Deflect &&1 explosions with your Riot Shield."
+
+REFERENCE           INTIMIDATION
+LANG_ENGLISH        "Intimidation"
+
+REFERENCE           INTIMIDATION_CAPS
+LANG_ENGLISH        "INTIMIDATION"
+
+REFERENCE           SECRET_CAPS
+LANG_ENGLISH        "Secret (DEV ONLY)"
+
+REFERENCE           PRESTIGE_MARKSMAN_1
+LANG_ENGLISH        ": Veteran I"
+
+REFERENCE           PRESTIGE_MARKSMAN_2
+LANG_ENGLISH        ": Veteran II"
+
+REFERENCE           PRESTIGE_MARKSMAN_3
+LANG_ENGLISH        ": Veteran III"
+
+REFERENCE           PRESTIGE_MARKSMAN_4
+LANG_ENGLISH        ": Veteran IV"
+
+REFERENCE           PRESTIGE_MARKSMAN_5
+LANG_ENGLISH        ": Veteran V"
+
+REFERENCE           PRESTIGE_MARKSMAN_6
+LANG_ENGLISH        ": Veteran VI"
+
+REFERENCE           PRESTIGE_MARKSMAN_7
+LANG_ENGLISH        ": Veteran VII"
+
+REFERENCE           PRESTIGE_MARKSMAN_8
+LANG_ENGLISH        ": Veteran VIII"
+
+REFERENCE           PRESTIGE_MARKSMAN_9
+LANG_ENGLISH        ": Veteran IX"
+
+REFERENCE           PRESTIGE_MARKSMAN_10
+LANG_ENGLISH        ": Veteran X"
+
+REFERENCE           PRESTIGE_EXPERT_1
+LANG_ENGLISH        ": Master I"
+
+REFERENCE           PRESTIGE_EXPERT_2
+LANG_ENGLISH        ": Master II"
+
+REFERENCE           PRESTIGE_EXPERT_3
+LANG_ENGLISH        ": Master III"
+
+REFERENCE           PRESTIGE_EXPERT_4
+LANG_ENGLISH        ": Master IV"
+
+REFERENCE           PRESTIGE_EXPERT_5
+LANG_ENGLISH        ": Master V"
+
+REFERENCE           PRESTIGE_EXPERT_6
+LANG_ENGLISH        ": Master VI"
+
+REFERENCE           PRESTIGE_EXPERT_7
+LANG_ENGLISH        ": Master VII"
+
+REFERENCE           PRESTIGE_EXPERT_8
+LANG_ENGLISH        ": Master VIII"
+
+REFERENCE           PRESTIGE_EXPERT_9
+LANG_ENGLISH        ": Master IX"
+
+REFERENCE           PRESTIGE_EXPERT_10
+LANG_ENGLISH        ": Master X"
+
+REFERENCE           BLANK_0
+LANG_ENGLISH        " "
+
+REFERENCE           BLANK_1
+LANG_ENGLISH        " "
+
+REFERENCE           BLANK_2
+LANG_ENGLISH        " "
+
+REFERENCE           BLANK_3
+LANG_ENGLISH        " "
+
+REFERENCE           BLANK_4
+LANG_ENGLISH        " "
+
+REFERENCE           BLANK_5
+LANG_ENGLISH        " "
+
+REFERENCE           BLANK_6
+LANG_ENGLISH        " "
+
+REFERENCE           BLANK_7
+LANG_ENGLISH        " "
+
+REFERENCE           BLANK_8
+LANG_ENGLISH        " "
+
+REFERENCE           BLANK_9
+LANG_ENGLISH        " "
+
+REFERENCE           BLANK_10
+LANG_ENGLISH        " "
+
+REFERENCE           PRESTIGE_CAPS
+LANG_ENGLISH        "PRESTIGE"
+
+REFERENCE           PRESTIGE_CHALLENGES
+LANG_ENGLISH        "The difficult we do immediately. The impossible takes a little while longer."
+
+REFERENCE           AVENGER
+LANG_ENGLISH        "...with a Vengance."
+
+REFERENCE           DESC_AVENGER
+LANG_ENGLISH        "Avenge a fallen teammate."
+
+REFERENCE           BASIC_CAPS
+LANG_ENGLISH        "BASIC TRAINING"
+
+REFERENCE           BASIC_CHALLENGES
+LANG_ENGLISH        "When in doubt, empty the magazine."
+
+REFERENCE           INTIMIDATION_CHALLENGES
+LANG_ENGLISH        "When you can't lead by example; Intimidate."
+
+REFERENCE           SECONDARY_WEAPONS_HINT
+LANG_ENGLISH        "Use secondary weapons to unlock attachments, titles, and emblems."
+
+REFERENCE           PRIMARY_WEAPONS_HINT
+LANG_ENGLISH        "Use primary weapons to unlock attachments, titles, and emblems."
+
+REFERENCE           SECRET_CHALLENGES
+LANG_ENGLISH        "All the secret challenges"
+
+REFERENCE           REVENGE_CHALLENGES
+LANG_ENGLISH        "Revenge is like a ghost."
+
+REFERENCE           FINAL_KILLCAM_CHALLENGES
+LANG_ENGLISH        "Push to test ... Release to detonate."
+
+REFERENCE           PRECISION_CHALLENGES
+LANG_ENGLISH        "Tracers work both ways."
+
+REFERENCE           GET_N_MULTIKILLS
+LANG_ENGLISH        "Get &&1 Multi-Kills with this weapon."
+
+REFERENCE           KILL_N_HELICOPTERS
+LANG_ENGLISH        "Shoot down &&1 helicopters with this weapon."
+
+REFERENCE           GET_N_CHECKPOINTS
+LANG_ENGLISH        "Get &&1 checkpoints."
+

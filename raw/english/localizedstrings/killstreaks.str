@@ -1,0 +1,221 @@
+// Note to translators:
+// If a sentence is the same in your language then please change it to "#same"
+//
+// eg:
+// LANG_ENGLISH  "HALT"
+// LANG_GERMAN   "#same"
+//
+// (This is so we can tell which strings have been signed-off as ok to be the same words for QA
+//  and because we do not store duplicate strings, which will then get exported again next time
+//  as being untranslated.)
+//
+VERSION             "1"
+CONFIG              "C:\trees\nx1\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           UAV
+LANG_ENGLISH        "UAV"
+
+REFERENCE           UAV_DESC
+LANG_ENGLISH        "Shows enemies on the minimap."
+
+REFERENCE           AIRSTRIKE
+LANG_ENGLISH        "Airstrike"
+
+REFERENCE           AIRSTRIKE_DESC
+LANG_ENGLISH        "Call in an air strike on selected position."
+
+REFERENCE           HELICOPTER
+LANG_ENGLISH        "Attack Helicopter"
+
+REFERENCE           HELICOPTER_DESC
+LANG_ENGLISH        "Call in a support helicopter."
+
+REFERENCE           AC130
+LANG_ENGLISH        "AC130"
+
+REFERENCE           AC130_DESC
+LANG_ENGLISH        "Be the gunner of an AC130."
+
+REFERENCE           PREDATOR_MISSILE
+LANG_ENGLISH        "Predator Missile"
+
+REFERENCE           PREDATOR_MISSILE_DESC
+LANG_ENGLISH        "Remote control missile."
+
+REFERENCE           HELICOPTER_MINIGUN
+LANG_ENGLISH        "Chopper Gunner"
+
+REFERENCE           HELICOPTER_MINIGUN_DESC
+LANG_ENGLISH        "Be the gunner of an attack helicopter."
+
+REFERENCE           HELICOPTER_MK19
+LANG_ENGLISH        "Helicopter Gunner"
+
+REFERENCE           HELICOPTER_MK19_DESC
+LANG_ENGLISH        "Remote control of a helicopter GL."
+
+REFERENCE           DOUBLE_UAV
+LANG_ENGLISH        "Advanced UAV"
+
+REFERENCE           DOUBLE_UAV_DESC
+LANG_ENGLISH        "UAV with faster sweep time."
+
+REFERENCE           PRECISION_AIRSTRIKE
+LANG_ENGLISH        "Precision Airstrike"
+
+REFERENCE           PRECISION_AIRSTRIKE_DESC
+LANG_ENGLISH        "Call in a directional airstrike."
+
+REFERENCE           AIRDROP
+LANG_ENGLISH        "Care Package"
+
+REFERENCE           AIRDROP_DESC
+LANG_ENGLISH        "Airdrop a random killstreak or ammo."
+
+REFERENCE           AIRDROP_SENTRY
+LANG_ENGLISH        "Sentry Gun"
+
+REFERENCE           AIRDROP_SENTRY_DESC
+LANG_ENGLISH        "Airdrop a placeable Sentry Gun."
+
+REFERENCE           AIRDROP_PREDATOR
+LANG_ENGLISH        "Care Package (Predator)"
+
+REFERENCE           AIRDROP_PREDATOR_DESC
+LANG_ENGLISH        "Drops a single use predator missile."
+
+REFERENCE           HARRIER_AIRSTRIKE
+LANG_ENGLISH        "Harrier Strike"
+
+REFERENCE           HARRIER_AIRSTRIKE_DESC
+LANG_ENGLISH        "Airstrike with a hovering Harrier.
+"
+
+REFERENCE           STEALTH_AIRSTRIKE
+LANG_ENGLISH        "Stealth Bomber"
+
+REFERENCE           STEALTH_AIRSTRIKE_DESC
+LANG_ENGLISH        "Airstrike undetectable on enemy maps."
+
+REFERENCE           SUPER_AIRSTRIKE
+LANG_ENGLISH        "Super Airstrike"
+
+REFERENCE           SUPER_AIRSTRIKE_DESC
+LANG_ENGLISH        "Airstrike with some extra kick."
+
+REFERENCE           HELICOPTER_BLACKBOX
+LANG_ENGLISH        "Helicopter Blackbox"
+
+REFERENCE           HELICOPTER_BLACKBOX_DESC
+LANG_ENGLISH        "Longer lasting helicopter."
+
+REFERENCE           HELICOPTER_FLARES
+LANG_ENGLISH        "Defensive Helicopter"
+
+REFERENCE           HELICOPTER_FLARES_DESC
+LANG_ENGLISH        "Helicopter with flares."
+
+REFERENCE           EMP
+LANG_ENGLISH        "EMP"
+
+REFERENCE           EMP_DESC
+LANG_ENGLISH        "Temporarily disables enemy electronics."
+
+REFERENCE           TANK
+LANG_ENGLISH        "UGV"
+
+REFERENCE           TANK_DESC
+LANG_ENGLISH        "A UGV that can be moved forward to its next position by pressing up on the D Pad."
+
+REFERENCE           COUNTER_UAV
+LANG_ENGLISH        "Counter-UAV"
+
+REFERENCE           COUNTER_UAV_DESC
+LANG_ENGLISH        "Temporarily disables enemy radar."
+
+REFERENCE           PAVELOW
+LANG_ENGLISH        "Pave Low"
+
+REFERENCE           PAVELOW_DESC
+LANG_ENGLISH        "Heavily armored assault helicopter."
+
+REFERENCE           NONE
+LANG_ENGLISH        "None"
+
+REFERENCE           NONE_DESC
+LANG_ENGLISH        "No kill streak selected."
+
+REFERENCE           AIRDROP_MEGA
+LANG_ENGLISH        "Emergency Airdrop"
+
+REFERENCE           AIRDROP_MEGA_DESC
+LANG_ENGLISH        "Airdrop 4 random killstreaks or ammo."
+
+REFERENCE           EARNED_AIRDROP_MEGA
+LANG_ENGLISH        "Press [{+actionslot 4}] for EMERGENCY AIRDROP.
+"
+
+REFERENCE           TACTICAL_NUKE
+LANG_ENGLISH        "Tactical Nuke"
+
+REFERENCE           TACTICAL_NUKE_DESC
+LANG_ENGLISH        "End the game with a bang."
+
+REFERENCE           SENTRY
+LANG_ENGLISH        "Sentry Gun"
+
+REFERENCE           ATBR
+LANG_ENGLISH        "ATBR"
+
+REFERENCE           ATBR_DESC
+LANG_ENGLISH        "Air Target Burst Rounds"
+
+REFERENCE           EXOSUIT
+LANG_ENGLISH        "Ares"
+
+REFERENCE           EXOSUIT_DESC
+LANG_ENGLISH        "Step into the Ares Juggernaut"
+
+REFERENCE           REMOTE_MORTAR
+LANG_ENGLISH        "Rods of God"
+
+REFERENCE           REMOTE_MORTAR_DESC
+LANG_ENGLISH        "Remotely control the UAV's Laser Targeting for 3 Rods."
+
+REFERENCE           MINIGUN_TURRET
+LANG_ENGLISH        "Minigun Turret"
+
+REFERENCE           MINIGUN_TURRET_DESC
+LANG_ENGLISH        "Place and man a Minigun Turret."
+
+REFERENCE           GL_TURRET
+LANG_ENGLISH        "Grenade Launcher Turret"
+
+REFERENCE           GL_TURRET_DESC
+LANG_ENGLISH        "Place and man a Grenade Launcher Turret."
+
+REFERENCE           UAV_STRIKE
+LANG_ENGLISH        "Laser Strike"
+
+REFERENCE           UAV_STRIKE_DESC
+LANG_ENGLISH        "Laser Guided kaboom."
+
+REFERENCE           PREDATOR_MARKER
+LANG_ENGLISH        "Predator Marker"
+
+REFERENCE           PREDATOR_MARKER_DESC
+LANG_ENGLISH        "Predator markers call in the pain."
+
+REFERENCE           WEAPDROP
+LANG_ENGLISH        "Experimental Weapons"
+
+REFERENCE           WEAPDROP_DESC
+LANG_ENGLISH        "Airdrop a random experimental weapon."
+
+REFERENCE           LOCKSEEKDIE
+LANG_ENGLISH        "Night Raven"
+
+REFERENCE           LOCKSEEKDIE_DESC
+LANG_ENGLISH        "Cluster bombs with homing capability "
+

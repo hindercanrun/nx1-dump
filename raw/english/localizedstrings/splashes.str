@@ -1,0 +1,612 @@
+// Note to translators:
+// If a sentence is the same in your language then please change it to "#same"
+//
+// eg:
+// LANG_ENGLISH  "HALT"
+// LANG_GERMAN   "#same"
+//
+// (This is so we can tell which strings have been signed-off as ok to be the same words for QA
+//  and because we do not store duplicate strings, which will then get exported again next time
+//  as being untranslated.)
+//
+VERSION             "1"
+CONFIG              "C:\trees\nx1\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           HEADSHOT
+LANG_ENGLISH        "Headshot!"
+
+REFERENCE           HEADSHOT_DESC
+LANG_ENGLISH        "^3+&&1"
+
+REFERENCE           ASSISTEDSUICIDE
+LANG_ENGLISH        "Assisted Suicide!"
+
+REFERENCE           ASSISTEDSUICIDE_DESC
+LANG_ENGLISH        "You have assisted the suicide of an enemy. ^3+&&1"
+
+REFERENCE           LONGSHOT
+LANG_ENGLISH        "Longshot!"
+
+REFERENCE           LONGSHOT_DESC
+LANG_ENGLISH        "Nice kill from a distance! (^3+&&1^7)"
+
+REFERENCE           EXECUTION
+LANG_ENGLISH        "Execution!"
+
+REFERENCE           EXECUTION_DESC
+LANG_ENGLISH        "^3+&&1"
+
+REFERENCE           AVENGER
+LANG_ENGLISH        "Avenger!"
+
+REFERENCE           AVENGER_DESC
+LANG_ENGLISH        "You've avenged a team-mate. (^3+&&1^7)"
+
+REFERENCE           DEFENDER
+LANG_ENGLISH        "Rescuer!"
+
+REFERENCE           DEFENDER_DESC
+LANG_ENGLISH        "You've rescued a team-mate. (^3+&&1^7)"
+
+REFERENCE           POSTHUMOUS
+LANG_ENGLISH        "Afterlife!"
+
+REFERENCE           POSTHUMOUS_DESC
+LANG_ENGLISH        "You killed an enemy after you died. (^3+&&1^7)"
+
+REFERENCE           REVENGE
+LANG_ENGLISH        "Payback!"
+
+REFERENCE           REVENGE_DESC
+LANG_ENGLISH        "You've taken revenge. (^3+&&1^7)"
+
+REFERENCE           DOUBLEKILL
+LANG_ENGLISH        "Double Kill!"
+
+REFERENCE           DOUBLEKILL_DESC
+LANG_ENGLISH        "^3+&&1"
+
+REFERENCE           TRIPLEKILL
+LANG_ENGLISH        "Triple Kill!"
+
+REFERENCE           TRIPLEKILL_DESC
+LANG_ENGLISH        "^3+&&1"
+
+REFERENCE           MULTIKILL
+LANG_ENGLISH        "Multi-Kill!"
+
+REFERENCE           MULTIKILL_DESC
+LANG_ENGLISH        "^3+&&1"
+
+REFERENCE           FIRSTBLOOD
+LANG_ENGLISH        "First Blood!"
+
+REFERENCE           FIRSTBLOOD_DESC
+LANG_ENGLISH        "You got the first kill. (^3+&&1^7)"
+
+REFERENCE           BUZZKILL
+LANG_ENGLISH        "Buzzkill!"
+
+REFERENCE           BUZZKILL_DESC
+LANG_ENGLISH        "Stopped enemy short of a killstreak. (^3+&&1^7)"
+
+REFERENCE           COMEBACK
+LANG_ENGLISH        "Comeback!"
+
+REFERENCE           COMEBACK_DESC
+LANG_ENGLISH        "You've recovered from a streak of deaths. (^3+&&1^7)"
+
+REFERENCE           FLAGRETURN
+LANG_ENGLISH        "Flag Return!"
+
+REFERENCE           FLAGRETURN_DESC
+LANG_ENGLISH        "^3+&&1"
+
+REFERENCE           FLAGPICKUP
+LANG_ENGLISH        "Flag Runner!"
+
+REFERENCE           FLAGPICKUP_DESC
+LANG_ENGLISH        "^3+&&1"
+
+REFERENCE           CAPTURE
+LANG_ENGLISH        "Position Secure!"
+
+REFERENCE           CAPTURE_DESC
+LANG_ENGLISH        "You've taken an objective. (^3+&&1^7)"
+
+REFERENCE           DEFEND
+LANG_ENGLISH        "Defense!"
+
+REFERENCE           DEFEND_DESC
+LANG_ENGLISH        "You defended the objective. (^3+&&1^7)"
+
+REFERENCE           ASSAULT
+LANG_ENGLISH        "Offense!"
+
+REFERENCE           ASSAULT_DESC
+LANG_ENGLISH        "You killed a defender. (^3+&&1^7)"
+
+REFERENCE           PLANT
+LANG_ENGLISH        "Saboteur!"
+
+REFERENCE           PLANT_DESC
+LANG_ENGLISH        "You planted the bomb. (^3+&&1^7)"
+
+REFERENCE           DEFUSE
+LANG_ENGLISH        "Hero!"
+
+REFERENCE           DEFUSE_DESC
+LANG_ENGLISH        "You defused the bomb. (^3+&&1^7)"
+
+REFERENCE           SAB_OVERTIME
+LANG_ENGLISH        "Overtime!"
+
+REFERENCE           SAB_OVERTIME_DESC
+LANG_ENGLISH        "The base nearest to the bomb will be destroyed."
+
+REFERENCE           MARTYRDOM_DESC
+LANG_ENGLISH        "You'll drop a live grenade upon death."
+
+REFERENCE           FINALSTAND_DESC
+LANG_ENGLISH        "You'll get a second chance when you're down."
+
+REFERENCE           ENDGAME_DESC
+LANG_ENGLISH        "You've got extra health for the next few seconds."
+
+REFERENCE           C4DEATH_DESC
+LANG_ENGLISH        "Pull out C4 before you die."
+
+REFERENCE           KNIFETHROW_DESC
+LANG_ENGLISH        "You killed an enemy with a throwing knife."
+
+REFERENCE           KNIFETHROW
+LANG_ENGLISH        "Bullseye!"
+
+REFERENCE           HIJACKER_DESC
+LANG_ENGLISH        "You captured an enemy supply crate."
+
+REFERENCE           HIJACKER
+LANG_ENGLISH        "Hijacker!"
+
+REFERENCE           HIJACKED
+LANG_ENGLISH        "&&1 captured your supply crate."
+
+REFERENCE           DEFCON_LOWER
+LANG_ENGLISH        "DEFCON Lowered!"
+
+REFERENCE           DEFCON_RAISE
+LANG_ENGLISH        "DEFCON Raised"
+
+REFERENCE           DEFCON_LOWER_DESC
+LANG_ENGLISH        "Killstreaks upgraded!"
+
+REFERENCE           DEFCON_RAISE_DESC
+LANG_ENGLISH        "Killstreaks downgraded."
+
+REFERENCE           DEFCON_5
+LANG_ENGLISH        "DEFCON 5"
+
+REFERENCE           DEFCON_4
+LANG_ENGLISH        "DEFCON 4"
+
+REFERENCE           DEFCON_3
+LANG_ENGLISH        "DEFCON 3"
+
+REFERENCE           DEFCON_2
+LANG_ENGLISH        "DEFCON 2"
+
+REFERENCE           DEFCON_1
+LANG_ENGLISH        "DEFCON 1"
+
+REFERENCE           DEFCON_5_DESC
+LANG_ENGLISH        "DEFCON 5"
+
+REFERENCE           DEFCON_4_DESC
+LANG_ENGLISH        "Match starting!"
+
+REFERENCE           DEFCON_3_DESC
+LANG_ENGLISH        "Emergency airdrop incoming!"
+
+REFERENCE           DEFCON_2_DESC
+LANG_ENGLISH        "Killstreaks rollover!"
+
+REFERENCE           DEFCON_1_DESC
+LANG_ENGLISH        "Double points for objectives!"
+
+REFERENCE           COMBATHIGH_DESC
+LANG_ENGLISH        "Increased health for a short time."
+
+REFERENCE           RESTED
+LANG_ENGLISH        "Daily XP Boost!"
+
+REFERENCE           RESTED_DESC
+LANG_ENGLISH        "Earning your daily bonus XP!"
+
+REFERENCE           RESTED_DONE
+LANG_ENGLISH        "Daily XP Boost Done."
+
+REFERENCE           RESTED_DONE_DESC
+LANG_ENGLISH        "Bonus XP acquired."
+
+REFERENCE           VIP
+LANG_ENGLISH        "You are the VIP"
+
+REFERENCE           STUCK_SEMTEX
+LANG_ENGLISH        "Stuck!"
+
+REFERENCE           STUCK_SEMTEX_DESC
+LANG_ENGLISH        "You stuck an enemy with Semtex!"
+
+REFERENCE           HEROIC
+LANG_ENGLISH        "Heroic!"
+
+REFERENCE           HEROIC_DESC
+LANG_ENGLISH        "You captured an objective in last stand!"
+
+REFERENCE           DENIED
+LANG_ENGLISH        "Denied!"
+
+REFERENCE           DENIED_DESC
+LANG_ENGLISH        "You destroyed an enemy tactical insertion!"
+
+REFERENCE           DESTROYED_INSERTION
+LANG_ENGLISH        "Blocked your TI!"
+
+REFERENCE           HIJACKED_EMERGENCY_AIRDROP
+LANG_ENGLISH        "Took your crate!"
+
+REFERENCE           REVIVER_DESC
+LANG_ENGLISH        "You revived a fallen teamate."
+
+REFERENCE           REVIVER
+LANG_ENGLISH        "Reviver!"
+
+REFERENCE           GIVEAWAY_SENTRY
+LANG_ENGLISH        "...took a Sentry Gun"
+
+REFERENCE           GIVEAWAY_AIRDROP
+LANG_ENGLISH        "... took an airdropped Killstreak."
+
+REFERENCE           SEMTEX_STUCK
+LANG_ENGLISH        "Stuck you with Semtex"
+
+REFERENCE           ONE_SHOT_KILL
+LANG_ENGLISH        "One Shot Kill"
+
+REFERENCE           ONE_SHOT_KILL_DESC
+LANG_ENGLISH        "One shot... one kill"
+
+REFERENCE           NINJA_DEFUSE
+LANG_ENGLISH        "Ninja Defuse"
+
+REFERENCE           NINJA_DEFUSE_DESC
+LANG_ENGLISH        "Sneaky sneaky..."
+
+REFERENCE           COPYCAT_DESC
+LANG_ENGLISH        "Steal your killer's class during killcam."
+
+REFERENCE           COPIED
+LANG_ENGLISH        "Copied class!"
+
+REFERENCE           REVIVED
+LANG_ENGLISH        "Revived You"
+
+REFERENCE           LAST_TEAM_MEMBER_ALIVE
+LANG_ENGLISH        "Last Alive!"
+
+REFERENCE           LAST_ENEMY_ALIVE
+LANG_ENGLISH        "Last Alive!"
+
+REFERENCE           SHIELDASSIST
+LANG_ENGLISH        "Crowd Control!"
+
+REFERENCE           SHIELDASSIST_DESC
+LANG_ENGLISH        "You make an excellent distraction."
+
+REFERENCE           DESTROYED_HELICOPTER
+LANG_ENGLISH        "Destroyed Helicopter!"
+
+REFERENCE           DESTROYED_PAVELOW
+LANG_ENGLISH        "Destroyed Pavelow!"
+
+REFERENCE           DESTROYED_UAV
+LANG_ENGLISH        "Destroyed UAV!"
+
+REFERENCE           DESTROYED_HARRIER
+LANG_ENGLISH        "Destroyed Harrier!"
+
+REFERENCE           DESTROYED_AC130
+LANG_ENGLISH        "Destroyed AC130!"
+
+REFERENCE           DESTROYED_MINIGUNNER
+LANG_ENGLISH        "Destroyed Gunship!"
+
+REFERENCE           FLAG_RETURN
+LANG_ENGLISH        "Returned Flag!"
+
+REFERENCE           FLAG_CAPTURE
+LANG_ENGLISH        "Captured Flag!"
+
+REFERENCE           FLAG_PICKUP_FRIENDLY
+LANG_ENGLISH        "Took Your Flag!"
+
+REFERENCE           FLAG_PICKUP_ENEMY
+LANG_ENGLISH        "Took Enemy Flag!"
+
+REFERENCE           FLAG_PICKUP
+LANG_ENGLISH        "Took the Flag!"
+
+REFERENCE           CAPTURED_NUKE
+LANG_ENGLISH        "Nuke Captured!"
+
+REFERENCE           DESC_CAPTURED_NUKE
+LANG_ENGLISH        "You've captured the nuke."
+
+REFERENCE           UNLOCKED_EXTENDED_MAGS
+LANG_ENGLISH        "Extended Mags unlocked!"
+
+REFERENCE           UNLOCKED_HEARTBEAT
+LANG_ENGLISH        "Heartbeat Sensor unlocked!"
+
+REFERENCE           UNLOCKED_AKIMBO
+LANG_ENGLISH        "Akimbo unlocked!"
+
+REFERENCE           UNLOCKED_THERMAL
+LANG_ENGLISH        "Thermal Scope unlocked!"
+
+REFERENCE           UNLOCKED_EOTECH
+LANG_ENGLISH        "Holographic Sight unlocked!"
+
+REFERENCE           UNLOCKED_SHOTGUN
+LANG_ENGLISH        "Shotgun unlocked!"
+
+REFERENCE           GRABBED_THE_FLAG
+LANG_ENGLISH        "Grabbed the flag!"
+
+REFERENCE           HIJACKED_SENTRY
+LANG_ENGLISH        "Took Your Sentry!"
+
+REFERENCE           HIJACKED_AIRDROP
+LANG_ENGLISH        "Took Your Crate!"
+
+REFERENCE           BOMB_PLANTED
+LANG_ENGLISH        "Planted Bomb!"
+
+REFERENCE           BOMB_DEFUSED
+LANG_ENGLISH        "Defused Bomb!"
+
+REFERENCE           TIMEADDED
+LANG_ENGLISH        "Time Added!"
+
+REFERENCE           GTNW_OVERTIME
+LANG_ENGLISH        "Sudden Death!"
+
+REFERENCE           GTNW_OVERTIME_DESC
+LANG_ENGLISH        "No respawning."
+
+REFERENCE           DESTROYED_OBJECTIVE
+LANG_ENGLISH        "Destroyed Objective!"
+
+REFERENCE           SAVED_OBJECTIVE
+LANG_ENGLISH        "Saved Objective!"
+
+REFERENCE           CAPTURED_HQ
+LANG_ENGLISH        "Captured HQ!"
+
+REFERENCE           DESTROYED_HQ
+LANG_ENGLISH        "Destroyed HQ!"
+
+REFERENCE           BOMB_TAKEN
+LANG_ENGLISH        "Took Bomb!"
+
+REFERENCE           BOMB_DROPPED
+LANG_ENGLISH        "Dropped Bomb!"
+
+REFERENCE           KILLED_CARRIER
+LANG_ENGLISH        "Killed Bomb Carrier!"
+
+REFERENCE           SHAREPACKAGE
+LANG_ENGLISH        "Share Package!"
+
+REFERENCE           SHAREPACKAGE_DESC
+LANG_ENGLISH        "A teammate saved your Care Package from the enemy! (^3+&&1^7)"
+
+REFERENCE           DESTROYED_COUNTER_UAV
+LANG_ENGLISH        "Restored UAV!"
+
+REFERENCE           FLAGS_CAPTURE
+LANG_ENGLISH        "Captured a Flag!"
+
+REFERENCE           FLAG_ASSAULT
+LANG_ENGLISH        "Flag Assault!"
+
+REFERENCE           FLAG_DEFEND
+LANG_ENGLISH        "Flag Defend!"
+
+REFERENCE           FLAG_ASSAULT_DESC
+LANG_ENGLISH        "You killed a flag defender. (^3+&&1^7)"
+
+REFERENCE           FLAG_DEFEND_DESC
+LANG_ENGLISH        "You defended the flag. (^3+&&1^7)"
+
+REFERENCE           FLAG_CAPTURED
+LANG_ENGLISH        "Flag Captured!"
+
+REFERENCE           FLAG_CAPTURED_DESC
+LANG_ENGLISH        "You've captured the enemy flag. (^3+&&1^7)"
+
+REFERENCE           SECURED_POSITION
+LANG_ENGLISH        "Secured Position!"
+
+REFERENCE           SECURED_POSITION_A
+LANG_ENGLISH        "Secured A!"
+
+REFERENCE           SECURED_POSITION_B
+LANG_ENGLISH        "Secured B!"
+
+REFERENCE           SECURED_POSITION_C
+LANG_ENGLISH        "Secured C!"
+
+REFERENCE           TIME_ADDED
+LANG_ENGLISH        "Time Extension!"
+
+REFERENCE           TIME_ADDED_DESC
+LANG_ENGLISH        "Bomb site destroyed. Game time extended."
+
+REFERENCE           UPLOAD
+LANG_ENGLISH        "Hero!"
+
+REFERENCE           UPLOAD_DESC
+LANG_ENGLISH        "You uploaded intel. (^3+&&1^7)"
+
+REFERENCE           ESCORT_CHECKPOINT_DESC
+LANG_ENGLISH        "You've escorted the UGV past a checkpoint. (^3+&&1^7)"
+
+REFERENCE           ESCORT_EXTRACTION_DESC
+LANG_ENGLISH        "You've escorted the UGV to the extraction point. (^3+&&1^7)"
+
+REFERENCE           ESCORT_CHECKPOINT
+LANG_ENGLISH        "Checkpoint!"
+
+REFERENCE           ESCORT_EXTRACTION
+LANG_ENGLISH        "Extraction!"
+
+REFERENCE           BOUNTY_BLOCK
+LANG_ENGLISH        "Bounty Blocked!"
+
+REFERENCE           BOUNTY_BLOCK_DESC
+LANG_ENGLISH        "You blocked a player from collecting a bounty on you and knocked his score down."
+
+REFERENCE           BOUNTY_KILL
+LANG_ENGLISH        "Bounty Collected"
+
+REFERENCE           BOUNTY_KILL_DESC
+LANG_ENGLISH        "^3+&&1"
+
+REFERENCE           BOUNTY_STANDARD_KILL
+LANG_ENGLISH        "Undesignated Kill"
+
+REFERENCE           BOUNTY_STANDARD_KILL_DESC
+LANG_ENGLISH        "You killed a player who you did not have a bounty for.  ^3+&&1"
+
+REFERENCE           BOUNTY_BLOCKED
+LANG_ENGLISH        "Hunt Prevented!"
+
+REFERENCE           BOUNTY_BLOCKED_DESC
+LANG_ENGLISH        "Your bounty turned the tables on you.  ^3+&&1"
+
+REFERENCE           ESCORT_SWITCH_A_STOP_DESC
+LANG_ENGLISH        "Virus Upload has stopped - Plant the virus"
+
+REFERENCE           ESCORT_SWITCH_D_STOP_DESC
+LANG_ENGLISH        "Virus upload stopped - Protect the anti-aircraft controls"
+
+REFERENCE           ESCORT_SWITCH_A_STOP
+LANG_ENGLISH        "Stopped!"
+
+REFERENCE           ESCORT_SWITCH_D_STOP
+LANG_ENGLISH        "Stopped!"
+
+REFERENCE           ESCORT_SWITCH_A_PLANT_DESC
+LANG_ENGLISH        "Hold position until virus uploaded"
+
+REFERENCE           ESCORT_SWITCH_D_PLANT_DESC
+LANG_ENGLISH        "Stop virus upload"
+
+REFERENCE           ESCORT_SWITCH_A_PLANT
+LANG_ENGLISH        "Virus Planted!"
+
+REFERENCE           ESCORT_SWITCH_D_PLANT
+LANG_ENGLISH        "Virus Planted!"
+
+REFERENCE           ESCORT_SWITCH_A_RESUME_DESC
+LANG_ENGLISH        "Hold position until virus uploaded"
+
+REFERENCE           ESCORT_SWITCH_D_RESUME_DESC
+LANG_ENGLISH        "Stop virus upload"
+
+REFERENCE           ESCORT_SWITCH_A_RESUME
+LANG_ENGLISH        "Upload Resumed!"
+
+REFERENCE           ESCORT_SWITCH_D_RESUME
+LANG_ENGLISH        "Upload Resumed!"
+
+REFERENCE           ESCORT_SWITCH_A_COMPLETE_DESC
+LANG_ENGLISH        "UGV inbound"
+
+REFERENCE           ESCORT_SWITCH_D_COMPLETE_DESC
+LANG_ENGLISH        "UGV inbound"
+
+REFERENCE           ESCORT_SWITCH_A_COMPLETE
+LANG_ENGLISH        "Controls Captured "
+
+REFERENCE           ESCORT_SWITCH_D_COMPLETE
+LANG_ENGLISH        "Controls Lost"
+
+REFERENCE           INTEL_KILL
+LANG_ENGLISH        "Completed Intel Get Kills!"
+
+REFERENCE           INTEL_COMP_XP
+LANG_ENGLISH        "You earned a bunch of experience!"
+
+REFERENCE           INTEL_DROPPED
+LANG_ENGLISH        "Intel Dropped!"
+
+REFERENCE           INTEL_PICKUP
+LANG_ENGLISH        "Picked up the Intel!"
+
+REFERENCE           INTEL_COMPLETED
+LANG_ENGLISH        "Completed the Intel!"
+
+REFERENCE           INTEL_INGAME
+LANG_ENGLISH        "There is Intel on the map!"
+
+REFERENCE           INGAME_DESC
+LANG_ENGLISH        "Complete the Intel to earn a reward!"
+
+REFERENCE           INTEL_INGAME_DESC
+LANG_ENGLISH        "Complete the Intel Challenge for a reward!"
+
+REFERENCE           DROPPED_GUN_RANK
+LANG_ENGLISH        "Dropped Gun Rank!"
+
+REFERENCE           GAINED_GUN_RANK
+LANG_ENGLISH        "Gained Gun Rank!"
+
+REFERENCE           DROPPED_ENEMY_GUN_RANK
+LANG_ENGLISH        "Dropped Enemy Gun Rank!"
+
+REFERENCE           TOP_GUN_RANK
+LANG_ENGLISH        "Top Gun Rank!"
+
+REFERENCE           SURVIVOR
+LANG_ENGLISH        "Survivor!"
+
+REFERENCE           OIC_LAST_LIFE
+LANG_ENGLISH        "Last life!"
+
+REFERENCE           OIC_LIFE_LEFT
+LANG_ENGLISH        "Lives left: "
+
+REFERENCE           ADRENALINE_ENTER
+LANG_ENGLISH        "Adrenaline XP Mode"
+
+REFERENCE           ADRENALINE_DESC
+LANG_ENGLISH        "XP Multiplier on!"
+
+REFERENCE           ADRENALINE_ICED
+LANG_ENGLISH        "Iced!"
+
+REFERENCE           ADRENALINE_ICED_DESC
+LANG_ENGLISH        "You ended an Adrenaline run before it started!"
+
+REFERENCE           ADRENALINE_MOOD_KILLER
+LANG_ENGLISH        "Mood Killer!"
+
+REFERENCE           ADRENALINE_MOOD_KILLER_DESC
+LANG_ENGLISH        "You ended a player's Adrenaline streak!"
+
+REFERENCE           JUICED_DESC
+LANG_ENGLISH        "Run faster for a short time."
+

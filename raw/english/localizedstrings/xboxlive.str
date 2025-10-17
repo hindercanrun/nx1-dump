@@ -1,0 +1,273 @@
+// Note to translators:
+// If a sentence is the same in your language then please change it to "#same"
+//
+// eg:
+// LANG_ENGLISH  "HALT"
+// LANG_GERMAN   "#same"
+//
+// (This is so we can tell which strings have been signed-off as ok to be the same words for QA
+//  and because we do not store duplicate strings, which will then get exported again next time
+//  as being untranslated.)
+//
+VERSION             "1"
+CONFIG              "C:\trees\nx1\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           SERVICENAME
+LANG_ENGLISH        "Xbox LIVE"
+
+REFERENCE           CLANSETTINGS
+LANG_ENGLISH        "Clan Settings"
+
+REFERENCE           FRIENDSLIST
+LANG_ENGLISH        " friends"
+
+REFERENCE           SIGNIN
+LANG_ENGLISH        "Sign In to Xbox LIVE"
+
+REFERENCE           SIGNOUT
+LANG_ENGLISH        "Sign Out of Xbox LIVE"
+
+REFERENCE           LOGGEDOFF
+LANG_ENGLISH        "You were logged out of Xbox LIVE"
+
+REFERENCE           RESTRICTEDCLAN
+LANG_ENGLISH        "This server only allows players from certain clans to play here."
+
+REFERENCE           VIEWCLANINFO
+LANG_ENGLISH        "Clan Info"
+
+REFERENCE           EDITCLANINFO
+LANG_ENGLISH        "Edit Clan Info"
+
+REFERENCE           ENDOFMATCH
+LANG_ENGLISH        "End of match"
+
+REFERENCE           MUSTLOGIN
+LANG_ENGLISH        "You must sign in before you can play Online or System Link matches"
+
+REFERENCE           INVALIDPERMISSIONS
+LANG_ENGLISH        "The user &&1 does not have proper permissions for that operation"
+
+REFERENCE           NOLIVEONSYSTEMLINK
+LANG_ENGLISH        "You must not sign in to Xbox LIVE during a System Link game."
+
+REFERENCE           SIGNEDOUTOFLIVE
+LANG_ENGLISH        "You must be signed in to Xbox LIVE to play Xbox LIVE matches."
+
+REFERENCE           LOBBYGAMERCARD
+LANG_ENGLISH        " View Player's Gamer Card"
+
+REFERENCE           VIEW_GAMER_CARD
+LANG_ENGLISH        " view gamer"
+
+REFERENCE           GAMERCARD
+LANG_ENGLISH        " Gamer Card"
+
+REFERENCE           GAMERREVIEW
+LANG_ENGLISH        " Submit Review"
+
+REFERENCE           MPNOTALLOWED
+LANG_ENGLISH        "The current profile is not allowed to play on Xbox LIVE."
+
+REFERENCE           SYSTEMLINKWARNING
+LANG_ENGLISH        "Players signed into Xbox LIVE will only see servers run by other Xbox LIVE players.  Players who are signed in locally will only see servers run by other players who are signed in locally."
+
+REFERENCE           CANTJOINSESSION
+LANG_ENGLISH        "Unable to join game session"
+
+REFERENCE           PARTYENDED
+LANG_ENGLISH        "The party is no longer active"
+
+REFERENCE           SIGNINTOPROFILE
+LANG_ENGLISH        " Sign In To Profile"
+
+REFERENCE           SIGNINPROFILE
+LANG_ENGLISH        " Sign In Profile"
+
+REFERENCE           JOINSPLITSCREENGAME
+LANG_ENGLISH        " Join Game"
+
+REFERENCE           LEAVESPLITSCREENGAME
+LANG_ENGLISH        " Leave Game"
+
+REFERENCE           CHANGEUSERS
+LANG_ENGLISH        " Change Users"
+
+REFERENCE           CHANGEPROFILE
+LANG_ENGLISH        " Change Profile"
+
+REFERENCE           SELECTSAVEDEVICE
+LANG_ENGLISH        " Select Save Device"
+
+REFERENCE           SELECTSAVEDEVICE_CAPS
+LANG_ENGLISH        " SELECT SAVE DEVICE"
+
+REFERENCE           SIGN_IN_TO_SAVE
+LANG_ENGLISH        "Sign in to save your progress."
+
+REFERENCE           PLAYER0
+LANG_ENGLISH        "Guest 1"
+
+REFERENCE           PLAYER1
+LANG_ENGLISH        "Guest 2"
+
+REFERENCE           PLAYER2
+LANG_ENGLISH        "Guest 3"
+
+REFERENCE           PLAYER3
+LANG_ENGLISH        "Guest 4"
+
+REFERENCE           STARTGAME
+LANG_ENGLISH        " Continue"
+
+REFERENCE           SPLITSCREEN_SIGN_IN
+LANG_ENGLISH        "Splitscreen Sign In"
+
+REFERENCE           NOTSIGNEDIN
+LANG_ENGLISH        "Not signed in to a profile"
+
+REFERENCE           SIGNEDINAS
+LANG_ENGLISH        "Signed in as: &&1"
+
+REFERENCE           FINDGAMELOBBY
+LANG_ENGLISH        " Find Game Lobby"
+
+REFERENCE           FINDGAME
+LANG_ENGLISH        " find game"
+
+REFERENCE           PLAYLISTISOLD
+LANG_ENGLISH        "Your playlist data is older than the host's.  You must restart the game or reconnect to Xbox LIVE in order to get the new playlist data."
+
+REFERENCE           PLAYLISTISNEW
+LANG_ENGLISH        "Your playlist data is newer than the host's.  You will be unable to play with them until they restart to get the new playlists."
+
+REFERENCE           LOBBYENDED
+LANG_ENGLISH        "Game lobby closed"
+
+REFERENCE           LEAVELOBBY
+LANG_ENGLISH        "Leave Lobby?"
+
+REFERENCE           LEAVEPARTY
+LANG_ENGLISH        "Leave party?"
+
+REFERENCE           LEAVEPARTYANDLOBBY
+LANG_ENGLISH        "Leave lobby and party?"
+
+REFERENCE           SIGNEDOUT
+LANG_ENGLISH        "Your profile was signed out"
+
+REFERENCE           HOSTKICKPLAYER
+LANG_ENGLISH        " Kick Player"
+
+REFERENCE           KICKPLAYER
+LANG_ENGLISH        "Kick &&1?"
+
+REFERENCE           NOTREGISTEREDWITHARBITRATION
+LANG_ENGLISH        "Error while registering local client with online arbitration system."
+
+REFERENCE           LEAVEPARTYBUTTON
+LANG_ENGLISH        " Leave Party"
+
+REFERENCE           DESTROYPARTY
+LANG_ENGLISH        "End Party?"
+
+REFERENCE           PARTYDETAILS
+LANG_ENGLISH        " party details"
+
+REFERENCE           FRIENDSLISTONX
+LANG_ENGLISH        " friends"
+
+REFERENCE           INVITE
+LANG_ENGLISH        " invite friends"
+
+REFERENCE           KICKPLAYERINLIST
+LANG_ENGLISH        " KICK PLAYER"
+
+REFERENCE           SELECTBUTTON
+LANG_ENGLISH        ""
+
+REFERENCE           VIEW_PROFILE
+LANG_ENGLISH        "View Gamer Card"
+
+REFERENCE           KICK
+LANG_ENGLISH        "Kick"
+
+REFERENCE           PLAYER_MUTE
+LANG_ENGLISH        "Toggle Mute"
+
+REFERENCE           LEADERBOARDS
+LANG_ENGLISH        "Leaderboards"
+
+REFERENCE           PLAYLISTUSERCOUNT
+LANG_ENGLISH        "&&1/&&2 Total Players in Playlists"
+
+REFERENCE           TOTALUSERCOUNT
+LANG_ENGLISH        "&&1 Total Players Online"
+
+REFERENCE           LATESTXDK
+LANG_ENGLISH        "Please make sure you have the June 2007 XDK installed."
+
+REFERENCE           NETCONNECTION
+LANG_ENGLISH        "You must have an active network connection to play online or systemlink matches."
+
+REFERENCE           NOGUESTACCOUNTS
+LANG_ENGLISH        "Guest accounts are not supported for online play in Modern Warfare 2."
+
+REFERENCE           SIGNINCHANGED
+LANG_ENGLISH        "Your sign in status has changed, returning to the main menu"
+
+REFERENCE           INVITE_ONLY
+LANG_ENGLISH        "Lobby is by Invitation Only"
+
+REFERENCE           NOTSIGNEDINLIVE
+LANG_ENGLISH        "Not signed in to an Xbox LIVE profile"
+
+REFERENCE           LOCAL_SERVER
+LANG_ENGLISH        "Local Server"
+
+REFERENCE           AWAY
+LANG_ENGLISH        "Away"
+
+REFERENCE           BUSY
+LANG_ENGLISH        "Busy"
+
+REFERENCE           ONLINE
+LANG_ENGLISH        "Online"
+
+REFERENCE           LIVEERROR
+LANG_ENGLISH        "Communication with the Xbox LIVE servers has been interrupted."
+
+REFERENCE           SAVE_FAIL
+LANG_ENGLISH        "Failed to complete save device access for online update."
+
+REFERENCE           DOWNLOAD_FAIL
+LANG_ENGLISH        "Failed to complete download for online update."
+
+REFERENCE           EXTERNALMUTE_TITLE
+LANG_ENGLISH        "Can't toggle mute"
+
+REFERENCE           EXTERNALMUTE
+LANG_ENGLISH        "Player has been externally muted through his gamercard or your privacy settings prevent any communications."
+
+REFERENCE           SIGNINPROFILE_CAPS
+LANG_ENGLISH        " SIGN IN PROFILE"
+
+REFERENCE           JOINSPLITSCREENGAME_CAPS
+LANG_ENGLISH        " JOIN GAME"
+
+REFERENCE           LEAVESPLITSCREENGAME_CAPS
+LANG_ENGLISH        " LEAVE GAME"
+
+REFERENCE           CHANGEPROFILE_CAPS
+LANG_ENGLISH        " CHANGE PROFILE"
+
+REFERENCE           STARTGAME_CAPS
+LANG_ENGLISH        " CONTINUE"
+
+REFERENCE           SELECTOFFLINEPROFILE_CAPS
+LANG_ENGLISH        " SELECT OFFLINE PROFILE"
+
+REFERENCE           BACK_CAPS
+LANG_ENGLISH        " BACK"
+

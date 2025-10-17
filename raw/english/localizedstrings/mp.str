@@ -1,0 +1,2254 @@
+// Note to translators:
+// If a sentence is the same in your language then please change it to "#same"
+//
+// eg:
+// LANG_ENGLISH  "HALT"
+// LANG_GERMAN   "#same"
+//
+// (This is so we can tell which strings have been signed-off as ok to be the same words for QA
+//  and because we do not store duplicate strings, which will then get exported again next time
+//  as being untranslated.)
+//
+VERSION             "1"
+CONFIG              "C:\trees\nx1\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           CANT_CAPTURE_FLAG
+LANG_ENGLISH        "You can only capture the flags marked on your compass."
+
+REFERENCE           KILLCAM
+LANG_ENGLISH        "KILLCAM"
+
+REFERENCE           ROUNDCAM
+LANG_ENGLISH        "ROUNDCAM"
+
+REFERENCE           STARTING_NEW_ROUND
+LANG_ENGLISH        "Starting new round..."
+
+REFERENCE           PRESS_ATTACK_TO_SKIP
+LANG_ENGLISH        "Press Attack to skip"
+
+REFERENCE           PRESS_USE_TO_SKIP
+LANG_ENGLISH        "Press Use to skip"
+
+REFERENCE           PRESS_ATTACK_TO_RESPAWN
+LANG_ENGLISH        "Press Attack to respawn"
+
+REFERENCE           PRESS_USE_TO_RESPAWN
+LANG_ENGLISH        "Press Use to respawn"
+
+REFERENCE           PRESS_ACTIVATE_TO_RESPAWN
+LANG_ENGLISH        "Press ^3[{+activate}]^7 to respawn"
+
+REFERENCE           PRESS_ACTIVATE_TO_SKIP
+LANG_ENGLISH        "Press ^3[{+activate}]^7 to skip"
+
+REFERENCE           PRESS_USERELOAD_TO_RESPAWN
+LANG_ENGLISH        "Press ^3[{+usereload}]^7 to respawn"
+
+REFERENCE           PRESS_USERELOAD_TO_SKIP
+LANG_ENGLISH        "Press ^3[{+usereload}]^7 to skip"
+
+REFERENCE           CONNECTED
+LANG_ENGLISH        "&&1 Connected"
+
+REFERENCE           DISCONNECTED
+LANG_ENGLISH        "&&1 Disconnected"
+
+REFERENCE           SCORE_LIMIT_REACHED
+LANG_ENGLISH        "Score limit reached"
+
+REFERENCE           ROUND_LIMIT_REACHED
+LANG_ENGLISH        "Round limit reached"
+
+REFERENCE           TIME_LIMIT_REACHED
+LANG_ENGLISH        "Time limit reached"
+
+REFERENCE           WINS
+LANG_ENGLISH        "&&1 Wins!"
+
+REFERENCE           TIE
+LANG_ENGLISH        "The game is a tie!"
+
+REFERENCE           MATCH_TIE
+LANG_ENGLISH        "The match is a tie!"
+
+REFERENCE           FRIENDLY_FIRE_WILL_NOT
+LANG_ENGLISH        "Friendly fire will not be tolerated!"
+
+REFERENCE           AUTOBALANCE_NEXT_ROUND
+LANG_ENGLISH        "Teams will be auto-balanced next round"
+
+REFERENCE           AUTOBALANCE_SECONDS
+LANG_ENGLISH        "Teams will be auto-balanced in &&1 seconds"
+
+REFERENCE           AUTOBALANCE_NOW
+LANG_ENGLISH        "Auto-balancing teams"
+
+REFERENCE           VOTE_CALLED
+LANG_ENGLISH        "Vote Called:  "
+
+REFERENCE           VOTE_YES
+LANG_ENGLISH        "(F1) Yes:  "
+
+REFERENCE           VOTE_NO
+LANG_ENGLISH        "(F2)  No:  "
+
+REFERENCE           NEUTRAL
+LANG_ENGLISH        "Neutral:  "
+
+REFERENCE           VOTE_MAPRESTART
+LANG_ENGLISH        "Map Restart"
+
+REFERENCE           VOTE_NEXTMAP
+LANG_ENGLISH        "Next Map"
+
+REFERENCE           PERCENT
+LANG_ENGLISH        " - &&1%"
+
+REFERENCE           CALLEDAVOTE
+LANG_ENGLISH        "&&1 called a vote."
+
+REFERENCE           VOTECAST
+LANG_ENGLISH        "Vote cast."
+
+REFERENCE           VOTEPASSED
+LANG_ENGLISH        "Vote passed."
+
+REFERENCE           VOTEFAILED
+LANG_ENGLISH        "Vote failed."
+
+REFERENCE           NOSPECTATORCALLVOTE
+LANG_ENGLISH        "Not allowed to call a vote as spectator."
+
+REFERENCE           NOSPECTATORVOTE
+LANG_ENGLISH        "Not allowed to vote as spectator."
+
+REFERENCE           NOVOTEINPROGRESS
+LANG_ENGLISH        "No vote in progress."
+
+REFERENCE           VOTEALREADYINPROGRESS
+LANG_ENGLISH        "A vote is already in progress."
+
+REFERENCE           MAXVOTESCALLED
+LANG_ENGLISH        "You have called the maximum number of votes."
+
+REFERENCE           INVALIDGAMETYPE
+LANG_ENGLISH        "Invalid gametype."
+
+REFERENCE           INVALIDVOTESTRING
+LANG_ENGLISH        "Invalid vote string."
+
+REFERENCE           VOTECOMMANDS
+LANG_ENGLISH        "Vote commands: map_restart, map_rotate, map <mapname>, g_gametype <typename>, typemap <typename> <mapname>, kick <player>, clientkick <clientnum>, tempBanUser <player>, tempBanClient <clientNum>"
+
+REFERENCE           VOTE_CHANGEMAP
+LANG_ENGLISH        "Change Map: &&1"
+
+REFERENCE           VOTE_GAMETYPE
+LANG_ENGLISH        "Game Type: &&1"
+
+REFERENCE           VOTE_KICK
+LANG_ENGLISH        "Kick Player: &&1"
+
+REFERENCE           VOTE_TEMPBAN
+LANG_ENGLISH        "Temporarily Ban Player: &&1"
+
+REFERENCE           THE_SERVER_DOES_NOT_HAVE
+LANG_ENGLISH        "The server does not have that map."
+
+REFERENCE           UNKNOWN
+LANG_ENGLISH        "Unknown"
+
+REFERENCE           UNKNOWN_PLAYER
+LANG_ENGLISH        "Unknown Player"
+
+REFERENCE           X2
+LANG_ENGLISH        "x2"
+
+REFERENCE           X3
+LANG_ENGLISH        "x3"
+
+REFERENCE           PLUS
+LANG_ENGLISH        "+"
+
+REFERENCE           MINUS
+LANG_ENGLISH        "-"
+
+REFERENCE           PLUS_AMOUNT
+LANG_ENGLISH        "+%s"
+
+REFERENCE           MINUS_AMOUNT
+LANG_ENGLISH        "-%s"
+
+REFERENCE           SLASH
+LANG_ENGLISH        "/"
+
+REFERENCE           EMPTY
+LANG_ENGLISH        "%s"
+
+REFERENCE           TEAMBALANCE_NOTIFICATION_MARINES
+LANG_ENGLISH        "You were moved to Marines to balance the teams"
+
+REFERENCE           TEAMBALANCE_NOTIFICATION_SAS
+LANG_ENGLISH        "You were moved to SAS to balance the teams"
+
+REFERENCE           TEAMBALANCE_NOTIFICATION_OPFOR
+LANG_ENGLISH        "You were moved to OpFor to balance the teams"
+
+REFERENCE           TEAMBALANCE_NOTIFICATION_SPETSNAZ
+LANG_ENGLISH        "You were moved to Spetsnaz to balance the teams"
+
+REFERENCE           CANTJOINTEAM
+LANG_ENGLISH        "Changing teams would result in an unbalanced number of players on that team."
+
+REFERENCE           CTF_OBJ_TEXT
+LANG_ENGLISH        "Gain points by stealing the enemy flag and then touching your flag at your base. First team with &&1 captures wins."
+
+REFERENCE           CTF_OBJ_TEXT_NOSCORE
+LANG_ENGLISH        "Gain points by stealing the enemy flag and then touching your flag at your base."
+
+REFERENCE           OBJ_TEXT
+LANG_ENGLISH        "Gain points by capturing and defending neutral HQs for 2 minutes or by destroying enemy HQs. First team to &&1 points wins."
+
+REFERENCE           OBJ_TEXT_NOSCORE
+LANG_ENGLISH        "Gain points by capturing and defending neutral HQs for 2 minutes or by destroying enemy HQs."
+
+REFERENCE           OBJ_DM_ELIMINATE_OTHERS_SCORE
+LANG_ENGLISH        "Gain points by eliminating other players. First player to &&1 points wins."
+
+REFERENCE           OBJ_DM_ELIMINATE_OTHERS
+LANG_ENGLISH        "Gain points by eliminating other players."
+
+REFERENCE           OBJ_DM_HINT
+LANG_ENGLISH        "Eliminate other players."
+
+REFERENCE           OBJ_WAR_ELIMINATE_ENEMIES_SCORE
+LANG_ENGLISH        "Gain points by eliminating enemy players. First team to &&1 points wins."
+
+REFERENCE           OBJ_WAR_ELIMINATE_ENEMIES
+LANG_ENGLISH        "Gain points by eliminating enemy players."
+
+REFERENCE           OBJ_WAR_HINT
+LANG_ENGLISH        "Eliminate enemy players."
+
+REFERENCE           REINFORCEMENTS
+LANG_ENGLISH        "Reinforcements spawn in &&1 seconds"
+
+REFERENCE           REINFORCEMENTS_HUD
+LANG_ENGLISH        "Reinforcements: &&1"
+
+REFERENCE           INSTANT
+LANG_ENGLISH        "instant"
+
+REFERENCE           LOSING_HQ
+LANG_ENGLISH        "Losing HQ!"
+
+REFERENCE           MAXHOLDTIME_MINUTESANDSECONDS
+LANG_ENGLISH        "&&1 held the radio for the maximum time of &&2 minutes &&3 seconds!"
+
+REFERENCE           MAXHOLDTIME_MINUTES
+LANG_ENGLISH        "&&1 successfully defended the HQ!"
+
+REFERENCE           MAXHOLDTIME_SECONDS
+LANG_ENGLISH        "&&1 held the radio for the maximum time of &&2 seconds!"
+
+REFERENCE           MAXHOLDTIME_ALLIES
+LANG_ENGLISH        "Allies held the radio for the maximum time of &&1 minutes!"
+
+REFERENCE           MAXHOLDTIME_AXIS
+LANG_ENGLISH        "Axis held the radio for the maximum time of &&1 minutes!"
+
+REFERENCE           TIME_TILL_SPAWN
+LANG_ENGLISH        "Spawn in "
+
+REFERENCE           RESPAWN_WHEN_RADIO_NEUTRALIZED
+LANG_ENGLISH        "Dead until HQ neutralized"
+
+REFERENCE           MATCHSTARTING
+LANG_ENGLISH        "Match starting"
+
+REFERENCE           MATCHRESUMING
+LANG_ENGLISH        "Match resuming"
+
+REFERENCE           ROUNDDRAW
+LANG_ENGLISH        "Round draw"
+
+REFERENCE           ENEMIES_ELIMINATED
+LANG_ENGLISH        "Enemies have been eliminated"
+
+REFERENCE           BOMB_DEFUSED
+LANG_ENGLISH        "Bomb defused"
+
+REFERENCE           TARGET_DESTROYED
+LANG_ENGLISH        "Target destroyed"
+
+REFERENCE           TIME_EXPIRED
+LANG_ENGLISH        "Time has expired"
+
+REFERENCE           PLANTING_EXPLOSIVE
+LANG_ENGLISH        "Planting..."
+
+REFERENCE           DEFUSING_EXPLOSIVE
+LANG_ENGLISH        "Defusing..."
+
+REFERENCE           EXPLOSIVESPLANTED
+LANG_ENGLISH        "Explosives planted"
+
+REFERENCE           EXPLOSIVES_PLANTED
+LANG_ENGLISH        "The enemy planted the explosives!"
+
+REFERENCE           EXPLOSIVES_PLANTED_BY
+LANG_ENGLISH        "&&1 planted the explosives!"
+
+REFERENCE           EXPLOSIVES_DEFUSED_BY
+LANG_ENGLISH        "&&1 defused the explosives!"
+
+REFERENCE           EXPLOSIVES_RECOVERED_BY
+LANG_ENGLISH        "&&1 recovered the explosives!"
+
+REFERENCE           EXPLOSIVES_DROPPED_BY
+LANG_ENGLISH        "&&1 dropped the explosives!"
+
+REFERENCE           EXPLOSIVESDEFUSED
+LANG_ENGLISH        "Explosives defused"
+
+REFERENCE           OBJ_ATTACKERS
+LANG_ENGLISH        "Destroy target A or B by planting explosives at either location. First team to &&1 points wins."
+
+REFERENCE           OBJ_ATTACKERS_NOSCORE
+LANG_ENGLISH        "Destroy target A or B by planting explosives at either location."
+
+REFERENCE           OBJ_DEFENDERS
+LANG_ENGLISH        "Protect target A and B from being destroyed. If explosives are planted at either location, defuse them before they explode. First team to &&1 points wins."
+
+REFERENCE           OBJ_DEFENDERS_NOSCORE
+LANG_ENGLISH        "Protect target A and B from being destroyed. If explosives are planted at either location, defuse them before they explode."
+
+REFERENCE           ALLIESOBJECTIVEHELD
+LANG_ENGLISH        "Marines have held the objective"
+
+REFERENCE           AXISOBJECTIVEHELD
+LANG_ENGLISH        "OpFor have held the objective."
+
+REFERENCE           ALLIESOBJECTIVECAPTURED
+LANG_ENGLISH        "Marines have captured the objective"
+
+REFERENCE           AXISOBJECTIVECAPTURED
+LANG_ENGLISH        "OpFor have captured the objective."
+
+REFERENCE           ALLIES_WIN_MATCH
+LANG_ENGLISH        "Marines have won the match!"
+
+REFERENCE           CAPTURING_OBJECTIVE
+LANG_ENGLISH        "Capturing objective..."
+
+REFERENCE           ENEMY_CAPTURING_OBJECTIVE
+LANG_ENGLISH        "The enemy is capturing the objective!"
+
+REFERENCE           ALLIED_ATTACK
+LANG_ENGLISH        "Attack the OpFor-held objective!"
+
+REFERENCE           ALLIED_DEFEND
+LANG_ENGLISH        "Defend the objective from OpFor attack!"
+
+REFERENCE           AXIS_ATTACK
+LANG_ENGLISH        "Attack the Marines-held objective!"
+
+REFERENCE           AXIS_DEFEND
+LANG_ENGLISH        "Defend the objective from the Marines attack!"
+
+REFERENCE           WAITING_FOR_TEAMS
+LANG_ENGLISH        "Waiting for teams to be ready..."
+
+REFERENCE           MATCH_STARTING
+LANG_ENGLISH        "Match starting"
+
+REFERENCE           MATCH_STARTING_IN
+LANG_ENGLISH        "Match begins in: "
+
+REFERENCE           MATCH_RESUMING_IN
+LANG_ENGLISH        "Match resumes in: "
+
+REFERENCE           WAITING_MATCH
+LANG_ENGLISH        "Waiting for match to begin..."
+
+REFERENCE           IS_PLATOON_LEADER
+LANG_ENGLISH        "%s is your team's platoon leader."
+
+REFERENCE           LEFT_PLAYS
+LANG_ENGLISH        "Left Plays"
+
+REFERENCE           MIDDLE_PLAYS
+LANG_ENGLISH        "Middle Plays"
+
+REFERENCE           RIGHT_PLAYS
+LANG_ENGLISH        "Right Plays"
+
+REFERENCE           ALL_PLAYS
+LANG_ENGLISH        "All Plays"
+
+REFERENCE           PREV_PLAY
+LANG_ENGLISH        "Previous Play"
+
+REFERENCE           NEXT_PLAY
+LANG_ENGLISH        "Next Play"
+
+REFERENCE           THIS_PLAY
+LANG_ENGLISH        "Pick This Play"
+
+REFERENCE           EDIT_PLAY
+LANG_ENGLISH        "Edit Play"
+
+REFERENCE           NEW_PLAY
+LANG_ENGLISH        "New Play"
+
+REFERENCE           NEW_LEFT_PLAY
+LANG_ENGLISH        "New Left Play"
+
+REFERENCE           NEW_MIDDLE_PLAY
+LANG_ENGLISH        "New Middle Play"
+
+REFERENCE           NEW_RIGHT_PLAY
+LANG_ENGLISH        "New Right Play"
+
+REFERENCE           CANCEL_NEW_PLAY
+LANG_ENGLISH        "Cancel New Play"
+
+REFERENCE           NEXT_SQUAD
+LANG_ENGLISH        "Next Squad"
+
+REFERENCE           PREV_SQUAD
+LANG_ENGLISH        "Previous Squad"
+
+REFERENCE           ADD_SQUAD
+LANG_ENGLISH        "Add Squad"
+
+REFERENCE           DELETE_SQUAD
+LANG_ENGLISH        "Delete Squad"
+
+REFERENCE           DELETE_YES
+LANG_ENGLISH        "Confirm Delete"
+
+REFERENCE           DELETE_NO
+LANG_ENGLISH        "Cancel Delete"
+
+REFERENCE           SAVE_PLAY
+LANG_ENGLISH        "Save Play"
+
+REFERENCE           PLACE_WAYPOINTS
+LANG_ENGLISH        "Place Waypoints"
+
+REFERENCE           1_PLACE_WAYPOINT
+LANG_ENGLISH        "1. Place Move Waypoint"
+
+REFERENCE           2_PLACE_WAYPOINT_RALLY_POINT
+LANG_ENGLISH        "2. Place Rally Waypoint"
+
+REFERENCE           2_PLACE_WAYPOINT_DEFEND_POINT
+LANG_ENGLISH        "2. Place Defend Waypoint"
+
+REFERENCE           3_DELETE_LAST_WAYPOINT
+LANG_ENGLISH        "3. Delete Last Waypoint"
+
+REFERENCE           4_PREV_SQUAD
+LANG_ENGLISH        "4. Previous Squad"
+
+REFERENCE           5_NEXT_SQUAD
+LANG_ENGLISH        "5. Next Squad"
+
+REFERENCE           6_DISCARD_PLAY_CHANGES
+LANG_ENGLISH        "6. Discard Play Changes"
+
+REFERENCE           7_SAVE_PLAY_CHANGES
+LANG_ENGLISH        "7. Save Play Changes"
+
+REFERENCE           RETURN_EDITOR
+LANG_ENGLISH        "Back to Mission List"
+
+REFERENCE           PLAY_TYPE
+LANG_ENGLISH        "Choose Play Type"
+
+REFERENCE           ATTACK_PLAY
+LANG_ENGLISH        "Attack Play"
+
+REFERENCE           DEFEND_PLAY
+LANG_ENGLISH        "Defend Play"
+
+REFERENCE           TEAM_TYPE
+LANG_ENGLISH        "Choose Team Type"
+
+REFERENCE           UPTEAM
+LANG_ENGLISH        "Marines"
+
+REFERENCE           DOWNTEAM
+LANG_ENGLISH        "OpFor"
+
+REFERENCE           CHOOSE_OBJ
+LANG_ENGLISH        "Choose Objective"
+
+REFERENCE           PREV_OBJ
+LANG_ENGLISH        "Previous Objective"
+
+REFERENCE           NEXT_OBJ
+LANG_ENGLISH        "Next Objective"
+
+REFERENCE           THIS_OBJ
+LANG_ENGLISH        "This Objective"
+
+REFERENCE           NO_DEFEND_PLAYS_FOUND
+LANG_ENGLISH        "No defensive plays found"
+
+REFERENCE           NO_ATTACK_PLAYS_FOUND
+LANG_ENGLISH        "No offensive plays found"
+
+REFERENCE           LEFT_SQUAD
+LANG_ENGLISH        "Left Flank"
+
+REFERENCE           MIDDLE_SQUAD
+LANG_ENGLISH        "Frontal Attack"
+
+REFERENCE           RIGHT_SQUAD
+LANG_ENGLISH        "Right Flank"
+
+REFERENCE           ONE_SQUAD
+LANG_ENGLISH        "One Squad"
+
+REFERENCE           TWO_SQUADS
+LANG_ENGLISH        "Two Squads"
+
+REFERENCE           THREE_SQUADS
+LANG_ENGLISH        "Three Squads"
+
+REFERENCE           LEFT_MIDDLE
+LANG_ENGLISH        "Left Middle"
+
+REFERENCE           PINCER
+LANG_ENGLISH        "Pincer"
+
+REFERENCE           RIGHT_MIDDLE
+LANG_ENGLISH        "Right Middle"
+
+REFERENCE           RALLY_REACHED
+LANG_ENGLISH        "Rally Point Reached"
+
+REFERENCE           DEFEND_AREA
+LANG_ENGLISH        "Defend This Area"
+
+REFERENCE           BACK
+LANG_ENGLISH        "Back"
+
+REFERENCE           CLOSE
+LANG_ENGLISH        "Close"
+
+REFERENCE           WAITING_RESUME
+LANG_ENGLISH        "Waiting for Players to Resume Match"
+
+REFERENCE           CANT_SWITCH
+LANG_ENGLISH        "Can't Switch Teams Until Round Starts"
+
+REFERENCE           JOINED_AUTO
+LANG_ENGLISH        "%s Will Be Assigned A Squad At Mission Start"
+
+REFERENCE           YOU_WILL_JOIN_SQUAD_ONE_NEXT_ROUND
+LANG_ENGLISH        "You Will Join Squad One Next Round"
+
+REFERENCE           YOU_WILL_JOIN_SQUAD_TWO_NEXT_ROUND
+LANG_ENGLISH        "You Will Join Squad Two Next Round"
+
+REFERENCE           YOU_WILL_BE_AUTOASSIGNED_NEXT_ROUND
+LANG_ENGLISH        "You Will Be Autoassigned A Squad Next Round"
+
+REFERENCE           JOINED_ONE
+LANG_ENGLISH        "%s Joined Squad One"
+
+REFERENCE           JOINED_TWO
+LANG_ENGLISH        "%s Joined Squad Two"
+
+REFERENCE           RANK_REQUIRED
+LANG_ENGLISH        "That Weapon Requires A Rank Of %s"
+
+REFERENCE           PLAYER_TOGGLE_MUTE
+LANG_ENGLISH        "Toggle Mute"
+
+REFERENCE           MUTED
+LANG_ENGLISH        "Muted"
+
+REFERENCE           CAPTURE_AND_HOLD_FLAG
+LANG_ENGLISH        "Capture and hold the flag to score points. The first player to &&1 points wins."
+
+REFERENCE           CAPTURE_AND_HOLD_FLAG_NOSCORE
+LANG_ENGLISH        "Capture and hold the flag to score points."
+
+REFERENCE           ESTABLISH_AND_DEFEND
+LANG_ENGLISH        "Establish and defend your Headquarters."
+
+REFERENCE           CAPTURE_THE_ENEMY_FLAG
+LANG_ENGLISH        "Capture the enemy flag."
+
+REFERENCE           DESTROY_THE_OBJECTIVE
+LANG_ENGLISH        "Destroy the objective."
+
+REFERENCE           DEFEND_THE_OBJECTIVE
+LANG_ENGLISH        "Defend the objective."
+
+REFERENCE           ELIMINATE_ENEMIES
+LANG_ENGLISH        "Eliminate enemies."
+
+REFERENCE           ELIMINATE_THE_ENEMY
+LANG_ENGLISH        "Eliminate the enemy."
+
+REFERENCE           ENEMY_FLAG_CAPTURED
+LANG_ENGLISH        "Enemy flag captured!"
+
+REFERENCE           YOUR_FLAG_WAS_CAPTURED
+LANG_ENGLISH        "Your flag was captured"
+
+REFERENCE           YOUR_FLAG_WAS_RETURNED
+LANG_ENGLISH        "Your flag was returned"
+
+REFERENCE           YOUR_FLAG_WAS_TAKEN
+LANG_ENGLISH        "Your flag was taken!"
+
+REFERENCE           ENEMY_FLAG_TAKEN
+LANG_ENGLISH        "Enemy flag taken!"
+
+REFERENCE           RADIOS_SPAWN_IN_SECONDS
+LANG_ENGLISH        "Radios spawn in &&1 seconds"
+
+REFERENCE           KILL
+LANG_ENGLISH        "Kill"
+
+REFERENCE           HEADSHOT
+LANG_ENGLISH        "Headshot"
+
+REFERENCE           ASSIST
+LANG_ENGLISH        "Assist"
+
+REFERENCE           DEFUSE
+LANG_ENGLISH        "Defuse"
+
+REFERENCE           DEFEND
+LANG_ENGLISH        "Defend"
+
+REFERENCE           CAPTURE
+LANG_ENGLISH        "Capture"
+
+REFERENCE           WIN
+LANG_ENGLISH        "Win"
+
+REFERENCE           LOSS
+LANG_ENGLISH        "Loss"
+
+REFERENCE           TEAMKILL
+LANG_ENGLISH        "Team Kill"
+
+REFERENCE           SUICIDE
+LANG_ENGLISH        "Suicide"
+
+REFERENCE           KILL_PREFIX
+LANG_ENGLISH        "Kill: "
+
+REFERENCE           HEADSHOT_PREFIX
+LANG_ENGLISH        "Headshot: "
+
+REFERENCE           ASSIST_PREFIX
+LANG_ENGLISH        "Assist: "
+
+REFERENCE           DEFUSE_PREFIX
+LANG_ENGLISH        "Defuse: "
+
+REFERENCE           DEFEND_PREFIX
+LANG_ENGLISH        "Defend: "
+
+REFERENCE           CAPTURE_PREFIX
+LANG_ENGLISH        "Capture: "
+
+REFERENCE           WIN_PREFIX
+LANG_ENGLISH        "Win: "
+
+REFERENCE           LOSS_PREFIX
+LANG_ENGLISH        "Loss: "
+
+REFERENCE           TEAMKILL_PREFIX
+LANG_ENGLISH        "Team Kill: "
+
+REFERENCE           SUICIDE_PREFIX
+LANG_ENGLISH        "Suicide: "
+
+REFERENCE           PTS
+LANG_ENGLISH        "pts"
+
+REFERENCE           1ST
+LANG_ENGLISH        "1st"
+
+REFERENCE           2ND
+LANG_ENGLISH        "2nd"
+
+REFERENCE           3RD
+LANG_ENGLISH        "3rd"
+
+REFERENCE           4TH
+LANG_ENGLISH        "4th"
+
+REFERENCE           5TH
+LANG_ENGLISH        "5th"
+
+REFERENCE           6TH
+LANG_ENGLISH        "6th"
+
+REFERENCE           7TH
+LANG_ENGLISH        "7th"
+
+REFERENCE           8TH
+LANG_ENGLISH        "8th"
+
+REFERENCE           9TH
+LANG_ENGLISH        "9th"
+
+REFERENCE           10TH
+LANG_ENGLISH        "10th"
+
+REFERENCE           11TH
+LANG_ENGLISH        "11th"
+
+REFERENCE           12TH
+LANG_ENGLISH        "12th"
+
+REFERENCE           13TH
+LANG_ENGLISH        "13th"
+
+REFERENCE           14TH
+LANG_ENGLISH        "14th"
+
+REFERENCE           15TH
+LANG_ENGLISH        "15th"
+
+REFERENCE           16TH
+LANG_ENGLISH        "16th"
+
+REFERENCE           17TH
+LANG_ENGLISH        "17th"
+
+REFERENCE           18TH
+LANG_ENGLISH        "18th"
+
+REFERENCE           19TH
+LANG_ENGLISH        "19th"
+
+REFERENCE           20TH
+LANG_ENGLISH        "20th"
+
+REFERENCE           21ST
+LANG_ENGLISH        "21st"
+
+REFERENCE           22ND
+LANG_ENGLISH        "22nd"
+
+REFERENCE           23RD
+LANG_ENGLISH        "23RD"
+
+REFERENCE           24TH
+LANG_ENGLISH        "24th"
+
+REFERENCE           ST
+LANG_ENGLISH        "st"
+
+REFERENCE           ND
+LANG_ENGLISH        "nd"
+
+REFERENCE           RD
+LANG_ENGLISH        "rd"
+
+REFERENCE           TH
+LANG_ENGLISH        "th"
+
+REFERENCE           BOMB_HAS_BEEN_DROPPED
+LANG_ENGLISH        "The bomb has been dropped!"
+
+REFERENCE           YOU_HAVE_RECOVERED_THE_BOMB
+LANG_ENGLISH        "You have recovered the bomb."
+
+REFERENCE           ENEMY_HAS_TAKEN_THE_BOMB
+LANG_ENGLISH        "The enemy has taken the bomb."
+
+REFERENCE           YOUR_TEAM_HAS_RECOVERED_THE_BOMB
+LANG_ENGLISH        "Your team has recovered the bomb."
+
+REFERENCE           BOMB_HAS_BEEN_RECOVERED
+LANG_ENGLISH        "The bomb has been recovered."
+
+REFERENCE           CANT_PLANT_WITHOUT_BOMB
+LANG_ENGLISH        "You must have the bomb to plant."
+
+REFERENCE           C4_HOLDING_DETONATOR
+LANG_ENGLISH        "^1(Holding Detonator)"
+
+REFERENCE           C4_HOLDING_C4
+LANG_ENGLISH        "^5(Holding C4)"
+
+REFERENCE           C4_PRESS_TO_SWITCH_TO_C4
+LANG_ENGLISH        "(Press Use to switch to C4)"
+
+REFERENCE           C4_PRESS_TO_SWITCH_TO_DETONATOR
+LANG_ENGLISH        "(Press Use to switch to Detonator)"
+
+REFERENCE           C4_PRESS_LEFT_TRIGGER_TO_DETONATE
+LANG_ENGLISH        "Press left trigger to detonate"
+
+REFERENCE           CLAYMORE_HOLDING_DETONATOR
+LANG_ENGLISH        "^1(Holding Detonator)"
+
+REFERENCE           CLAYMORE_HOLDING_CLAYMORE
+LANG_ENGLISH        "^5(Holding Claymore)"
+
+REFERENCE           CLAYMORE_PRESS_TO_SWITCH_TO_CLAYMORE
+LANG_ENGLISH        "(Press Use to switch to claymore)"
+
+REFERENCE           CLAYMORE_PRESS_TO_SWITCH_TO_DETONATOR
+LANG_ENGLISH        "(Press Use to switch to Detonator)"
+
+REFERENCE           PLANTING_CLAYMORE
+LANG_ENGLISH        "Planting claymore..."
+
+REFERENCE           CANNOT_PLANT_CLAYMORE
+LANG_ENGLISH        "Can't plant claymore here"
+
+REFERENCE           ORIGINALMAPS
+LANG_ENGLISH        "Original Maps"
+
+REFERENCE           MISSINGMAP
+LANG_ENGLISH        "You do not have this map.  You can get this map by downloading map packs from Xbox Live Marketplace."
+
+REFERENCE           SMALLGAME_SHORT
+LANG_ENGLISH        "8 Players"
+
+REFERENCE           BIGGAME_SHORT
+LANG_ENGLISH        "16 Players"
+
+REFERENCE           ANYGAMESIZE
+LANG_ENGLISH        "Any Size"
+
+REFERENCE           SEARCHING_FOR_LOBBY_OF_TYPE_ORIGINAL
+LANG_ENGLISH        "Searching for lobbies running original maps"
+
+REFERENCE           HOST_CHANGING_SETTINGS
+LANG_ENGLISH        "Host is changing game settings"
+
+REFERENCE           CAPTURING_FLAG
+LANG_ENGLISH        "Capturing Flag"
+
+REFERENCE           RETURNING_FLAG
+LANG_ENGLISH        "Returning Flag"
+
+REFERENCE           LOSING_FLAG
+LANG_ENGLISH        "Losing Flag!"
+
+REFERENCE           LOSING_LAST_FLAG
+LANG_ENGLISH        "Losing last flag!"
+
+REFERENCE           PIPEBOMB_HOLDING_PIPEBOMB
+LANG_ENGLISH        "^5(Holding Pipe Bomb)"
+
+REFERENCE           PIPEBOMB_HOLDING_DETONATOR
+LANG_ENGLISH        "^1(Holding Detonator)"
+
+REFERENCE           PIPEBOMB_PRESS_TO_SWITCH_TO_PIPEBOMB
+LANG_ENGLISH        "(Press Use to switch to Pipe Bomb)"
+
+REFERENCE           PIPEBOMB_PRESS_TO_SWITCH_TO_DETONATOR
+LANG_ENGLISH        "(Press Use to switch to Detonator)"
+
+REFERENCE           IED_HOLDING_IED
+LANG_ENGLISH        "^5(Holding IED)"
+
+REFERENCE           PLANTING_IED
+LANG_ENGLISH        "Planting IED..."
+
+REFERENCE           CANNOT_PLANT_IED
+LANG_ENGLISH        "Can't plant IED here"
+
+REFERENCE           ALLIES_WIN_ROUND
+LANG_ENGLISH        "Marines win the round"
+
+REFERENCE           TEMP_DRAW
+LANG_ENGLISH        "Draw"
+
+REFERENCE           IED_PRESS_LEFT_TRIGGER_TO_DETONATE
+LANG_ENGLISH        "Press left trigger to detonate"
+
+REFERENCE           CHALLENGE_COMPLETED
+LANG_ENGLISH        "Challenge Completed!"
+
+REFERENCE           CHALLENGE_GET_KILLS_WITHOUT_DYING
+LANG_ENGLISH        "Get &&1 kills without dying"
+
+REFERENCE           CURRENT_CHALLENGE
+LANG_ENGLISH        "Current Challenge:"
+
+REFERENCE           N_REMAINING
+LANG_ENGLISH        "(&&1 remaining)"
+
+REFERENCE           YOU_ARE_THE_ONLY_REMAINING_PLAYER
+LANG_ENGLISH        "You are the only remaining player on your team."
+
+REFERENCE           BOMB_HAS_BEEN_ABANDONED
+LANG_ENGLISH        "The bomb has been abandoned!"
+
+REFERENCE           ORIGINAL_MAPS
+LANG_ENGLISH        "Original Maps"
+
+REFERENCE           MAPDIFFERSFROMSERVER
+LANG_ENGLISH        "Your map is different from the host's map.  You cannot play on this map with them."
+
+REFERENCE           DOM_CAPTURE_ALL_THE_FLAGS
+LANG_ENGLISH        "Touch the flags to capture them. First team to capture every flag wins."
+
+REFERENCE           DOM_CAPTURING_FLAG
+LANG_ENGLISH        "Capturing Flag"
+
+REFERENCE           DOM_LOSING_FLAG
+LANG_ENGLISH        "Losing Flag!"
+
+REFERENCE           FRIENDLY_FLAG_CAPTURED_BY
+LANG_ENGLISH        "&&1 captured your flag!"
+
+REFERENCE           NEUTRAL_FLAG_CAPTURED_BY
+LANG_ENGLISH        "&&1 captured a flag!"
+
+REFERENCE           THE_ENEMY
+LANG_ENGLISH        "The enemy"
+
+REFERENCE           YOUR_TEAM
+LANG_ENGLISH        "Your team"
+
+REFERENCE           DOM_ENEMY_FLAG_CAPTURED
+LANG_ENGLISH        "Enemy flag captured"
+
+REFERENCE           DOM_YOUR_FLAG_WAS_CAPTURED
+LANG_ENGLISH        "Your flag was captured"
+
+REFERENCE           DOM_NEUTRAL_FLAG_CAPTURED
+LANG_ENGLISH        "Flag captured"
+
+REFERENCE           WAR_CAPTURING_ARTILLERY
+LANG_ENGLISH        "Capturing artillery"
+
+REFERENCE           WAR_ENEMY_ARTILLERY_CAPTURED
+LANG_ENGLISH        "Enemy artillery captured"
+
+REFERENCE           WAR_YOUR_ARTILLERY_CAPTURED
+LANG_ENGLISH        "Your artillery was captured"
+
+REFERENCE           WAR_NEUTRAL_ARTILLERY_CAPTURED
+LANG_ENGLISH        "Artillery captured"
+
+REFERENCE           WAR_CAPTURING_RADAR
+LANG_ENGLISH        "Capturing radar"
+
+REFERENCE           WAR_ENEMY_RADAR_CAPTURED
+LANG_ENGLISH        "Enemy radar captured"
+
+REFERENCE           WAR_YOUR_RADAR_CAPTURED
+LANG_ENGLISH        "Your radar was captured"
+
+REFERENCE           WAR_NEUTRAL_RADAR_CAPTURED
+LANG_ENGLISH        "Radar captured"
+
+REFERENCE           WAR_CAPTURING_ARMOR
+LANG_ENGLISH        "Capturing armor"
+
+REFERENCE           WAR_ENEMY_ARMOR_CAPTURED
+LANG_ENGLISH        "Enemy armor captured"
+
+REFERENCE           WAR_YOUR_ARMOR_CAPTURED
+LANG_ENGLISH        "Your armor was captured"
+
+REFERENCE           WAR_NEUTRAL_ARMOR_CAPTURED
+LANG_ENGLISH        "Armor captured"
+
+REFERENCE           WAR_CAPTURING_COPTER
+LANG_ENGLISH        "Capturing aerial support"
+
+REFERENCE           WAR_ENEMY_COPTER_CAPTURED
+LANG_ENGLISH        "Enemy aerial support captured"
+
+REFERENCE           WAR_YOUR_COPTER_CAPTURED
+LANG_ENGLISH        "Your aerial support was captured"
+
+REFERENCE           WAR_NEUTRAL_COPTER_CAPTURED
+LANG_ENGLISH        "Aerial support captured"
+
+REFERENCE           WAR_WAITING_FOR_ARTILLERY
+LANG_ENGLISH        "Waiting for artillery to be available..."
+
+REFERENCE           WAR_ARTILLERY_INSTRUCTIONS1
+LANG_ENGLISH        "Press ATTACK to call in artillery"
+
+REFERENCE           WAR_ARTILLERY_INSTRUCTIONS2
+LANG_ENGLISH        "Press USE to cancel"
+
+REFERENCE           WAR_ARTILLERY_INSTRUCTIONS3
+LANG_ENGLISH        "Artillery will fall where you are aiming."
+
+REFERENCE           WAR_ARTILLERY_CROSSHAIR
+LANG_ENGLISH        "><"
+
+REFERENCE           WAR_ARTILLERY_INBOUND
+LANG_ENGLISH        "Artillery strike inbound."
+
+REFERENCE           WAR_ARTILLERY_INBOUND_NEAR_YOUR_POSITION
+LANG_ENGLISH        "Artillery strike inbound near your position!"
+
+REFERENCE           WAR_WAITING_FOR_AMMO
+LANG_ENGLISH        "Waiting for ammunition to be available..."
+
+REFERENCE           WAR_PRESS_TO_REPLENISH_AMMO
+LANG_ENGLISH        "Press USE (...todo...) to replenish ammunition"
+
+REFERENCE           WAR_WAITING_FOR_COPTER_TO_BE_READY_FOR_ORDERS
+LANG_ENGLISH        "Waiting for helicopter to be ready for orders..."
+
+REFERENCE           WAR_WAITING_FOR_COPTER_TO_REACH_DESTINATION
+LANG_ENGLISH        "Waiting for helicopter to reach its destination..."
+
+REFERENCE           WAR_WAITING_FOR_COPTER_TO_BE_AVAILABLE
+LANG_ENGLISH        "Waiting for aerial support to be available..."
+
+REFERENCE           WAR_COPTER_INSTRUCTIONS1
+LANG_ENGLISH        "Press ATTACK to send helicopter to this area"
+
+REFERENCE           WAR_COPTER_INSTRUCTIONS2
+LANG_ENGLISH        "Press USE to cancel"
+
+REFERENCE           WAR_WAITING_FOR_RADAR
+LANG_ENGLISH        "Waiting for UAV Recon to be available..."
+
+REFERENCE           WAR_RADAR_ACQUIRED
+LANG_ENGLISH        "UAV Recon called in by &&1 for &&2 seconds"
+
+REFERENCE           WAR_RADAR_ACQUIRED_ENEMY
+LANG_ENGLISH        "Enemy acquired UAV Recon for &&1 seconds"
+
+REFERENCE           WAR_RADAR_EXPIRED
+LANG_ENGLISH        "UAV Recon expired"
+
+REFERENCE           WAR_RADAR_EXPIRED_ENEMY
+LANG_ENGLISH        "Enemy UAV Recon expired"
+
+REFERENCE           THIS_SPAWN_ID
+LANG_ENGLISH        "^5This spawn ID: ^3&&1"
+
+REFERENCE           PREVIOUS_SPAWN_ID
+LANG_ENGLISH        "^5Previous spawn ID: ^3&&1"
+
+REFERENCE           HOST_ENDED_GAME
+LANG_ENGLISH        "Host ended game"
+
+REFERENCE           ENDED_GAME
+LANG_ENGLISH        "Ended game"
+
+REFERENCE           ENDED_GAME_MIGRATION_FAILED
+LANG_ENGLISH        "Could not migrate host"
+
+REFERENCE           MAPDIFFERSFROMSERVERDEV
+LANG_ENGLISH        "Your map is different from the host's map.  You cannot play on this map with them. Your checksum = &&1, Server's == &&2"
+
+REFERENCE           0MIN
+LANG_ENGLISH        "0:"
+
+REFERENCE           1MIN
+LANG_ENGLISH        "1:"
+
+REFERENCE           2MIN
+LANG_ENGLISH        "2:"
+
+REFERENCE           3MIN
+LANG_ENGLISH        "3:"
+
+REFERENCE           4MIN
+LANG_ENGLISH        "4:"
+
+REFERENCE           5MIN
+LANG_ENGLISH        "5:"
+
+REFERENCE           0MIN_0SEC
+LANG_ENGLISH        "0:0"
+
+REFERENCE           1MIN_0SEC
+LANG_ENGLISH        "1:0"
+
+REFERENCE           2MIN_0SEC
+LANG_ENGLISH        "2:0"
+
+REFERENCE           3MIN_0SEC
+LANG_ENGLISH        "3:0"
+
+REFERENCE           4MIN_0SEC
+LANG_ENGLISH        "4:0"
+
+REFERENCE           5MIN_0SEC
+LANG_ENGLISH        "5:0"
+
+REFERENCE           OBJ_SAB_DESTROY_TARGET
+LANG_ENGLISH        "Recover the bomb and destroy the enemy hardpoint."
+
+REFERENCE           OBJ_SAB_DESTROY_TARGET_SCORE
+LANG_ENGLISH        "Recover the bomb and plant it on the enemy hardpoint.  First team to destroy the hardpoint wins."
+
+REFERENCE           OBJ_DOM_CAPTURE_FLAGS
+LANG_ENGLISH        "Capture and hold all of the the flags."
+
+REFERENCE           OBJ_DOM_CAPTURE_FLAGS_SCORE
+LANG_ENGLISH        "Destroy target A or B by planting explosives at either location. First team to &&1 points wins."
+
+REFERENCE           OBJ_SD_PLANT_BOMB
+LANG_ENGLISH        "Plant explosives on a target and destroy it.  First team to "
+
+REFERENCE           OBJ_SD_PLANT_BOMB_SCORE
+LANG_ENGLISH        "Gain points by eliminating enemy players."
+
+REFERENCE           WAR
+LANG_ENGLISH        "Team Deathmatch"
+
+REFERENCE           WAR_TIMER
+LANG_ENGLISH        "Team Deathmatch - &&1"
+
+REFERENCE           SEARCH_AND_DESTROY
+LANG_ENGLISH        "Search and Destroy"
+
+REFERENCE           SEARCH_AND_DESTROY_TIMER
+LANG_ENGLISH        "Search and Destroy - &&1"
+
+REFERENCE           SABOTAGE
+LANG_ENGLISH        "Sabotage Old"
+
+REFERENCE           SABOTAGE_TIMER
+LANG_ENGLISH        "Sabotage - &&1"
+
+REFERENCE           DOMINATION
+LANG_ENGLISH        "Capture and Hold"
+
+REFERENCE           DOMINATION_TIMER
+LANG_ENGLISH        "Capture and Hold - &&1"
+
+REFERENCE           DEATHMATCH
+LANG_ENGLISH        "Free-for-all "
+
+REFERENCE           DEATHMATCH_TIMER
+LANG_ENGLISH        "Free-for-all - &&1"
+
+REFERENCE           KING_OF_THE_HILL
+LANG_ENGLISH        "King of the Hill"
+
+REFERENCE           USEVEHICLE
+LANG_ENGLISH        "Hold use_button to enter vehicle."
+
+REFERENCE           SLASHSCORE
+LANG_ENGLISH        "/&&1"
+
+REFERENCE           CHALLENGE
+LANG_ENGLISH        "Challenge"
+
+REFERENCE           WAITING_TO_SPAWN
+LANG_ENGLISH        "Waiting to respawn"
+
+REFERENCE           SPAWN_NEXT_ROUND
+LANG_ENGLISH        "You will respawn next round."
+
+REFERENCE           SABOTAGE_COUNTDOWN
+LANG_ENGLISH        "Sabotage"
+
+REFERENCE           SEARCH_AND_DESTROY_CLASSIC
+LANG_ENGLISH        "Search and Destroy Old"
+
+REFERENCE           TEAM_HARDPOINT
+LANG_ENGLISH        "Team Deathmatch"
+
+REFERENCE           WAR_WAITING_FOR_AIRSTRIKE
+LANG_ENGLISH        "Waiting for air strike to be available..."
+
+REFERENCE           WAR_AIRSTRIKE_INBOUND
+LANG_ENGLISH        "Airstrike called in by &&1"
+
+REFERENCE           WAR_AIRSTRIKE_INBOUND_NEAR_YOUR_POSITION
+LANG_ENGLISH        "Friendly airstrike on your position!"
+
+REFERENCE           WAR_AIRSTRIKE_CROSSHAIR
+LANG_ENGLISH        "><"
+
+REFERENCE           WAR_AIRSTRIKE_INSTRUCTIONS1
+LANG_ENGLISH        "Press ATTACK to call in air strike"
+
+REFERENCE           WAR_AIRSTRIKE_INSTRUCTIONS2
+LANG_ENGLISH        "Press USE to cancel"
+
+REFERENCE           WAR_AIRSTRIKE_INSTRUCTIONS3
+LANG_ENGLISH        "Air strike will attack where you are aiming."
+
+REFERENCE           HELICOPTER_INBOUND
+LANG_ENGLISH        "Helicopter called in by &&1"
+
+REFERENCE           AC130_INBOUND
+LANG_ENGLISH        "AC130 called in by &&1"
+
+REFERENCE           POINTS_TO_WIN
+LANG_ENGLISH        "%s points to win."
+
+REFERENCE           MARINES_NAME
+LANG_ENGLISH        "Marine Force Recon"
+
+REFERENCE           SAS_NAME
+LANG_ENGLISH        "S.A.S"
+
+REFERENCE           OPFOR_NAME
+LANG_ENGLISH        "OpFor"
+
+REFERENCE           SPETSNAZ_NAME
+LANG_ENGLISH        "Spetsnaz"
+
+REFERENCE           EARNED_AIRSTRIKE
+LANG_ENGLISH        "Press [{+actionslot 4}] for AIRSTRIKE."
+
+REFERENCE           EARNED_WEAPDROP
+LANG_ENGLISH        "Press [{+actionslot 4}] for X WEAPONS DROP."
+
+REFERENCE           EARNED_AIRDROP
+LANG_ENGLISH        "Press [{+actionslot 4}] for AIRDROP."
+
+REFERENCE           EARNED_SENTRY_AIRDROP
+LANG_ENGLISH        "Press [{+actionslot 4}] for SENTRY AIRDROP."
+
+REFERENCE           EARNED_PREDATOR_AIRDROP
+LANG_ENGLISH        "Press [{+actionslot 4}] for PREDATOR AIRDROP."
+
+REFERENCE           EARNED_PRECISION_AIRSTRIKE
+LANG_ENGLISH        "Press [{+actionslot 4}] for PRECISION AIRSTRIKE."
+
+REFERENCE           EARNED_STEALTH_AIRSTRIKE
+LANG_ENGLISH        "Press [{+actionslot 4}] for STEALTH BOMBER."
+
+REFERENCE           EARNED_HARRIER_AIRSTRIKE
+LANG_ENGLISH        "Press [{+actionslot 4}] for HARRIER AIRSTRIKE."
+
+REFERENCE           EARNED_SUPER_AIRSTRIKE
+LANG_ENGLISH        "Press [{+actionslot 4}] for SUPER AIRSTRIKE."
+
+REFERENCE           EARNED_UAV
+LANG_ENGLISH        "Press [{+actionslot 4}] for UAV."
+
+REFERENCE           EARNED_DOUBLE_UAV
+LANG_ENGLISH        "Press [{+actionslot 4}] for ADVANCED UAV."
+
+REFERENCE           EARNED_COUNTER_UAV
+LANG_ENGLISH        "Press [{+actionslot 4}] for COUNTER-UAV."
+
+REFERENCE           EARNED_HELICOPTER
+LANG_ENGLISH        "Press [{+actionslot 4}] for ATTACK HELICOPTER."
+
+REFERENCE           EARNED_HELICOPTER_MINIGUN
+LANG_ENGLISH        "Press [{+actionslot 4}] for CHOPPER GUNNER."
+
+REFERENCE           EARNED_HELICOPTER_MK19
+LANG_ENGLISH        "Press [{+actionslot 4}] for HELICOPTER MK19."
+
+REFERENCE           EARNED_HELICOPTER_BLACKBOX
+LANG_ENGLISH        "Press [{+actionslot 4}] for HELICOPTER BLACKBOX."
+
+REFERENCE           EARNED_HELICOPTER_FLARES
+LANG_ENGLISH        "Press [{+actionslot 4}] for PAVELOW."
+
+REFERENCE           EARNED_AC130
+LANG_ENGLISH        "Press [{+actionslot 4}] for AC130."
+
+REFERENCE           EARNED_PREDATOR_MISSILE
+LANG_ENGLISH        "Press [{+actionslot 4}] for PREDATOR MISSILE."
+
+REFERENCE           EARNED_NUKE
+LANG_ENGLISH        "Press [{+actionslot 4}] for TACTICAL NUKE."
+
+REFERENCE           EARNED_AUTO_SHOTGUN
+LANG_ENGLISH        "Press [{+actionslot 4}] for SHOTGUN."
+
+REFERENCE           EARNED_AUTO_SENTRY
+LANG_ENGLISH        "Press [{+actionslot 4}] for AUTO-SENTRY."
+
+REFERENCE           EARNED_AUTO_SENTRY_GL
+LANG_ENGLISH        "Press [{+actionslot 4}] for AUTO-GRENADE LAUNCHER."
+
+REFERENCE           EARNED_THUMPER
+LANG_ENGLISH        "Press [{+actionslot 4}] for THUMPER."
+
+REFERENCE           EARNED_LITTLEBIRD_SUPPORT
+LANG_ENGLISH        "Press [{+actionslot 4}] for LITTLEBIRD."
+
+REFERENCE           EARNED_EMP
+LANG_ENGLISH        "Press [{+actionslot 4}] for EMP."
+
+REFERENCE           KILLSTREAK_3
+LANG_ENGLISH        "3 Kill Streak!"
+
+REFERENCE           KILLSTREAK_5
+LANG_ENGLISH        "5 Kill Streak!"
+
+REFERENCE           KILLSTREAK_7
+LANG_ENGLISH        "7 Kill Streak!"
+
+REFERENCE           KILLSTREAK_N
+LANG_ENGLISH        "&&1 Kill Streak!"
+
+REFERENCE           NULL
+LANG_ENGLISH        "%s"
+
+REFERENCE           FLAG_TAKEN_BY
+LANG_ENGLISH        "Your flag was taken by &&1!"
+
+REFERENCE           ENEMY_FLAG_TAKEN_BY
+LANG_ENGLISH        "Enemy flag was taken by &&1!"
+
+REFERENCE           FLAG_CAPTURED_BY
+LANG_ENGLISH        "Your flag was captured by &&1!"
+
+REFERENCE           ENEMY_FLAG_CAPTURED_BY
+LANG_ENGLISH        "Enemy flag was captured by &&1!"
+
+REFERENCE           FLAG_RETURNED_BY
+LANG_ENGLISH        "Your flag was returned by &&1!"
+
+REFERENCE           FLAG_RETURNED
+LANG_ENGLISH        "Your flag was returned!"
+
+REFERENCE           ENEMY_FLAG_RETURNED
+LANG_ENGLISH        "Enemy flag was returned!"
+
+REFERENCE           YOUR_FLAG_RETURNING_IN
+LANG_ENGLISH        "Your flag returning in "
+
+REFERENCE           ENEMY_FLAG_RETURNING_IN
+LANG_ENGLISH        "Enemy flag returning in "
+
+REFERENCE           ENEMY_FLAG_DROPPED_BY
+LANG_ENGLISH        "&&1 dropped the enemy flag!"
+
+REFERENCE           FIRSTPLACE_NAME
+LANG_ENGLISH        "1st. &&1"
+
+REFERENCE           SECONDPLACE_NAME
+LANG_ENGLISH        "2nd. &&1"
+
+REFERENCE           THIRDPLACE_NAME
+LANG_ENGLISH        "3rd. &&1"
+
+REFERENCE           DRAW
+LANG_ENGLISH        "Draw"
+
+REFERENCE           VICTORY
+LANG_ENGLISH        "Victory!"
+
+REFERENCE           DEFEAT
+LANG_ENGLISH        "Defeat!"
+
+REFERENCE           ROUND_DRAW
+LANG_ENGLISH        "Round Draw"
+
+REFERENCE           ROUND_WIN
+LANG_ENGLISH        "Round Win"
+
+REFERENCE           ROUND_LOSS
+LANG_ENGLISH        "Round Loss"
+
+REFERENCE           HALFTIME
+LANG_ENGLISH        "Halftime"
+
+REFERENCE           OVERTIME
+LANG_ENGLISH        "Overtime"
+
+REFERENCE           SWITCHING_SIDES
+LANG_ENGLISH        "SWITCHING SIDES"
+
+REFERENCE           MATCH_BONUS_IS
+LANG_ENGLISH        "Match Bonus: &&1"
+
+REFERENCE           MARINES_WIN
+LANG_ENGLISH        "Marines win!"
+
+REFERENCE           MARINES_WIN_MATCH
+LANG_ENGLISH        "Marines have won the match!"
+
+REFERENCE           MARINES_WIN_ROUND
+LANG_ENGLISH        "Marines have won the round!"
+
+REFERENCE           MARINES_MISSION_ACCOMPLISHED
+LANG_ENGLISH        "Marines mission accomplished"
+
+REFERENCE           MARINES_ELIMINATED
+LANG_ENGLISH        "Marines eliminated"
+
+REFERENCE           MARINES_FORFEITED
+LANG_ENGLISH        "Marines forfeited"
+
+REFERENCE           MARINES_DESTROYED_TARGET
+LANG_ENGLISH        "Marines destroyed target"
+
+REFERENCE           MARINES_DEFENDED_TARGET
+LANG_ENGLISH        "Marines defended target"
+
+REFERENCE           SAS_WIN
+LANG_ENGLISH        "SAS win!"
+
+REFERENCE           SAS_WIN_MATCH
+LANG_ENGLISH        "SAS have won the match!"
+
+REFERENCE           SAS_WIN_ROUND
+LANG_ENGLISH        "SAS have won the round!"
+
+REFERENCE           SAS_MISSION_ACCOMPLISHED
+LANG_ENGLISH        "SAS mission accomplished"
+
+REFERENCE           SAS_ELIMINATED
+LANG_ENGLISH        "SAS eliminated"
+
+REFERENCE           SAS_FORFEITED
+LANG_ENGLISH        "SAS forfeited"
+
+REFERENCE           SAS_DESTROYED_TARGET
+LANG_ENGLISH        "SAS destroyed target"
+
+REFERENCE           SAS_DEFENDED_TARGET
+LANG_ENGLISH        "SAS defended target"
+
+REFERENCE           OPFOR_WIN
+LANG_ENGLISH        "OpFor win!"
+
+REFERENCE           OPFOR_WIN_MATCH
+LANG_ENGLISH        "OpFor have won the match!"
+
+REFERENCE           OPFOR_WIN_ROUND
+LANG_ENGLISH        "OpFor have won the round!"
+
+REFERENCE           OPFOR_MISSION_ACCOMPLISHED
+LANG_ENGLISH        "OpFor mission accomplished"
+
+REFERENCE           OPFOR_ELIMINATED
+LANG_ENGLISH        "OpFor eliminated"
+
+REFERENCE           OPFOR_FORFEITED
+LANG_ENGLISH        "OpFor forfeited"
+
+REFERENCE           OPFOR_DESTROYED_TARGET
+LANG_ENGLISH        "OpFor destroyed target"
+
+REFERENCE           OPFOR_DEFENDED_TARGET
+LANG_ENGLISH        "OpFor defended target"
+
+REFERENCE           SPETSNAZ_WIN
+LANG_ENGLISH        "Spetsnaz win!"
+
+REFERENCE           SPETSNAZ_WIN_MATCH
+LANG_ENGLISH        "Spetsnaz have won the match!"
+
+REFERENCE           SPETSNAZ_WIN_ROUND
+LANG_ENGLISH        "Spetsnaz have won the round!"
+
+REFERENCE           SPETSNAZ_MISSION_ACCOMPLISHED
+LANG_ENGLISH        "Spetsnaz mission accomplished"
+
+REFERENCE           SPETSNAZ_ELIMINATED
+LANG_ENGLISH        "Spetsnaz eliminated"
+
+REFERENCE           SPETSNAZ_FORFEITED
+LANG_ENGLISH        "Spetsnaz forfeited"
+
+REFERENCE           PLAYERS_FORFEITED
+LANG_ENGLISH        "Players forfeited"
+
+REFERENCE           SPETSNAZ_DESTROYED_TARGET
+LANG_ENGLISH        "Spetsnaz destroyed target"
+
+REFERENCE           SPETSNAZ_DEFENDED_TARGET
+LANG_ENGLISH        "Spetsnaz defended target"
+
+REFERENCE           IWNOTALLOWED
+LANG_ENGLISH        "You are not authorized to use the IW clan tag."
+
+REFERENCE           BUILDEXPIRED
+LANG_ENGLISH        "This build of Modern Warfare 2 is no longer valid for online play."
+
+REFERENCE           BANNED
+LANG_ENGLISH        "You have been banned from Modern Warfare 2."
+
+REFERENCE           AUTH_BANNED
+LANG_ENGLISH        "You have been banned from Modern Warfare 2."
+
+REFERENCE           AUTH_NOT_ENTITLED
+LANG_ENGLISH        "You are not authorized to play Modern Warfare 2.  Contact Mark Rubin (x8078)."
+
+REFERENCE           AUTH_MISC_ERROR
+LANG_ENGLISH        "Modern Warfare 2 is temporarily offline.  Try again in a few minutes."
+
+REFERENCE           BETACLOSED
+LANG_ENGLISH        "The Beta for Modern Warfare 2 has now ended."
+
+REFERENCE           RADAR_NOT_AVAILABLE
+LANG_ENGLISH        "Radar not available"
+
+REFERENCE           AIRSTRIKE_NOT_AVAILABLE
+LANG_ENGLISH        "Airspace is occupied.  Try again soon..."
+
+REFERENCE           HELICOPTER_NOT_AVAILABLE
+LANG_ENGLISH        "Airspace is occupied.  Try again soon..."
+
+REFERENCE           AC130_NOT_AVAILABLE
+LANG_ENGLISH        "Airspace is occupied.  Try again soon..."
+
+REFERENCE           REMOTEMISSILE_NOT_AVAILABLE
+LANG_ENGLISH        "Predator Missile launch not available"
+
+REFERENCE           CONTROL_HQ
+LANG_ENGLISH        "Control the HQ location."
+
+REFERENCE           CAPTURE_HQ
+LANG_ENGLISH        "Capture the HQ."
+
+REFERENCE           DESTROY_HQ
+LANG_ENGLISH        "Destroy the HQ."
+
+REFERENCE           DEFEND_HQ
+LANG_ENGLISH        "Defend the HQ."
+
+REFERENCE           HQ_AVAILABLE_IN
+LANG_ENGLISH        "HQ online in: &&1"
+
+REFERENCE           HQ_DESPAWN_IN
+LANG_ENGLISH        "HQ offline in: &&1"
+
+REFERENCE           HQ_REINFORCEMENTS_IN
+LANG_ENGLISH        "Reinforcements in: &&1"
+
+REFERENCE           CAPTURING_HQ
+LANG_ENGLISH        "Capturing HQ..."
+
+REFERENCE           DESTROYING_HQ
+LANG_ENGLISH        "Destroying HQ..."
+
+REFERENCE           HQ_CAPTURED_BY
+LANG_ENGLISH        "HQ captured by &&1!"
+
+REFERENCE           HQ_CAPTURED_BY_ENEMY
+LANG_ENGLISH        "The enemy captured the HQ!"
+
+REFERENCE           HQ_DESTROYED_BY
+LANG_ENGLISH        "HQ destroyed by &&1!"
+
+REFERENCE           HQ_DESTROYED_BY_ENEMY
+LANG_ENGLISH        "The enemy destroyed the HQ!"
+
+REFERENCE           JOINED_MARINES
+LANG_ENGLISH        "&&1 Joined Marines"
+
+REFERENCE           JOINED_SAS
+LANG_ENGLISH        "&&1 Joined SAS"
+
+REFERENCE           JOINED_OPFOR
+LANG_ENGLISH        "&&1 Joined OpFor"
+
+REFERENCE           JOINED_SPETSNAZ
+LANG_ENGLISH        "&&1 Joined Spetsnaz"
+
+REFERENCE           CHANGE_CLASS_NEXT_SPAWN
+LANG_ENGLISH        "Your class will change the next time you spawn."
+
+REFERENCE           HOST_ENDGAME_RESPONSE
+LANG_ENGLISH        "Action unavailable, outcome already in progress."
+
+REFERENCE           NOTIFY_TITLE_MESSAGE
+LANG_ENGLISH        "Notify Title Message"
+
+REFERENCE           NOTIFY_TEXT_MESSAGE_AND
+LANG_ENGLISH        "Notify text message and info."
+
+REFERENCE           NOTIFY_TEXT_MESSAGE_AND1
+LANG_ENGLISH        "Notify text message and info."
+
+REFERENCE           ROUNDEND
+LANG_ENGLISH        "Round Over"
+
+REFERENCE           INTERMISSION
+LANG_ENGLISH        "Intermission"
+
+REFERENCE           SUDDEN_DEATH
+LANG_ENGLISH        "Sudden Death"
+
+REFERENCE           TEAM_SCORED
+LANG_ENGLISH        "Your team scored! "
+
+REFERENCE           ENEMY_SCORED
+LANG_ENGLISH        "Enemy team scored!"
+
+REFERENCE           HQ_REVEALED
+LANG_ENGLISH        "HQ location revealed."
+
+REFERENCE           WAITING_FOR_MORE_PLAYERS
+LANG_ENGLISH        "Waiting for more players..."
+
+REFERENCE           WAITING_FOR_PLAYERS
+LANG_ENGLISH        "Waiting for players..."
+
+REFERENCE           OPPONENT_FORFEITING_IN
+LANG_ENGLISH        "Enemies forfeiting in:"
+
+REFERENCE           NO_RESPAWN
+LANG_ENGLISH        "No Respawning"
+
+REFERENCE           WAITING_FOR_HQ
+LANG_ENGLISH        "Waiting for HQ to be destroyed..."
+
+REFERENCE           TIE_BREAKER
+LANG_ENGLISH        "Tie Breaker"
+
+REFERENCE           MATCHEDPLAYER
+LANG_ENGLISH        "Matched Player"
+
+REFERENCE           WAITINGFORPARTYHOST
+LANG_ENGLISH        "Waiting for &&1 to return to the party"
+
+REFERENCE           WAITING_TO_SAFESPAWN
+LANG_ENGLISH        "Waiting for safe spawn..."
+
+REFERENCE           PRESS_TO_RAPPEL
+LANG_ENGLISH        "Press and hold ^3[{+activate}]^7 to rappel"
+
+REFERENCE           MIGRATINGHOSTS
+LANG_ENGLISH        "Finding the best host"
+
+REFERENCE           NOGOODHOST
+LANG_ENGLISH        "Could not migrate host. For more information 
+see infinityward.com/hostmigration"
+
+REFERENCE           SEARCHING_FOR_PLAYER
+LANG_ENGLISH        "Searching"
+
+REFERENCE           WAR_COUNTER_RADAR_ACQUIRED
+LANG_ENGLISH        "Counter-UAV called in by &&1 for &&2 seconds"
+
+REFERENCE           WAR_COUNTER_RADAR_ACQUIRED_ENEMY
+LANG_ENGLISH        "Enemy acquired Counter-UAV for &&1 seconds"
+
+REFERENCE           WAR_COUNTER_RADAR_EXPIRED
+LANG_ENGLISH        "Counter-UAV expired"
+
+REFERENCE           WAR_COUNTER_RADAR_EXPIRED_ENEMY
+LANG_ENGLISH        "Enemy Counter-UAV expired"
+
+REFERENCE           FIRST_BLOOD
+LANG_ENGLISH        "First blood wins."
+
+REFERENCE           TEAMS_FORFEITED
+LANG_ENGLISH        "Both Teams Forfeited"
+
+REFERENCE           NO_WINNER
+LANG_ENGLISH        "No one wins."
+
+REFERENCE           PLUS_DOLLAR
+LANG_ENGLISH        "+$"
+
+REFERENCE           MINUS_DOLLAR
+LANG_ENGLISH        "-$"
+
+REFERENCE           DOLLAR
+LANG_ENGLISH        "$"
+
+REFERENCE           FINAL_KILLCAM
+LANG_ENGLISH        "GAME WINNING KILL"
+
+REFERENCE           EARNED_TANK
+LANG_ENGLISH        "Press [{+actionslot 4}] for Tank."
+
+REFERENCE           PICKING_NEW_HOST
+LANG_ENGLISH        "Picking a new host"
+
+REFERENCE           WAITING_NEW_HOST
+LANG_ENGLISH        "Waiting for new host"
+
+REFERENCE           CONNECTING_NEW_HOST
+LANG_ENGLISH        "Connecting to new host"
+
+REFERENCE           ROUND_KILLCAM
+LANG_ENGLISH        "ROUND WINNING KILL"
+
+REFERENCE           OBITUARY_FRIENDLY
+LANG_ENGLISH        "^2] &&1 > &&2"
+
+REFERENCE           OBITUARY_ENEMY
+LANG_ENGLISH        "^1] &&1 > &&2"
+
+REFERENCE           OBITUARY_NEUTRAL
+LANG_ENGLISH        "] &&1 > &&2"
+
+REFERENCE           US_ARMY_NAME
+LANG_ENGLISH        "Army Rangers"
+
+REFERENCE           OPFORCE_COMPOSITE_NAME
+LANG_ENGLISH        "OpFor"
+
+REFERENCE           SEALS_UDT_NAME
+LANG_ENGLISH        "Navy SEALs"
+
+REFERENCE           SECRET_SERVICE_NAME
+LANG_ENGLISH        "Secret Service"
+
+REFERENCE           MILITIA_NAME
+LANG_ENGLISH        "Militia"
+
+REFERENCE           TASKFORCE_NAME
+LANG_ENGLISH        "Task Force 141"
+
+REFERENCE           OPFORCE_ARCTIC_NAME
+LANG_ENGLISH        "OpFor"
+
+REFERENCE           US_ARMY_SHORT_NAME
+LANG_ENGLISH        "Rangers"
+
+REFERENCE           OPFORCE_COMPOSITE_SHORT_NAME
+LANG_ENGLISH        "OpFor"
+
+REFERENCE           SEALS_UDT_SHORT_NAME
+LANG_ENGLISH        "SEALs"
+
+REFERENCE           SECRET_SERVICE_SHORT_NAME
+LANG_ENGLISH        "Secret Service"
+
+REFERENCE           MILITIA_SHORT_NAME
+LANG_ENGLISH        "Militia"
+
+REFERENCE           TASKFORCE_SHORT_NAME
+LANG_ENGLISH        "TF 141"
+
+REFERENCE           OPFORCE_ARCTIC_SHORT_NAME
+LANG_ENGLISH        "OpFor"
+
+REFERENCE           DESTROY_TI
+LANG_ENGLISH        "Press ^3&&1^7 to smash Tactical Insertion"
+
+REFERENCE           BOMB_B_TIMER
+LANG_ENGLISH        "Bomb site B detonation in: "
+
+REFERENCE           BOMB_A_TIMER
+LANG_ENGLISH        "Bomb site A detonation in: "
+
+REFERENCE           ELIMINATED_VIP
+LANG_ENGLISH        "V.I.P. Eliminated"
+
+REFERENCE           DEFENDED_VIP
+LANG_ENGLISH        "V.I.P. Rescued"
+
+REFERENCE           CALLING_EXTRACTION
+LANG_ENGLISH        "Calling Extraction"
+
+REFERENCE           EARNED_AIRDROP_MEGA
+LANG_ENGLISH        "Press [{+actionslot 4}] for EMERGENCY AIRDROP."
+
+REFERENCE           CAUSED_DEFCON
+LANG_ENGLISH        "Emergency Airdrop!"
+
+REFERENCE           PICKUP_TI
+LANG_ENGLISH        "Press ^3&&1^7 to pick up Tactical Insertion"
+
+REFERENCE           TACTICAL_NUKE_CALLED
+LANG_ENGLISH        "Tactical nuke called in by &&1"
+
+REFERENCE           FRIENDLY_TACTICAL_NUKE
+LANG_ENGLISH        "Friendly tactical nuke inbound!"
+
+REFERENCE           TACTICAL_NUKE
+LANG_ENGLISH        "Tactical Nuke"
+
+REFERENCE           TARGETS_DESTROYED
+LANG_ENGLISH        "Targets Destroyed"
+
+REFERENCE           US_ARMY_ELIMINATED
+LANG_ENGLISH        "US Army Eliminated"
+
+REFERENCE           US_ARMY_FORFEITED
+LANG_ENGLISH        "US Army Forfeited"
+
+REFERENCE           MILITIA_ELIMINATED
+LANG_ENGLISH        "Militia Eliminated"
+
+REFERENCE           MILITIA_FORFEITED
+LANG_ENGLISH        "Militia Forfeited"
+
+REFERENCE           TF141_ELIMINATED
+LANG_ENGLISH        "TF141 Eliminated"
+
+REFERENCE           TF141_FORFEITED
+LANG_ENGLISH        "TF141 Forfeited"
+
+REFERENCE           SEALS_ELIMINATED
+LANG_ENGLISH        "SEALs Eliminated"
+
+REFERENCE           SEALS_FORFEITED
+LANG_ENGLISH        "SEALs Forfeited"
+
+REFERENCE           CAPTURING_NUKE
+LANG_ENGLISH        "Capturing Nuke"
+
+REFERENCE           AMMO_PICKUP
+LANG_ENGLISH        "Press and hold ^3[{+activate}]^7 for ammo resupply"
+
+REFERENCE           UAV_PICKUP
+LANG_ENGLISH        "Press and hold ^3[{+activate}]^7 for a UAV"
+
+REFERENCE           COUNTER_UAV_PICKUP
+LANG_ENGLISH        "Press and hold ^3[{+activate}]^7 for a Counter-UAV"
+
+REFERENCE           SENTRY_PICKUP
+LANG_ENGLISH        "Press and hold ^3[{+activate}]^7 for a Sentry Gun"
+
+REFERENCE           PREDATOR_MISSILE_PICKUP
+LANG_ENGLISH        "Press and hold ^3[{+activate}]^7 for a Predator Missile"
+
+REFERENCE           PRECISION_AIRSTRIKE_PICKUP
+LANG_ENGLISH        "Press and hold ^3[{+activate}]^7 for a Precision Airstrike"
+
+REFERENCE           AIRSTRIKE_PICKUP
+LANG_ENGLISH        "Press and hold ^3[{+activate}]^7 for an Airstrike"
+
+REFERENCE           STEALTH_AIRSTRIKE_PICKUP
+LANG_ENGLISH        "Press and hold ^3[{+activate}]^7 for a Stealth Bomber"
+
+REFERENCE           HARRIER_AIRSTRIKE_PICKUP
+LANG_ENGLISH        "Press and hold ^3[{+activate}]^7 for a Harrier Airstrike"
+
+REFERENCE           HELICOPTER_PICKUP
+LANG_ENGLISH        "Press and hold ^3[{+activate}]^7 for an Attack Helicopter"
+
+REFERENCE           HELICOPTER_FLARES_PICKUP
+LANG_ENGLISH        "Press and hold ^3[{+activate}]^7 for a Pavelow"
+
+REFERENCE           HELICOPTER_MINIGUN_PICKUP
+LANG_ENGLISH        "Press and hold ^3[{+activate}]^7 for a Chopper Gunner"
+
+REFERENCE           AC130_PICKUP
+LANG_ENGLISH        "Press and hold ^3[{+activate}]^7 for an AC130"
+
+REFERENCE           EMP_PICKUP
+LANG_ENGLISH        "Press and hold ^3[{+activate}]^7 for an EMP"
+
+REFERENCE           NUKE_PICKUP
+LANG_ENGLISH        "Press and hold ^3[{+activate}]^7 for a Nuclear Strike"
+
+REFERENCE           GRABBING_FLAG
+LANG_ENGLISH        "Grabbing Flag"
+
+REFERENCE           GRABBED_FLAG_FIRST
+LANG_ENGLISH        "Grabbed the flag first!"
+
+REFERENCE           BOMB_A_COLON_N_N
+LANG_ENGLISH        "A: &&1.&&2"
+
+REFERENCE           BOMB_B_COLON_N_N
+LANG_ENGLISH        "B: &&1.&&2"
+
+REFERENCE           CAPTURING_CRATE
+LANG_ENGLISH        "Capturing..."
+
+REFERENCE           AIR_SPACE_TOO_CROWDED
+LANG_ENGLISH        "Air space too crowded."
+
+REFERENCE           CIVILIAN_AIR_TRAFFIC
+LANG_ENGLISH        "Civilian air traffic in area."
+
+REFERENCE           YOU_KILLED
+LANG_ENGLISH        "You Killed"
+
+REFERENCE           KILLED_BY
+LANG_ENGLISH        "Killed By"
+
+REFERENCE           NUKE_ALREADY_INBOUND
+LANG_ENGLISH        "Tactical Nuke already inbound!"
+
+REFERENCE           UNAVILABLE_IN_LASTSTAND
+LANG_ENGLISH        "Killstreak cannot be used in Last Stand."
+
+REFERENCE           UNAVAILABLE_WHEN_EMP
+LANG_ENGLISH        "Killstreak unavailable during EMP."
+
+REFERENCE           UNAVAILABLE_USING_TURRET
+LANG_ENGLISH        "Killstreak unavailable when using turret."
+
+REFERENCE           UNAVAILABLE_WHEN_INCAP
+LANG_ENGLISH        "Killstreak unavailable when incapacitated."
+
+REFERENCE           HELI_IN_QUEUE
+LANG_ENGLISH        "Your helicopter will arrive when the air space is clear."
+
+REFERENCE           AC130_UNAVAILABLE
+LANG_ENGLISH        "AC130 currently unavailable."
+
+REFERENCE           UNAVAILABLE_FOR_N
+LANG_ENGLISH        "Killstreak unavailable for &&1 more seconds."
+
+REFERENCE           HQ_REINFORCEMENTS_IN_SPLITSCREEN
+LANG_ENGLISH        "Support in: &&1"
+
+REFERENCE           CLAN_BRACES
+LANG_ENGLISH        "[&&1]"
+
+REFERENCE           BOMBSITE_IN_USE
+LANG_ENGLISH        "This bomb site is currently in use."
+
+REFERENCE           MIGRATION_SENDING
+LANG_ENGLISH        "sent &&1% of blocks"
+
+REFERENCE           MIGRATING_SESSION
+LANG_ENGLISH        "migrating session"
+
+REFERENCE           MIGRATION_EVALUATING
+LANG_ENGLISH        "evaluating clients"
+
+REFERENCE           SECURING_POSITION
+LANG_ENGLISH        "Securing Position"
+
+REFERENCE           TARGET_DEFENDED
+LANG_ENGLISH        "Target Defended"
+
+REFERENCE           CHALLENGES_COMPLETED
+LANG_ENGLISH        "Challenges Completed!"
+
+REFERENCE           TOO_CLOSE_NOFIRE
+LANG_ENGLISH        "TOO CLOSE TO TARGET - CANNOT FIRE"
+
+REFERENCE           TOO_CLOSE_NOLOCK
+LANG_ENGLISH        "TOO CLOSE FOR LOCK-ON"
+
+REFERENCE           UPLOADING_INTEL
+LANG_ENGLISH        "Uploading..."
+
+REFERENCE           CANT_UPLOAD_WITHOUT_INTEL
+LANG_ENGLISH        "You must have intel to upload."
+
+REFERENCE           EARNED_ATBR
+LANG_ENGLISH        "Press [{+actionslot 4}] for ATBR."
+
+REFERENCE           EARNED_EXOSUIT
+LANG_ENGLISH        "Press [{+actionslot 4}] for ARES."
+
+REFERENCE           C4_PRESS_TO_PICKUP
+LANG_ENGLISH        "Press ^3[{+activate}]^7 to pick up explosive."
+
+REFERENCE           CLAYMORE_PRESS_TO_PICKUP
+LANG_ENGLISH        "Press ^3[{+activate}]^7 to pick up claymore explosive."
+
+REFERENCE           PRESS_TO_HACK_EXPLOSIVE
+LANG_ENGLISH        "Press ^3[{+activate}]^7 to hack enemy explosive."
+
+REFERENCE           US_SPACE_NAME
+LANG_ENGLISH        "US Space"
+
+REFERENCE           EC_SPACE_NAME
+LANG_ENGLISH        "EC Space"
+
+REFERENCE           US_NAME
+LANG_ENGLISH        "US"
+
+REFERENCE           EC_NAME
+LANG_ENGLISH        "Eastern Coalition"
+
+REFERENCE           MINIUAV_PLAYER
+LANG_ENGLISH        """Press [{+actionslot 4}] for Player Mini UAV."""
+
+REFERENCE           TEAM_0_NAME
+LANG_ENGLISH        "Red Team"
+
+REFERENCE           TEAM_1_NAME
+LANG_ENGLISH        "Orange Team"
+
+REFERENCE           TEAM_2_NAME
+LANG_ENGLISH        "Yellow Team"
+
+REFERENCE           TEAM_3_NAME
+LANG_ENGLISH        "Blue Team"
+
+REFERENCE           TEAM_4_NAME
+LANG_ENGLISH        "Teal Team"
+
+REFERENCE           TEAM_5_NAME
+LANG_ENGLISH        "Purple Team"
+
+REFERENCE           TEAM_6_NAME
+LANG_ENGLISH        "Pink Team"
+
+REFERENCE           TEAM_7_NAME
+LANG_ENGLISH        "Grey Team"
+
+REFERENCE           TEAM_8_NAME
+LANG_ENGLISH        "Green Team"
+
+REFERENCE           EARNED_REMOTE_MORTAR
+LANG_ENGLISH        "Press [{+actionslot 4}] for Rods of God."
+
+REFERENCE           REMOTE_MORTAR_PICKUP
+LANG_ENGLISH        "Press and hold ^3[{+activate}]^7 for Kinetic Bombardment"
+
+REFERENCE           LASE_TARGET_FOR_GUIDED_MORTAR
+LANG_ENGLISH        "Lase target for Kinetic Bombardment."
+
+REFERENCE           WAIT_FOR_MORTAR_READY
+LANG_ENGLISH        "Incoming. Wait for Reloading."
+
+REFERENCE           MORTAR_ROUNDS_DEPLETED
+LANG_ENGLISH        "Kinetic Rods depleted."
+
+REFERENCE           EARNED_MINIGUN_TURRET
+LANG_ENGLISH        "Press [{+actionslot 4}] for Minigun Turret."
+
+REFERENCE           MINIGUN_TURRET_PICKUP
+LANG_ENGLISH        "Press and hold ^3[{+activate}]^7 for Minigun Turret."
+
+REFERENCE           EARNED_GL_TURRET
+LANG_ENGLISH        "Press [{+actionslot 4}] for Grenade Launcher Turret."
+
+REFERENCE           GL_TURRET_PICKUP
+LANG_ENGLISH        "Press and hold ^3[{+activate}]^7 for Grenade Launcher Turret."
+
+REFERENCE           DOUBLE_TAP_TO_CARRY
+LANG_ENGLISH        "Double tap ^3[{+activate}]^7 to carry."
+
+REFERENCE           US_SPECOPS_NAME
+LANG_ENGLISH        "US Specops"
+
+REFERENCE           EC_SPECOPS_NAME
+LANG_ENGLISH        "EC Specops"
+
+REFERENCE           EC_ARMY_NAME
+LANG_ENGLISH        "EC Army"
+
+REFERENCE           US_SS_NAME
+LANG_ENGLISH        "Secret Service"
+
+REFERENCE           EARNED_UAV_STRIKE
+LANG_ENGLISH        "Press [{+actionslot 4}]  for Laser Guided Strike"
+
+REFERENCE           LASE_TARGET_FOR_PREDATOR_STRIKE
+LANG_ENGLISH        "Use binoculars to lase the target"
+
+REFERENCE           SONIC_WARDEN_PRESS_TO_PICKUP
+LANG_ENGLISH        "Press ^3[{+activate}]^7 to pick up sonic warden."
+
+REFERENCE           PICKUP_PORTABLE_RADAR
+LANG_ENGLISH        "Press ^3&&1^7 to pick up Portable Radar."
+
+REFERENCE           EARNED_PREDATOR_MARKER
+LANG_ENGLISH        "Marker set for predator strike."
+
+REFERENCE           HOLD_USERELOAD_TO_THROWAWAY
+LANG_ENGLISH        "Hold ^3[{+usereload}]^7 to throw away"
+
+REFERENCE           HOLD_USERELOAD_TO_PLACE_RIOTSHIELD
+LANG_ENGLISH        "Press [{+usereload}] to place Deployable Shield"
+
+REFERENCE           HOLD_USERELOAD_TO_PICKUP_RIOTSHIELD
+LANG_ENGLISH        "Press and hold ^3[{+usereload}]^7 to pick up Deployable Shield"
+
+REFERENCE           DOORBREACH_PLANTING_BOMB
+LANG_ENGLISH        "Planting bomb.  Stand by..."
+
+REFERENCE           DOORBREACH_COUNTDOWN_5
+LANG_ENGLISH        "5 seconds..."
+
+REFERENCE           DOORBREACH_COUNTDOWN_4
+LANG_ENGLISH        "4 seconds..."
+
+REFERENCE           DOORBREACH_COUNTDOWN_3
+LANG_ENGLISH        "3 seconds..."
+
+REFERENCE           DOORBREACH_COUNTDOWN_2
+LANG_ENGLISH        "2 seconds..."
+
+REFERENCE           DOORBREACH_COUNTDOWN_1
+LANG_ENGLISH        "1 second..."
+
+REFERENCE           DOORBREACH_DOOR_BREACH
+LANG_ENGLISH        "Press and hold^3 &&1 ^7to breach door"
+
+REFERENCE           DOORBREACH_DOOR_INSTALL
+LANG_ENGLISH        "Press and hold^3 &&1 ^7to install door"
+
+REFERENCE           DOORBREACH_DOOR_REBUILD
+LANG_ENGLISH        "Press and hold^3 &&1 ^7to repair door"
+
+REFERENCE           DOORBREACH_DOOR_BLOCKED
+LANG_ENGLISH        "Clear the doorway first!"
+
+REFERENCE           DOORBREACH_DOOR_INSTALLING
+LANG_ENGLISH        "Installing door.  Stand by..."
+
+REFERENCE           DOORBREACH_DOOR_REPAIRING
+LANG_ENGLISH        "Repairing door.  Stand by..."
+
+REFERENCE           DOORBREACH_DOOR_INSTALLED
+LANG_ENGLISH        "Door installed"
+
+REFERENCE           DOORBREACH_DOOR_REPAIRED
+LANG_ENGLISH        "Door repaired"
+
+REFERENCE           DOORBREACH_DOOR_BREACHED
+LANG_ENGLISH        "Door breached!"
+
+REFERENCE           DOORBREACH_WALL_BREACH
+LANG_ENGLISH        "Press and hold^3 &&1 ^7to breach wall"
+
+REFERENCE           DOORBREACH_WALL_INSTALL
+LANG_ENGLISH        "Press and hold^3 &&1 ^7to install wall"
+
+REFERENCE           DOORBREACH_WALL_REBUILD
+LANG_ENGLISH        "Press and hold^3 &&1 ^7to repair wall"
+
+REFERENCE           DOORBREACH_WALL_BLOCKED
+LANG_ENGLISH        "Clear the pathway first!"
+
+REFERENCE           DOORBREACH_WALL_INSTALLING
+LANG_ENGLISH        "Installing wall.  Stand by..."
+
+REFERENCE           DOORBREACH_WALL_REPAIRING
+LANG_ENGLISH        "Repairing wall.  Stand by..."
+
+REFERENCE           DOORBREACH_WALL_INSTALLED
+LANG_ENGLISH        "Wall installed"
+
+REFERENCE           DOORBREACH_WALL_REPAIRED
+LANG_ENGLISH        "Wall repaired"
+
+REFERENCE           DOORBREACH_WALL_BREACHED
+LANG_ENGLISH        "Wall breached!"
+
+REFERENCE           HINT_STRING_DOOR_SWITCH
+LANG_ENGLISH        "Press ^3[{+activate}]^7 to use the door switch"
+
+REFERENCE           GRAPPLE_RETICLE
+LANG_ENGLISH        "O"
+
+REFERENCE           GRAPPLE_FAILED
+LANG_ENGLISH        "Grapple Failed"
+
+REFERENCE           GLADIATOR
+LANG_ENGLISH        "PROTOTYPE: Gladiator Events"
+
+REFERENCE           HVT
+LANG_ENGLISH        "PROTOTYPE: Bounty Hunter"
+
+REFERENCE           EXO_PICKUP
+LANG_ENGLISH        "Press and hold ^3[{+activate}]^7 for an Ares Suit"
+
+REFERENCE           WEAP_DROP_PICKUP
+LANG_ENGLISH        "Press and hold ^3[{+activate}]^7 for an Experimental Weapon"
+
+REFERENCE           UAV_STRIKE_PICKUP
+LANG_ENGLISH        "Press and hold ^3[{+activate}]^7 for a Laser Strike"
+
+REFERENCE           REMOTE_MORTAR_PICKUP1
+LANG_ENGLISH        "Press and hold ^3[{+activate}]^7 for the Rods of God"
+
+REFERENCE           MINIUAV_PLAYER_PICKUP
+LANG_ENGLISH        "Press and hold ^3[{+activate}]^7 for a Mini UAV"
+
+REFERENCE           CAPTURING
+LANG_ENGLISH        "Capturing"
+
+REFERENCE           LOSING_CONTROLS
+LANG_ENGLISH        "Losing Controls"
+
+REFERENCE           DOOR_OPENING
+LANG_ENGLISH        "Door Opening"
+
+REFERENCE           DOOR_CLOSING
+LANG_ENGLISH        "Door Closing"
+
+REFERENCE           LSD_WARNING
+LANG_ENGLISH        "Incoming Guided Missile"
+
+REFERENCE           PLANTING_VIRUS
+LANG_ENGLISH        "Capturing the controls"
+
+REFERENCE           EARNED_LOCKSEEKDIE
+LANG_ENGLISH        "Press [{+actionslot 4}] for Night Raven."
+
+REFERENCE           STOPING_VIRUS
+LANG_ENGLISH        "Stoping the virus"
+
+REFERENCE           ESCORT_INBOUND
+LANG_ENGLISH        "UGV inbound"
+
+REFERENCE           AQUIRING_INTEL
+LANG_ENGLISH        "Aquiring Intel..."
+
+REFERENCE           A_BUTTON
+LANG_ENGLISH        "^3[{+gostand}]^7  Attack Helicopter"
+
+REFERENCE           ESP
+LANG_ENGLISH        "ESP: "
+
+REFERENCE           B_BUTTON
+LANG_ENGLISH        "^3[{+stance}]^7  Light Weight"
+
+REFERENCE           Y_BUTTON
+LANG_ENGLISH        "^3[{weapnext}]^7  Chopper Gunner"
+
+REFERENCE           EC_ELIMINATED
+LANG_ENGLISH        "EC Eliminated"
+
+REFERENCE           EC_FORFEITED
+LANG_ENGLISH        "EC Forfeited"
+
+REFERENCE           US_ELIMINATED
+LANG_ENGLISH        "US Eliminated"
+
+REFERENCE           US_FORFEITED
+LANG_ENGLISH        "US Forfeited"
+
+REFERENCE           INTEL_KILLS_DESC
+LANG_ENGLISH        "Kills"
+
+REFERENCE           INTEL_HEADSHOT_DESC
+LANG_ENGLISH        "Headshots"
+
+REFERENCE           INTEL_MULTIKILL_DESC
+LANG_ENGLISH        "Multikills"
+
+REFERENCE           INTEL_EQUIPMENT_DESC
+LANG_ENGLISH        "Equipment Kills"
+
+REFERENCE           INTEL_SECONDARY_DESC
+LANG_ENGLISH        "Secondary Kills"
+
+REFERENCE           INTEL_LETHAL_DESC
+LANG_ENGLISH        "Lethal Kills"
+
+REFERENCE           INTEL_HEADER
+LANG_ENGLISH        "Intel Objective"
+
+REFERENCE           2
+LANG_ENGLISH        "2"
+
+REFERENCE           1
+LANG_ENGLISH        "1"
+
+REFERENCE           0
+LANG_ENGLISH        "0"
+
+REFERENCE           PUSHOBJECT_PRESS_AND_HOLD_TO_PUSH
+LANG_ENGLISH        "Press and hold^3 &&1 ^7to push"
+
+REFERENCE           PUSHOBJECT_PUSHING0
+LANG_ENGLISH        "Pushing"
+
+REFERENCE           PUSHOBJECT_PUSHING1
+LANG_ENGLISH        "Pushing."
+
+REFERENCE           PUSHOBJECT_PUSHING2
+LANG_ENGLISH        "Pushing.."
+
+REFERENCE           PUSHOBJECT_PUSHING3
+LANG_ENGLISH        "Pushing..."
+

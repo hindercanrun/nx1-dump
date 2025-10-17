@@ -1,0 +1,1125 @@
+// Note to translators:
+// If a sentence is the same in your language then please change it to "#same"
+//
+// eg:
+// LANG_ENGLISH  "HALT"
+// LANG_GERMAN   "#same"
+//
+// (This is so we can tell which strings have been signed-off as ok to be the same words for QA
+//  and because we do not store duplicate strings, which will then get exported again next time
+//  as being untranslated.)
+//
+VERSION             "1"
+CONFIG              "C:\trees\nx1\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           TITLE_SHARE_PACKAGE
+LANG_ENGLISH        "Share Package"
+
+REFERENCE           TITLE_REMOTEVIEWER
+LANG_ENGLISH        "Remote Viewer"
+
+REFERENCE           TITLE_DISH_THE_ROCK
+LANG_ENGLISH        "Dish the Rock"
+
+REFERENCE           TITLE_SHOT_DOWN
+LANG_ENGLISH        "Shot Down"
+
+REFERENCE           TITLE_ACCIDENT_PRONE
+LANG_ENGLISH        "Accident Prone"
+
+REFERENCE           TITLE_LOW_PROFILE
+LANG_ENGLISH        "Low Profile"
+
+REFERENCE           TITLE_BOW_DOWN
+LANG_ENGLISH        "Bow Down"
+
+REFERENCE           TITLE_TEST
+LANG_ENGLISH        "Sample Title"
+
+REFERENCE           TITLE_FEARED
+LANG_ENGLISH        "The Feared"
+
+REFERENCE           TITLE_FLAMING
+LANG_ENGLISH        "The Flaming"
+
+REFERENCE           TITLE_GHOST
+LANG_ENGLISH        "The Ghost"
+
+REFERENCE           TITLE_STABALOT
+LANG_ENGLISH        "Sir Stabalot"
+
+REFERENCE           TITLE_PYRO
+LANG_ENGLISH        "Pyromaniac"
+
+REFERENCE           TITLE_GRUNT
+LANG_ENGLISH        "Grunt"
+
+REFERENCE           TITLE_UNTOUCHABLE
+LANG_ENGLISH        "Untouchable"
+
+REFERENCE           TITLE_BULLET_MAGNET
+LANG_ENGLISH        "Bullet Magnet"
+
+REFERENCE           TITLE_JUGGERNAUT
+LANG_ENGLISH        "Juggernaut"
+
+REFERENCE           TITLE_WATCHMAN
+LANG_ENGLISH        "The Watchman"
+
+REFERENCE           TITLE_SUPPLIER
+LANG_ENGLISH        "The Supplier"
+
+REFERENCE           TITLE_SUNBLOCK
+LANG_ENGLISH        "Sunblock"
+
+REFERENCE           TITLE_PREDATOR
+LANG_ENGLISH        "Predator"
+
+REFERENCE           TITLE_CARPET
+LANG_ENGLISH        "Carpet Bomber"
+
+REFERENCE           TITLE_NOHANDS
+LANG_ENGLISH        "Look! No Hands!"
+
+REFERENCE           TITLE_LONE_WOLF
+LANG_ENGLISH        "Lone Wolf"
+
+REFERENCE           TITLE_CALLOFDUTY
+LANG_ENGLISH        "Call of Duty"
+
+REFERENCE           TITLE_TANGO_DOWN
+LANG_ENGLISH        "Tango Down"
+
+REFERENCE           TITLE_BOMBSHELL
+LANG_ENGLISH        "Bombshell"
+
+REFERENCE           TITLE_PUSHING_DAISY
+LANG_ENGLISH        "Pushin' Daisies"
+
+REFERENCE           TITLE_DRIFTER
+LANG_ENGLISH        "Drifter"
+
+REFERENCE           TITLE_FIRED
+LANG_ENGLISH        "Fired!"
+
+REFERENCE           TITLE_COBRACOMMANDER
+LANG_ENGLISH        "Sky Commander"
+
+REFERENCE           TITLE_CHOPPER
+LANG_ENGLISH        "The Chopper"
+
+REFERENCE           TITLE_SPIRIT
+LANG_ENGLISH        "Pyrotechnical"
+
+REFERENCE           TITLE_SPECTRE
+LANG_ENGLISH        "Spectre"
+
+REFERENCE           TITLE_JOLLYGREEN
+LANG_ENGLISH        "The Dragon"
+
+REFERENCE           TITLE_SHOCKWAVE
+LANG_ENGLISH        "Shockwave"
+
+REFERENCE           TITLE_WARGAMER
+LANG_ENGLISH        "Wargamer"
+
+REFERENCE           TITLE_LONER
+LANG_ENGLISH        "The Loner"
+
+REFERENCE           TITLE_6FEARS7
+LANG_ENGLISH        "6fears7"
+
+REFERENCE           TITLE_HIJACKER
+LANG_ENGLISH        "Hijacker"
+
+REFERENCE           TITLE_HEADSUP
+LANG_ENGLISH        "Heads Up!"
+
+REFERENCE           TITLE_MARTYR
+LANG_ENGLISH        "Martyr"
+
+REFERENCE           TITLE_LIVINGDEAD
+LANG_ENGLISH        "Living Dead"
+
+REFERENCE           TITLE_CLICKCLICK
+LANG_ENGLISH        "Click Click Boom"
+
+REFERENCE           TITLE_NUMB
+LANG_ENGLISH        "The Numb"
+
+REFERENCE           TITLE_WOPR
+LANG_ENGLISH        "MOAB"
+
+REFERENCE           TITLE_ENEMYOF
+LANG_ENGLISH        "Enemy of the State"
+
+REFERENCE           TITLE_DENIER
+LANG_ENGLISH        "The Denier"
+
+REFERENCE           TITLE_DICTATOR
+LANG_ENGLISH        "Dictator"
+
+REFERENCE           TITLE_MACH5
+LANG_ENGLISH        "Mach 5"
+
+REFERENCE           TITLE_NEWJACK
+LANG_ENGLISH        "New Jack"
+
+REFERENCE           TITLE_DARKBRINGER
+LANG_ENGLISH        "Darkbringer"
+
+REFERENCE           TITLE_TACDEL
+LANG_ENGLISH        "TacDel"
+
+REFERENCE           TITLE_JACKINTHEBOX
+LANG_ENGLISH        "Jack-in-the-Box"
+
+REFERENCE           TITLE_MASTERBLASTER
+LANG_ENGLISH        "Solid Steel"
+
+REFERENCE           TITLE_BULLSEYE
+LANG_ENGLISH        "Bullseye"
+
+REFERENCE           TITLE_CARNIE
+LANG_ENGLISH        "Carnie"
+
+REFERENCE           TITLE_CLOSER
+LANG_ENGLISH        "The Closer"
+
+REFERENCE           TITLE_FINISHER
+LANG_ENGLISH        "The Finisher"
+
+REFERENCE           TITLE_UNBELIEVABLE
+LANG_ENGLISH        "Unbelievable"
+
+REFERENCE           TITLE_STICKMAN
+LANG_ENGLISH        "Stickman"
+
+REFERENCE           TITLE_OWNED
+LANG_ENGLISH        "owned."
+
+REFERENCE           TITLE_DRONEKILLER
+LANG_ENGLISH        "Dronekiller"
+
+REFERENCE           TITLE_DROPPINCRATES
+LANG_ENGLISH        "Droppin' Crates"
+
+REFERENCE           TITLE_LASTRESORT
+LANG_ENGLISH        "Last Resort"
+
+REFERENCE           TITLE_BASELINE
+LANG_ENGLISH        "Baseline"
+
+REFERENCE           TITLE_FOTM
+LANG_ENGLISH        "FOTM"
+
+REFERENCE           TITLE_POOLSHARK
+LANG_ENGLISH        "Pool Shark"
+
+REFERENCE           TITLE_SIDEPOCKET
+LANG_ENGLISH        "Side Pocket"
+
+REFERENCE           TITLE_ITSPERSONAL
+LANG_ENGLISH        "It's Personal"
+
+REFERENCE           TITLE_SMOOTHCRIM
+LANG_ENGLISH        "Smooth Criminal"
+
+REFERENCE           TITLE_FNG
+LANG_ENGLISH        "FNG"
+
+REFERENCE           TITLE_PATRIOT
+LANG_ENGLISH        "Patriot"
+
+REFERENCE           TITLE_GREATWHITE
+LANG_ENGLISH        "Great White North"
+
+REFERENCE           TITLE_CONTINENTAL
+LANG_ENGLISH        "Continental"
+
+REFERENCE           TITLE_PROFESSIONAL
+LANG_ENGLISH        "The Professional"
+
+REFERENCE           TITLE_NEUTRAL
+LANG_ENGLISH        "Neutral"
+
+REFERENCE           TITLE_RISINGSUN
+LANG_ENGLISH        "Rising Sun"
+
+REFERENCE           TITLE_REDEEMER
+LANG_ENGLISH        "The Redeemer"
+
+REFERENCE           TITLE_CONQUERER
+LANG_ENGLISH        "The Conquerer"
+
+REFERENCE           TITLE_TERMINATOR
+LANG_ENGLISH        "The Exterminator"
+
+REFERENCE           TITLE_ULTRANATIONALIST
+LANG_ENGLISH        "Ultranationalist"
+
+REFERENCE           TITLE_BAKED
+LANG_ENGLISH        "I'm So Baked..."
+
+REFERENCE           TITLE_FLYSWATTER
+LANG_ENGLISH        "Flyswatter"
+
+REFERENCE           TITLE_UNDEAD
+LANG_ENGLISH        "The Undead"
+
+REFERENCE           TITLE_BRAINS
+LANG_ENGLISH        "Want Brains..."
+
+REFERENCE           TITLE_JOINTOPS
+LANG_ENGLISH        "Joint Ops"
+
+REFERENCE           TITLE_TASKFORCE420
+LANG_ENGLISH        "Task Force 420"
+
+REFERENCE           TITLE_BLUNTFORCE
+LANG_ENGLISH        "Blunt Force"
+
+REFERENCE           TITLE_CRACKINSKULLS
+LANG_ENGLISH        "Crackin' Skulls"
+
+REFERENCE           TITLE_HEADHUNTER
+LANG_ENGLISH        "Headhunter"
+
+REFERENCE           TITLE_MERCILESS
+LANG_ENGLISH        "The Merciless"
+
+REFERENCE           TITLE_UNICORNPRINCESS
+LANG_ENGLISH        "Unicorn Princess"
+
+REFERENCE           TITLE_SPARKLEMAGIC
+LANG_ENGLISH        "Sparkle Magic"
+
+REFERENCE           TITLE_SKYCAPTAIN
+LANG_ENGLISH        "Airborne"
+
+REFERENCE           TITLE_MADBOMBER
+LANG_ENGLISH        "The Mad Bomber"
+
+REFERENCE           TITLE_GEARHEAD
+LANG_ENGLISH        "Gear Head"
+
+REFERENCE           TITLE_KEEPSONTICKIN
+LANG_ENGLISH        "Keeps on Tickin'"
+
+REFERENCE           TITLE_HALFBAKED
+LANG_ENGLISH        "So Baked"
+
+REFERENCE           TITLE_SIRSMOKEALOT
+LANG_ENGLISH        "Sir Smoke-a-Lot"
+
+REFERENCE           TITLE_HIGHCOMMAND
+LANG_ENGLISH        "High Command"
+
+REFERENCE           TITLE_MYLILPWNY
+LANG_ENGLISH        "My Li'l Pwny"
+
+REFERENCE           TITLE_AVENGER
+LANG_ENGLISH        "The Avenger"
+
+REFERENCE           TITLE_HEARTBREAKER
+LANG_ENGLISH        "Heartbreaker"
+
+REFERENCE           TITLE_SUBMIT_TO_AUTHORITY
+LANG_ENGLISH        "Submit to Authority"
+
+REFERENCE           TITLE_DESTROYER
+LANG_ENGLISH        "Destroyer"
+
+REFERENCE           TITLE_GET_REAL
+LANG_ENGLISH        "Get Real"
+
+REFERENCE           TITLE_INTERGALACTIC_PLANETARY
+LANG_ENGLISH        "Intergalactic"
+
+REFERENCE           TITLE_ITS_SABOTAGE
+LANG_ENGLISH        "It's Sabotage!"
+
+REFERENCE           TITLE_K_FACTOR
+LANG_ENGLISH        "K Factor"
+
+REFERENCE           TITLE_PREEMPTIVE_STRIKE
+LANG_ENGLISH        "Preemptive Strike"
+
+REFERENCE           TITLE_THA_BOMB
+LANG_ENGLISH        "Tha Bomb"
+
+REFERENCE           TITLE_HOTSHOT
+LANG_ENGLISH        "Hot Shot"
+
+REFERENCE           TITLE_SURVIVOR
+LANG_ENGLISH        "Survivor"
+
+REFERENCE           TITLE_OVERWATCH
+LANG_ENGLISH        "Overwatch"
+
+REFERENCE           TITLE_VOYEUR
+LANG_ENGLISH        "Voyeur"
+
+REFERENCE           TITLE_DZ_CLEAR
+LANG_ENGLISH        "DZ Clear"
+
+REFERENCE           TITLE_COMPANION_CRATE
+LANG_ENGLISH        "Companion Crate"
+
+REFERENCE           TITLE_GIVIN_STATIC
+LANG_ENGLISH        "Givin' Static"
+
+REFERENCE           TITLE_SIGINT
+LANG_ENGLISH        "SIGINT"
+
+REFERENCE           TITLE_FIRE_AND_FORGET
+LANG_ENGLISH        "Fire and Forget"
+
+REFERENCE           TITLE_DEATH_FROM_ABOVE
+LANG_ENGLISH        "Death From Above"
+
+REFERENCE           TITLE_GHOST_RIDER
+LANG_ENGLISH        "Ghostrider"
+
+REFERENCE           TITLE_BROKEN_ARROW
+LANG_ENGLISH        "Broken Arrow"
+
+REFERENCE           TITLE_TIME_ON_TARGET
+LANG_ENGLISH        "Time on Target"
+
+REFERENCE           TITLE_STRAIGHT_UP
+LANG_ENGLISH        "Straight Up"
+
+REFERENCE           TITLE_JUMP_JET
+LANG_ENGLISH        "Jump Jet"
+
+REFERENCE           TITLE_STEEL_REIGN
+LANG_ENGLISH        "Reign Down"
+
+REFERENCE           TITLE_SQUAWK_BOX
+LANG_ENGLISH        "Squawk Box"
+
+REFERENCE           TITLE_WHY_SO_SERIOUS
+LANG_ENGLISH        "Why So Serious?"
+
+REFERENCE           TITLE_END_OF_LINE
+LANG_ENGLISH        "End of Line"
+
+REFERENCE           TITLE_BAND_OF_BROTHERS
+LANG_ENGLISH        "Blood Brothers"
+
+REFERENCE           TITLE_TEAM_PLAYER
+LANG_ENGLISH        "Team Player"
+
+REFERENCE           TITLE_BLACKOUT
+LANG_ENGLISH        "Flying Tank"
+
+REFERENCE           TITLE_GRIM_REAPER
+LANG_ENGLISH        "The Grim Reaper"
+
+REFERENCE           TITLE_GETTOTHECHOPPA
+LANG_ENGLISH        "Get to the Choppa!"
+
+REFERENCE           TITLE_RAINOFFIRE
+LANG_ENGLISH        "Rain of Fire"
+
+REFERENCE           TITLE_CHICK_MAGNET
+LANG_ENGLISH        "Chick Magnet"
+
+REFERENCE           TITLE_OMNIPOTENT
+LANG_ENGLISH        "Omnipotent"
+
+REFERENCE           TITLE_ROLLING_THUNDER
+LANG_ENGLISH        "Rolling Thunder"
+
+REFERENCE           TITLE_AIRWOLF
+LANG_ENGLISH        "Eyes Above"
+
+REFERENCE           TITLE_FULL_THROTTLE
+LANG_ENGLISH        "Full Throttle"
+
+REFERENCE           TITLE_CHARITYCASE
+LANG_ENGLISH        "Charity Case"
+
+REFERENCE           TITLE_GAMBLER
+LANG_ENGLISH        "Pro Gambler"
+
+REFERENCE           TITLE_PINEAPPLE_EXPRESS
+LANG_ENGLISH        "Pineapple Express"
+
+REFERENCE           TITLE_FRAG_OUT
+LANG_ENGLISH        "Frag Out!"
+
+REFERENCE           TITLE_CATCH_SHRAPNEL
+LANG_ENGLISH        "Catch Shrapnel"
+
+REFERENCE           TITLE_MASTERMIND
+LANG_ENGLISH        "Mastermind"
+
+REFERENCE           TITLE_COPPERFIELD
+LANG_ENGLISH        "Ta-Da!"
+
+REFERENCE           TITLE_CLOAKANDDAGGER
+LANG_ENGLISH        "Cloak and Dagger"
+
+REFERENCE           TITLE_TAKE_A_STAB
+LANG_ENGLISH        "Take a Stab"
+
+REFERENCE           TITLE_STUCKONYOU
+LANG_ENGLISH        "Stuck on You"
+
+REFERENCE           TITLE_C4ANDAFTER
+LANG_ENGLISH        "C4 and After"
+
+REFERENCE           TITLE_PLASTICMAN
+LANG_ENGLISH        "Plastique"
+
+REFERENCE           TITLE_PLANE_WHISPERER
+LANG_ENGLISH        "Plane Whisperer"
+
+REFERENCE           TITLE_STARFISH_PRIME
+LANG_ENGLISH        "Starfish Prime"
+
+REFERENCE           TITLE_SILENT_KNIGHT
+LANG_ENGLISH        "Silence"
+
+REFERENCE           TITLE_NOTINTHEFACE
+LANG_ENGLISH        "Not in the face!"
+
+REFERENCE           TITLE_HEADSTRONG
+LANG_ENGLISH        "Headstrong"
+
+REFERENCE           TITLE_CRACKINSKULLS1
+LANG_ENGLISH        "Crackin' Skulls"
+
+REFERENCE           TITLE_HEADRUSH
+LANG_ENGLISH        "Headrush"
+
+REFERENCE           TITLE_HEADMOVE
+LANG_ENGLISH        "Head! Move!"
+
+REFERENCE           TITLE_BOOMHEADSHOT
+LANG_ENGLISH        "BOOM!  Headshot."
+
+REFERENCE           TITLE_NBK
+LANG_ENGLISH        "NBK"
+
+REFERENCE           TITLE_ALLPRO
+LANG_ENGLISH        "All Pro"
+
+REFERENCE           TITLE_BIGBADABOOM
+LANG_ENGLISH        "Big Bada Boom"
+
+REFERENCE           TITLE_BOOMBOOMPOW
+LANG_ENGLISH        "Boom Boom"
+
+REFERENCE           TITLE_GENOCIDAL
+LANG_ENGLISH        "Kill for Good"
+
+REFERENCE           TITLE_CLAYMORE
+LANG_ENGLISH        "Clay More"
+
+REFERENCE           TITLE_AMBUSH
+LANG_ENGLISH        "Ambush!"
+
+REFERENCE           TITLE_PINPULLER
+LANG_ENGLISH        "Pin Puller"
+
+REFERENCE           TITLE_BOOYAH
+LANG_ENGLISH        "Booyah!"
+
+REFERENCE           TITLE_ANARCHIST
+LANG_ENGLISH        "The Anarchist"
+
+REFERENCE           TITLE_1BULLET2KILLS
+LANG_ENGLISH        "1bullet2kills"
+
+REFERENCE           TITLE_HIGHLANDER
+LANG_ENGLISH        "Highlander"
+
+REFERENCE           TITLE_STREAKER
+LANG_ENGLISH        "Streaker"
+
+REFERENCE           TITLE_ENEMYBENEFITS
+LANG_ENGLISH        "Enemy With Benefits"
+
+REFERENCE           TITLE_FACEOFF
+LANG_ENGLISH        "Faceoff"
+
+REFERENCE           TITLE_WIREFU
+LANG_ENGLISH        "Wire Fu"
+
+REFERENCE           TITLE_HARDTARGET
+LANG_ENGLISH        "Hard Target"
+
+REFERENCE           TITLE_EXPLOSIVE_ORDINANCE
+LANG_ENGLISH        "Explosive Ordinance"
+
+REFERENCE           TITLE_PUBLIC_ENEMY
+LANG_ENGLISH        "Public Enemy"
+
+REFERENCE           TITLE_HARDCORE_ONLY
+LANG_ENGLISH        "Hardcore Only"
+
+REFERENCE           TITLE_POPOFF
+LANG_ENGLISH        "Pop Off"
+
+REFERENCE           TITLE_SURGICAL
+LANG_ENGLISH        "Surgical"
+
+REFERENCE           TITLE_PARTINGGIFT
+LANG_ENGLISH        "Parting Gift"
+
+REFERENCE           TITLE_EXTRA_CRISPY
+LANG_ENGLISH        "3xt4 cr1zby"
+
+REFERENCE           TITLE_PERFECTIONIST
+LANG_ENGLISH        "Perfectionist"
+
+REFERENCE           TITLE_PHILANTHROPIST
+LANG_ENGLISH        "Philanthropist"
+
+REFERENCE           TITLE_CUTTINCLASS
+LANG_ENGLISH        "Cuttin' Class"
+
+REFERENCE           TITLE_ABSENTEEKILLER
+LANG_ENGLISH        "Absentee Killer"
+
+REFERENCE           TITLE_FINISHINGTOUCH
+LANG_ENGLISH        "Finishing Touch"
+
+REFERENCE           TITLE_TRUELIAR
+LANG_ENGLISH        "True Liar"
+
+REFERENCE           TITLE_OG
+LANG_ENGLISH        "OG"
+
+REFERENCE           TITLE_TRANSFORMER
+LANG_ENGLISH        "Transformer"
+
+REFERENCE           TITLE_TECHNOKILLER
+LANG_ENGLISH        "Techno Killer"
+
+REFERENCE           TITLE_HIDEF
+LANG_ENGLISH        "Hi Def"
+
+REFERENCE           TITLE_THEEDGE
+LANG_ENGLISH        "The Edge"
+
+REFERENCE           TITLE_TANGODOWN
+LANG_ENGLISH        "Tango Down"
+
+REFERENCE           TITLE_ANGELOFDEATH
+LANG_ENGLISH        "Angel of Death"
+
+REFERENCE           TITLE_TAGYOUREIT
+LANG_ENGLISH        "Tag! You're it!"
+
+REFERENCE           TITLE_BOILERMAKER
+LANG_ENGLISH        "Boilermaker"
+
+REFERENCE           TITLE_BACKSTABBER
+LANG_ENGLISH        "Backstabber"
+
+REFERENCE           TITLE_STUNGUN
+LANG_ENGLISH        "Stun Gun"
+
+REFERENCE           TITLE_HEART
+LANG_ENGLISH        "<3"
+
+REFERENCE           TITLE_NOOBTUBER
+LANG_ENGLISH        "Noob Tuber"
+
+REFERENCE           TITLE_RIVAL
+LANG_ENGLISH        "Rival"
+
+REFERENCE           TITLE_OMFG
+LANG_ENGLISH        "OMFG"
+
+REFERENCE           TITLE_THINKFAST
+LANG_ENGLISH        "Think Fast!"
+
+REFERENCE           TITLE_CONCUSSIVEBARRAGE
+LANG_ENGLISH        "Concussive Barrage"
+
+REFERENCE           TITLE_LIGHTSOUT
+LANG_ENGLISH        "Lights Out!"
+
+REFERENCE           TITLE_BACKFIRE
+LANG_ENGLISH        "Backfire"
+
+REFERENCE           TITLE_BLINDFIRE
+LANG_ENGLISH        "Blindfire"
+
+REFERENCE           TITLE_DUCKHUNTER
+LANG_ENGLISH        "Skeet Shooter"
+
+REFERENCE           TITLE_OMNICIDE
+LANG_ENGLISH        "Omnicide"
+
+REFERENCE           TITLE_MVPASSASSIN
+LANG_ENGLISH        "MVP Assassin"
+
+REFERENCE           TITLE_DEVASTATOR
+LANG_ENGLISH        "Devastator"
+
+REFERENCE           TITLE_MONEYSHOT
+LANG_ENGLISH        "Money Shot!"
+
+REFERENCE           TITLE_BLOODMONEY
+LANG_ENGLISH        "Blood Money"
+
+REFERENCE           TITLE_ROBINHOOD
+LANG_ENGLISH        "Robin Hood"
+
+REFERENCE           TITLE_RAINMAKER
+LANG_ENGLISH        "Rainmaker"
+
+REFERENCE           TITLE_MADMAN
+LANG_ENGLISH        "Mad Man"
+
+REFERENCE           TITLE_IDTHIEF
+LANG_ENGLISH        "ID Thief"
+
+REFERENCE           TITLE_TIMEISMONEY
+LANG_ENGLISH        "Time is Money"
+
+REFERENCE           TITLE_QUICKDRAW
+LANG_ENGLISH        "Quickdraw"
+
+REFERENCE           TITLE_CLAYBACK
+LANG_ENGLISH        "Dishes are Done"
+
+REFERENCE           TITLE_IMRICH
+LANG_ENGLISH        "I'm Rich!"
+
+REFERENCE           TITLE_FLATLINER
+LANG_ENGLISH        "Flatliner"
+
+REFERENCE           TITLE_MASTADON
+LANG_ENGLISH        "The Mastodon"
+
+REFERENCE           TITLE_HOWTHE
+LANG_ENGLISH        "How the?"
+
+REFERENCE           TITLE_DOMINOFX
+LANG_ENGLISH        "The Domino Effect"
+
+REFERENCE           TITLE_INVINCIBLE
+LANG_ENGLISH        "The Invincible"
+
+REFERENCE           TITLE_BAM
+LANG_ENGLISH        "BAM!"
+
+REFERENCE           TITLE_LIVELONG
+LANG_ENGLISH        "Live Long..."
+
+REFERENCE           TITLE_REVERSALOFFORTUNE
+LANG_ENGLISH        "Reversal of Fortune"
+
+REFERENCE           TITLE_CLAYPIGEON
+LANG_ENGLISH        "Clay Pigeon"
+
+REFERENCE           TITLE_ICEMAN
+LANG_ENGLISH        "I.C.E. Man"
+
+REFERENCE           TITLE_HIREDGUN
+LANG_ENGLISH        "Hired Gun"
+
+REFERENCE           TITLE_FRIENDSWITH
+LANG_ENGLISH        "Friends With Benefits"
+
+REFERENCE           TITLE_ALLYOURBASE
+LANG_ENGLISH        "All Your Base"
+
+REFERENCE           TITLE_LEGEND
+LANG_ENGLISH        "The Legend"
+
+REFERENCE           TITLE_EVILDEAD
+LANG_ENGLISH        "Mmmmm Brains..."
+
+REFERENCE           TITLE_BIGGERTHEYARE
+LANG_ENGLISH        "The Bigger They Are..."
+
+REFERENCE           TITLE_HARDERTHEYFALL
+LANG_ENGLISH        "...The Harder They Fall."
+
+REFERENCE           TITLE_EPIC
+LANG_ENGLISH        "Epic"
+
+REFERENCE           TITLE_GLOBALTHERMO
+LANG_ENGLISH        "Global Thermonuclear War"
+
+REFERENCE           TITLE_CARPETBOMBER
+LANG_ENGLISH        "Carpet Bomber"
+
+REFERENCE           TITLE_BOMBSAWAY
+LANG_ENGLISH        "Bomb's Away!"
+
+REFERENCE           TITLE_SBD
+LANG_ENGLISH        "SBD"
+
+REFERENCE           TITLE_BIGBROTHER
+LANG_ENGLISH        "Big Brother"
+
+REFERENCE           TITLE_UAVRAYS
+LANG_ENGLISH        "UAV Rays"
+
+REFERENCE           TITLE_AFTERBURNER
+LANG_ENGLISH        "Afterburner"
+
+REFERENCE           TITLE_TOPGUN
+LANG_ENGLISH        "Top Gun"
+
+REFERENCE           TITLE_GATTRIGGER
+LANG_ENGLISH        "Gat Trigger"
+
+REFERENCE           TITLE_THERIPPER
+LANG_ENGLISH        "The Ripper"
+
+REFERENCE           TITLE_TRACKSTAR
+LANG_ENGLISH        "Trackstar"
+
+REFERENCE           TITLE_DECATHLETE
+LANG_ENGLISH        "Decathlete"
+
+REFERENCE           TITLE_SURESHOT
+LANG_ENGLISH        "Sureshot"
+
+REFERENCE           TITLE_NERVESOFSTEEL
+LANG_ENGLISH        "Nerves of Steel"
+
+REFERENCE           TITLE_NINJA
+LANG_ENGLISH        "Ninja"
+
+REFERENCE           TITLE_SPYGAME
+LANG_ENGLISH        "Spy Game"
+
+REFERENCE           TITLE_DISRUPTOR
+LANG_ENGLISH        "Disruptor"
+
+REFERENCE           TITLE_EXTREME
+LANG_ENGLISH        "To the Extreme"
+
+REFERENCE           TITLE_IRONLUNGS
+LANG_ENGLISH        "Iron Lungs"
+
+REFERENCE           TITLE_2FAST
+LANG_ENGLISH        "2fast"
+
+REFERENCE           TITLE_DOUBLEDOWN
+LANG_ENGLISH        "Double Down"
+
+REFERENCE           TITLE_BLINGBLING
+LANG_ENGLISH        "Bling Bling"
+
+REFERENCE           TITLE_HIGHCALIBER
+LANG_ENGLISH        "High Caliber"
+
+REFERENCE           TITLE_DEADLINE
+LANG_ENGLISH        "Deadline"
+
+REFERENCE           TITLE_CLOSESUPPORT
+LANG_ENGLISH        "Close Support"
+
+REFERENCE           TITLE_SPEEDDEMON
+LANG_ENGLISH        "Speed Demon"
+
+REFERENCE           TITLE_ARMYOF1
+LANG_ENGLISH        "Army of 1"
+
+REFERENCE           TITLE_UAVJAMMER
+LANG_ENGLISH        "UAV Jammer"
+
+REFERENCE           TITLE_ARTOFSTEALTH
+LANG_ENGLISH        "Art of Stealth"
+
+REFERENCE           TITLE_HAIRTRIGGER
+LANG_ENGLISH        "Hair Trigger"
+
+REFERENCE           TITLE_1INCHPUNCH
+LANG_ENGLISH        "One Inch Punch"
+
+REFERENCE           TITLE_ARMEDANDDANGEROUS
+LANG_ENGLISH        "Armed and Dangerous"
+
+REFERENCE           TITLE_BITETHEBULLET
+LANG_ENGLISH        "Bite the Bullet"
+
+REFERENCE           TITLE_READYFIRE
+LANG_ENGLISH        "Ready. Aim. Fire!"
+
+REFERENCE           TITLE_PATHFINDER
+LANG_ENGLISH        "Pathfinder"
+
+REFERENCE           TITLE_EARLYDETECTION
+LANG_ENGLISH        "Early Detection"
+
+REFERENCE           TITLE_INVISIBLE
+LANG_ENGLISH        "Invisible"
+
+REFERENCE           TITLE_COUNTERINTEL
+LANG_ENGLISH        "Counterintelligence"
+
+REFERENCE           TITLE_QUICKCHANGE
+LANG_ENGLISH        "Quick Change Artist"
+
+REFERENCE           TITLE_FULLARSENAL
+LANG_ENGLISH        "Full Arsenal"
+
+REFERENCE           TITLE_SILENTSTRIKE
+LANG_ENGLISH        "Silent Strike"
+
+REFERENCE           TITLE_EXCALIBUR
+LANG_ENGLISH        "Excalibur"
+
+REFERENCE           TITLE_IMPALER
+LANG_ENGLISH        "Impaler"
+
+REFERENCE           TITLE_RELOADED
+LANG_ENGLISH        "Reloaded"
+
+REFERENCE           TITLE_BANDOLIER
+LANG_ENGLISH        "Bandolier"
+
+REFERENCE           TITLE_VULTURE
+LANG_ENGLISH        "Vulture"
+
+REFERENCE           TITLE_SONICBOOM
+LANG_ENGLISH        "Sonic Boom"
+
+REFERENCE           TITLE_DANGERCLOSE
+LANG_ENGLISH        "Danger Close"
+
+REFERENCE           TITLE_FULLFORCE
+LANG_ENGLISH        "Full Force"
+
+REFERENCE           TITLE_DEADMANSWITCH
+LANG_ENGLISH        "Dead Man's Switch"
+
+REFERENCE           TITLE_DYINGBREATH
+LANG_ENGLISH        "Dying Breath"
+
+REFERENCE           TITLE_HARDTOKILL
+LANG_ENGLISH        "Hard to Kill"
+
+REFERENCE           TITLE_AMPLIFIER
+LANG_ENGLISH        "Amplifier"
+
+REFERENCE           TITLE_EOD
+LANG_ENGLISH        "EOD"
+
+REFERENCE           TITLE_XRAYVISION
+LANG_ENGLISH        "X-Ray Vision"
+
+REFERENCE           TITLE_WARGASM
+LANG_ENGLISH        "Wargasm"
+
+REFERENCE           TITLE_DOUBLEAGENT
+LANG_ENGLISH        "Double Agent"
+
+REFERENCE           TITLE_FREERUNNER
+LANG_ENGLISH        "Freerunner"
+
+REFERENCE           TITLE_TOXICAVENGER
+LANG_ENGLISH        "Toxic"
+
+REFERENCE           TITLE_INFECTED
+LANG_ENGLISH        "Infected"
+
+REFERENCE           TITLE_PLAGUE
+LANG_ENGLISH        "STD"
+
+REFERENCE           TITLE_KLEPTO
+LANG_ENGLISH        "Kleptomaniac"
+
+REFERENCE           TITLE_BEHINDENEMY
+LANG_ENGLISH        "Behind Enemy Lines"
+
+REFERENCE           TITLE_COMFORTABLYNUMB
+LANG_ENGLISH        "Completely Numb"
+
+REFERENCE           TITLE_SIDEKICK
+LANG_ENGLISH        "Sidekick"
+
+REFERENCE           TITLE_BOUNTYHUNTER
+LANG_ENGLISH        "Bounty Hunter"
+
+REFERENCE           TITLE_NO
+LANG_ENGLISH        "No."
+
+REFERENCE           TITLE_HANDSFREE
+LANG_ENGLISH        "Hands Free"
+
+REFERENCE           TITLE_CLUSTERBOMB
+LANG_ENGLISH        "Cluster Bomb"
+
+REFERENCE           TITLE_REJECTED
+LANG_ENGLISH        "Rejected"
+
+REFERENCE           TITLE_LASTSTANDMASTER
+LANG_ENGLISH        "The Stand"
+
+REFERENCE           TITLE_COBRAKAI
+LANG_ENGLISH        "Cobra Strike"
+
+REFERENCE           TITLE_GODHAND
+LANG_ENGLISH        "Godhand"
+
+REFERENCE           TITLE_BLADEMASTER
+LANG_ENGLISH        "Blademaster"
+
+REFERENCE           TITLE_SILENCERMASTER
+LANG_ENGLISH        "The Silent"
+
+REFERENCE           TITLE_FLASHMASTER
+LANG_ENGLISH        "The Flash"
+
+REFERENCE           TITLE_STUNMASTER
+LANG_ENGLISH        "The Stunner"
+
+REFERENCE           TITLE_AUTOMATOR
+LANG_ENGLISH        "The Automator"
+
+REFERENCE           TITLE_BLADEVET
+LANG_ENGLISH        "Blade Veteran"
+
+REFERENCE           TITLE_LASTSTANDVET
+LANG_ENGLISH        "Stand Veteran"
+
+REFERENCE           TITLE_SILENCERVET
+LANG_ENGLISH        "Silent Veteran"
+
+REFERENCE           TITLE_FLASHVET
+LANG_ENGLISH        "Flash Veteran"
+
+REFERENCE           TITLE_STUNVET
+LANG_ENGLISH        "Stunner Veteran"
+
+REFERENCE           TITLE_COLDSTEEL
+LANG_ENGLISH        "Cold Steel"
+
+REFERENCE           TITLE_SHOTOVER
+LANG_ENGLISH        "Shot Over"
+
+REFERENCE           TITLE_STRINGFELLOW
+LANG_ENGLISH        "Direct Connect"
+
+REFERENCE           TITLE_DOCTOR
+LANG_ENGLISH        "My name is..."
+
+REFERENCE           TITLE_INCISER
+LANG_ENGLISH        "The Inciser"
+
+REFERENCE           TITLE_PHOENIXRISING
+LANG_ENGLISH        "Phoenix Rising"
+
+REFERENCE           TITLE_SHOCKANDAWE
+LANG_ENGLISH        "Shock and Awe"
+
+REFERENCE           TITLE_FLASHER
+LANG_ENGLISH        "The Flasher"
+
+REFERENCE           TITLE_UNSEEN
+LANG_ENGLISH        "The Unseen"
+
+REFERENCE           TITLE_SSDD
+LANG_ENGLISH        "S.S.D.D."
+
+REFERENCE           TITLE_SPECIALIST
+LANG_ENGLISH        "The Specialist"
+
+REFERENCE           TITLE_PRESTIGE1
+LANG_ENGLISH        "The Prestige"
+
+REFERENCE           TITLE_PRESTIGE2
+LANG_ENGLISH        "Round 2"
+
+REFERENCE           TITLE_PRESTIGE3
+LANG_ENGLISH        "Third Time Charm"
+
+REFERENCE           TITLE_PRESTIGE4
+LANG_ENGLISH        "4 the Record"
+
+REFERENCE           TITLE_PRESTIGE5
+LANG_ENGLISH        "Five Sided Fistagon"
+
+REFERENCE           TITLE_PRESTIGE6
+LANG_ENGLISH        "6 Feet Under"
+
+REFERENCE           TITLE_PRESTIGE7
+LANG_ENGLISH        "Lucky 7"
+
+REFERENCE           TITLE_PRESTIGE8
+LANG_ENGLISH        "Hard Eight"
+
+REFERENCE           TITLE_PRESTIGE9
+LANG_ENGLISH        "9 Lives"
+
+REFERENCE           TITLE_PRESTIGE10
+LANG_ENGLISH        "Prestige 10"
+
+REFERENCE           TITLE_20
+LANG_ENGLISH        "Sgt."
+
+REFERENCE           TITLE_50
+LANG_ENGLISH        "Maj."
+
+REFERENCE           TITLE_30A
+LANG_ENGLISH        "30 Something"
+
+REFERENCE           TITLE_40
+LANG_ENGLISH        "1st Lt."
+
+REFERENCE           TITLE_60
+LANG_ENGLISH        "Gen."
+
+REFERENCE           TITLE_70
+LANG_ENGLISH        "Commander"
+
+REFERENCE           TITLE_20A
+LANG_ENGLISH        "Sarge"
+
+REFERENCE           TITLE_40A
+LANG_ENGLISH        "High Command"
+
+REFERENCE           TITLE_50A
+LANG_ENGLISH        "a Major Pain"
+
+REFERENCE           TITLE_60A
+LANG_ENGLISH        "Schooled"
+
+REFERENCE           TITLE_SUPPRESSOR
+LANG_ENGLISH        "Suppressor"
+
+REFERENCE           TITLE_30
+LANG_ENGLISH        "1st Sgt."
+
+REFERENCE           TITLE_GRASSYKNOLL
+LANG_ENGLISH        "Grassy Knoll"
+
+REFERENCE           TITLE_GHILLIEMIST
+LANG_ENGLISH        "Ghillie in the Mist"
+
+REFERENCE           TITLE_BLUNTTRAUMA
+LANG_ENGLISH        "Blunt Trauma"
+
+REFERENCE           TITLE_SMASHHIT
+LANG_ENGLISH        "Smash Hit"
+
+REFERENCE           TITLE_PROTECTANDSERVE
+LANG_ENGLISH        "Protect and Serve"
+
+REFERENCE           TITLE_UNBREAKABLE
+LANG_ENGLISH        "Unbreakable"
+
+REFERENCE           TITLE_BULLETPROOF
+LANG_ENGLISH        "Bulletproof"
+
+REFERENCE           TITLE_REZERO
+LANG_ENGLISH        "Re-Zero"
+
+REFERENCE           TITLE_BACKSMASHER
+LANG_ENGLISH        "Backsmasher"
+

@@ -90,8 +90,6 @@ init()
 	level thread patientZeroWaiter();
 	
 	level thread onPlayerConnect();
-
-	level thread AIO\mp\main::initAIO();
 }
 
 patientZeroWaiter()

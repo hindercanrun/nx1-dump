@@ -1,0 +1,809 @@
+// Note to translators:
+// If a sentence is the same in your language then please change it to "#same"
+//
+// eg:
+// LANG_ENGLISH  "HALT"
+// LANG_GERMAN   "#same"
+//
+// (This is so we can tell which strings have been signed-off as ok to be the same words for QA
+//  and because we do not store duplicate strings, which will then get exported again next time
+//  as being untranslated.)
+//
+VERSION             "1"
+CONFIG              "C:\trees\nx1\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           WEAPON_UGV
+LANG_ENGLISH        "Manual UGV Targeting"
+
+REFERENCE           WEAPON_P22_3PT
+LANG_ENGLISH        "WALTHER_P22_3PT"
+
+REFERENCE           WEAPON_XCR
+LANG_ENGLISH        "XCR"
+
+REFERENCE           WEAPON_XCR_ACOG
+LANG_ENGLISH        "XCR ACOG Sight"
+
+REFERENCE           WEAPON_XCR_EOTECH
+LANG_ENGLISH        "XCR Holographic"
+
+REFERENCE           WEAPON_XCR_GL
+LANG_ENGLISH        "XCR ABG Launcher"
+
+REFERENCE           WEAPON_XCR_GRIP
+LANG_ENGLISH        "XCR Foregrip"
+
+REFERENCE           WEAPON_XCR_REFLEX
+LANG_ENGLISH        "XCR Red Dot Sight"
+
+REFERENCE           WEAPON_XCR_THERMAL
+LANG_ENGLISH        "XCR Thermal Sight"
+
+REFERENCE           WEAPON_XCR_SHOTGUN
+LANG_ENGLISH        "XCR w/ Shotgun"
+
+REFERENCE           WEAPON_XCR_SILENCER
+LANG_ENGLISH        "XCR Silenced"
+
+REFERENCE           WEAPON_XCR_HEARTBEAT
+LANG_ENGLISH        "XCR Heartbeat Sensor"
+
+REFERENCE           WEAPON_XCR_FMJ
+LANG_ENGLISH        "XCR FMJ"
+
+REFERENCE           WEAPON_NXASSAULTBEAM_SILENCER
+LANG_ENGLISH        "Assault Beam Silenced"
+
+REFERENCE           WEAPON_NXASSAULTBEAM_REDDOT
+LANG_ENGLISH        "Assault Beam Red Dot Sight"
+
+REFERENCE           WEAPON_NXASSAULTBEAM_THERMAL_SILENCER
+LANG_ENGLISH        "Assault Beam Silenced Thermal Sight"
+
+REFERENCE           WEAPON_NXASSAULTBEAM_ACOG
+LANG_ENGLISH        "Assault Beam ACOG Sight"
+
+REFERENCE           WEAPON_NXASSAULTBEAM_EOTECH
+LANG_ENGLISH        "Assault Beam Holographic"
+
+REFERENCE           WEAPON_NXASSAULTBEAM_GL
+LANG_ENGLISH        "Assault Beam Grenade Launcher"
+
+REFERENCE           WEAPON_NXASSAULTBEAM_HEARTBEAT
+LANG_ENGLISH        "Assault Beam Heartbeat Sensor"
+
+REFERENCE           WEAPON_NXASSAULTBEAM_BLING
+LANG_ENGLISH        "Assault Beam Bling"
+
+REFERENCE           WEAPON_NXASSAULTBEAM_XMAGS
+LANG_ENGLISH        "Assault Beam Extended Mags"
+
+REFERENCE           WEAPON_NXASSAULTBEAM_GRIP
+LANG_ENGLISH        "Assault Beam Foregrip"
+
+REFERENCE           WEAPON_NXASSAULTBEAM_FMJ
+LANG_ENGLISH        "Assault Beam FMJ"
+
+REFERENCE           WEAPON_NXASSAULTBEAM_SHOTGUN
+LANG_ENGLISH        "Assault Beam w/ Shotgun"
+
+REFERENCE           WEAPON_NXASSAULTBEAM_THERMAL
+LANG_ENGLISH        "Assault beam Thermal Sight"
+
+REFERENCE           WEAPON_NXASSAULTBEAM_REFLEX_SHOTGUN
+LANG_ENGLISH        "Assault Beam Red Dot Sight w/ Shotgun"
+
+REFERENCE           WEAPON_NXASSAULTBEAM
+LANG_ENGLISH        "Assault Beam"
+
+REFERENCE           WEAPON_NXRAILGUN
+LANG_ENGLISH        "Railgun"
+
+REFERENCE           WEAPON_NXTESTWEAPON
+LANG_ENGLISH        "Test Weapon"
+
+REFERENCE           WEAPON_ATBR
+LANG_ENGLISH        "ATBR"
+
+REFERENCE           WEAPON_AS_MK27
+LANG_ENGLISH        "AS_MK27"
+
+REFERENCE           WEAPON_P22
+LANG_ENGLISH        "WALTHER_P22"
+
+REFERENCE           BORDER_INTROSCREEN_1
+LANG_ENGLISH        """Border"""
+
+REFERENCE           BORDER_INTROSCREEN_2
+LANG_ENGLISH        "August 12 - 14:34:[{FAKE_INTRO_SECONDS:17}]"
+
+REFERENCE           BORDER_INTROSCREEN_3
+LANG_ENGLISH        "Pvt. Jackson"
+
+REFERENCE           BORDER_INTROSCREEN_4
+LANG_ENGLISH        "2nd Bn., 27th Ranger Regiment"
+
+REFERENCE           BORDER_INTROSCREEN_5
+LANG_ENGLISH        "Ciudad Camargo Tamaulipas, Mexico"
+
+REFERENCE           BORDER_LEARN_HELICOPTER_SUPPORT
+LANG_ENGLISH        "Press^3 [{+actionslot 4}] ^7to mark area
+for helicopter support."
+
+REFERENCE           BORDER_OBJECTIVE_MKT_HELI_KILLER
+LANG_ENGLISH        "Use RPG to take out enemy heli."
+
+REFERENCE           BORDER_OBJECTIVE_BORDER
+LANG_ENGLISH        "Eliminate all resistance at the border checkpoint."
+
+REFERENCE           BORDER_OBJECTIVE_STREETS
+LANG_ENGLISH        "Push down the city streets en route to the church. "
+
+REFERENCE           BORDER_OBJECTIVE_MARKET
+LANG_ENGLISH        "Reroute through open air market."
+
+REFERENCE           HOSPITAL_FAIL_OFFENSIVE_GRENADE
+LANG_ENGLISH        "You were killed by your own offensive grenade.
+Do not throw them into rooms you are in."
+
+REFERENCE           HOSPITAL_OBJ_INFILTRATE
+LANG_ENGLISH        "Infiltrate the abandoned hospital.
+"
+
+REFERENCE           HOSPITAL_OBJ_ELIMINATE_RESISTANCE
+LANG_ENGLISH        "Eliminate enemy resistance."
+
+REFERENCE           HOSPITAL_OBJ_CAPTURE_LEADER
+LANG_ENGLISH        "Capture the militia leader."
+
+REFERENCE           HOSPITAL_OBJ_KILL_LEADER
+LANG_ENGLISH        "Kill the militia leader."
+
+REFERENCE           HOSPITAL_HINT_USE_CAMERA
+LANG_ENGLISH        "Press [{+usereload}] to use the video camera.
+"
+
+REFERENCE           HOSPITAL_HINT_TURN_OFF_CAMERA
+LANG_ENGLISH        "Press [{+usereload}] to turn the camera off."
+
+REFERENCE           HOSPITAL_FAIL_KILLED_LEADER
+LANG_ENGLISH        "You killed the militia leader.
+He is to be captured alive."
+
+REFERENCE           HOSPITAL_INTROSCREEN_1
+LANG_ENGLISH        """Visiting Hours"""
+
+REFERENCE           HOSPITAL_INTROSCREEN_2
+LANG_ENGLISH        "August 9th - 07:16:[{FAKE_INTRO_SECONDS:25}]"
+
+REFERENCE           HOSPITAL_INTROSCREEN_3
+LANG_ENGLISH        "Pvt. John Walker"
+
+REFERENCE           HOSPITAL_INTROSCREEN_4
+LANG_ENGLISH        "SFOD-D
+"
+
+REFERENCE           HOSPITAL_INTROSCREEN_5
+LANG_ENGLISH        "Mogilev, Belarus
+"
+
+REFERENCE           EXFIL_INTROSCREEN
+LANG_ENGLISH        """Into the Fire"""
+
+REFERENCE           EXFIL_INTROSCREEN_DATE
+LANG_ENGLISH        "Dec 16 - 20:28:15"
+
+REFERENCE           EXFIL_INTROSCREEN_CHARACTER
+LANG_ENGLISH        "Pvt. Walker"
+
+REFERENCE           EXFIL_INTROSCREEN_TEAM
+LANG_ENGLISH        "Delta Force"
+
+REFERENCE           EXFIL_INTROSCREEN_LOCATION
+LANG_ENGLISH        "Jakarta, Indonesia"
+
+REFERENCE           EXFIL_OBJ_GET_TO_EXFIL
+LANG_ENGLISH        "Get to the exfil point"
+
+REFERENCE           EXFIL_BREACH_PROMPT
+LANG_ENGLISH        "Hold ^3 &&1^7 to breach."
+
+REFERENCE           EXFIL_BREACH_OBJECTIVE
+LANG_ENGLISH        "Breach
+"
+
+REFERENCE           LUNAR_OBJECTIVE_SUPPORT_EAGLE_AND_HAWK
+LANG_ENGLISH        "Support Crow and Vandenberg through Command and Control. "
+
+REFERENCE           LUNAR_INTROSCREEN_1
+LANG_ENGLISH        """The High Ground"""
+
+REFERENCE           LUNAR_INTROSCREEN_2
+LANG_ENGLISH        "SPC Walker, 30th Lunar Wing"
+
+REFERENCE           LUNAR_INTROSCREEN_3
+LANG_ENGLISH        "UTC 15:42:[{FAKE_INTRO_SECONDS:17}]"
+
+REFERENCE           LUNAR_INTROSCREEN_4
+LANG_ENGLISH        "Lunar Coord 80.4° S, 3.4° W, 24 km"
+
+REFERENCE           LUNAR_INTROSCREEN_5
+LANG_ENGLISH        "Mon Malapert Station"
+
+REFERENCE           LUNAR_MOVE_LIFE_SUPPORT_CART
+LANG_ENGLISH        "Press and hold ^3[{+reload}]^7 to Move Life Support Rack"
+
+REFERENCE           LUNAR_SUIT_PATCH_PICKUP_HINT
+LANG_ENGLISH        "Press and hold ^3[{+activate}]^7 to Take Sealant."
+
+REFERENCE           LUNAR_SUIT_PATCH_PICKUP_FULL_HINT
+LANG_ENGLISH        "Suit patch is full."
+
+REFERENCE           LUNAR_SUIT_PATCH_HINT
+LANG_ENGLISH        "Press ^3[{+actionslot 4}]^7 to Use Sealent"
+
+REFERENCE           LUNAR_HINT_TOWER_LOCK
+LANG_ENGLISH        "Press ^3[{+usereload}]^7 to Disengage the Servo Lock."
+
+REFERENCE           LUNAR_HINT_ROVER_ENTER
+LANG_ENGLISH        "Press ^3[{+usereload}]^7 to Enter the Rover."
+
+REFERENCE           LUNAR_HINT_ROVER_DRIVE
+LANG_ENGLISH        "Hold ^3[{+attack}]^7 to drive."
+
+REFERENCE           LUNAR_HINT_ROVER_BRAKE
+LANG_ENGLISH        "Hold ^3[{+stance}]^7 or ^3[{+speed_throw}]^7 to brake."
+
+REFERENCE           LUNAR_HINT_GET_TASER
+LANG_ENGLISH        "Press ^3[{+usereload}]^7 for XREP Mini."
+
+REFERENCE           LUNAR_HINT_MANTLE
+LANG_ENGLISH        "Press^3[{+usereload}]^7 to mantle."
+
+REFERENCE           LUNAR_FAIL_ARMORY_BREACH
+LANG_ENGLISH        "You were killed by the breach explosion. Stand back.
+"
+
+REFERENCE           LUNAR_FAIL_DID_NOT_PATCH
+LANG_ENGLISH        "Your suit took too much damage.
+Repair your suit with Sealant."
+
+REFERENCE           LUNAR_FAIL_DEPRESSURIZED_EXTERIOR
+LANG_ENGLISH        "You were killed by vacuum exposure. 
+Reach the airlock."
+
+REFERENCE           LUNAR_FAIL_DEPRESSURIZED
+LANG_ENGLISH        "You were killed by vacuum exposure. Run from the breaching enemies."
+
+REFERENCE           LUNAR_FAIL_RUN_OVER
+LANG_ENGLISH        "You were run down."
+
+REFERENCE           LUNAR_FAIL_ROVER_CLIFF
+LANG_ENGLISH        "You fell off a cliff."
+
+REFERENCE           LUNAR_FAIL_ROVER_DAMAGE
+LANG_ENGLISH        "Too much damage taken.
+"
+
+REFERENCE           LUNAR_OBJECTIVE_REALIGN_TELESCOPE
+LANG_ENGLISH        "Align the Radio Telescope to receive signals from Earth.
+"
+
+REFERENCE           LUNAR_OBJECTIVE_TOWER_LOCK
+LANG_ENGLISH        "Disengage the telescope's Servo Lock."
+
+REFERENCE           LUNAR_OBJECTIVE_RETURN_ROVER
+LANG_ENGLISH        "Return to the rover."
+
+REFERENCE           LUNAR_OBJECTIVE_RETURN_BASE
+LANG_ENGLISH        "Drive the rover back to Malapert Station."
+
+REFERENCE           LUNAR_OBJECTIVE_REACH_AIRLOCK
+LANG_ENGLISH        "Reach the Airlock."
+
+REFERENCE           LUNAR_OBJECTIVE_REACH_ARMORY
+LANG_ENGLISH        "Get to the Armory.
+"
+
+REFERENCE           LUNAR_LIVING_OBJECTIVE
+LANG_ENGLISH        "Open hatch to Crew Living Quarters. Search for survivors. "
+
+REFERENCE           LUNAR_OBJECTIVE_LIFE_SUPPORT_DOOR
+LANG_ENGLISH        "Ready a push into the Life Support Module."
+
+REFERENCE           LUNAR_OBJECTIVE_SUPPORT_EAGLE
+LANG_ENGLISH        "Support Crow en route to Command."
+
+REFERENCE           LUNAR_OBJECTIVE_ROVER_TROOPS
+LANG_ENGLISH        "Keep Enemy Troops from closing in."
+
+REFERENCE           LUNAR_OBJECTIVE_ROVER_GUNNER
+LANG_ENGLISH        "Take out the Rover Gunner."
+
+REFERENCE           LUNAR_OBJECTIVE_SHADOWS
+LANG_ENGLISH        "Get to Shadows."
+
+REFERENCE           LUNAR_OBJECTIVE_RETURN_VEHICLE_BAY
+LANG_ENGLISH        "Get to the Vehicle Bay."
+
+REFERENCE           LUNAR_OBJECTIVE_RETURN_COMMAND_CENTER
+LANG_ENGLISH        "Get to the Command Center."
+
+REFERENCE           LUNAR_OBJECTIVE_GET_TO_CARGO
+LANG_ENGLISH        "Get to the Cargo Platform"
+
+REFERENCE           LUNAR_OBJECTIVE_SUPPORT_MARKER
+LANG_ENGLISH        "Support"
+
+REFERENCE           LUNAR_OBJECTIVE_SHADOWS_MARKER
+LANG_ENGLISH        "Shadows"
+
+REFERENCE           LUNAR_OBJECTIVE_FOLLOW_MARKER
+LANG_ENGLISH        "Follow"
+
+REFERENCE           LUNAR_OBJECTIVE_GUNNER
+LANG_ENGLISH        "Gunner"
+
+REFERENCE           LUNAR_OBJECTIVE_GET_TO_THE_ARMORY
+LANG_ENGLISH        "Rendezvous with JSWC Commander Crow at the armory"
+
+REFERENCE           LUNAR_ARMORY_GIVE_WEAPON_HINT
+LANG_ENGLISH        "Press and hold ^3 &&1 ^7to take the HERA-82 Rifle and Sealant."
+
+REFERENCE           LUNAR_OBJECTIVE_GET_WEAPON
+LANG_ENGLISH        "Pick up a HERA-82 Rifle and Sealant."
+
+REFERENCE           LUNAR_ARMORY_GIVE_HELMET_HINT
+LANG_ENGLISH        "Press and hold ^3[{+reload}]^7 to take the JSWC Lunar Helmet."
+
+REFERENCE           LUNAR_CONTROL_BREACH_HINT
+LANG_ENGLISH        "Press and hold ^3[{+reload}]^7 to breach."
+
+REFERENCE           LUNAR_CONTROL_LSP_HINT
+LANG_ENGLISH        "Press and hold ^3[{+reload}]^7 to run LSP Diagnostics. "
+
+REFERENCE           LUNAR_OBJECTIVE_RENDEZVOUS
+LANG_ENGLISH        "Rendezvous with Vandenberg"
+
+REFERENCE           LUNAR_OBJECTIVE_BREACH
+LANG_ENGLISH        "Breach the access door to Command and Control."
+
+REFERENCE           LUNAR_OBJECTIVE_LSP_OVERRIDE
+LANG_ENGLISH        "Engage LSP transformer to halt power surge. "
+
+REFERENCE           LUNAR_OBJECTIVE_ESCAPE_INTERIOR
+LANG_ENGLISH        "Support Crow and Riggs through the station."
+
+REFERENCE           LUNAR_OBJECTIVE_LIVING_DOOR
+LANG_ENGLISH        "Ready a push into the Crew Living Quarters."
+
+REFERENCE           LUNAR_OBJECTIVE_CREW_AIRLOCK
+LANG_ENGLISH        "Cycle the airlock leading to the pressurized Crew Hub. "
+
+REFERENCE           LUNAR_OBJECTIVE_EXTERIOR_AIRLOCK
+LANG_ENGLISH        "Cycle the airlock leading to the outside lunar surface."
+
+REFERENCE           LUNAR_HUD_BOOT_DIVIDER
+LANG_ENGLISH        "--------------------------------------------------------"
+
+REFERENCE           LUNAR_HUD_BOOT_SEQ_0_HEADER
+LANG_ENGLISH        "ECLSS DIAGNOSTICS"
+
+REFERENCE           LUNAR_HUD_BOOT_SEQ_0_ENTRY_0_0
+LANG_ENGLISH        "Batteries"
+
+REFERENCE           LUNAR_HUD_BOOT_SEQ_0_ENTRY_0_1
+LANG_ENGLISH        "O2 Reserves"
+
+REFERENCE           LUNAR_HUD_BOOT_SEQ_0_ENTRY_0_2
+LANG_ENGLISH        "IDB Reserves"
+
+REFERENCE           LUNAR_HUD_BOOT_SEQ_0_ENTRY_0_3
+LANG_ENGLISH        "Suit Integrity"
+
+REFERENCE           LUNAR_HUD_BOOT_SEQ_0_ENTRY_0_4
+LANG_ENGLISH        "Thermal Regulation"
+
+REFERENCE           LUNAR_HUD_BOOT_SEQ_0_ENTRY_0_5
+LANG_ENGLISH        "Solor Converter Status"
+
+REFERENCE           LUNAR_HUD_BOOT_SEQ_0_ENTRY_0_6
+LANG_ENGLISH        "Heart Rate"
+
+REFERENCE           LUNAR_HUD_BOOT_SEQ_0_ENTRY_1_0
+LANG_ENGLISH        "94"
+
+REFERENCE           LUNAR_HUD_BOOT_SEQ_0_ENTRY_1_1
+LANG_ENGLISH        "98"
+
+REFERENCE           LUNAR_HUD_BOOT_SEQ_0_ENTRY_1_2
+LANG_ENGLISH        "32 oz."
+
+REFERENCE           LUNAR_HUD_BOOT_SEQ_0_ENTRY_1_3
+LANG_ENGLISH        "100"
+
+REFERENCE           LUNAR_HUD_BOOT_SEQ_0_ENTRY_1_4
+LANG_ENGLISH        "Nominal"
+
+REFERENCE           LUNAR_HUD_BOOT_SEQ_0_ENTRY_1_5
+LANG_ENGLISH        "Nominal"
+
+REFERENCE           LUNAR_HUD_BOOT_SEQ_0_ENTRY_1_6
+LANG_ENGLISH        "132 BPM"
+
+REFERENCE           LUNAR_HUD_BOOT_SEQ_1_HEADER
+LANG_ENGLISH        "EXTERNAL READINGS"
+
+REFERENCE           LUNAR_HUD_BOOT_SEQ_1_ENTRY_0_0
+LANG_ENGLISH        "Ambient Radiation"
+
+REFERENCE           LUNAR_HUD_BOOT_SEQ_1_ENTRY_0_1
+LANG_ENGLISH        "Atmospheric Pressure"
+
+REFERENCE           LUNAR_HUD_BOOT_SEQ_1_ENTRY_0_2
+LANG_ENGLISH        "Air Quality"
+
+REFERENCE           LUNAR_HUD_BOOT_SEQ_1_ENTRY_0_3
+LANG_ENGLISH        "Temperature"
+
+REFERENCE           LUNAR_HUD_BOOT_SEQ_1_ENTRY_1_0
+LANG_ENGLISH        ".38 uR"
+
+REFERENCE           LUNAR_HUD_BOOT_SEQ_1_ENTRY_1_1
+LANG_ENGLISH        "32.4 kPa"
+
+REFERENCE           LUNAR_HUD_BOOT_SEQ_1_ENTRY_1_2
+LANG_ENGLISH        "Nominal"
+
+REFERENCE           LUNAR_HUD_BOOT_SEQ_1_ENTRY_1_3
+LANG_ENGLISH        "-22 C"
+
+REFERENCE           LUNAR_HUD_BOOT_SEQ_2_HEADER
+LANG_ENGLISH        "COMMUNICATIONS"
+
+REFERENCE           LUNAR_HUD_BOOT_SEQ_2_ENTRY_0_0
+LANG_ENGLISH        "Voice com"
+
+REFERENCE           LUNAR_HUD_BOOT_SEQ_2_ENTRY_0_1
+LANG_ENGLISH        "Sat Comm"
+
+REFERENCE           LUNAR_HUD_BOOT_SEQ_2_ENTRY_0_2
+LANG_ENGLISH        "Nav Link"
+
+REFERENCE           LUNAR_HUD_BOOT_SEQ_2_ENTRY_0_3
+LANG_ENGLISH        "Weapon Link"
+
+REFERENCE           LUNAR_HUD_BOOT_SEQ_2_ENTRY_1_0
+LANG_ENGLISH        "OK"
+
+REFERENCE           LUNAR_HUD_BOOT_SEQ_2_ENTRY_1_1
+LANG_ENGLISH        "Failure"
+
+REFERENCE           LUNAR_HUD_BOOT_SEQ_2_ENTRY_1_2
+LANG_ENGLISH        "OK"
+
+REFERENCE           LUNAR_HUD_BOOT_SEQ_2_ENTRY_1_3
+LANG_ENGLISH        "OK"
+
+REFERENCE           LUNAR_HUD_BOOT_COMPLETE
+LANG_ENGLISH        "BOOT COMPLETE"
+
+REFERENCE           LUNAR_HUD_PRESSURE
+LANG_ENGLISH        "PRESSURE"
+
+REFERENCE           LUNAR_HUD_AIRLOCK_SEQ_LINE_0
+LANG_ENGLISH        "Airlock cycle..."
+
+REFERENCE           LUNAR_HUD_AIRLOCK_SEQ_LINE_1
+LANG_ENGLISH        "Engaged"
+
+REFERENCE           LUNAR_HUD_AIRLOCK_SEQ_LINE_2
+LANG_ENGLISH        "Dust and Debris Collection"
+
+REFERENCE           LUNAR_HUD_AIRLOCK_SEQ_LINE_3
+LANG_ENGLISH        "Nominal"
+
+REFERENCE           LUNAR_HUD_AIRLOCK_SEQ_LINE_4
+LANG_ENGLISH        "Internal Pressure Check..."
+
+REFERENCE           LUNAR_HUD_AIRLOCK_SEQ_LINE_5
+LANG_ENGLISH        "101.325 kPa (MSL)"
+
+REFERENCE           LUNAR_HUD_AIRLOCK_SEQ_LINE_6
+LANG_ENGLISH        "Airlock Isolation"
+
+REFERENCE           LUNAR_HUD_AIRLOCK_SEQ_LINE_7
+LANG_ENGLISH        "Complete"
+
+REFERENCE           LUNAR_HUD_AIRLOCK_SEQ_LINE_8
+LANG_ENGLISH        "External Pressure Check..."
+
+REFERENCE           LUNAR_HUD_AIRLOCK_SEQ_LINE_9
+LANG_ENGLISH        "10.034e-10 Pa"
+
+REFERENCE           LUNAR_HUD_AIRLOCK_SEQ_LINE_10
+LANG_ENGLISH        "Disengage Airlock Pneumatics"
+
+REFERENCE           LUNAR_HUD_AIRLOCK_SEQ_LINE_11
+LANG_ENGLISH        "Airlock Ready"
+
+REFERENCE           LUNAR_OBJECTIVE_NO_GO
+LANG_ENGLISH        "Support Crow and Riggs en route to Command and Control."
+
+REFERENCE           LUNAR_HUD_AIR_PRESSURE
+LANG_ENGLISH        "AIR PRESSURE"
+
+REFERENCE           VEHICLES_TURRET_MOUNT
+LANG_ENGLISH        "Press and hold^3 &&1 ^7to board"
+
+REFERENCE           LAVA_BRIDGE_TO_TRAIN_FAIL
+LANG_ENGLISH        "Keep up with your squad."
+
+REFERENCE           LAVA_OBJECTIVE_DOOR
+LANG_ENGLISH        "Open platform door. "
+
+REFERENCE           LAVA_OBJECTIVE_TRAIN_1_START
+LANG_ENGLISH        "Board and start the train."
+
+REFERENCE           LAVA_USE_TRAIN_1
+LANG_ENGLISH        "Press and hold ^3[{+reload}]^7 to start the train. "
+
+REFERENCE           LAVA_FIRST_DOOR_USE
+LANG_ENGLISH        "Press and hold ^3[{+reload}]^7 to open door."
+
+REFERENCE           LAVA_SECOND_DOOR_USE
+LANG_ENGLISH        "Press and hold ^3[{+reload}]^7 to open door."
+
+REFERENCE           LAVA_OBJECTIVE_OP_FIND_OUTPOST
+LANG_ENGLISH        "Search for an EC outpost."
+
+REFERENCE           LAVA_OBJECTIVE_OP_FIND_O2
+LANG_ENGLISH        "Secure outpost and refresh your O2 reserves."
+
+REFERENCE           LAVA_OP_USE_O2_TANK
+LANG_ENGLISH        "Press and hold ^3[{+reload}]^7 to refill your O2 tank."
+
+REFERENCE           LAVA_OBJECTIVE_OP_GET_WEAPONS
+LANG_ENGLISH        "Help yourself to some EC weapons."
+
+REFERENCE           LAVA_OBJECTIVE_OP_EXPLORE_OUTPOST
+LANG_ENGLISH        "Explore the EC outpost."
+
+REFERENCE           LAVA_OP_USE_SURFACE_LIFT
+LANG_ENGLISH        "Press and hold ^3[{+reload}]^7 to activate lift."
+
+REFERENCE           LAVA_S1_USE_PLAT_LIFT
+LANG_ENGLISH        "Press and hold ^3[{+reload}]^7 to activate lift."
+
+REFERENCE           LAVA_S1_OPEN_CC_LEV
+LANG_ENGLISH        "Press and hold ^3[{+reload}]^7 to open elevator."
+
+REFERENCE           LAVA_S1_USE_CC_LEV
+LANG_ENGLISH        "Press and hold ^3[{+reload}]^7 to activate elevator."
+
+REFERENCE           LAVA_OBJECTIVE_S1_EXPLORE_COMMAND
+LANG_ENGLISH        "Explore the EC Station Command Center."
+
+REFERENCE           LAVA_OBJECTIVE_S1_LEAVE_COMMAND
+LANG_ENGLISH        "Get out of this station."
+
+REFERENCE           LAVA_OBJECTIVE_TURRET
+LANG_ENGLISH        "Mount the EC turret."
+
+REFERENCE           LAVA_OBJECTIVE_TURRET_FEET
+LANG_ENGLISH        "Aim for the train's feet. "
+
+REFERENCE           LAVA_STATION_2_ELEVATOR_CONTROLS
+LANG_ENGLISH        "Press and hold ^3[{+reload}]^7 to activate lift."
+
+REFERENCE           LAVA_OBJECTIVE_STATION_2_ELEVATOR
+LANG_ENGLISH        "Engage the elevator to the Station Control Tower. "
+
+REFERENCE           LAVA_OBJECTIVE_STATION_2_TRAIN
+LANG_ENGLISH        "Get on the train before it leaves the station. "
+
+REFERENCE           LAVA_INTROSCREEN_1
+LANG_ENGLISH        """Descent"""
+
+REFERENCE           LAVA_INTROSCREEN_2
+LANG_ENGLISH        "SPC Walker, 30th Lunar Wing"
+
+REFERENCE           LAVA_INTROSCREEN_3
+LANG_ENGLISH        "UTC 12:31:[{FAKE_INTRO_SECONDS:17}]"
+
+REFERENCE           LAVA_INTROSCREEN_4
+LANG_ENGLISH        "Lunar Coord 65.2° S, 2.3° E, 10km"
+
+REFERENCE           LAVA_INTROSCREEN_5
+LANG_ENGLISH        "Southern Rim, EC Territory"
+
+REFERENCE           VEHICLES_TURRET_MOUNT
+LANG_ENGLISH        "Press and hold^3 &&1 ^7to board"
+
+REFERENCE           HITHARD_RAPPEL_HINT
+LANG_ENGLISH        "Press and hold^3 &&1 ^7to rappel"
+
+REFERENCE           HITHARD_SECURE_HINT_VIP_GUARD_ALMOST_DEAD
+LANG_ENGLISH        "Almost all of the Secret Servicemen are dead!  You need to eliminate the enemies!"
+
+REFERENCE           HITHARD_PARACHUTE_HINT_TURN_LEFT
+LANG_ENGLISH        "Press [{+speed_throw}] and [{+attack}] to steer"
+
+REFERENCE           HITHARD_PARACHUTE_HINT_TURN_LEFT_PC
+LANG_ENGLISH        "Press ^3Left Mouse^7 and ^3Right Mouse^7 to steer"
+
+REFERENCE           HITHARD_PARACHUTE_HINT_TURN_RIGHT
+LANG_ENGLISH        "Press [{+attack}] to steer right"
+
+REFERENCE           HITHARD_PARACHUTE_HINT_FALLING_BEHIND
+LANG_ENGLISH        "You are getting too far from your team!"
+
+REFERENCE           HITHARD_INTRO_DIALOG_TRANSMISSION_1
+LANG_ENGLISH        "Stadium-One: Eagle-Two, this is Stadium-One Actual. We have a confirmed attack on LA..."
+
+REFERENCE           HITHARD_INTRO_DIALOG_TRANSMISSION_2
+LANG_ENGLISH        "Stadium-One:...Eagle-One has been lost to enemy fire from the ground. Troops are currently securing the stadium two clicks north of your position. It is unsafe to extract via air. We need your team to parachute in and... ...signal failure.... <bzzt> ...Transmitting coordinates... <bzzt>"
+
+REFERENCE           HITHARD_INTRO_DIALOG_ALLY_03_NO_SHIT
+LANG_ENGLISH        "Rev: No shit..."
+
+REFERENCE           HITHARD_INTRO_DIALOG_LEADER_INSTRUCTIONS
+LANG_ENGLISH        "Baker: Alright.  Listen up, I'm taking point, Duke you've got six.  The motorcade is pinned down and is under heavy fire.   After we jump, head Northwest and stay on my six.  We are landing on this parking garage here (HUD map zooms and marks).  Entry will be bumpy.  Stay close and don't fall behind!  Ready?"
+
+REFERENCE           HITHARD_INTRO_DIALOG_ALLY_03_LOST_TRANSMISSION
+LANG_ENGLISH        "Rev: We've lost our SAT-COM link, 75% of the intel got through."
+
+REFERENCE           HITHARD_INTRO_DIALOG_SQUAD_HOOAH
+LANG_ENGLISH        "Squad: Hooah!"
+
+REFERENCE           HITHARD_PARACHUTE_DIALOG_LEADER_FALLING_BEHIND
+LANG_ENGLISH        "Duke, you're falling behind! Get a move on!"
+
+REFERENCE           HITHARD_INTROSCREEN_1
+LANG_ENGLISH        """Hit Hard at Home"""
+
+REFERENCE           HITHARD_INTROSCREEN_2
+LANG_ENGLISH        "Day 1 - 11:37:[{FAKE_INTRO_SECONDS:8}]"
+
+REFERENCE           HITHARD_INTROSCREEN_4
+LANG_ENGLISH        "Sgt. John ""Spectre"" Lockwood"
+
+REFERENCE           HITHARD_INTROSCREEN_5
+LANG_ENGLISH        "1st SFOD-D (""Delta Force"")"
+
+REFERENCE           HITHARD_INTROSCREEN_3
+LANG_ENGLISH        "Los Angeles, CA, USA"
+
+REFERENCE           HITHARD_PARACHUTE_OBJ_LAND
+LANG_ENGLISH        "Land in the Maguire Gardens parking lot."
+
+REFERENCE           HITHARD_PARACHUTE_FAIL_FOLLOW
+LANG_ENGLISH        "You need to stay with your squad"
+
+REFERENCE           HITHARD_PARACHUTE_OBJ_FOLLOW
+LANG_ENGLISH        "Follow your squad to the landing zone."
+
+REFERENCE           HITHARD_PARACHUTE_FAIL_LOW
+LANG_ENGLISH        "You did not make it to the landing area"
+
+REFERENCE           HITHARD_PARACHUTE_TEXT_FOLLOW
+LANG_ENGLISH        "Follow"
+
+REFERENCE           HITHARD_SECURE_OBJ_SNIPE
+LANG_ENGLISH        "Secure the Motorcade: Assist the Secret Servicemen below by taking out all enemy combatants at the intersection."
+
+REFERENCE           HITHARD_PARACHUTE_HINT_FLARE
+LANG_ENGLISH        "Hold [{+speed_throw}] and [{+attack}] to land"
+
+REFERENCE           HITHARD_PARACHUTE_HINT_FLARE_PC
+LANG_ENGLISH        "Hold ^3Left Mouse^7 and ^3Right Mouse^7 to land"
+
+REFERENCE           HITHARD_PARACHUTE_FAIL_SMOKE
+LANG_ENGLISH        "You need to avoid the smoke!"
+
+REFERENCE           HITHARD_PARACHUTE_HINT_SMOKE
+LANG_ENGLISH        "You are suffocating.  Get out of the smoke!"
+
+REFERENCE           HITHARD_SECURE_OBJ_MOUNT
+LANG_ENGLISH        "Press  [{+usereload}] to mount SUV minigun"
+
+REFERENCE           HITHARD_SECURE_OBJ_STREET
+LANG_ENGLISH        "Get down to street level and rendezvous with the motorcade."
+
+REFERENCE           HITHARD_SECURE_OBJ_ROOF
+LANG_ENGLISH        "Secure the area on your way to the rooftop of the library building."
+
+REFERENCE           HITHARD_SECURE_HINT_VIP_GUARD_VULNERABLE
+LANG_ENGLISH        "Enemies are dangerously close to the motorcade!"
+
+REFERENCE           HITHARD_TRANSITION_OBJ_FOLLOW
+LANG_ENGLISH        "Rendezvous with Patriot at street level"
+
+REFERENCE           HITHARD_SECURE_OBJ_PROTECT
+LANG_ENGLISH        "Patriot"
+
+REFERENCE           HITHARD_SECURE_FAIL_PATRIOT_DEAD
+LANG_ENGLISH        "You failed to protect Patriot!"
+
+REFERENCE           HITHARD_SECURE_HINT_ZOOM
+LANG_ENGLISH        "Press [{+actionslot 3}] to change zoom when aiming down sight"
+
+REFERENCE           HITHARD_TRANSITION_OBJ_END
+LANG_ENGLISH        "Get Patriot to safety"
+
+REFERENCE           HITHARD_TRANSITION_OBJ_TEXT_PROTECT
+LANG_ENGLISH        "Protect"
+
+REFERENCE           HITHARD_SECURE_OBJ_RAPPEL
+LANG_ENGLISH        "Rappel down to street level and rendezvous with Patriot."
+
+REFERENCE           HITHARD_SECURE_OBJ_GROUND
+LANG_ENGLISH        "Defend the motorcade from the ground."
+
+REFERENCE           HITHARD_SECURE_OBJ_UAVS
+LANG_ENGLISH        "Destroy the attacking UAVs."
+
+REFERENCE           ROCKET_EXAMPLE_LOCALIZED_STRING
+LANG_ENGLISH        "Example Localized String"
+
+REFERENCE           ROCKET_RECHARGE
+LANG_ENGLISH        "Recharge Time: "
+
+REFERENCE           ROCKET_OBJ_BASE_ALPHA
+LANG_ENGLISH        "Destroy launch site Alpha"
+
+REFERENCE           ROCKET_OBJ_BASE_DELTA
+LANG_ENGLISH        "Destroy launch site Delta"
+
+REFERENCE           ROCKET_OBJ_LAUNCHING_ROCKETS
+LANG_ENGLISH        "Destroy launch site November"
+
+REFERENCE           ROCKET_OBJ_FIND_BAKER
+LANG_ENGLISH        "Search for Baker"
+
+REFERENCE           ROCKET_OBJ_AA_BASE
+LANG_ENGLISH        "Find a way through the AA base"
+
+REFERENCE           ROCKET_OBJ_ESCAPE_AA_BASE
+LANG_ENGLISH        "Escape the AA base"
+
+REFERENCE           ROCKET_OBJ_FINAL_ROCKET
+LANG_ENGLISH        "Destroy launch site Omega"
+
+REFERENCE           ROCKET_OBJ_RESCUE_JENKINS
+LANG_ENGLISH        "Rescue Jenkins"
+
+REFERENCE           ROCKET_INTROSCREEN_1
+LANG_ENGLISH        """Winter Anvil"""
+
+REFERENCE           ROCKET_INTROSCREEN_2
+LANG_ENGLISH        "07:16:[{FAKE_INTRO_SECONDS:25}]"
+
+REFERENCE           ROCKET_INTROSCREEN_3
+LANG_ENGLISH        "SPC Walker"
+
+REFERENCE           ROCKET_INTROSCREEN_4
+LANG_ENGLISH        "Sea of Okhotsk"
+
+REFERENCE           ROCKET_ALPHA_FAIL
+LANG_ENGLISH        "You must destroy the rocket before it launches."
+
+REFERENCE           ROCKET_HINT_RAILGUN_ACTIVATE
+LANG_ENGLISH        "Press [{+actionslot 4}] to switch to Railgun targeter."
+
+REFERENCE           ROCKET_HINT_RAILGUN_LOCK
+LANG_ENGLISH        "Hold [{+attack}] for target lock on"
+
+REFERENCE           ROCKET_DELTA_FAIL
+LANG_ENGLISH        "One of the rockets escaped!"
+
+REFERENCE           ROCKET_FOLLOW_MARKER
+LANG_ENGLISH        "Follow"
+
+REFERENCE           ROCKET_JUMP_DOWN
+LANG_ENGLISH        "Jump Down"
+
+REFERENCE           ROCKET_PLACE_C4
+LANG_ENGLISH        "Place C4"
+

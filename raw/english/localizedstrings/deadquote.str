@@ -1,0 +1,309 @@
+// Note to translators:
+// If a sentence is the same in your language then please change it to "#same"
+//
+// eg:
+// LANG_ENGLISH  "HALT"
+// LANG_GERMAN   "#same"
+//
+// (This is so we can tell which strings have been signed-off as ok to be the same words for QA
+//  and because we do not store duplicate strings, which will then get exported again next time
+//  as being untranslated.)
+//
+VERSION             "1"
+CONFIG              "C:\trees\nx1\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           SO_TRY_NEW_DIFFICULTY
+LANG_ENGLISH        "OPERATIONAL INTEL
+If a Special Op is too hard or easy, try a different difficulty."
+
+REFERENCE           SO_BLED_OUT
+LANG_ENGLISH        "A teammate bled to death. Work as a team and revive each other when someone goes down."
+
+REFERENCE           SO_TEXT_COLOR_DIFFICULTY
+LANG_ENGLISH        "OPERATIONAL INTEL
+When selecting missions, red text indicates a higher difficulty than green text."
+
+REFERENCE           SO_SEARCH_FOR_WEAPONS
+LANG_ENGLISH        "OPERATIONAL INTEL
+Keep an eye out for special weapons that can help you out."
+
+REFERENCE           SO_TOGGLE_TIMER
+LANG_ENGLISH        "OPERATIONAL INTEL
+Press^3 [{+actionslot 1}] ^7to toggle the timer and mission stats."
+
+REFERENCE           SO_TOGGLE_WEAP_ALT_MODE
+LANG_ENGLISH        "OPERATIONAL INTEL
+Press^3 [{+actionslot 3}] ^7to use grenade launchers and under barrel shotguns."
+
+REFERENCE           SO_CRAWL_TO_TEAMMATE
+LANG_ENGLISH        "OPERATIONAL INTEL
+If you are downed, try crawling to your teammate."
+
+REFERENCE           SO_STAY_NEAR_TEAMMATE
+LANG_ENGLISH        "OPERATIONAL INTEL
+Stay close to your teammate and work together."
+
+REFERENCE           SO_FRIENDLY_FIRE_HINT
+LANG_ENGLISH        "OPERATIONAL INTEL
+You can hurt your teammate! Avoid friendly fire."
+
+REFERENCE           SO_RED_FIND_COVER
+LANG_ENGLISH        "OPERATIONAL INTEL
+When everything goes red, it's time to run for cover."
+
+REFERENCE           SO_LEFT_PLAY_AREA
+LANG_ENGLISH        "Stand your ground!
+You have abandoned the mission."
+
+REFERENCE           SO_FIND_FRIEND_COOP
+LANG_ENGLISH        "No one fights alone!
+Play with a friend in Split Screen or Two Player Online."
+
+REFERENCE           SO_THROW_FLASHBANG
+LANG_ENGLISH        "OPERATIONAL INTEL
+Throw ^3[{+smoke}]^7 flashbangs to stun the enemy."
+
+REFERENCE           SO_GRENADES_ROLL
+LANG_ENGLISH        "OPERATIONAL INTEL
+Be careful! Grenades roll down hill."
+
+REFERENCE           JUGGERNAUT_FLASHBANGS
+LANG_ENGLISH        "OPERATIONAL INTEL
+Use ^3[{+smoke}]^7 flashbangs to slow down Juggernauts."
+
+REFERENCE           JUGGERNAUT_HIGHCALIBER_WEAPONS
+LANG_ENGLISH        "OPERATIONAL INTEL
+High Caliber weapons like the Barrett .50 cal and Desert Eagle are more effective against Juggernauts."
+
+REFERENCE           JUGGERNAUT_HEADSHOTS
+LANG_ENGLISH        "OPERATIONAL INTEL
+Try for head shots when facing Juggernauts."
+
+REFERENCE           JUGGERNAUT_EXPLOSIVES
+LANG_ENGLISH        "OPERATIONAL INTEL
+Explosives are very effective against Juggernauts."
+
+REFERENCE           JUGGERNAUT_CORNERED
+LANG_ENGLISH        "OPERATIONAL INTEL
+Do not get cornered by a Juggernaut. Keep your distance."
+
+REFERENCE           SO_BEAT_BEST_TIME
+LANG_ENGLISH        "Try to beat your best time.
+Experiment with different strategies and paths."
+
+REFERENCE           SO_FRIENDLY_FIRE_KILL
+LANG_ENGLISH        "Mission failed due to Friendly Fire."
+
+REFERENCE           RIOTSHIELD_USE_EXPLOSIVE
+LANG_ENGLISH        "OPERATIONAL INTEL
+Try using Grenades, RPGs and Grenade Launchers against enemies with Riot Shields."
+
+REFERENCE           RIOTSHIELD_OUT_FLANK
+LANG_ENGLISH        "OPERATIONAL INTEL
+Riot Shields only protect from the front! Outflank them and they aren't any tougher than a normal enemy."
+
+REFERENCE           RIOTSHIELD_DONT_CHARGE
+LANG_ENGLISH        "OPERATIONAL INTEL
+Keep your distance! Charging an enemy with a Riot Shield is a bad idea."
+
+REFERENCE           SO_STAR_RANKINGS
+LANG_ENGLISH        "Clearing an Op on Hardened is worth 2 stars. Veteran is worth 3 stars."
+
+REFERENCE           SO_ICON_PARTNER
+LANG_ENGLISH        "Locate your partner by looking for their name. If they are off screen the green arrow points towards them."
+
+REFERENCE           SO_ICON_OBJ
+LANG_ENGLISH        "OPERATIONAL INTEL
+The white dot marks the location of your objective."
+
+REFERENCE           SO_ICON_OBJ_OFFSCREEN
+LANG_ENGLISH        "When your objective isn't in view, the icon for it changes."
+
+REFERENCE           THOSE_WHO_PLOT_THE_DESTRUCTION
+LANG_ENGLISH        """Those who plot the destruction of others often perish in the attempt."" - Thomas Moore"
+
+REFERENCE           IN_TAKING_REVENGE_A_MAN
+LANG_ENGLISH        """In taking revenge, a man is but even with his enemy; but in passing it over, he is superior."" - Francis Bacon"
+
+REFERENCE           ONE_GOOD_ACT_OF_VENGEANCE
+LANG_ENGLISH        """One good act of vengeance deserves another."" - Jon Jefferson"
+
+REFERENCE           YOU_CANNOT_GET_AHEAD
+LANG_ENGLISH        """You cannot get ahead while you are getting even."" - Dick Armey"
+
+REFERENCE           DONT_GET_MAD_GET_EVEN
+LANG_ENGLISH        """Don't get mad, get even."" - Robert F. Kennedy"
+
+REFERENCE           REVENGE_IS_PROFITABLE
+LANG_ENGLISH        """Revenge is profitable."" - Edward Gibbon"
+
+REFERENCE           AN_EYE_FOR_AN_EYE_MAKES
+LANG_ENGLISH        """An eye for an eye makes the whole world blind."" - Gandhi"
+
+REFERENCE           IF_AN_INJURY_HAS_TO_BE
+LANG_ENGLISH        """If an injury has to be done to a man it should be so severe that his vengeance need not be feared."" - Machiavelli"
+
+REFERENCE           LIVE_WELL_IT_IS_THE_GREATEST
+LANG_ENGLISH        """Live well. It is the greatest revenge."" - The Talmud"
+
+REFERENCE           REVENGE_AT_FIRST_THOUGH
+LANG_ENGLISH        """Revenge, at first though sweet, Bitter ere long back on itself recoils."" - John Milton"
+
+REFERENCE           BEFORE_YOU_EMBARK_UPON
+LANG_ENGLISH        """Before you embark upon a journey of revenge, you should first dig two graves."" - Confucius"
+
+REFERENCE           DISSENT_REBELLION_AND
+LANG_ENGLISH        """...dissent, rebellion, and all-around hell-raising remain the true duty of patriots."" - Barbara Ehrenreich"
+
+REFERENCE           A_CITIZEN_OF_AMERICA
+LANG_ENGLISH        """A citizen of America will cross the ocean to fight for democracy, but won't cross the street to vote..."" - Bill Vaughan"
+
+REFERENCE           I_WAS_BORN_AN_AMERICAN
+LANG_ENGLISH        """I was born an American; I will live an American; I shall die an American!"" - Daniel Webster"
+
+REFERENCE           WE_MUST_NOT_CONFUSE_DISSENT
+LANG_ENGLISH        """We must not confuse dissent with disloyalty."" - Edward R. Murrow"
+
+REFERENCE           PATRIOTISM_IS_YOUR_CONVICTION
+LANG_ENGLISH        """Patriotism is your conviction that this country is superior to all others because you were born in it."" - George Bernard Shaw"
+
+REFERENCE           PATRIOTISM_IS_A_ARBITRARY
+LANG_ENGLISH        """Patriotism is a arbitrary veneration of real estate above principles."" - George Jean Nathan"
+
+REFERENCE           A_MANS_FEET_MUST_BE_PLANTED
+LANG_ENGLISH        """A man's feet must be planted in his country, but his eyes should survey the world."" - George Santayana"
+
+REFERENCE           PATRIOTISM_RUINS_HISTORY
+LANG_ENGLISH        """Patriotism ruins history."" - Goethe"
+
+REFERENCE           ASK_NOT_WHAT_YOUR_COUNTRY
+LANG_ENGLISH        """Ask not what your country can do for you, but what you can do for your country."" - John F. Kennedy"
+
+REFERENCE           THE_NATION_IS_DIVIDED
+LANG_ENGLISH        """The nation is divided, half patriots and half traitors, and no man can tell which from which."" - Mark Twain"
+
+REFERENCE           IF_YOU_WANT_A_SYMBOLIC
+LANG_ENGLISH        """If you want a symbolic gesture, don't burn the flag; wash it."" - Norman Thomas"
+
+REFERENCE           I_WILL_FIGHT_FOR_MY_COUNTRY
+LANG_ENGLISH        """I will fight for my country, but I will not lie for her."" - Zora Neale Hurston"
+
+REFERENCE           PATRIOTISM_IS_SUPPORTING
+LANG_ENGLISH        """Patriotism is supporting your country all the time, and your government when it deserves it."" - Mark Twain"
+
+REFERENCE           A_NATION_REVEALS_ITSELF
+LANG_ENGLISH        """A nation reveals itself not only by the men it produces but also by the men it honors, the men it remembers."" - John F. Kennedy"
+
+REFERENCE           I_ONLY_REGRET_THAT_I
+LANG_ENGLISH        """I only regret that I have but one life to give for my country."" - Nathan Hale"
+
+REFERENCE           PATRIOTISM_VARIES_FROM
+LANG_ENGLISH        """Patriotism varies, from a noble devotion to a moral lunacy."" - W.R. Inge"
+
+REFERENCE           IF_YOU_ARE_ASHAMED_TO
+LANG_ENGLISH        """If you are ashamed to stand by your colors, you had better seek another flag."" - Anonymous"
+
+REFERENCE           NATIONALISM_IS_AN_INFANTILE
+LANG_ENGLISH        """Nationalism is an infantile disease.  It is the measles of mankind."" - Albert Einstein"
+
+REFERENCE           IF_OUR_COUNTRY_IS_WORTH
+LANG_ENGLISH        """If our country is worth dying for in time of war let us resolve that it is truly worth living for in time of peace."" - Hamilton Fish"
+
+REFERENCE           IT_IS_LAMENTABLE_THAT
+LANG_ENGLISH        """It is lamentable, that to be a good patriot one must become the enemy of the rest of mankind."" - Voltaire"
+
+REFERENCE           TRADITIONAL_NATIONALISM
+LANG_ENGLISH        """Traditional nationalism cannot survive the fissioning of the atom. One world or none."" - Stuart Chase"
+
+REFERENCE           WE_KNOW_WHERE_THEY_ARE
+LANG_ENGLISH        """We know where they are. They're in the area around Tikrit and Baghdad and east, west, south and north somewhat."" - Donald Rumsfeld"
+
+REFERENCE           I_WOULD_NOT_SAY_THAT
+LANG_ENGLISH        """I would not say that the future is necessarily less predictable than the past. I think the past was not predictable when it started."" - Donald Rumsfeld"
+
+REFERENCE           IT_IS_EASY_TO_TAKE_LIBERTY
+LANG_ENGLISH        """It is easy to take liberty for granted, when you have never had it taken from you."" - Dick Cheney"
+
+REFERENCE           PRINCIPLE_IS_OK_UP_TO
+LANG_ENGLISH        """Principle is OK up to a certain point, but principle doesn't do any good if you lose."" - Dick Cheney"
+
+REFERENCE           I_LOVE_AMERICA_MORE_THAN
+LANG_ENGLISH        """I love America more than any other country in this world; and, exactly for this reason, I insist on the right to criticize her perpetually."" - James Baldwin"
+
+REFERENCE           AS_WE_EXPRESS_OUR_GRATITUDE
+LANG_ENGLISH        """As we express our gratitude, we must never forget that the highest appreciation is not to utter words, but to live by them."" - John F. Kennedy"
+
+REFERENCE           SO_RUN_OVER_BY_VEHICLE
+LANG_ENGLISH        "You were run over.
+Keep an eye out for enemy vehicles on the move."
+
+REFERENCE           HE_WHO_FIGHTS_MONSTERS
+LANG_ENGLISH        """He who fights with monsters might take care lest he thereby become a monster."" - Friedrich Nietzsche 
+"
+
+REFERENCE           WAR_DID_NOT_INCLUDE_KILLING
+LANG_ENGLISH        """I thought if war did not include killing, I'd like to see one every year.""
+- Maya Angelou"
+
+REFERENCE           NO_NATION_HAS_FRIENDS
+LANG_ENGLISH        """No nation has friends, only interests."" 
+- Charles DeGaulle"
+
+REFERENCE           IVE_SEEN_THE_FUTURE
+LANG_ENGLISH        """I've seen the future, brother: it is murder."" 
+- Leonard Cohen"
+
+REFERENCE           WAR_ITSELF_IS_THE_ENEMY
+LANG_ENGLISH        """War itself is the enemy of the human race.""
+- Howard Zinn"
+
+REFERENCE           OER_ALL_THE_EARTH
+LANG_ENGLISH        """O'er all the earth resound loud war's alarms.
+Illume no more, oh Moon! these traitors' arms.""
+- Du Fu"
+
+REFERENCE           ONLY_AIM_TO_DO_YOUR_DUTY
+LANG_ENGLISH        """Only aim to do your duty, and mankind will give you credit where you fail.""
+- Thomas Jefferson"
+
+REFERENCE           NO_EULOGY_IS_DUE
+LANG_ENGLISH        """No eulogy is due to him who simply does his duty and nothing more.""
+- St. Augustine"
+
+REFERENCE           DO_YOUR_DUTY_AND
+LANG_ENGLISH        """Do your duty and a little more and the future will take care of itself.""
+- Andrew Carnegie"
+
+REFERENCE           DEAR_FUTURE_GENERATIONS
+LANG_ENGLISH        """Dear future generations: Please accept our apologies. We were rolling drunk on petroleum.""
+- Kurt Vonnegut"
+
+REFERENCE           ALL_ADVENTURES_SCARY
+LANG_ENGLISH        """All adventures, especially into new territory, are scary."" 
+- Sally Ride"
+
+REFERENCE           SO_STEALTH_LOOK_FOR_ENEMIES
+LANG_ENGLISH        "OPERATIONAL INTEL
+Look for enemies close to or facing your target before you shoot. Take out the entire group quickly to avoid breaking stealth."
+
+REFERENCE           SO_STEALTH_STAY_LOW
+LANG_ENGLISH        "OPERATIONAL INTEL
+Stay low. You are easier to see and hear while standing or sprinting."
+
+REFERENCE           SO_STEALTH_USE_SILENCERS
+LANG_ENGLISH        "OPERATIONAL INTEL
+Use your silencers. Grenades and unsuppressed weapons will attract a lot of attention."
+
+REFERENCE           SO_CLAYMORE_ENEMIES_SHOOT
+LANG_ENGLISH        "OPERATIONAL INTEL
+Enemies will shoot exposed claymores. Conceal your claymores behind cover."
+
+REFERENCE           SO_CLAYMORE_POINT_ENEMY
+LANG_ENGLISH        "OPERATIONAL INTEL
+Plant claymores so the red beams face where the enemy will appear."
+
+REFERENCE           SO_TURRET_PLACEMENT
+LANG_ENGLISH        "OPERATIONAL INTEL
+Protect your sentry turrets! Place them in cover at positions where they wont be flanked."
+

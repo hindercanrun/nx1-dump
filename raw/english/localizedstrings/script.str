@@ -1,0 +1,589 @@
+// Note to translators:
+// If a sentence is the same in your language then please change it to "#same"
+//
+// eg:
+// LANG_ENGLISH  "HALT"
+// LANG_GERMAN   "#same"
+//
+// (This is so we can tell which strings have been signed-off as ok to be the same words for QA
+//  and because we do not store duplicate strings, which will then get exported again next time
+//  as being untranslated.)
+//
+VERSION             "1"
+CONFIG              "C:\trees\nx1\bin\StringEd.cfg"
+FILENOTES           "All game messages made by script should go in this file."
+
+REFERENCE           MISSIONFAIL_KILLTEAM_RUSSIAN
+LANG_ENGLISH        "You are a traitor to the motherland!"
+
+REFERENCE           MISSIONFAIL_KILLTEAM_BRITISH
+LANG_ENGLISH        "Friendly fire will not be tolerated!"
+
+REFERENCE           MISSIONFAIL_KILLTEAM_AMERICAN
+LANG_ENGLISH        "Friendly fire will not be tolerated!"
+
+REFERENCE           MISSIONFAIL_CIVILIAN_KILLED
+LANG_ENGLISH        "You shot a civilian. Watch your fire!"
+
+REFERENCE           SHOT_TEAMMATE
+LANG_ENGLISH        "You shot a team mate!"
+
+REFERENCE           HINT_OBJECTIVEONCOMPASS
+LANG_ENGLISH        "The star on your compass marks your next objective"
+
+REFERENCE           OBJ_DESTROYFLAKPANZERS
+LANG_ENGLISH        "Destroy the 'Flakpanzer' Anti-Aircraft Tanks.^3 &&1 remaining^7"
+
+REFERENCE           OBJ_FOLEYDEBRIEF
+LANG_ENGLISH        "Debrief with Captain Foley at the crossroads."
+
+REFERENCE           HINT_CANT_OPEN_DOORS
+LANG_ENGLISH        "This door cannot be opened. You never need to try to open closed doors."
+
+REFERENCE           EXPLOSIVESPLANTED
+LANG_ENGLISH        "EXPLOSIVES PLANTED. STAND BACK!"
+
+REFERENCE           HINT_PICKUPAMMOKEY
+LANG_ENGLISH        "To pickup ammo from another weapon, walk close to it or look at it and press USE^3 &&1^7."
+
+REFERENCE           HINT_LEANINGSLOWMOVE
+LANG_ENGLISH        "You move slower while leaning."
+
+REFERENCE           HINTSTR_GRENADESFULL
+LANG_ENGLISH        "You can't carry anymore grenades."
+
+REFERENCE           PICKUPSTIELHANDGRANATES
+LANG_ENGLISH        "Picked up some Stielhandgranates."
+
+REFERENCE           GLOWING_MARKER
+LANG_ENGLISH        "Look for the glowing marker on the German anti-aircraft vehicle."
+
+REFERENCE           CLEARBUILDING
+LANG_ENGLISH        "Clear the building with the Machine Guns in it."
+
+REFERENCE           TAKELEFTFLANK
+LANG_ENGLISH        "Take the left flank."
+
+REFERENCE           FIRE_TO_SKIP
+LANG_ENGLISH        "Click FIRE to Skip."
+
+REFERENCE           USE_THE_PANZERFAUST_ANTITANK
+LANG_ENGLISH        "Use the Panzerfaust anti-tank weapons behind the bunker to destroy the tanks."
+
+REFERENCE           ARTILLERY_TOOFAR
+LANG_ENGLISH        "You are too far from your radio man to use artillery."
+
+REFERENCE           ELIMINATE_THE_FLAK_88_DONE
+LANG_ENGLISH        "Eliminate the Flak 88 crews."
+
+REFERENCE           ELIMINATE_THE_FLAK_88
+LANG_ENGLISH        "Eliminate the Flak 88 crews.^3 &&1 remaining^7"
+
+REFERENCE           GRENADE_DEATH
+LANG_ENGLISH        "You were killed by a grenade.
+Watch out for the grenade danger indicator."
+
+REFERENCE           GRENADE_SUICIDE_LINE1
+LANG_ENGLISH        "You died holding a grenade for too long."
+
+REFERENCE           GRENADE_SUICIDE_LINE2
+LANG_ENGLISH        "Holding ^3[{+frag}]^7 allows you to cook off live grenades."
+
+REFERENCE           EXPLODING_VEHICLE_DEATH
+LANG_ENGLISH        "You were killed by an exploding vehicle.
+Vehicles on fire are likely to explode."
+
+REFERENCE           EXPLODING_DESTRUCTIBLE_DEATH
+LANG_ENGLISH        "You were killed by an explosion.
+Some burning objects can explode."
+
+REFERENCE           EXPLODING_BARREL_DEATH
+LANG_ENGLISH        "You were killed by an exploding barrel.
+Red barrels will explode when shot."
+
+REFERENCE           X2
+LANG_ENGLISH        "x2"
+
+REFERENCE           X3
+LANG_ENGLISH        "x3"
+
+REFERENCE           PLUS
+LANG_ENGLISH        "+"
+
+REFERENCE           MINUS
+LANG_ENGLISH        "-"
+
+REFERENCE           PLUS_AMOUNT
+LANG_ENGLISH        "+%s"
+
+REFERENCE           MINUS_AMOUNT
+LANG_ENGLISH        "-%s"
+
+REFERENCE           PLUS_DOLLAR
+LANG_ENGLISH        "+$"
+
+REFERENCE           MINUS_DOLLAR
+LANG_ENGLISH        "-$"
+
+REFERENCE           DOLLAR
+LANG_ENGLISH        "$"
+
+REFERENCE           INTELLIGENCE_PICKUP
+LANG_ENGLISH        "Press and hold^3 &&1 ^7to secure the enemy intelligence."
+
+REFERENCE           INTELLIGENCE_FOUND
+LANG_ENGLISH        "You have found enemy intel."
+
+REFERENCE           INTELLIGENCE_OF_THIRTY
+LANG_ENGLISH        "&&1/30 pieces of enemy intel found."
+
+REFERENCE           INTELLIGENCE_OF_FOURTYFIVE
+LANG_ENGLISH        "&&1/45 pieces of enemy intel found."
+
+REFERENCE           INTELLIGENCE_OF_SIXTY
+LANG_ENGLISH        "&&1/60 pieces of enemy intel found."
+
+REFERENCE           INTELLIGENCE_PTS
+LANG_ENGLISH        "You have found &&1 enemy intel pts."
+
+REFERENCE           INTELLIGENCE_REMAINING
+LANG_ENGLISH        "&&1 pieces of enemy intel remain."
+
+REFERENCE           INTELLIGENCE_ONEREMAINING
+LANG_ENGLISH        "&&1 piece of enemy intel remains."
+
+REFERENCE           DEBUG_LEVEL_END
+LANG_ENGLISH        "End of current level."
+
+REFERENCE           C4_USE
+LANG_ENGLISH        "Press^3 [{+actionslot 2}] ^7to use C4."
+
+REFERENCE           NIGHTVISION_USE
+LANG_ENGLISH        "Press^3 [{+actionslot 1}] ^7to use Night Vision Goggles."
+
+REFERENCE           THREATID_USE
+LANG_ENGLISH        "Press^3 [{+actionslot 1}] ^7to toggle Threat ID."
+
+REFERENCE           NIGHTVISION_STOP_USE
+LANG_ENGLISH        "Press^3 [{+actionslot 1}] ^7to disable Night Vision Goggles."
+
+REFERENCE           LEARN_GRENADE_LAUNCHER
+LANG_ENGLISH        "Press^3 [{+actionslot 3}] ^7to use the M203 Grenade Launcher."
+
+REFERENCE           LEARN_CHOPPER_AIR_SUPPORT1
+LANG_ENGLISH        "Close Air Support standing by!"
+
+REFERENCE           LEARN_CHOPPER_AIR_SUPPORT1_PC
+LANG_ENGLISH        "Close Air Support standing by! Press ^3[{+actionslot 4}]."
+
+REFERENCE           ARMOR_DAMAGE
+LANG_ENGLISH        "Armor can only be damaged
+by C4 and rockets."
+
+REFERENCE           MANTLE
+LANG_ENGLISH        "Press ^3[{+gostand}]^7 to "
+
+REFERENCE           LEARN_M14_SWITCH
+LANG_ENGLISH        "Press ^3[{weapnext}]^7 to switch to your M21 Sniper Rifle"
+
+REFERENCE           LEARN_JAVELIN
+LANG_ENGLISH        "Press ^3[{weapnext}]^7 to switch to the Javelin"
+
+REFERENCE           LEARN_CLAYMORES
+LANG_ENGLISH        "Press ^3[{+actionslot 4}]^7 to use claymores."
+
+REFERENCE           HOLD_TO_USE
+LANG_ENGLISH        "Press and hold^3 &&1 ^7to use"
+
+REFERENCE           RADIATION_DEATH
+LANG_ENGLISH        "Avoid the radiation zones.
+Listen for the clicks of the Geiger counter."
+
+REFERENCE           LEARN_CLAYMORE_PLACEMENT
+LANG_ENGLISH        "Pull^3 [{+attack}] ^7to plant claymores."
+
+REFERENCE           COLON
+LANG_ENGLISH        ":"
+
+REFERENCE           TOTAL_SCORE
+LANG_ENGLISH        "TOTAL SCORE:"
+
+REFERENCE           MISSION_SCORE
+LANG_ENGLISH        "MISSION SCORE:"
+
+REFERENCE           TIME_REMAINING
+LANG_ENGLISH        "TIME REMAINING:"
+
+REFERENCE           EXTRA_LIFE
+LANG_ENGLISH        "EXTRA LIFE X "
+
+REFERENCE           CHECKPOINT
+LANG_ENGLISH        "CHECKPOINT!"
+
+REFERENCE           ZERO_DEATHS
+LANG_ENGLISH        "ZERO DEATHS BONUS x2"
+
+REFERENCE           DIFFICULTY_BONUS_ONEANDAHALF
+LANG_ENGLISH        "DIFFICULTY BONUS x1.5"
+
+REFERENCE           DIFFICULTY_BONUS_THREE
+LANG_ENGLISH        "DIFFICULTY BONUS x3"
+
+REFERENCE           DIFFICULTY_BONUS_FOUR
+LANG_ENGLISH        "DIFFICULTY BONUS x4"
+
+REFERENCE           TIME_UP
+LANG_ENGLISH        "TIME UP"
+
+REFERENCE           GAME_OVER
+LANG_ENGLISH        "GAME OVER"
+
+REFERENCE           MISSION_COMPLETE
+LANG_ENGLISH        "MISSION COMPLETE"
+
+REFERENCE           NEW_HIGH_SCORE
+LANG_ENGLISH        "NEW HIGH SCORE!"
+
+REFERENCE           HINT_THROW_C4
+LANG_ENGLISH        "Press ^3[{+throw}]^7 to throw C4."
+
+REFERENCE           HINT_THROW_C4_TOGGLE
+LANG_ENGLISH        "Press ^3[{+toggleads_throw}]^7 to throw C4."
+
+REFERENCE           HINT_THROW_C4_SPEED_TRIGGER
+LANG_ENGLISH        "Pull ^3[{+speed_throw}]^7 to throw C4."
+
+REFERENCE           HINT_THROW_C4_SPEED
+LANG_ENGLISH        "Press ^3[{+speed_throw}]^7 to throw C4."
+
+REFERENCE           X
+LANG_ENGLISH        "x"
+
+REFERENCE           STREAK_BONUS_LOST
+LANG_ENGLISH        "STREAK BONUS LOST"
+
+REFERENCE           STREAK_COMPLETE
+LANG_ENGLISH        "-STREAK COMPLETE-"
+
+REFERENCE           1UP
+LANG_ENGLISH        "1UP"
+
+REFERENCE           COOP_REVIVE
+LANG_ENGLISH        "Hold ^3[{+activate}]^7 to revive"
+
+REFERENCE           COOP_REVIVING
+LANG_ENGLISH        "Being revived..."
+
+REFERENCE           COOP_BLEEDING_OUT
+LANG_ENGLISH        "Bleeding out"
+
+REFERENCE           BREACH_TOO_MANY_ENEMIES
+LANG_ENGLISH        "Cannot breach. Clear the area of all enemies"
+
+REFERENCE           BREACH_RELOADING
+LANG_ENGLISH        "Cannot breach while reloading"
+
+REFERENCE           BREACH_ILLEGAL_WEAPON
+LANG_ENGLISH        "Cannot breach with this weapon"
+
+REFERENCE           BREACH_NEED_PLAYER
+LANG_ENGLISH        "Both players must be near a door to breach"
+
+REFERENCE           BREACH_NEED_FRIENDLY
+LANG_ENGLISH        "Waiting for friendlies to get in position..."
+
+REFERENCE           CHECKPOINT_TIME
+LANG_ENGLISH        "Checkpoint: "
+
+REFERENCE           INVULERABLE_BULLETS
+LANG_ENGLISH        "Bullets cannot damage this vehicle"
+
+REFERENCE           INVULERABLE_FRAGS
+LANG_ENGLISH        "Frag Grenades cannot damage this vehicle"
+
+REFERENCE           MISSIONFAIL_KILLEDHOSTAGE
+LANG_ENGLISH        "Mission failed. You killed a hostage."
+
+REFERENCE           MISSIONFAIL_KILLEDHOSTAGE_THROUGH_ENEMY
+LANG_ENGLISH        "Mission failed. You shot a hostage through an enemy.
+Some weapons have deep bullet penetration."
+
+REFERENCE           MISSIONFAIL_HOSTAGEEXECUTED
+LANG_ENGLISH        "Mission failed. A hostage was executed."
+
+REFERENCE           MISSIONFAIL_HOSTAGEEXECUTED_USEMULTIDOOR
+LANG_ENGLISH        "Mission failed. A hostage was executed.
+Try breaching from opposite doors."
+
+REFERENCE           WAYPOINT_COVER
+LANG_ENGLISH        "Cover"
+
+REFERENCE           WAYPOINT_BREACH
+LANG_ENGLISH        "Breach"
+
+REFERENCE           WAYPOINT_SHEPHERD
+LANG_ENGLISH        " "
+
+REFERENCE           GRENADE_SUICIDE_COMBINED
+LANG_ENGLISH        "You died holding a grenade for too long.
+Holding ^3[{+frag}]^7 allows you to cook off live grenades."
+
+REFERENCE           INTELLIGENCE_OF_MAX
+LANG_ENGLISH        "&&1/54 pieces of enemy intel found."
+
+REFERENCE           COOP_BLEEDING_OUT_PARTNER
+LANG_ENGLISH        "Partner down"
+
+REFERENCE           COOP_REVIVING_PARTNER
+LANG_ENGLISH        "Reviving partner..."
+
+REFERENCE           INTELLIGENCE_PREV_FOUND
+LANG_ENGLISH        "Enemy intel previously found."
+
+REFERENCE           WAYPOINT_TARGETS
+LANG_ENGLISH        "Targets"
+
+REFERENCE           BREACH_PARTNER_NOT_READY
+LANG_ENGLISH        "Both players are not ready to breach"
+
+REFERENCE           BREACH_YOU_NOT_READY
+LANG_ENGLISH        "You are not ready to breach"
+
+REFERENCE           THREATID_LOADING
+LANG_ENGLISH        "LOADING"
+
+REFERENCE           THREATID_ACTIVE
+LANG_ENGLISH        "THREAT I.D. ACTIVE"
+
+REFERENCE           THREATID_SCANNING
+LANG_ENGLISH        "SCANNING"
+
+REFERENCE           THREATID_ACTIVE_THREATS
+LANG_ENGLISH        "ACTIVE THREATS - [{NUM_ACTIVE_THREATS:8}]"
+
+REFERENCE           HINT_FLIP_TABLE
+LANG_ENGLISH        "Press ^3 &&1^7 to flip table."
+
+REFERENCE           HINT_SLIDE_TABLE
+LANG_ENGLISH        "Press ^3 &&1^7 to slide table."
+
+REFERENCE           HELISUPPORT_IN_PROGRESS
+LANG_ENGLISH        "Helicopter support in progress."
+
+REFERENCE           HELISUPPORT_NO_DROP_AVAIL
+LANG_ENGLISH        "No drop location available."
+
+REFERENCE           HINT_VENDING_MACHINE_TIP
+LANG_ENGLISH        "Press ^3 &&1^7 to tip over."
+
+REFERENCE           HELISUPPORT_PULL_RT_TO_THROW
+LANG_ENGLISH        "Pull ^3 [{+attack}] ^7 to throw the helicopter support marker"
+
+REFERENCE           PLATFORM_HINT_GET_DETONATOR
+LANG_ENGLISH        "Press and hold &&1 to pick up the detonator."
+
+REFERENCE           PLATFORM_HINT_PLANTBEACON
+LANG_ENGLISH        "Press and hold &&1 to plant the IR beacon."
+
+REFERENCE           PLATFORM_FIRE_TO_SKIP
+LANG_ENGLISH        "Press  to Skip."
+
+REFERENCE           PLATFORM_HINT_PRONEKEY
+LANG_ENGLISH        "Press &&1 to go prone"
+
+REFERENCE           PLATFORM_HINT_DOUBLETAPPRONEKEY
+LANG_ENGLISH        "Double tap &&1 to go prone"
+
+REFERENCE           PLATFORM_HINT_HOLDDOWNPRONEKEY
+LANG_ENGLISH        "Hold down &&1 to go prone"
+
+REFERENCE           PLATFORM_HINT_ADSKEY
+LANG_ENGLISH        "Press &&1 to aim down the sight"
+
+REFERENCE           PLATFORM_HINT_HOLDDOWNADSKEY
+LANG_ENGLISH        "Hold down &&1 to aim down the sight"
+
+REFERENCE           PLATFORM_HINT_STANDFROMPRONEKEY
+LANG_ENGLISH        "Press &&1 to stand up from prone"
+
+REFERENCE           PLATFORM_HINT_DOUBLETAPSTANDKEY
+LANG_ENGLISH        "Double tap &&1 to stand from prone"
+
+REFERENCE           PLATFORM_HINT_SWITCHTOGRENADE
+LANG_ENGLISH        "Press &&1 to switch to grenades"
+
+REFERENCE           PLATFORM_HINT_MELEEATTACK
+LANG_ENGLISH        "Press &&1 to do a melee attack"
+
+REFERENCE           PLATFORM_DOG_DEATH_TOO_SOON
+LANG_ENGLISH        "[{+melee}] Wait for the dog to bite to grab its throat."
+
+REFERENCE           PLATFORM_DOG_DEATH_TOO_LATE
+LANG_ENGLISH        "[{+melee}] Melee the dog before it bites to grab its throat."
+
+REFERENCE           PLATFORM_DOG_DEATH_DO_NOTHING
+LANG_ENGLISH        "[{+melee}] Melee the dog right when it bites to grab its throat."
+
+REFERENCE           PLATFORM_DOG_HINT
+LANG_ENGLISH        "[{+melee}]"
+
+REFERENCE           PLATFORM_HINT_PLANTEXPLOSIVES
+LANG_ENGLISH        "Press and hold &&1 to plant the explosives."
+
+REFERENCE           PLATFORM_HINT_LEANOUTWINDOW
+LANG_ENGLISH        "Press USE &&1 to lean out of the window"
+
+REFERENCE           PLATFORM_HINT_FIRSTOBJECTIVE
+LANG_ENGLISH        "Look at your first objective and press &&1 to retrieve"
+
+REFERENCE           PLATFORM_HINT_STRAFELEFT
+LANG_ENGLISH        "Press your Move Left key &&1 to move left."
+
+REFERENCE           PLATFORM_HINT_STRAFERIGHT
+LANG_ENGLISH        "Press your Move Right key &&1 to move right."
+
+REFERENCE           PLATFORM_HINT_MOVEFORWARD
+LANG_ENGLISH        "Press your Move Forward key &&1 to move forward."
+
+REFERENCE           PLATFORM_HINT_MOVEBACKWARD
+LANG_ENGLISH        "Press your Move Back key &&1 to move backwards."
+
+REFERENCE           PLATFORM_HINT_CHECKCURRENTOBJECTIVE
+LANG_ENGLISH        "Press &&1 to check your current objective."
+
+REFERENCE           PLATFORM_HINT_SWITCHTOSECONDWEAPON
+LANG_ENGLISH        "You now have two weapons. Press &&1 to switch to your second weapon."
+
+REFERENCE           PLATFORM_HINT_TRAINING_SWITCHTOGRENADE
+LANG_ENGLISH        "Press &&1 to switch to your grenades."
+
+REFERENCE           PLATFORM_HINT_CROUCHKEY
+LANG_ENGLISH        "Press &&1 to crouch."
+
+REFERENCE           PLATFORM_HINT_CROUCHTOGGLEFROM
+LANG_ENGLISH        "Press &&1 a second time to stand up from crouch."
+
+REFERENCE           PLATFORM_HINT_HOLDDOWNCROUCHKEY
+LANG_ENGLISH        "Hold down &&1 to crouch."
+
+REFERENCE           PLATFORM_HINT_RAISEFROMPRONETOCROUCH
+LANG_ENGLISH        "Press &&1 to switch from crouch from prone."
+
+REFERENCE           PLATFORM_HINT_STANDKEY
+LANG_ENGLISH        "Press &&1 to stand up."
+
+REFERENCE           PLATFORM_HINT_STANDLETGOCROUCHKEY
+LANG_ENGLISH        "Let go of &&1 to stop crouching."
+
+REFERENCE           PLATFORM_HINT_STANDLETGOSECONDKEY
+LANG_ENGLISH        "If this makes you go prone, double tap &&1."
+
+REFERENCE           PLATFORM_HINT_STANDFROMCROUCHKEY
+LANG_ENGLISH        "Double tap &&1 to stand up from crouch."
+
+REFERENCE           PLATFORM_HINT_RAISEFROMCROUCHTOSTAND
+LANG_ENGLISH        "Single tap &&1 to stand from crouch."
+
+REFERENCE           PLATFORM_HINT_STANDLETGOPRONEKEY
+LANG_ENGLISH        "Let go of &&1 to come out of prone."
+
+REFERENCE           PLATFORM_HINT_ADSSTOP
+LANG_ENGLISH        "Press &&1 a second time to stop aiming down the sight."
+
+REFERENCE           PLATFORM_HINT_FIRSTWEAPONKEY
+LANG_ENGLISH        "Press &&1 to switch to your first weapon."
+
+REFERENCE           PLATFORM_HINT_SECONDWEAPONKEY
+LANG_ENGLISH        "Press &&1 to switch to your second weapon."
+
+REFERENCE           PLATFORM_HINT_SWAPWEAPONSKEY
+LANG_ENGLISH        "Hold &&1 to swap your current weapon for another that you are looking at."
+
+REFERENCE           PLATFORM_HINT_PICKUPWEAPONKEY
+LANG_ENGLISH        "To pickup a weapon, look at it and press &&1."
+
+REFERENCE           PLATFORM_HINT_JUMPSTANDKEY
+LANG_ENGLISH        "While standing, press &&1 to jump."
+
+REFERENCE           PLATFORM_HINT_LEANLEFTKEY
+LANG_ENGLISH        "Hold down &&1 to lean to the left."
+
+REFERENCE           PLATFORM_HINT_LEANRIGHTKEY
+LANG_ENGLISH        "Hold down &&1 to lean to the right."
+
+REFERENCE           PLATFORM_HINTSTR_PICKUPGRENADES
+LANG_ENGLISH        "Press &&1 to pick up the grenades."
+
+REFERENCE           PLATFORM_HINTSTR_PLANTEXPLOSIVES
+LANG_ENGLISH        "Press and hold &&1 to plant the explosives."
+
+REFERENCE           PLATFORM_HINTSTR_PICKUPEXPLOSIVES
+LANG_ENGLISH        "Hold &&1 to pick up the explosives."
+
+REFERENCE           PLATFORM_HINT_RELOAD
+LANG_ENGLISH        "Press &&1 to reload at any time."
+
+REFERENCE           PLATFORM_HINTSTR_TAKEEXPLOSIVES
+LANG_ENGLISH        "Hold &&1 to take the explosives."
+
+REFERENCE           PLATFORM_AC130_HINT_TOGGLE_THERMAL
+LANG_ENGLISH        "Press [{+usereload}] to toggle thermal vision
+between white hot and black hot."
+
+REFERENCE           PLATFORM_AC130_HINT_ZOOM_AND_FIRE
+LANG_ENGLISH        "Pull [{+speed}] to control zoom and  pull [{+attack}] to fire."
+
+REFERENCE           PLATFORM_AXIS_OPTION_YES
+LANG_ENGLISH        " Yes"
+
+REFERENCE           PLATFORM_AXIS_OPTION_NO
+LANG_ENGLISH        " No"
+
+REFERENCE           PLATFORM_LAUNCHFACILITY_A_HINT_PLANT_C4_GLOW
+LANG_ENGLISH        "To plant C4, approach the glowing objective marker and press and hold [{+usereload}]."
+
+REFERENCE           PLATFORM_LAUNCHFACILITY_A_HINT_SMOKE
+LANG_ENGLISH        "Throw smoke [{+smoke}] to safely approach the enemy vehicle."
+
+REFERENCE           PLATFORM_SPOOL_MINIGUN
+LANG_ENGLISH        "Pull and hold ^3[{+speed_throw}]^7 to spool up the minigun."
+
+REFERENCE           PLATFORM_CHEAT_USETOSLOWMO
+LANG_ENGLISH        "Use ^3[{+melee}]^7 to start or stop Slow-Mo."
+
+REFERENCE           PLATFORM_LEARN_CHOPPER_AIR_SUPPORT2
+LANG_ENGLISH        "Pull^3 [{+attack}] ^7to give attack coordinates."
+
+REFERENCE           PLATFORM_OILRIG_HINT_STEALTH_KILL
+LANG_ENGLISH        "Press [{+melee}] to take out the guard."
+
+REFERENCE           PLATFORM_BREACH_ACTIVATE
+LANG_ENGLISH        "Hold &&1 to breach"
+
+REFERENCE           PLATFORM_STEER_DRONE
+LANG_ENGLISH        "Use  to steer the missile."
+
+REFERENCE           PLATFORM_SNOWMOBILE_ATTACK
+LANG_ENGLISH        "Hold ^3^7 to shoot."
+
+REFERENCE           PLATFORM_SNOWMOBILE_DRIVE
+LANG_ENGLISH        "Hold ^3^7 to drive."
+
+REFERENCE           PLATFORM_SNOWMOBILE_REVERSE
+LANG_ENGLISH        "Hold ^3^7 to go in reverse."
+
+REFERENCE           PLATFORM_ZODIAC_STEADY
+LANG_ENGLISH        "Hold ^3^7 to steady the boat."
+
+REFERENCE           PLATFORM_MINIGUN_SPIN_HINT
+LANG_ENGLISH        "[{+speed_throw}] = Spool up"
+
+REFERENCE           PLATFORM_MINIGUN_FIRE_HINT
+LANG_ENGLISH        "[{+attack}] = Fire"
+
+REFERENCE           PLATFORM_HINTSTR_POPFLARE
+LANG_ENGLISH        "Press [{+attack}] to pop flare."
+
+REFERENCE           PLATFORM_HINT_FLASH
+LANG_ENGLISH        "Press ^3[{+smoke}]^7 to throw a flashbang."
+

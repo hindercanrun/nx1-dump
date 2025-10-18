@@ -1,0 +1,24 @@
+// Note to translators:
+// If a sentence is the same in your language then please change it to "#same"
+//
+// eg:
+// LANG_ENGLISH  "HALT"
+// LANG_GERMAN   "#same"
+//
+// (This is so we can tell which strings have been signed-off as ok to be the same words for QA
+//  and because we do not store duplicate strings, which will then get exported again next time
+//  as being untranslated.)
+//
+VERSION             "1"
+CONFIG              "C:\trees\nx1\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           DOG_DEATH_TOO_SOON_ALT
+LANG_ENGLISH        "Too early. Press ^3[{+melee}]^7 when the hint appears to grab a dog."
+
+REFERENCE           DOG_DEATH_TOO_LATE_ALT
+LANG_ENGLISH        "Too late. Press ^3[{+melee}]^7 when the hint appears to grab a dog."
+
+REFERENCE           DOG_DEATH_DO_NOTHING_ALT
+LANG_ENGLISH        "Press ^3[{+melee}]^7 when the hint appears to grab a dog."
+

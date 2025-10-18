@@ -1,0 +1,36 @@
+// Note to translators:
+// If a sentence is the same in your language then please change it to "#same"
+//
+// eg:
+// LANG_ENGLISH  "HALT"
+// LANG_GERMAN   "#same"
+//
+// (This is so we can tell which strings have been signed-off as ok to be the same words for QA
+//  and because we do not store duplicate strings, which will then get exported again next time
+//  as being untranslated.)
+//
+VERSION             "1"
+CONFIG              "C:\trees\nx1\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           TARGET_DISTANCE_LABEL
+LANG_ENGLISH        "DIST: "
+
+REFERENCE           TARGET_DISTANCE_UNITS
+LANG_ENGLISH        " KM"
+
+REFERENCE           STATE_OK
+LANG_ENGLISH        "RLGN STATUS : OK"
+
+REFERENCE           STATE_READY
+LANG_ENGLISH        "RLGN STATUS : RDY"
+
+REFERENCE           STATE_LOCKING
+LANG_ENGLISH        "RLGN STATUS : LOCKING"
+
+REFERENCE           TIME_ON_TARGET_LABEL
+LANG_ENGLISH        "TOT : "
+
+REFERENCE           TIME_ON_TARGET_UNITS
+LANG_ENGLISH        " S"
+

@@ -1,0 +1,369 @@
+// Note to translators:
+// If a sentence is the same in your language then please change it to "#same"
+//
+// eg:
+// LANG_ENGLISH  "HALT"
+// LANG_GERMAN   "#same"
+//
+// (This is so we can tell which strings have been signed-off as ok to be the same words for QA
+//  and because we do not store duplicate strings, which will then get exported again next time
+//  as being untranslated.)
+//
+VERSION             "1"
+CONFIG              "C:\trees\nx1\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           OPS_DUMMY
+LANG_ENGLISH        "dummy"
+
+REFERENCE           OPS_DUMMY_DESC
+LANG_ENGLISH        "dummy"
+
+REFERENCE           OPS_TIME_NULL
+LANG_ENGLISH        "-:--.-"
+
+REFERENCE           OPS_TIME
+LANG_ENGLISH        "Time: "
+
+REFERENCE           OPS_WAITING_P1
+LANG_ENGLISH        "Waiting for Player 1..."
+
+REFERENCE           OPS_WAITING_P2
+LANG_ENGLISH        "Waiting for Player 2..."
+
+REFERENCE           OPS_REVIVE_NAG_HINT
+LANG_ENGLISH        "Press ^3[{weapnext}]^7 to call your wingman."
+
+REFERENCE           OPS_CHALLENGE_HURRY
+LANG_ENGLISH        "Hurry Up!"
+
+REFERENCE           OPS_CHALLENGE_SUCCESS
+LANG_ENGLISH        "Mission Success!"
+
+REFERENCE           OPS_CHALLENGE_FAILURE
+LANG_ENGLISH        "Mission Failed."
+
+REFERENCE           OPS_FAILURE_HINT_TIME
+LANG_ENGLISH        "You ran out of time.
+Keep an eye on the clock."
+
+REFERENCE           OPS_ESCAPE_WARNING
+LANG_ENGLISH        "Turn back and continue the mission!"
+
+REFERENCE           OPS_ESCAPE_MESSAGE
+LANG_ENGLISH        "Traitor. You have abandoned the mission."
+
+REFERENCE           OPS_WAITING_OTHER_PLAYER
+LANG_ENGLISH        "Waiting for the other player..."
+
+REFERENCE           OPS_STARTING_IN
+LANG_ENGLISH        "Starting in: "
+
+REFERENCE           OPS_UI_TIME
+LANG_ENGLISH        "Time"
+
+REFERENCE           OPS_UI_KILLS
+LANG_ENGLISH        "Kills"
+
+REFERENCE           OPS_UI_KILLS_OTHER
+LANG_ENGLISH        "Partner Kills"
+
+REFERENCE           OPS_UI_DIFFICULTY
+LANG_ENGLISH        "Difficulty"
+
+REFERENCE           OPS_UI_DIFFICULTY_OTHER
+LANG_ENGLISH        "Partner Difficulty"
+
+REFERENCE           OPS_UI_PLAY_AGAIN
+LANG_ENGLISH        "PLAY AGAIN ^0- ^3ESC^7"
+
+REFERENCE           OPS_UI_RETURN_TO_SPECIALOPS
+LANG_ENGLISH        "RETURN TO SPECIAL OPS"
+
+REFERENCE           OPS_UI_MISSION_FAILED
+LANG_ENGLISH        "MISSION FAILED"
+
+REFERENCE           OPS_UI_MISSION_SUCCESS
+LANG_ENGLISH        "Mission Success!"
+
+REFERENCE           OPS_SO_BUTTON_ALPHA
+LANG_ENGLISH        "Alpha"
+
+REFERENCE           OPS_SO_BUTTON_BETA
+LANG_ENGLISH        "Bravo"
+
+REFERENCE           OPS_SO_BUTTON_CHARLIE
+LANG_ENGLISH        "Charlie"
+
+REFERENCE           OPS_SO_BUTTON_DELTA
+LANG_ENGLISH        "Delta"
+
+REFERENCE           OPS_SO_BUTTON_ECHO
+LANG_ENGLISH        "Echo"
+
+REFERENCE           OPS_SO_BUTTON_ALPHA_CAPS
+LANG_ENGLISH        "ALPHA"
+
+REFERENCE           OPS_SO_BUTTON_BETA_CAPS
+LANG_ENGLISH        "BRAVO"
+
+REFERENCE           OPS_SO_BUTTON_CHARLIE_CAPS
+LANG_ENGLISH        "CHARLIE"
+
+REFERENCE           OPS_SO_BUTTON_DELTA_CAPS
+LANG_ENGLISH        "DELTA"
+
+REFERENCE           OPS_SO_BUTTON_ECHO_CAPS
+LANG_ENGLISH        "ECHO"
+
+REFERENCE           OPS_SO_HIDDEN_SO_GHILLIES
+LANG_ENGLISH        "Hidden"
+
+REFERENCE           OPS_SO_HIDDEN_SO_GHILLIES_DESC
+LANG_ENGLISH        "Evade enemy patrols and Ghillie Snipers near Chernobyl."
+
+REFERENCE           OPS_SO_AC130_CO_HUNTED
+LANG_ENGLISH        "Overwatch"
+
+REFERENCE           OPS_SO_AC130_CO_HUNTED_DESC
+LANG_ENGLISH        "Rain death from above using an AC-130 gunship to protect your partner."
+
+REFERENCE           OPS_SO_AC130_CO_HUNTED_OBJ_DESC
+LANG_ENGLISH        "Reach the Farm House basement.
+Reach the western edge of the Workshops.
+Reach the Barn near the Greenhouses."
+
+REFERENCE           OPS_SO_CHOPPER_INVASION
+LANG_ENGLISH        "Big Brother"
+
+REFERENCE           OPS_SO_CHOPPER_INVASION_DESC
+LANG_ENGLISH        "Explosive ammunition, Vulcan Minigun, Blackhawk Helicopter.  Clear the way."
+
+REFERENCE           OPS_SO_KILLSPREE_FAVELA
+LANG_ENGLISH        "O Cristo Redentor"
+
+REFERENCE           OPS_SO_KILLSPREE_FAVELA_DESC
+LANG_ENGLISH        "Hunt down and eliminate the Favela gang.  Minimize civilian casualties."
+
+REFERENCE           OPS_SO_SNOWRACE1_CLIFFHANGER
+LANG_ENGLISH        "Race"
+
+REFERENCE           OPS_SO_SNOWRACE1_CLIFFHANGER_DESC
+LANG_ENGLISH        "Speed your snowmobile down the mountain, dodging trees, rocks and thousand foot drops."
+
+REFERENCE           OPS_SO_SNOWRACE1_CLIFFHANGER_OBJ_DESC
+LANG_ENGLISH        "Finish in 2 minutes.
+Finish in 90 seconds.
+Finish in 70 seconds."
+
+REFERENCE           OPS_SO_DEFUSE_FAVELA_ESCAPE
+LANG_ENGLISH        "Bomb Squad"
+
+REFERENCE           OPS_SO_DEFUSE_FAVELA_ESCAPE_DESC
+LANG_ENGLISH        "Race through the Favela marketplace defusing the explosives before its too late."
+
+REFERENCE           OPS_SO_FOREST_CONTINGENCY
+LANG_ENGLISH        "Evasion"
+
+REFERENCE           OPS_SO_FOREST_CONTINGENCY_DESC
+LANG_ENGLISH        "Use silenced sniper rifles and cunning to slip past the enemy patrols."
+
+REFERENCE           OPS_SO_KILLSPREE_INVASION
+LANG_ENGLISH        "Body Count"
+
+REFERENCE           OPS_SO_KILLSPREE_INVASION_DESC
+LANG_ENGLISH        "Rack up a large enough body count.  Quick kills earn larger bonuses."
+
+REFERENCE           OPS_SO_ASSAULT_OILRIG
+LANG_ENGLISH        "Wetwork"
+
+REFERENCE           OPS_SO_ASSAULT_OILRIG_DESC
+LANG_ENGLISH        "Breach and clear two deadly rooms full of enemies and hostages to capture the oil rig."
+
+REFERENCE           OPS_SO_DEMO_SO_BRIDGE
+LANG_ENGLISH        "Wreckage"
+
+REFERENCE           OPS_SO_DEMO_SO_BRIDGE_DESC
+LANG_ENGLISH        "Use C4, grenade launchers, RPGs, sentry guns, semtex and more to destroy every vehicle on the bridge."
+
+REFERENCE           OPS_SO_SABOTAGE_CLIFFHANGER
+LANG_ENGLISH        "Acceptable Losses"
+
+REFERENCE           OPS_SO_SABOTAGE_CLIFFHANGER_DESC
+LANG_ENGLISH        "Sabotage the remote airbase with your silenced weapons and heartbeat sensor."
+
+REFERENCE           OPS_SO_SHOWERS_GULAG
+LANG_ENGLISH        "Breach & Clear"
+
+REFERENCE           OPS_SO_SHOWERS_GULAG_DESC
+LANG_ENGLISH        "Smash through enemy defenses in the Gulag and escape."
+
+REFERENCE           OPS_SO_TAKEOVER_OILRIG
+LANG_ENGLISH        "Armor Piercing"
+
+REFERENCE           OPS_SO_TAKEOVER_OILRIG_DESC
+LANG_ENGLISH        "Kill all fifteen Juggernauts on the oil rig.
+This probably isn't even possible."
+
+REFERENCE           OPS_SO_SNOWRACE2_CLIFFHANGER
+LANG_ENGLISH        "Time Trial"
+
+REFERENCE           OPS_SO_SNOWRACE2_CLIFFHANGER_DESC
+LANG_ENGLISH        "Launch your snowmobile across the chasm before time runs out.  Hit the flag gates to get extra time."
+
+REFERENCE           OPS_SO_INTEL_BONEYARD
+LANG_ENGLISH        "Snatch & Grab"
+
+REFERENCE           OPS_SO_INTEL_BONEYARD_DESC
+LANG_ENGLISH        "Battle Shadow Company and Juggernauts in the airplane graveyard.  Grab the intel and escape to the extraction point."
+
+REFERENCE           OPS_SO_ESCAPE_AIRPORT
+LANG_ENGLISH        "Terminal"
+
+REFERENCE           OPS_SO_ESCAPE_AIRPORT_DESC
+LANG_ENGLISH        "Pummel your way through enemy riot shield ambushes."
+
+REFERENCE           OPS_SO_KILLSPREE_TRAINER
+LANG_ENGLISH        "The Pit"
+
+REFERENCE           OPS_SO_KILLSPREE_TRAINER_DESC
+LANG_ENGLISH        "Clear all of the enemy targets as fast as possible. Shooting civilians will prevent you from getting 3 stars."
+
+REFERENCE           OPS_SO_KILLSPREE_TRAINER_OBJ_DESC
+LANG_ENGLISH        "Clear the course.
+Clear in 45 seconds.
+Clear in 35 Seconds."
+
+REFERENCE           OPS_SO_JUGGERNAUTS_FAVELA
+LANG_ENGLISH        "High Explosive"
+
+REFERENCE           OPS_SO_JUGGERNAUTS_FAVELA_DESC
+LANG_ENGLISH        "Kill all ten Juggernauts using only explosives and a knife.  You'd be insane to even try this."
+
+REFERENCE           OPS_SO_CROSSING_SO_BRIDGE
+LANG_ENGLISH        "Suspension"
+
+REFERENCE           OPS_SO_CROSSING_SO_BRIDGE_DESC
+LANG_ENGLISH        "Push through the invading forces on the bridge to reach the safe zone."
+
+REFERENCE           OPS_SO_DEFENSE_INVASION
+LANG_ENGLISH        "Homeland Security"
+
+REFERENCE           OPS_SO_DEFENSE_INVASION_DESC
+LANG_ENGLISH        "Sentry guns, Thermal sights, Rocket launchers and Claymores.  Defend yourself from five difficult waves of attackers."
+
+REFERENCE           OPS_SO_ROOFTOP_CONTINGENCY
+LANG_ENGLISH        "Sniper Fi"
+
+REFERENCE           OPS_SO_ROOFTOP_CONTINGENCY_DESC
+LANG_ENGLISH        "Use sniper rifles, claymores and Predator Drones to hold off waves of enemies."
+
+REFERENCE           OPS_SO_DOWNLOAD_ARCADIA
+LANG_ENGLISH        "Wardriving"
+
+REFERENCE           OPS_SO_DOWNLOAD_ARCADIA_DESC
+LANG_ENGLISH        "Laze targets for the Stryker armored vehicle.  Battle in the 'burbs house to house, room to room."
+
+REFERENCE           OPS_SO_TAKEOVER_ESTATE
+LANG_ENGLISH        "Estate Takedown"
+
+REFERENCE           OPS_SO_TAKEOVER_ESTATE_DESC
+LANG_ENGLISH        "Eliminate Ghillie Snipers, Elite Mercenaries and Juggernauts guarding the estate."
+
+REFERENCE           OPS_SO_ALPHA_DESC
+LANG_ENGLISH        "Predator Drones, favela gangs, sniper rifles and stealth.  These Ops are short and sweet."
+
+REFERENCE           OPS_SO_BETA_DESC
+LANG_ENGLISH        "AC-130 gunships, snowmobile races, and Vulcan miniguns with explosive ammo.  Something for everyone."
+
+REFERENCE           OPS_SO_CHARLIE_DESC
+LANG_ENGLISH        "Time trials, explosive breaches, boneyards and enemies in Ghillie Suits.  Things are getting a bit tougher."
+
+REFERENCE           OPS_SO_DELTA_DESC
+LANG_ENGLISH        "Blizzards, airports, estates and bridges.  Five challenging Ops."
+
+REFERENCE           OPS_SO_ECHO_DESC
+LANG_ENGLISH        "An oil rig and a favela full of Juggernauts.  These Ops are fast and brutal."
+
+REFERENCE           OPS_SO_BETA_UNLOCK_DESC
+LANG_ENGLISH        "Earn 4 stars to unlock."
+
+REFERENCE           OPS_SO_CHARLIE_UNLOCK_DESC
+LANG_ENGLISH        "Earn 8 stars to unlock."
+
+REFERENCE           OPS_SO_DELTA_UNLOCK_DESC
+LANG_ENGLISH        "Earn 20 stars to unlock."
+
+REFERENCE           OPS_SO_ECHO_UNLOCK_DESC
+LANG_ENGLISH        "Earn 40 stars to unlock."
+
+REFERENCE           OPS_SO_UNLOCK_DESC
+LANG_ENGLISH        "Earn stars to unlock."
+
+REFERENCE           OPS_SO_BETA_UNLOCK_NOTICE
+LANG_ENGLISH        "Bravo Ops Unlocked!"
+
+REFERENCE           OPS_SO_CHARLIE_UNLOCK_NOTICE
+LANG_ENGLISH        "Charlie Ops Unlocked!"
+
+REFERENCE           OPS_SO_DELTA_UNLOCK_NOTICE
+LANG_ENGLISH        "Delta Ops Unlocked!"
+
+REFERENCE           OPS_SO_ECHO_UNLOCK_NOTICE
+LANG_ENGLISH        "Echo Ops Unlocked!"
+
+REFERENCE           OPS_SO_SELECT_AC130_GUNNER
+LANG_ENGLISH        "Select AC130 Gunner"
+
+REFERENCE           OPS_SO_SELECT_CHOPPER_GUNNER
+LANG_ENGLISH        "Select Chopper Gunner"
+
+REFERENCE           OPS_DASHDASH
+LANG_ENGLISH        "--"
+
+REFERENCE           OPS_HOSTILES
+LANG_ENGLISH        "Hostiles: "
+
+REFERENCE           OPS_SO_KILLSPREE_FAVELA_OBJ_DESC
+LANG_ENGLISH        "30 Enemies, 6 Civilian casualties maximum.
+40 Enemies and Dogs, 4 Civilian casualties.
+50 Enemies and Dogs, 3 Civilian casualties."
+
+REFERENCE           OPS_SO_ROOFTOP_CONTINGENCY_OBJ_DESC
+LANG_ENGLISH        "3 Waves of infantry, 1 Jeep and 1 Truck.
+4 Waves of infantry, 2 Jeeps and 1 Truck.
+5 Waves of infantry, 3 Jeeps and 2 Trucks."
+
+REFERENCE           OPS_INTERMISSION_WAVENUM
+LANG_ENGLISH        "- Wave &&1 -"
+
+REFERENCE           OPS_INTERMISSION_WAVEFINAL
+LANG_ENGLISH        "- Final Wave -"
+
+REFERENCE           OPS_WAVENUM
+LANG_ENGLISH        "Wave: "
+
+REFERENCE           OPS_WAVEFINAL
+LANG_ENGLISH        "Final Wave"
+
+REFERENCE           OPS_UI_KILLS_PARTNER
+LANG_ENGLISH        "Partner Kills"
+
+REFERENCE           OPS_PRESS_TO_START
+LANG_ENGLISH        "Press ^3[{+gostand}]^7 to set Ready."
+
+REFERENCE           OPS_PRESS_TO_CANCEL
+LANG_ENGLISH        "Press ^3[{+stance}]^7 to set Not Ready."
+
+REFERENCE           OPS_PLAYER_IS_NOT_READY
+LANG_ENGLISH        "&&1 is not ready."
+
+REFERENCE           OPS_PLAYER_IS_READY
+LANG_ENGLISH        "&&1 is ready!"
+
+REFERENCE           OPS_ESCAPE_SPLASH
+LANG_ENGLISH        "Warning!"
+
+REFERENCE           OPS_EMPTY
+LANG_ENGLISH        " "
+

@@ -1,0 +1,594 @@
+// Note to translators:
+// If a sentence is the same in your language then please change it to "#same"
+//
+// eg:
+// LANG_ENGLISH  "HALT"
+// LANG_GERMAN   "#same"
+//
+// (This is so we can tell which strings have been signed-off as ok to be the same words for QA
+//  and because we do not store duplicate strings, which will then get exported again next time
+//  as being untranslated.)
+//
+VERSION             "1"
+CONFIG              "C:\trees\nx1\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           AF_CAVES_VIDEO11
+LANG_ENGLISH        "^2MacTavish: ^7We've got one good UMP.  They've got a thousand.  "
+
+REFERENCE           AF_CAVES_VIDEO12
+LANG_ENGLISH        "^2MacTavish: ^7We don't even know if Makarov's intel's any good.  "
+
+REFERENCE           AF_CAVES_VIDEO13
+LANG_ENGLISH        "^2MacTavish: ^7Price. "
+
+REFERENCE           AF_CAVES_VIDEO14
+LANG_ENGLISH        "^2MacTavish: ^7...Price?"
+
+REFERENCE           AF_CAVES_VIDEO15
+LANG_ENGLISH        "^2Price: ^7The healthy human mind doesn't wake up in the morning thinking this is its last day on Earth.   "
+
+REFERENCE           AF_CAVES_VIDEO16
+LANG_ENGLISH        "^2Price: ^7But I think that's a luxury.  Not a curse. "
+
+REFERENCE           AF_CAVES_VIDEO17
+LANG_ENGLISH        "^2Price: ^7To know you're close to the end is a kind of freedom. "
+
+REFERENCE           AF_CAVES_VIDEO18
+LANG_ENGLISH        "^2Price: ^7Good time to take... inventory. "
+
+REFERENCE           AF_CAVES_VIDEO19
+LANG_ENGLISH        "^2Price: ^7Outgunned.  Outnumbered.  Out of our minds. On a suicide mission. "
+
+REFERENCE           AF_CAVES_VIDEO110
+LANG_ENGLISH        "^2Price: ^7But the sand and rocks here, stained with thousands of years of warfare..."
+
+REFERENCE           AF_CAVES_VIDEO111
+LANG_ENGLISH        "^2Price: ^7They will remember us.  For this."
+
+REFERENCE           AF_CAVES_VIDEO112
+LANG_ENGLISH        "^2Price: ^7Because out of all our vast array of nightmares, this is the one we choose for ourselves.    "
+
+REFERENCE           AF_CAVES_VIDEO113
+LANG_ENGLISH        "^2Price: ^7We go forward like a breath exhaled from the Earth.  "
+
+REFERENCE           AF_CAVES_VIDEO114
+LANG_ENGLISH        "^2Price: ^7With vigor in our hearts and one goal in sight:"
+
+REFERENCE           AF_CAVES_VIDEO115
+LANG_ENGLISH        "^2Price: ^7We.  Will. "
+
+REFERENCE           AF_CAVES_VIDEO116
+LANG_ENGLISH        "^2Price: ^7Kill him.  "
+
+REFERENCE           AF_CHASE_VIDEO117
+LANG_ENGLISH        "^2Price: ^7This is for the record."
+
+REFERENCE           AF_CHASE_VIDEO118
+LANG_ENGLISH        "^2Price: ^7History is written by the victor."
+
+REFERENCE           AF_CHASE_VIDEO119
+LANG_ENGLISH        "^2Price: ^7History is filled with liars. "
+
+REFERENCE           AF_CHASE_VIDEO120
+LANG_ENGLISH        "^2Price: ^7If he lives and we die, his truth becomes written -  "
+
+REFERENCE           AF_CHASE_VIDEO121
+LANG_ENGLISH        "^2Price: ^7- and ours is lost."
+
+REFERENCE           AF_CHASE_VIDEO122
+LANG_ENGLISH        "^2Price: ^7Shepherd will be a hero.  'Cause all you need to change the world is one good lie and a river of blood."
+
+REFERENCE           AF_CHASE_VIDEO123
+LANG_ENGLISH        "^2Price: ^7He's about to complete the greatest trick a liar ever played on history."
+
+REFERENCE           AF_CHASE_VIDEO124
+LANG_ENGLISH        "^2Price: ^7His truth will be the truth."
+
+REFERENCE           AF_CHASE_VIDEO125
+LANG_ENGLISH        "^2Price: ^7But only if he lives, and we die."
+
+REFERENCE           AIRPORT_VIDEO126
+LANG_ENGLISH        "^2Shepherd: ^7The rest of Task Force 141 brought in the ACS, Allen.  "
+
+REFERENCE           AIRPORT_VIDEO127
+LANG_ENGLISH        "^2Shepherd: ^7Two men took down an entire base.  I ask much more from you now.  "
+
+REFERENCE           AIRPORT_VIDEO128
+LANG_ENGLISH        "^2Shepherd: ^7Yesterday you were a soldier on the front lines.  But today front lines are history.  "
+
+REFERENCE           AIRPORT_VIDEO129
+LANG_ENGLISH        "^2Shepherd: ^7Uniforms are relics.  The war rages everywhere.  And there will be casualties. "
+
+REFERENCE           AIRPORT_VIDEO130
+LANG_ENGLISH        "^2Shepherd: ^7This man Makarov is fighting his own war and he has no rules.  No boundaries.  "
+
+REFERENCE           AIRPORT_VIDEO1187
+LANG_ENGLISH        "^2Shepherd: ^7He doesn't flinch at torture, human trafficking, or genocide."
+
+REFERENCE           AIRPORT_VIDEO131
+LANG_ENGLISH        "^2Shepherd: ^7He's not loyal to a flag or a country or any set of ideals.  He trades blood for money.   "
+
+REFERENCE           AIRPORT_VIDEO133
+LANG_ENGLISH        "^2Shepherd: ^7He's your new best friend. "
+
+REFERENCE           AIRPORT_VIDEO134
+LANG_ENGLISH        "^2Shepherd: ^7You don't want to know what it's cost already to put you next to him."
+
+REFERENCE           AIRPORT_VIDEO135
+LANG_ENGLISH        "^2Shepherd: ^7It will cost you a piece of yourself."
+
+REFERENCE           AIRPORT_VIDEO136
+LANG_ENGLISH        "^2Shepherd: ^7It will cost nothing compared to everything you'll save. "
+
+REFERENCE           ARCADIA_VIDEO138
+LANG_ENGLISH        "^2Shepherd: ^7Someone turn off that damn TV."
+
+REFERENCE           ARCADIA_VIDEO139
+LANG_ENGLISH        "^2Shepherd: ^7My Task Force is out of the country.  I'm commandeering your unit, Sergeant Foley."
+
+REFERENCE           ARCADIA_VIDEO140
+LANG_ENGLISH        "^2Sgt. Foley: ^7Yes, Sir.  All yours, Sir."
+
+REFERENCE           ARCADIA_VIDEO141
+LANG_ENGLISH        "^2Shepherd: ^7I've requisitioned a Stryker from the Eighth Armored."
+
+REFERENCE           ARCADIA_VIDEO142
+LANG_ENGLISH        "^2Sgt. Foley: ^7Honey Badger's a mean bitch, Sir."
+
+REFERENCE           ARCADIA_VIDEO143
+LANG_ENGLISH        "^2Shepherd: ^7She'll walk you in.  The Russians are burning through our defenses and our intel.  "
+
+REFERENCE           ARCADIA_VIDEO144
+LANG_ENGLISH        "^2Shepherd: ^7Can't let 'em take this corner."
+
+REFERENCE           ARCADIA_VIDEO145
+LANG_ENGLISH        "^2Sgt. Foley: ^7Just point it out on the map, Sir. They won't take it.  "
+
+REFERENCE           BONEYARD_VIDEO146
+LANG_ENGLISH        "^2MacTavish: ^7Roach? Ghost? Come in, Ghost! Do you copy?  Does anyone copy?"
+
+REFERENCE           BONEYARD_VIDEO147
+LANG_ENGLISH        "^2Price: ^7They're dead, Soap.  Shepherd's cleaning house.  I'm working my way back to you. "
+
+REFERENCE           BONEYARD_VIDEO148
+LANG_ENGLISH        "^2MacTavish: ^7Shepherd betrayed us. "
+
+REFERENCE           BONEYARD_VIDEO149
+LANG_ENGLISH        "^2Price: ^7Have to trust someone to be betrayed.  I never did.   "
+
+REFERENCE           BONEYARD_VIDEO150
+LANG_ENGLISH        "^2Price: ^7Nikolai, come in.  Do you have our location? "
+
+REFERENCE           BONEYARD_VIDEO151
+LANG_ENGLISH        "^2Nikolai: ^7Da.  Inbound, Price.  But I am not the only one. "
+
+REFERENCE           BONEYARD_VIDEO152
+LANG_ENGLISH        "^2Nikolai: ^7You've got Shepherd's men on one side, Makarov's on the other.  "
+
+REFERENCE           BONEYARD_VIDEO153
+LANG_ENGLISH        "^2Price: ^7We'll have to take them all out then.     "
+
+REFERENCE           BONEYARD_VIDEO154
+LANG_ENGLISH        "^2Nikolai: ^7Or let them take each other out.  "
+
+REFERENCE           BONEYARD_VIDEO155
+LANG_ENGLISH        "^2Nikolai: ^7Either way, I'll see you on the other side my friend.  "
+
+REFERENCE           CLIFFHANGER_VIDEO156
+LANG_ENGLISH        "^2PFC Allen: ^7So how do I look?  "
+
+REFERENCE           CLIFFHANGER_VIDEO157
+LANG_ENGLISH        "^2Shepherd: ^7Like one of the bad guys."
+
+REFERENCE           CLIFFHANGER_VIDEO158
+LANG_ENGLISH        "^2Shepherd: ^7Perfect for your undercover assignment.  "
+
+REFERENCE           CLIFFHANGER_VIDEO159
+LANG_ENGLISH        "^2PFC Allen: ^7So Makarov is the prize. "
+
+REFERENCE           CLIFFHANGER_VIDEO160
+LANG_ENGLISH        "^2Shepherd: ^7Makarov's no prize. He's a whore. A mad-dog killer for the highest bidder."
+
+REFERENCE           CLIFFHANGER_VIDEO161
+LANG_ENGLISH        "^2Shepherd: ^7Just remember your new identity. It'll keep you alive.  "
+
+REFERENCE           CLIFFHANGER_VIDEO162
+LANG_ENGLISH        "^2Shepherd: ^7Welcome to the 141.  Best handpicked group of warriors on the planet.      "
+
+REFERENCE           CLIFFHANGER_VIDEO163
+LANG_ENGLISH        "^2PFC Allen: ^7It's an honor, Sir. When do I meet the rest of the team?   "
+
+REFERENCE           CLIFFHANGER_VIDEO164
+LANG_ENGLISH        "^2Shepherd: ^7They're on a mission recovering a downed ACS module behind enemy lines.   "
+
+REFERENCE           CLIFFHANGER_VIDEO165
+LANG_ENGLISH        "^2PFC Allen: ^7Their feet wet? "
+
+REFERENCE           CLIFFHANGER_VIDEO166
+LANG_ENGLISH        "^2Shepherd: ^7Imagine they're just about freezing right now.   "
+
+REFERENCE           COD_INTRO_VIDEO11
+LANG_ENGLISH        "^2 ^7"
+
+REFERENCE           COD_INTRO_VIDEO12
+LANG_ENGLISH        "^2 ^7"
+
+REFERENCE           COD_INTRO_VIDEO13
+LANG_ENGLISH        "^2 ^7"
+
+REFERENCE           COD_INTRO_VIDEO14
+LANG_ENGLISH        "^2 ^7"
+
+REFERENCE           COD_INTRO_VIDEO15
+LANG_ENGLISH        "^2 ^7"
+
+REFERENCE           COD_INTRO_VIDEO16
+LANG_ENGLISH        "^2 ^7"
+
+REFERENCE           COD_INTRO_VIDEO17
+LANG_ENGLISH        "^2 ^7"
+
+REFERENCE           COD_INTRO_VIDEO18
+LANG_ENGLISH        "^2 ^7"
+
+REFERENCE           COD_INTRO_VIDEO19
+LANG_ENGLISH        "^2 ^7"
+
+REFERENCE           COD_INTRO_VIDEO110
+LANG_ENGLISH        "^2 ^7"
+
+REFERENCE           COD_INTRO_VIDEO111
+LANG_ENGLISH        "^2 ^7"
+
+REFERENCE           COD_INTRO_VIDEO112
+LANG_ENGLISH        "^2 ^7"
+
+REFERENCE           COD_INTRO_VIDEO113
+LANG_ENGLISH        "^2 ^7"
+
+REFERENCE           COD_INTRO_VIDEO114
+LANG_ENGLISH        "^2 ^7"
+
+REFERENCE           COD_INTRO_VIDEO115
+LANG_ENGLISH        "^2 ^7"
+
+REFERENCE           COD_INTRO_VIDEO116
+LANG_ENGLISH        "^2 ^7"
+
+REFERENCE           CONTINGENCY_VIDEO167
+LANG_ENGLISH        "^2Captain MacTavish: ^7Uplink nearly complete. "
+
+REFERENCE           CONTINGENCY_VIDEO168
+LANG_ENGLISH        "^2Captain MacTavish: ^7General Shepherd you're online with Captain Price.    "
+
+REFERENCE           CONTINGENCY_VIDEO169
+LANG_ENGLISH        "^2Shepherd: ^7Back from the brink, Captain.   "
+
+REFERENCE           CONTINGENCY_VIDEO170
+LANG_ENGLISH        "^2Captain Price: ^7""Out of the frying pan"" is more like it. "
+
+REFERENCE           CONTINGENCY_VIDEO171
+LANG_ENGLISH        "^2Captain Price: ^7This world looks more like hell than the one I just left. "
+
+REFERENCE           CONTINGENCY_VIDEO172
+LANG_ENGLISH        "^2Shepherd: ^7We thought we'd recovered the ACS before the Russians could crack it. "
+
+REFERENCE           CONTINGENCY_VIDEO173
+LANG_ENGLISH        "^2Shepherd: ^7We were wrong. "
+
+REFERENCE           CONTINGENCY_VIDEO174
+LANG_ENGLISH        "^2Shepherd: ^7Then Makarov turned the U.S. into his scapegoat.  Next thing you know there's flames everywhere. "
+
+REFERENCE           CONTINGENCY_VIDEO175
+LANG_ENGLISH        "^2Shepherd: ^7What's this image you're sending me?"
+
+REFERENCE           CONTINGENCY_VIDEO176
+LANG_ENGLISH        "^2Captain Price: ^7You wanna put out an oil fire, Sir, you set off a bigger explosion right next to it."
+
+REFERENCE           CONTINGENCY_VIDEO177
+LANG_ENGLISH        "^2Captain Price: ^7Sucks away the oxygen.  Snuffs the flame.  "
+
+REFERENCE           CONTINGENCY_VIDEO178
+LANG_ENGLISH        "^2Shepherd: ^7Price, you been locked away too long. Better get your mind right, son.   "
+
+REFERENCE           CONTINGENCY_VIDEO179
+LANG_ENGLISH        "^2Captain Price: ^7Shepherd, are you willing to do what is necessary to win? "
+
+REFERENCE           CONTINGENCY_VIDEO180
+LANG_ENGLISH        "^2Shepherd: ^7Always. "
+
+REFERENCE           CONTINGENCY_VIDEO181
+LANG_ENGLISH        "^2Captain Price: ^7We got ourselves a pretty big fire. Gonna need a huge bang.   "
+
+REFERENCE           CONTINGENCY_VIDEO182
+LANG_ENGLISH        "^2Shepherd: ^7You've been in the gulag too long, Price.  Focus on taking out Makarov.     "
+
+REFERENCE           CONTINGENCY_VIDEO183
+LANG_ENGLISH        "^2Captain Price: ^7No time, Sir.  We need to end this war today.      "
+
+REFERENCE           CONTINGENCY_VIDEO184
+LANG_ENGLISH        "^2Shepherd: ^7I'm not asking you, Price.  This is an order!  You're to..."
+
+REFERENCE           CONTINGENCY_VIDEO185
+LANG_ENGLISH        "^2Captain Price: ^7Looks like we lost our connection.  "
+
+REFERENCE           DCBURNING_VIDEO186
+LANG_ENGLISH        "^2 ^7"
+
+REFERENCE           DCEMP_VIDEO190
+LANG_ENGLISH        "^2SecDef: ^7Gentlemen, the missile's vector puts it en route to the East Coast.  We will lose the White House.   "
+
+REFERENCE           DCEMP_VIDEO191
+LANG_ENGLISH        "^2Shepherd: ^7We've rebuilt it before, we'll rebuild it again.   "
+
+REFERENCE           DCEMP_VIDEO192
+LANG_ENGLISH        "^2SecDef: ^7Casualties?"
+
+REFERENCE           DCEMP_VIDEO193
+LANG_ENGLISH        "^2Shepherd: ^7Possibly 30,000 to 50,000.  Depends on the exact location of the detonation.  All systems will go down.     "
+
+REFERENCE           DCEMP_VIDEO194
+LANG_ENGLISH        "^2SecDef: ^7General Shepherd, you warned us. We should've listened.    "
+
+REFERENCE           DCEMP_VIDEO195
+LANG_ENGLISH        "^2Shepherd: ^7When they speak of this moment, we will not be the ones who stood guard while America died."
+
+REFERENCE           DCEMP_VIDEO196
+LANG_ENGLISH        "^2Shepherd: ^7One man is responsible for all this. Makarov must be brought to light. "
+
+REFERENCE           DCEMP_VIDEO197
+LANG_ENGLISH        "^2SecDef: ^7Whatever you need, General.  You've got a blank check.   "
+
+REFERENCE           ESTATE_VIDEO198
+LANG_ENGLISH        "^2Shepherd: ^7It's been a tough week, gentlemen. We've lost more than we ever dreamed.  But we will recover.  "
+
+REFERENCE           ESTATE_VIDEO199
+LANG_ENGLISH        "
+^2Shepherd: ^7I've got a blank check.  And we're gonna use every cent of it killin' Makarov.     "
+
+REFERENCE           ESTATE_VIDEO1100
+LANG_ENGLISH        "^2Shepherd: ^7Despite what the world may say, we are not savages, we don't kill civilians. We use precision. "
+
+REFERENCE           ESTATE_VIDEO1101
+LANG_ENGLISH        "^2Shepherd: ^7There's an evil man hiding in these shadows and we're gonna bring him into the light. "
+
+REFERENCE           ESTATE_VIDEO1102
+LANG_ENGLISH        "^2Shepherd: ^7Once his face is revealed, we will write history, gentlemen.    "
+
+REFERENCE           ESTATE_VIDEO1103
+LANG_ENGLISH        "^2Shepherd: ^7These are the last safe havens left on Earth for Makarov and his men.     "
+
+REFERENCE           ESTATE_VIDEO1104
+LANG_ENGLISH        "^2Captain Price: ^7Sounds like we gotta be in two places at once.     "
+
+REFERENCE           ESTATE_VIDEO1105
+LANG_ENGLISH        "^2Shepherd: ^7Impossible? "
+
+REFERENCE           ESTATE_VIDEO1106
+LANG_ENGLISH        "^2Captain Price: ^7Not for the One-Four-One. "
+
+REFERENCE           ESTATE_VIDEO1107
+LANG_ENGLISH        "^2Ghost: ^7Fifty-fifty chance to take out Makarov, eh? "
+
+REFERENCE           ESTATE_VIDEO1108
+LANG_ENGLISH        "^2Ghost: ^7Captain Price, request permission to take the safehouse with Roach. "
+
+REFERENCE           ESTATE_VIDEO1109
+LANG_ENGLISH        "^2Captain Price: ^7Granted. Soap and I will take the boneyard in Afghanistan. "
+
+REFERENCE           ESTATE_VIDEO1110
+LANG_ENGLISH        "^2Shepherd: ^7Very well. We will cut off all avenues of escape.  This ends now."
+
+REFERENCE           ESTATE_VIDEO1111
+LANG_ENGLISH        "^2Captain Price: ^7Strange.  I coulda sworn we ended this war yesterday.  "
+
+REFERENCE           FAVELA_ESCAPE_VIDEO1113
+LANG_ENGLISH        "^2Ghost: ^7I can't get anyone on the horn. "
+
+REFERENCE           FAVELA_ESCAPE_VIDEO1123
+LANG_ENGLISH        "^2Captain MacTavish: ^7The Russians must've copied the ACS module. Got the key to every lock in America.    "
+
+REFERENCE           FAVELA_ESCAPE_VIDEO1124
+LANG_ENGLISH        "^2Ghost: ^7And they're killing a thousand Americans for every dead civilian in Moscow.  Looks like we're all outta friends.   "
+
+REFERENCE           FAVELA_ESCAPE_VIDEO1125
+LANG_ENGLISH        "^2Captain MacTavish: ^7I know a guy.  Let's find a payphone.  They still exist? "
+
+REFERENCE           FAVELA_ESCAPE_VIDEO1126
+LANG_ENGLISH        "^2Ghost: ^7All we got outta Rojas is that the only guy Makarov hates worse than Americans is locked up in a gulag. "
+
+REFERENCE           FAVELA_ESCAPE_VIDEO1127
+LANG_ENGLISH        "^2Captain MacTavish: ^7It's all we got.  If this con's the bait to catch that psychopath, let's hang him from a tree.   "
+
+REFERENCE           FAVELA_VIDEO111
+LANG_ENGLISH        "
+^2Ghost: ^7The Russians ain't gonna let this massacre go unanswered. It's gonna get bloody."
+
+REFERENCE           FAVELA_VIDEO112
+LANG_ENGLISH        "
+^2Captain MacTavish: ^7Too right, mate. Now, in the eyes of the world, they're the victims."
+
+REFERENCE           FAVELA_VIDEO113
+LANG_ENGLISH        "^2Captain MacTavish: ^7No one's gonna say a word when the Russians club every American they can reach."
+
+REFERENCE           FAVELA_VIDEO1128
+LANG_ENGLISH        "^2Shepherd: ^7Makarov was one move ahead.  Now he's left thousands of bodies at the feet of an American."
+
+REFERENCE           FAVELA_VIDEO1129
+LANG_ENGLISH        "^2Captain MacTavish: ^7We're the only ones who know it was Makarov's op.  Our credibility died with Allen.  We need proof.  "
+
+REFERENCE           FAVELA_VIDEO1130
+LANG_ENGLISH        "^2Shepherd: ^7Follow the shell."
+
+REFERENCE           FAVELA_VIDEO1131
+LANG_ENGLISH        "^2Shepherd: ^7Alejandro Rojas."
+
+REFERENCE           FAVELA_VIDEO1132
+LANG_ENGLISH        "^2Captain MacTavish: ^7Never heard of him, Sir.   "
+
+REFERENCE           FAVELA_VIDEO1133
+LANG_ENGLISH        "^2Shepherd: ^7You know him as Alex the Red.  He supplied the assault.    "
+
+REFERENCE           FAVELA_VIDEO1134
+LANG_ENGLISH        "^2Captain MacTavish: ^7One bullet to unleash the fury of a whole nation.  Which means..."
+
+REFERENCE           FAVELA_VIDEO1135
+LANG_ENGLISH        "^2Shepherd: ^7He's our ticket to Makarov."
+
+REFERENCE           GULAG_VIDEO1136
+LANG_ENGLISH        "^2Captain MacTavish: ^7Sixth Fleet's mopping up.  Time to move in.   "
+
+REFERENCE           GULAG_VIDEO1137
+LANG_ENGLISH        "^2Captain MacTavish: ^7Long history, this building.  Not much of it pretty.    "
+
+REFERENCE           GULAG_VIDEO1138
+LANG_ENGLISH        "^2Captain MacTavish: ^7Started out as a castle.  With an actual dungeon.  Built to withstand any siege. "
+
+REFERENCE           GULAG_VIDEO1139
+LANG_ENGLISH        "^2Captain MacTavish: ^7Building survived every brutal winter.  The occupants... they weren't so lucky.    "
+
+REFERENCE           GULAG_VIDEO1140
+LANG_ENGLISH        "^2Captain MacTavish: ^7The Monastery.  Didn't survive the Purges."
+
+REFERENCE           GULAG_VIDEO1141
+LANG_ENGLISH        "^2Captain MacTavish: ^7Over the last century it's played host to anyone the government didn't want, but couldn't kill.  "
+
+REFERENCE           GULAG_VIDEO1142
+LANG_ENGLISH        "^2Captain MacTavish: ^7Place is filled with living casualties of the last war... which I swear I thought we'd won. "
+
+REFERENCE           GULAG_VIDEO1143
+LANG_ENGLISH        "^2Captain MacTavish: ^7But I suppose it's all a day at the races: you back the losing horse, and this is where you end up. "
+
+REFERENCE           GULAG_VIDEO1144
+LANG_ENGLISH        "^2Captain MacTavish: ^7Six-Two-Seven is the piece of meat Makarov wants, so let's cut him loose. "
+
+REFERENCE           INVASION_VIDEO1145
+LANG_ENGLISH        "^2NORAD HQ: ^7Sand Bravo, we're reading 70 bogeys in your sector, please verify.   "
+
+REFERENCE           INVASION_VIDEO1146
+LANG_ENGLISH        "^2Nome AFB: ^7Very funny, Station.  That's a big negative, over."
+
+REFERENCE           INVASION_VIDEO1147
+LANG_ENGLISH        "^2NORAD HQ: ^7Sand Bravo, be advised, running diagnostics to scan for malfunction. "
+
+REFERENCE           INVASION_VIDEO1148
+LANG_ENGLISH        "^2Nome AFB: ^7The skies are clear, Station.  You got yourself some phantom dots.  Over. "
+
+REFERENCE           INVASION_VIDEO1149
+LANG_ENGLISH        "^2NORAD HQ: ^7Zulu X-Ray 6.  Signs in your sector of some 100 bogeys, please advise.  "
+
+REFERENCE           INVASION_VIDEO1150
+LANG_ENGLISH        "^2Vandenberg AFB: ^7Negatory, Station.  Scope is clear. I dunno what to tell ya.  Solar interference?  Heavy sunspot activity today.     "
+
+REFERENCE           INVASION_VIDEO1151
+LANG_ENGLISH        "^2NORAD HQ: ^7Sierra Delta, uh... we may have a minor ACS fault here. Do you have anything on your scope?"
+
+REFERENCE           INVASION_VIDEO1152
+LANG_ENGLISH        "^2Air Traffic Controller: ^7They're everywhere!"
+
+REFERENCE           INVASION_VIDEO1153
+LANG_ENGLISH        "^2NORAD HQ: ^7Sierra Delta, repeat! "
+
+REFERENCE           INVASION_VIDEO1154
+LANG_ENGLISH        "^2Air Traffic Controller: ^7I'm lookin' at fighter jets over I-95!  How the hell did they get through?   "
+
+REFERENCE           INVASION_VIDEO1155
+LANG_ENGLISH        "^2NORAD HQ: ^7Standby!  Attempting to contact the nearest unit in that sector."
+
+REFERENCE           INVASION_VIDEO1156
+LANG_ENGLISH        "^2Sgt. Foley: ^7I read you.  This is First Battalion, 75th Ranger Regiment, Sergeant Foley, acting commander of Hunter Two-One. Do you copy over? "
+
+REFERENCE           INVASION_VIDEO1157
+LANG_ENGLISH        "^2NORAD HQ: ^7All stations, be advised - satellite surveillance has been disabled. SOSUS and Pave Paws arrays are inoperative at this time."
+
+REFERENCE           OILRIG_VIDEO1158
+LANG_ENGLISH        "^2Captain MacTavish: ^7Seems we're headed the wrong direction, Sir.  Shouldn't we be coming back to the fight? "
+
+REFERENCE           OILRIG_VIDEO1159
+LANG_ENGLISH        "^2Shepherd: ^7Plenty of fight to go around, MacTavish. "
+
+REFERENCE           OILRIG_VIDEO1160
+LANG_ENGLISH        "^2Shepherd: ^7Glad you made it outta South America.  You're meeting up with the 6th Fleet.  Leadin' the counter-strike. "
+
+REFERENCE           OILRIG_VIDEO1161
+LANG_ENGLISH        "^2Shepherd: ^7Prisoner Six-Two-Seven.  We believe that's who Makarov's got the mad-on for.  But we can't get to him. "
+
+REFERENCE           OILRIG_VIDEO1162
+LANG_ENGLISH        "^2Captain MacTavish: ^7Oilrigs, Sir? "
+
+REFERENCE           OILRIG_VIDEO1163
+LANG_ENGLISH        "^2Shepherd: ^7Russians are using them as SAM sites.   "
+
+REFERENCE           OILRIG_VIDEO1164
+LANG_ENGLISH        "^2Shepherd: ^7Oil workers are human shields, so we can't just blow up the rigs wholesale.  And this one is the least defended.  "
+
+REFERENCE           OILRIG_VIDEO1165
+LANG_ENGLISH        "^2Shepherd: ^7Boys, I know I'm sending you into the meat grinder on this one..."
+
+REFERENCE           OILRIG_VIDEO1166
+LANG_ENGLISH        "^2Captain MacTavish: ^7They're defending it, so it means we want it.  Especially if it gets us to Six-Two-Seven.   "
+
+REFERENCE           ROADKILL_VIDEO1167
+LANG_ENGLISH        "^2Shepherd: ^7We are the most powerful military force in the history of man."
+
+REFERENCE           ROADKILL_VIDEO1168
+LANG_ENGLISH        "^2Shepherd: ^7Every fight is our fight.  "
+
+REFERENCE           ROADKILL_VIDEO1169
+LANG_ENGLISH        "^2Shepherd: ^7Because what happens over here, matters over there. We don't get to sit one out.    "
+
+REFERENCE           ROADKILL_VIDEO1170
+LANG_ENGLISH        "^2Shepherd: ^7Learning to use the tools of modern warfare is the difference between the prospering of your people, and utter destruction. "
+
+REFERENCE           ROADKILL_VIDEO1171
+LANG_ENGLISH        "^2Shepherd: ^7We can't give you freedom.  But we can give you the know-how to acquire it.  "
+
+REFERENCE           ROADKILL_VIDEO1172
+LANG_ENGLISH        "^2Shepherd: ^7And that, my friends, is worth more than a whole army base of steel.  "
+
+REFERENCE           ROADKILL_VIDEO1173
+LANG_ENGLISH        "^2Shepherd: ^7Sure it matters who's got the biggest stick, but it matters a helluva lot more who's swinging it.  "
+
+REFERENCE           ROADKILL_VIDEO1174
+LANG_ENGLISH        "^2Shepherd: ^7This is a time for heroes.  A time for legends.   "
+
+REFERENCE           ROADKILL_VIDEO1175
+LANG_ENGLISH        "^2Shepherd: ^7History is written by the victors."
+
+REFERENCE           ROADKILL_VIDEO1176
+LANG_ENGLISH        "^2Shepherd: ^7Let's get to work."
+
+REFERENCE           TRAINER_VIDEO1177
+LANG_ENGLISH        "^2Shepherd: ^7The more things change, the more they stay the same.    "
+
+REFERENCE           TRAINER_VIDEO1178
+LANG_ENGLISH        "^2Shepherd: ^7Boundaries shift, new players step in, but power always finds a place to rest its head. "
+
+REFERENCE           TRAINER_VIDEO1179
+LANG_ENGLISH        "^2Shepherd: ^7We fought and bled alongside the Russians.  We shoulda known they'd hate us for it.   "
+
+REFERENCE           TRAINER_VIDEO1180
+LANG_ENGLISH        "^2Shepherd: ^7History is written by the victor. And here I am, thinking we'd won.  "
+
+REFERENCE           TRAINER_VIDEO1181
+LANG_ENGLISH        "^2Shepherd: ^7But you bring down one enemy and they find someone even worse to replace him. "
+
+REFERENCE           TRAINER_VIDEO1182
+LANG_ENGLISH        "^2Shepherd: ^7Locations change, the rationale, the objective.  "
+
+REFERENCE           TRAINER_VIDEO1183
+LANG_ENGLISH        "^2Shepherd: ^7Yesterday's enemies are today's recruits.  "
+
+REFERENCE           TRAINER_VIDEO1184
+LANG_ENGLISH        "^2Shepherd: ^7Train them to fight alongside you, and pray they don't eventually decide to hate you for it too.   "
+
+REFERENCE           TRAINER_VIDEO1185
+LANG_ENGLISH        "^2Shepherd: ^7Same shit, different day. "
+
+REFERENCE           TRAINER_VIDEO1186
+LANG_ENGLISH        "^2Shepherd: ^7You know what I'm looking for, Sergeant Foley.  Keep your eyes open. "
+
+REFERENCE           TRAINER_VIDEO1187
+LANG_ENGLISH        "^2Sgt. Foley: ^7Got a new batch hittin' The Pit today, Sir.  I'll send you the best I find. "
+

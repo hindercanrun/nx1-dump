@@ -1,0 +1,2 @@
+PHYSIC\sndAliasPrefix\physics_bottle\mass\0.1\friction\0.3\isFrictionInfinity\0\bounce\0.4\bulletForceScale\0.45\explosiveForceScale\0.004\piecesSpreadFraction\0\piecesUpwardVelocity\0\tempDefaultToCylinder\0\perSurfaceSndAlias\0
+SND_PARAMS\soundPitchLow\7\soundPitchHigh\10\soundVolLow\-3\soundVolHigh\3\soundImpactRangeLow\1\soundImpactRangeHigh\200

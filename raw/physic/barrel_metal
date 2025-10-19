@@ -1,0 +1,2 @@
+PHYSIC\sndAliasPrefix\physics_metal\mass\10\friction\1\isFrictionInfinity\0\bounce\0.3\bulletForceScale\0.25\explosiveForceScale\1\piecesSpreadFraction\0\piecesUpwardVelocity\0\tempDefaultToCylinder\1\perSurfaceSndAlias\0
+SND_PARAMS\soundPitchLow\2\soundPitchHigh\4\soundVolLow\2\soundVolHigh\4\soundImpactRangeLow\800\soundImpactRangeHigh\1200

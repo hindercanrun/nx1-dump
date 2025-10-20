@@ -12,7 +12,7 @@ lookControlMouseSensitivity,0.500000
 lookControlMaxPitchSpeed,45.000000
 lookControlMaxYawSpeed,45.000000
 movementAffect,1
-volumeSettingName,default
+volumeSettingName,nx_border_intro
 soundAffect,1
 soundLoop,null
 soundEnd,null

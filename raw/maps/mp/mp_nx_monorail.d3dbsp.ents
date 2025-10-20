@@ -1,0 +1,7609 @@
+{
+"origin" "0 0 0"
+"_color" ".75 .84 1"
+"ambient" "0.3"
+"classname" "worldspawn"
+"sunlight" "1.15"
+"suncolor" "0.980 0.752 0.592"
+"sundirection" "-21 -44 0"
+"skylight" ".9"
+"skycolor" "0.435 0.411 0.439"
+}
+{
+"classname" "mp_mtdm_spawn_team_0_start"
+"angles" "0 90 0"
+"origin" "-1016 -2328 16"
+}
+{
+"gndLt" "08080a0000"
+"ltOrigin" "617.6 3227.75 -54.5"
+"angles" "0 90 0"
+"classname" "script_model"
+"model" "bookstore_bookstand4_russian"
+"origin" "617.6 3232 -55"
+"targetname" "destructible_toy"
+"destructible_type" "toy_bookstore_bookstand4_books"
+"csv_include" "destructible_bookstore_bookstand4_books"
+}
+{
+"gndLt" "1010120000"
+"ltOrigin" "369.211 3218.86 -54.5"
+"angles" "0 135 0"
+"classname" "script_model"
+"model" "bookstore_bookstand4_russian"
+"origin" "366.029 3221.87 -55"
+"targetname" "destructible_toy"
+"destructible_type" "toy_bookstore_bookstand4_books"
+"csv_include" "destructible_bookstore_bookstand4_books"
+}
+{
+"ltOrigin" "-875.741 2184 -30"
+"classname" "script_model"
+"model" "ma_flatscreen_tv_wallmount_02"
+"angles" "0 270 0"
+"modelscale" "1"
+"origin" "-872 2184 -48"
+"destructible_type" "toy_tv_flatscreen_wallmount_02"
+"targetname" "destructible_toy"
+"csv_include" "destructible_flatscreen_tv_wallmount_02"
+"sound_csv_include" "destruct_tv_exp"
+}
+{
+"ltOrigin" "-764.259 2184 -30"
+"classname" "script_model"
+"model" "ma_flatscreen_tv_wallmount_02"
+"angles" "0 90 0"
+"modelscale" "1"
+"origin" "-768 2184 -48"
+"destructible_type" "toy_tv_flatscreen_wallmount_02"
+"targetname" "destructible_toy"
+"csv_include" "destructible_flatscreen_tv_wallmount_02"
+"sound_csv_include" "destruct_tv_exp"
+}
+{
+"model" "?0"
+"origin" "-284 7128 -1971"
+"classname" "trigger_hurt"
+"dmg" "500"
+}
+{
+"gndLt" "06070a0000"
+"ltOrigin" "404 -1492 83.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_ontime"
+"angles" "0 270 0"
+"origin" "404 -1492 84.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "ontime"
+}
+{
+"gndLt" "06070a0000"
+"ltOrigin" "404 -1491 84.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_arriving"
+"angles" "90 270 -0.000125717"
+"origin" "404 -1492 84.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "arriving"
+}
+{
+"gndLt" "06070a0000"
+"ltOrigin" "404 -1493 84.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_delayed"
+"angles" "270 283.263 -13.2628"
+"origin" "404 -1492 84.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "delayed"
+}
+{
+"gndLt" "06070a0000"
+"ltOrigin" "404 -1492 85.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_boarding"
+"angles" "1.9859e-006 90 -180"
+"origin" "404 -1492 84.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "boarding"
+}
+{
+"gndLt" "06070a0000"
+"ltOrigin" "404 -1492 77.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_ontime"
+"angles" "0 270 0"
+"origin" "404 -1492 78.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "ontime"
+}
+{
+"gndLt" "06070a0000"
+"ltOrigin" "404 -1491 78.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_arriving"
+"angles" "90 270 -0.000125717"
+"origin" "404 -1492 78.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "arriving"
+}
+{
+"gndLt" "06070a0000"
+"ltOrigin" "404 -1493 78.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_delayed"
+"angles" "270 283.263 -13.2628"
+"origin" "404 -1492 78.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "delayed"
+}
+{
+"gndLt" "06070a0000"
+"ltOrigin" "404 -1492 79.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_boarding"
+"angles" "1.9859e-006 90 -180"
+"origin" "404 -1492 78.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "boarding"
+}
+{
+"gndLt" "06070a0000"
+"ltOrigin" "404 -1492 71.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_ontime"
+"angles" "0 270 0"
+"origin" "404 -1492 72.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "ontime"
+}
+{
+"gndLt" "06070a0000"
+"ltOrigin" "404 -1491 72.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_arriving"
+"angles" "90 270 -0.000125717"
+"origin" "404 -1492 72.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "arriving"
+}
+{
+"gndLt" "06070a0000"
+"ltOrigin" "404 -1493 72.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_delayed"
+"angles" "270 283.263 -13.2628"
+"origin" "404 -1492 72.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "delayed"
+}
+{
+"gndLt" "06070a0000"
+"ltOrigin" "404 -1492 73.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_boarding"
+"angles" "1.9859e-006 90 -180"
+"origin" "404 -1492 72.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "boarding"
+}
+{
+"gndLt" "06070a0000"
+"ltOrigin" "404 -1492 65.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_ontime"
+"angles" "0 270 0"
+"origin" "404 -1492 66.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "ontime"
+}
+{
+"gndLt" "06070a0000"
+"ltOrigin" "404 -1491 66.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_arriving"
+"angles" "90 270 -0.000125717"
+"origin" "404 -1492 66.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "arriving"
+}
+{
+"gndLt" "06070a0000"
+"ltOrigin" "404 -1493 66.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_delayed"
+"angles" "270 283.263 -13.2628"
+"origin" "404 -1492 66.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "delayed"
+}
+{
+"gndLt" "06070a0000"
+"ltOrigin" "404 -1492 67.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_boarding"
+"angles" "1.9859e-006 90 -180"
+"origin" "404 -1492 66.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "boarding"
+}
+{
+"gndLt" "06070a0000"
+"ltOrigin" "404 -1492 59.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_ontime"
+"angles" "0 270 0"
+"origin" "404 -1492 60.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "ontime"
+}
+{
+"gndLt" "06070a0000"
+"ltOrigin" "404 -1491 60.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_arriving"
+"angles" "90 270 -0.000125717"
+"origin" "404 -1492 60.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "arriving"
+}
+{
+"gndLt" "06070a0000"
+"ltOrigin" "404 -1493 60.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_delayed"
+"angles" "270 283.263 -13.2628"
+"origin" "404 -1492 60.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "delayed"
+}
+{
+"gndLt" "06070a0000"
+"ltOrigin" "404 -1492 61.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_boarding"
+"angles" "1.9859e-006 90 -180"
+"origin" "404 -1492 60.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "boarding"
+}
+{
+"gndLt" "06070a0000"
+"ltOrigin" "404 -1492 53.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_ontime"
+"angles" "0 270 0"
+"origin" "404 -1492 54.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "ontime"
+}
+{
+"gndLt" "06070a0000"
+"ltOrigin" "404 -1491 54.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_arriving"
+"angles" "90 270 -0.000125717"
+"origin" "404 -1492 54.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "arriving"
+}
+{
+"gndLt" "06070a0000"
+"ltOrigin" "404 -1493 54.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_delayed"
+"angles" "270 283.263 -13.2628"
+"origin" "404 -1492 54.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "delayed"
+}
+{
+"gndLt" "06070a0000"
+"ltOrigin" "404 -1492 55.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_boarding"
+"angles" "1.9859e-006 90 -180"
+"origin" "404 -1492 54.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "boarding"
+}
+{
+"gndLt" "06070a0000"
+"ltOrigin" "404 -1492 47.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_ontime"
+"angles" "0 270 0"
+"origin" "404 -1492 48.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "ontime"
+}
+{
+"gndLt" "06070a0000"
+"ltOrigin" "404 -1491 48.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_arriving"
+"angles" "90 270 -0.000125717"
+"origin" "404 -1492 48.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "arriving"
+}
+{
+"gndLt" "06070a0000"
+"ltOrigin" "404 -1493 48.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_delayed"
+"angles" "270 283.263 -13.2628"
+"origin" "404 -1492 48.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "delayed"
+}
+{
+"gndLt" "06070a0000"
+"ltOrigin" "404 -1492 49.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_boarding"
+"angles" "1.9859e-006 90 -180"
+"origin" "404 -1492 48.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "boarding"
+}
+{
+"gndLt" "06070a0000"
+"ltOrigin" "404 -1492 41.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_ontime"
+"angles" "0 270 0"
+"origin" "404 -1492 42.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "ontime"
+}
+{
+"gndLt" "06070a0000"
+"ltOrigin" "404 -1491 42.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_arriving"
+"angles" "90 270 -0.000125717"
+"origin" "404 -1492 42.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "arriving"
+}
+{
+"gndLt" "06070a0000"
+"ltOrigin" "404 -1493 42.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_delayed"
+"angles" "270 283.263 -13.2628"
+"origin" "404 -1492 42.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "delayed"
+}
+{
+"gndLt" "06070a0000"
+"ltOrigin" "404 -1492 43.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_boarding"
+"angles" "1.9859e-006 90 -180"
+"origin" "404 -1492 42.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "boarding"
+}
+{
+"gndLt" "06070a0000"
+"ltOrigin" "404 -1492 35.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_ontime"
+"angles" "0 270 0"
+"origin" "404 -1492 36.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "ontime"
+}
+{
+"gndLt" "06070a0000"
+"ltOrigin" "404 -1491 36.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_arriving"
+"angles" "90 270 -0.000125717"
+"origin" "404 -1492 36.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "arriving"
+}
+{
+"gndLt" "06070a0000"
+"ltOrigin" "404 -1493 36.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_delayed"
+"angles" "270 283.263 -13.2628"
+"origin" "404 -1492 36.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "delayed"
+}
+{
+"gndLt" "06070a0000"
+"ltOrigin" "404 -1492 37.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_boarding"
+"angles" "1.9859e-006 90 -180"
+"origin" "404 -1492 36.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "boarding"
+}
+{
+"gndLt" "06070a0000"
+"ltOrigin" "404 -1492 29.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_ontime"
+"angles" "0 270 0"
+"origin" "404 -1492 30.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "ontime"
+}
+{
+"gndLt" "06070a0000"
+"ltOrigin" "404 -1491 30.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_arriving"
+"angles" "90 270 -0.000125717"
+"origin" "404 -1492 30.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "arriving"
+}
+{
+"gndLt" "06070a0000"
+"ltOrigin" "404 -1493 30.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_delayed"
+"angles" "270 283.263 -13.2628"
+"origin" "404 -1492 30.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "delayed"
+}
+{
+"gndLt" "06070a0000"
+"ltOrigin" "404 -1492 31.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_boarding"
+"angles" "1.9859e-006 90 -180"
+"origin" "404 -1492 30.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "boarding"
+}
+{
+"gndLt" "06070a0000"
+"ltOrigin" "404 -1492 23.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_ontime"
+"angles" "0 270 0"
+"origin" "404 -1492 24.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "ontime"
+}
+{
+"gndLt" "06070a0000"
+"ltOrigin" "404 -1491 24.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_arriving"
+"angles" "90 270 -0.000125717"
+"origin" "404 -1492 24.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "arriving"
+}
+{
+"gndLt" "06070a0000"
+"ltOrigin" "404 -1493 24.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_delayed"
+"angles" "270 283.263 -13.2628"
+"origin" "404 -1492 24.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "delayed"
+}
+{
+"gndLt" "06070a0000"
+"ltOrigin" "404 -1492 25.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_boarding"
+"angles" "1.9859e-006 90 -180"
+"origin" "404 -1492 24.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "boarding"
+}
+{
+"gndLt" "19181b0000"
+"ltOrigin" "404 -1492 17.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_ontime"
+"angles" "0 270 0"
+"origin" "404 -1492 18.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "ontime"
+}
+{
+"gndLt" "19181b0000"
+"ltOrigin" "404 -1491 18.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_arriving"
+"angles" "90 270 -0.000125717"
+"origin" "404 -1492 18.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "arriving"
+}
+{
+"gndLt" "19181b0000"
+"ltOrigin" "404 -1493 18.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_delayed"
+"angles" "270 283.263 -13.2628"
+"origin" "404 -1492 18.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "delayed"
+}
+{
+"gndLt" "1615180000"
+"ltOrigin" "404 -1492 19.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_boarding"
+"angles" "1.9859e-006 90 -180"
+"origin" "404 -1492 18.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "boarding"
+}
+{
+"gndLt" "19181b0000"
+"ltOrigin" "404 -1492 11.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_ontime"
+"angles" "0 270 0"
+"origin" "404 -1492 12.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "ontime"
+}
+{
+"gndLt" "19181b0000"
+"ltOrigin" "404 -1491 12.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_arriving"
+"angles" "90 270 -0.000125717"
+"origin" "404 -1492 12.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "arriving"
+}
+{
+"gndLt" "19181b0000"
+"ltOrigin" "404 -1493 12.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_delayed"
+"angles" "270 283.263 -13.2628"
+"origin" "404 -1492 12.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "delayed"
+}
+{
+"gndLt" "1615180000"
+"ltOrigin" "404 -1492 13.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_boarding"
+"angles" "1.9859e-006 90 -180"
+"origin" "404 -1492 12.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "boarding"
+}
+{
+"gndLt" "06070a0000"
+"ltOrigin" "404 -1492 89.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_ontime"
+"angles" "0 270 0"
+"origin" "404 -1492 90.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "ontime"
+}
+{
+"gndLt" "06070a0000"
+"ltOrigin" "404 -1491 90.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_arriving"
+"angles" "90 270 -0.000125717"
+"origin" "404 -1492 90.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "arriving"
+}
+{
+"gndLt" "06070a0000"
+"ltOrigin" "404 -1493 90.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_delayed"
+"angles" "270 283.263 -13.2628"
+"origin" "404 -1492 90.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "delayed"
+}
+{
+"gndLt" "06070a0000"
+"ltOrigin" "404 -1492 91.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_boarding"
+"angles" "1.9859e-006 90 -180"
+"origin" "404 -1492 90.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "boarding"
+}
+{
+"gndLt" "19181b0000"
+"ltOrigin" "404 -1492 5.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_ontime"
+"angles" "0 270 0"
+"origin" "404 -1492 6.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "ontime"
+}
+{
+"gndLt" "19181b0000"
+"ltOrigin" "404 -1491 6.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_arriving"
+"angles" "90 270 -0.000125717"
+"origin" "404 -1492 6.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "arriving"
+}
+{
+"gndLt" "19181b0000"
+"ltOrigin" "404 -1493 6.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_delayed"
+"angles" "270 283.263 -13.2628"
+"origin" "404 -1492 6.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "delayed"
+}
+{
+"gndLt" "1615180000"
+"ltOrigin" "404 -1492 7.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_boarding"
+"angles" "1.9859e-006 90 -180"
+"origin" "404 -1492 6.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "boarding"
+}
+{
+"gndLt" "19181b0000"
+"ltOrigin" "404 -1492 -0.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_ontime"
+"angles" "0 270 0"
+"origin" "404 -1492 0.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "ontime"
+}
+{
+"gndLt" "19181b0000"
+"ltOrigin" "404 -1491 0.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_arriving"
+"angles" "90 270 -0.000125717"
+"origin" "404 -1492 0.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "arriving"
+}
+{
+"gndLt" "19181b0000"
+"ltOrigin" "404 -1493 0.499999"
+"classname" "script_model"
+"model" "sign_airport_departure_status_delayed"
+"angles" "270 283.263 -13.2628"
+"origin" "404 -1492 0.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "delayed"
+}
+{
+"gndLt" "19181b0000"
+"ltOrigin" "404 -1492 1.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_boarding"
+"angles" "1.9859e-006 90 -180"
+"origin" "404 -1492 0.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "boarding"
+}
+{
+"gndLt" "19181b0000"
+"ltOrigin" "404 -1492 -6.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_ontime"
+"angles" "0 270 0"
+"origin" "404 -1492 -5.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "ontime"
+}
+{
+"gndLt" "19181b0000"
+"ltOrigin" "404 -1491 -5.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_arriving"
+"angles" "90 270 -0.000125717"
+"origin" "404 -1492 -5.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "arriving"
+}
+{
+"gndLt" "19181b0000"
+"ltOrigin" "404 -1493 -5.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_delayed"
+"angles" "270 283.263 -13.2628"
+"origin" "404 -1492 -5.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "delayed"
+}
+{
+"gndLt" "19181b0000"
+"ltOrigin" "404 -1492 -4.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_boarding"
+"angles" "1.9859e-006 90 -180"
+"origin" "404 -1492 -5.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "boarding"
+}
+{
+"gndLt" "19181b0000"
+"ltOrigin" "404 -1492 -12.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_ontime"
+"angles" "0 270 0"
+"origin" "404 -1492 -11.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "ontime"
+}
+{
+"gndLt" "19181b0000"
+"ltOrigin" "404 -1491 -11.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_arriving"
+"angles" "90 270 -0.000125717"
+"origin" "404 -1492 -11.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "arriving"
+}
+{
+"gndLt" "19181b0000"
+"ltOrigin" "404 -1493 -11.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_delayed"
+"angles" "270 283.263 -13.2628"
+"origin" "404 -1492 -11.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "delayed"
+}
+{
+"gndLt" "1615180000"
+"ltOrigin" "404 -1492 -10.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_boarding"
+"angles" "1.9859e-006 90 -180"
+"origin" "404 -1492 -11.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "boarding"
+}
+{
+"ltOrigin" "698.609 1616 94.7967"
+"angles" "2.13443e-007 270 3.99995"
+"classname" "script_model"
+"model" "ma_flatscreen_tv_wallmount_02"
+"origin" "703.8 1616 77.3"
+"csv_include" "destructible_flatscreen_tv_wallmount_02"
+"destructible_type" "toy_tv_flatscreen_wallmount_02"
+"sound_csv_include" "destruct_tv_exp"
+"targetname" "destructible_toy"
+}
+{
+"ltOrigin" "163.391 1080 94.7967"
+"angles" "0 90 3.99995"
+"classname" "script_model"
+"model" "ma_flatscreen_tv_wallmount_02"
+"origin" "158.2 1080 77.3"
+"csv_include" "destructible_flatscreen_tv_wallmount_02"
+"destructible_type" "toy_tv_flatscreen_wallmount_02"
+"sound_csv_include" "destruct_tv_exp"
+"targetname" "destructible_toy"
+}
+{
+"gndLt" "8080800001"
+"ltOrigin" "-915.701 457.352 -37"
+"angles" "0 120.4 0"
+"classname" "script_model"
+"model" "nx_display_screen_01_2"
+"origin" "-915.41 456.857 -110.5"
+"csv_include" "nx_destructible_display_screen_01"
+"destructible_type" "nx_destructible_display_screen_01_1"
+"sound_csv_include" "destruct_tv_exp"
+"targetname" "destructible_toy"
+}
+{
+"gndLt" "8080800001"
+"ltOrigin" "-887.793 409.786 -37"
+"angles" "0 300.4 0"
+"classname" "script_model"
+"model" "nx_display_screen_01_6"
+"origin" "-888.084 410.281 -110.5"
+"csv_include" "nx_destructible_display_screen_01"
+"destructible_type" "nx_destructible_display_screen_01_1"
+"sound_csv_include" "destruct_tv_exp"
+"targetname" "destructible_toy"
+}
+{
+"gndLt" "8080800001"
+"ltOrigin" "-877.964 447.523 -37"
+"angles" "0 30.4 0"
+"classname" "script_model"
+"model" "nx_display_screen_01_7"
+"origin" "-878.459 447.232 -110.5"
+"csv_include" "nx_destructible_display_screen_01"
+"destructible_type" "nx_destructible_display_screen_01_1"
+"sound_csv_include" "destruct_tv_exp"
+"targetname" "destructible_toy"
+}
+{
+"gndLt" "8080800001"
+"ltOrigin" "-925.53 419.615 -37"
+"angles" "0 210.4 0"
+"classname" "script_model"
+"model" "nx_display_screen_01_3"
+"origin" "-925.035 419.906 -110.5"
+"csv_include" "nx_destructible_display_screen_01"
+"destructible_type" "nx_destructible_display_screen_01_1"
+"sound_csv_include" "destruct_tv_exp"
+"targetname" "destructible_toy"
+}
+{
+"ltOrigin" "-190 2608.88 -10.0173"
+"classname" "script_model"
+"model" "ma_flatscreen_tv_on_wallmount_02_static"
+"angles" "5.93024e-007 3.76179e-005 9.99998"
+"origin" "-190 2616.2 -26.6"
+"csv_include" "destructible_flatscreen_tv_wallmount_02"
+"destructible_type" "toy_tv_flatscreen_wallmount_02"
+"targetname" "destructible_toy"
+"sound_csv_include" "destruct_tv_exp"
+}
+{
+"ltOrigin" "-96 2608.88 -10.0173"
+"classname" "script_model"
+"model" "ma_flatscreen_tv_on_wallmount_02_static"
+"angles" "5.93024e-007 3.76179e-005 9.99998"
+"origin" "-96 2616.2 -26.6"
+"csv_include" "destructible_flatscreen_tv_wallmount_02"
+"destructible_type" "toy_tv_flatscreen_wallmount_02"
+"targetname" "destructible_toy"
+"sound_csv_include" "destruct_tv_exp"
+}
+{
+"gndLt" "2521230001"
+"ltOrigin" "-598.5 1764.21 19.2057"
+"angles" "0 180 0"
+"classname" "script_model"
+"model" "me_electricbox4"
+"origin" "-598.5 1759.5 20"
+"targetname" "destructible_toy"
+"destructible_type" "toy_electricbox4"
+"csv_include" "destructible_electricalbox4"
+"sound_csv_include" "destruct_spark_box"
+}
+{
+"gndLt" "2d292c2c01"
+"ltOrigin" "578.226 2244.88 200.864"
+"angles" "0 315 0"
+"classname" "script_model"
+"model" "foliage_tree_grey_oak_xl_a_animated"
+"origin" "598.293 2246.07 -60"
+"targetname" "animated_model"
+"precache_script" "maps animated_models foliage_tree_grey_oak_xl_a"
+"csv_include" "animated_models_foliage_tree_grey_oak_xl_a"
+}
+{
+"gndLt" "8080800001"
+"ltOrigin" "496.9 2196.76 142.671"
+"angles" "0 300.6 0"
+"classname" "script_model"
+"model" "foliage_tree_grey_oak_lg_a_animated"
+"origin" "488.055 2221.39 -75"
+"targetname" "animated_model"
+"precache_script" "maps animated_models foliage_tree_grey_oak_lg_a"
+"csv_include" "animated_models_foliage_tree_grey_oak_lg_a"
+}
+{
+"gndLt" "3733364301"
+"ltOrigin" "535.781 2127.39 -0.57682"
+"angles" "0 315 0"
+"csv_include" "animated_models_foliage_pacific_palms06"
+"precache_script" "maps animated_models foliage_pacific_palms06"
+"targetname" "animated_model"
+"origin" "533.31 2130.88 -73"
+"model" "foliage_pacific_palms06_animated"
+"classname" "script_model"
+}
+{
+"gndLt" "2422255201"
+"ltOrigin" "494.624 2155.28 -29.9557"
+"angles" "0 315 0"
+"classname" "script_model"
+"model" "foliage_pacific_palms08_animated"
+"origin" "488.833 2154.29 -74"
+"targetname" "animated_model"
+"precache_script" "maps animated_models foliage_pacific_palms08"
+"csv_include" "animated_models_foliage_pacific_palms08"
+}
+{
+"gndLt" "8080800001"
+"ltOrigin" "736.062 2284.4 142.671"
+"angles" "0 46.4 0"
+"classname" "script_model"
+"model" "foliage_tree_grey_oak_lg_a_animated"
+"origin" "713.622 2271.6 -75"
+"targetname" "animated_model"
+"precache_script" "maps animated_models foliage_tree_grey_oak_lg_a"
+"csv_include" "animated_models_foliage_tree_grey_oak_lg_a"
+}
+{
+"gndLt" "3e383b2101"
+"ltOrigin" "643.012 2359.26 0.42318"
+"angles" "0 252.6 0"
+"csv_include" "animated_models_foliage_pacific_palms06"
+"precache_script" "maps animated_models foliage_pacific_palms06"
+"targetname" "animated_model"
+"origin" "645.033 2361.4 -72"
+"model" "foliage_pacific_palms06_animated"
+"classname" "script_model"
+}
+{
+"gndLt" "2a26292801"
+"ltOrigin" "592.205 2326.4 -29.9557"
+"angles" "0 315 0"
+"classname" "script_model"
+"model" "foliage_pacific_palms08_animated"
+"origin" "586.414 2325.41 -74"
+"targetname" "animated_model"
+"precache_script" "maps animated_models foliage_pacific_palms08"
+"csv_include" "animated_models_foliage_pacific_palms08"
+}
+{
+"gndLt" "2a272a2501"
+"ltOrigin" "685.573 2268.77 -35.9557"
+"angles" "0 273 0"
+"classname" "script_model"
+"model" "foliage_pacific_palms08_animated"
+"origin" "683.995 2270.25 -80"
+"targetname" "animated_model"
+"precache_script" "maps animated_models foliage_pacific_palms08"
+"csv_include" "animated_models_foliage_pacific_palms08"
+}
+{
+"gndLt" "06070a0000"
+"ltOrigin" "220 -1492 83.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_ontime"
+"angles" "0 270 0"
+"origin" "220 -1492 84.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "ontime"
+}
+{
+"gndLt" "06070a0000"
+"ltOrigin" "220 -1491 84.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_arriving"
+"angles" "90 270 -0.000125717"
+"origin" "220 -1492 84.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "arriving"
+}
+{
+"gndLt" "06070a0000"
+"ltOrigin" "220 -1493 84.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_delayed"
+"angles" "270 283.263 -13.2628"
+"origin" "220 -1492 84.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "delayed"
+}
+{
+"gndLt" "06070a0000"
+"ltOrigin" "220 -1492 85.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_boarding"
+"angles" "1.9859e-006 90 -180"
+"origin" "220 -1492 84.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "boarding"
+}
+{
+"gndLt" "06070a0000"
+"ltOrigin" "220 -1492 77.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_ontime"
+"angles" "0 270 0"
+"origin" "220 -1492 78.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "ontime"
+}
+{
+"gndLt" "06070a0000"
+"ltOrigin" "220 -1491 78.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_arriving"
+"angles" "90 270 -0.000125717"
+"origin" "220 -1492 78.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "arriving"
+}
+{
+"gndLt" "06070a0000"
+"ltOrigin" "220 -1493 78.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_delayed"
+"angles" "270 283.263 -13.2628"
+"origin" "220 -1492 78.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "delayed"
+}
+{
+"gndLt" "06070a0000"
+"ltOrigin" "220 -1492 79.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_boarding"
+"angles" "1.9859e-006 90 -180"
+"origin" "220 -1492 78.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "boarding"
+}
+{
+"gndLt" "06070a0000"
+"ltOrigin" "220 -1492 71.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_ontime"
+"angles" "0 270 0"
+"origin" "220 -1492 72.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "ontime"
+}
+{
+"gndLt" "06070a0000"
+"ltOrigin" "220 -1491 72.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_arriving"
+"angles" "90 270 -0.000125717"
+"origin" "220 -1492 72.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "arriving"
+}
+{
+"gndLt" "06070a0000"
+"ltOrigin" "220 -1493 72.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_delayed"
+"angles" "270 283.263 -13.2628"
+"origin" "220 -1492 72.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "delayed"
+}
+{
+"gndLt" "06070a0000"
+"ltOrigin" "220 -1492 73.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_boarding"
+"angles" "1.9859e-006 90 -180"
+"origin" "220 -1492 72.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "boarding"
+}
+{
+"gndLt" "06070a0000"
+"ltOrigin" "220 -1492 65.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_ontime"
+"angles" "0 270 0"
+"origin" "220 -1492 66.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "ontime"
+}
+{
+"gndLt" "06070a0000"
+"ltOrigin" "220 -1491 66.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_arriving"
+"angles" "90 270 -0.000125717"
+"origin" "220 -1492 66.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "arriving"
+}
+{
+"gndLt" "06070a0000"
+"ltOrigin" "220 -1493 66.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_delayed"
+"angles" "270 283.263 -13.2628"
+"origin" "220 -1492 66.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "delayed"
+}
+{
+"gndLt" "06070a0000"
+"ltOrigin" "220 -1492 67.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_boarding"
+"angles" "1.9859e-006 90 -180"
+"origin" "220 -1492 66.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "boarding"
+}
+{
+"gndLt" "06070a0000"
+"ltOrigin" "220 -1492 59.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_ontime"
+"angles" "0 270 0"
+"origin" "220 -1492 60.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "ontime"
+}
+{
+"gndLt" "06070a0000"
+"ltOrigin" "220 -1491 60.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_arriving"
+"angles" "90 270 -0.000125717"
+"origin" "220 -1492 60.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "arriving"
+}
+{
+"gndLt" "06070a0000"
+"ltOrigin" "220 -1493 60.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_delayed"
+"angles" "270 283.263 -13.2628"
+"origin" "220 -1492 60.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "delayed"
+}
+{
+"gndLt" "06070a0000"
+"ltOrigin" "220 -1492 61.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_boarding"
+"angles" "1.9859e-006 90 -180"
+"origin" "220 -1492 60.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "boarding"
+}
+{
+"gndLt" "06070a0000"
+"ltOrigin" "220 -1492 53.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_ontime"
+"angles" "0 270 0"
+"origin" "220 -1492 54.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "ontime"
+}
+{
+"gndLt" "06070a0000"
+"ltOrigin" "220 -1491 54.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_arriving"
+"angles" "90 270 -0.000125717"
+"origin" "220 -1492 54.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "arriving"
+}
+{
+"gndLt" "06070a0000"
+"ltOrigin" "220 -1493 54.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_delayed"
+"angles" "270 283.263 -13.2628"
+"origin" "220 -1492 54.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "delayed"
+}
+{
+"gndLt" "06070a0000"
+"ltOrigin" "220 -1492 55.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_boarding"
+"angles" "1.9859e-006 90 -180"
+"origin" "220 -1492 54.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "boarding"
+}
+{
+"gndLt" "06070a0000"
+"ltOrigin" "220 -1492 47.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_ontime"
+"angles" "0 270 0"
+"origin" "220 -1492 48.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "ontime"
+}
+{
+"gndLt" "06070a0000"
+"ltOrigin" "220 -1491 48.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_arriving"
+"angles" "90 270 -0.000125717"
+"origin" "220 -1492 48.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "arriving"
+}
+{
+"gndLt" "06070a0000"
+"ltOrigin" "220 -1493 48.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_delayed"
+"angles" "270 283.263 -13.2628"
+"origin" "220 -1492 48.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "delayed"
+}
+{
+"gndLt" "06070a0000"
+"ltOrigin" "220 -1492 49.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_boarding"
+"angles" "1.9859e-006 90 -180"
+"origin" "220 -1492 48.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "boarding"
+}
+{
+"gndLt" "06070a0000"
+"ltOrigin" "220 -1492 41.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_ontime"
+"angles" "0 270 0"
+"origin" "220 -1492 42.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "ontime"
+}
+{
+"gndLt" "06070a0000"
+"ltOrigin" "220 -1491 42.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_arriving"
+"angles" "90 270 -0.000125717"
+"origin" "220 -1492 42.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "arriving"
+}
+{
+"gndLt" "06070a0000"
+"ltOrigin" "220 -1493 42.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_delayed"
+"angles" "270 283.263 -13.2628"
+"origin" "220 -1492 42.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "delayed"
+}
+{
+"gndLt" "06070a0000"
+"ltOrigin" "220 -1492 43.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_boarding"
+"angles" "1.9859e-006 90 -180"
+"origin" "220 -1492 42.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "boarding"
+}
+{
+"gndLt" "06070a0000"
+"ltOrigin" "220 -1492 35.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_ontime"
+"angles" "0 270 0"
+"origin" "220 -1492 36.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "ontime"
+}
+{
+"gndLt" "06070a0000"
+"ltOrigin" "220 -1491 36.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_arriving"
+"angles" "90 270 -0.000125717"
+"origin" "220 -1492 36.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "arriving"
+}
+{
+"gndLt" "06070a0000"
+"ltOrigin" "220 -1493 36.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_delayed"
+"angles" "270 283.263 -13.2628"
+"origin" "220 -1492 36.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "delayed"
+}
+{
+"gndLt" "06070a0000"
+"ltOrigin" "220 -1492 37.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_boarding"
+"angles" "1.9859e-006 90 -180"
+"origin" "220 -1492 36.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "boarding"
+}
+{
+"gndLt" "06070a0000"
+"ltOrigin" "220 -1492 29.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_ontime"
+"angles" "0 270 0"
+"origin" "220 -1492 30.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "ontime"
+}
+{
+"gndLt" "06070a0000"
+"ltOrigin" "220 -1491 30.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_arriving"
+"angles" "90 270 -0.000125717"
+"origin" "220 -1492 30.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "arriving"
+}
+{
+"gndLt" "06070a0000"
+"ltOrigin" "220 -1493 30.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_delayed"
+"angles" "270 283.263 -13.2628"
+"origin" "220 -1492 30.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "delayed"
+}
+{
+"gndLt" "06070a0000"
+"ltOrigin" "220 -1492 31.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_boarding"
+"angles" "1.9859e-006 90 -180"
+"origin" "220 -1492 30.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "boarding"
+}
+{
+"gndLt" "06070a0000"
+"ltOrigin" "220 -1492 23.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_ontime"
+"angles" "0 270 0"
+"origin" "220 -1492 24.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "ontime"
+}
+{
+"gndLt" "06070a0000"
+"ltOrigin" "220 -1491 24.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_arriving"
+"angles" "90 270 -0.000125717"
+"origin" "220 -1492 24.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "arriving"
+}
+{
+"gndLt" "06070a0000"
+"ltOrigin" "220 -1493 24.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_delayed"
+"angles" "270 283.263 -13.2628"
+"origin" "220 -1492 24.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "delayed"
+}
+{
+"gndLt" "06070a0000"
+"ltOrigin" "220 -1492 25.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_boarding"
+"angles" "1.9859e-006 90 -180"
+"origin" "220 -1492 24.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "boarding"
+}
+{
+"gndLt" "1f1e220000"
+"ltOrigin" "220 -1492 17.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_ontime"
+"angles" "0 270 0"
+"origin" "220 -1492 18.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "ontime"
+}
+{
+"gndLt" "1f1e220000"
+"ltOrigin" "220 -1491 18.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_arriving"
+"angles" "90 270 -0.000125717"
+"origin" "220 -1492 18.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "arriving"
+}
+{
+"gndLt" "1f1e220000"
+"ltOrigin" "220 -1493 18.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_delayed"
+"angles" "270 283.263 -13.2628"
+"origin" "220 -1492 18.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "delayed"
+}
+{
+"gndLt" "1b1a1e0000"
+"ltOrigin" "220 -1492 19.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_boarding"
+"angles" "1.9859e-006 90 -180"
+"origin" "220 -1492 18.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "boarding"
+}
+{
+"gndLt" "1f1e220000"
+"ltOrigin" "220 -1492 11.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_ontime"
+"angles" "0 270 0"
+"origin" "220 -1492 12.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "ontime"
+}
+{
+"gndLt" "1f1e220000"
+"ltOrigin" "220 -1491 12.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_arriving"
+"angles" "90 270 -0.000125717"
+"origin" "220 -1492 12.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "arriving"
+}
+{
+"gndLt" "1f1e220000"
+"ltOrigin" "220 -1493 12.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_delayed"
+"angles" "270 283.263 -13.2628"
+"origin" "220 -1492 12.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "delayed"
+}
+{
+"gndLt" "1b1a1e0000"
+"ltOrigin" "220 -1492 13.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_boarding"
+"angles" "1.9859e-006 90 -180"
+"origin" "220 -1492 12.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "boarding"
+}
+{
+"gndLt" "06070a0000"
+"ltOrigin" "220 -1492 89.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_ontime"
+"angles" "0 270 0"
+"origin" "220 -1492 90.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "ontime"
+}
+{
+"gndLt" "06070a0000"
+"ltOrigin" "220 -1491 90.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_arriving"
+"angles" "90 270 -0.000125717"
+"origin" "220 -1492 90.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "arriving"
+}
+{
+"gndLt" "06070a0000"
+"ltOrigin" "220 -1493 90.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_delayed"
+"angles" "270 283.263 -13.2628"
+"origin" "220 -1492 90.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "delayed"
+}
+{
+"gndLt" "06070a0000"
+"ltOrigin" "220 -1492 91.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_boarding"
+"angles" "1.9859e-006 90 -180"
+"origin" "220 -1492 90.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "boarding"
+}
+{
+"gndLt" "1f1e220000"
+"ltOrigin" "220 -1492 5.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_ontime"
+"angles" "0 270 0"
+"origin" "220 -1492 6.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "ontime"
+}
+{
+"gndLt" "1f1e220000"
+"ltOrigin" "220 -1491 6.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_arriving"
+"angles" "90 270 -0.000125717"
+"origin" "220 -1492 6.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "arriving"
+}
+{
+"gndLt" "1f1e220000"
+"ltOrigin" "220 -1493 6.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_delayed"
+"angles" "270 283.263 -13.2628"
+"origin" "220 -1492 6.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "delayed"
+}
+{
+"gndLt" "1b1a1e0000"
+"ltOrigin" "220 -1492 7.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_boarding"
+"angles" "1.9859e-006 90 -180"
+"origin" "220 -1492 6.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "boarding"
+}
+{
+"gndLt" "1f1e220000"
+"ltOrigin" "220 -1492 -0.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_ontime"
+"angles" "0 270 0"
+"origin" "220 -1492 0.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "ontime"
+}
+{
+"gndLt" "1f1e220000"
+"ltOrigin" "220 -1491 0.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_arriving"
+"angles" "90 270 -0.000125717"
+"origin" "220 -1492 0.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "arriving"
+}
+{
+"gndLt" "1f1e220000"
+"ltOrigin" "220 -1493 0.499999"
+"classname" "script_model"
+"model" "sign_airport_departure_status_delayed"
+"angles" "270 283.263 -13.2628"
+"origin" "220 -1492 0.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "delayed"
+}
+{
+"gndLt" "1f1e220000"
+"ltOrigin" "220 -1492 1.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_boarding"
+"angles" "1.9859e-006 90 -180"
+"origin" "220 -1492 0.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "boarding"
+}
+{
+"gndLt" "1f1e220000"
+"ltOrigin" "220 -1492 -6.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_ontime"
+"angles" "0 270 0"
+"origin" "220 -1492 -5.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "ontime"
+}
+{
+"gndLt" "1f1e220000"
+"ltOrigin" "220 -1491 -5.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_arriving"
+"angles" "90 270 -0.000125717"
+"origin" "220 -1492 -5.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "arriving"
+}
+{
+"gndLt" "1f1e220000"
+"ltOrigin" "220 -1493 -5.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_delayed"
+"angles" "270 283.263 -13.2628"
+"origin" "220 -1492 -5.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "delayed"
+}
+{
+"gndLt" "1f1e220000"
+"ltOrigin" "220 -1492 -4.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_boarding"
+"angles" "1.9859e-006 90 -180"
+"origin" "220 -1492 -5.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "boarding"
+}
+{
+"gndLt" "1f1e220000"
+"ltOrigin" "220 -1492 -12.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_ontime"
+"angles" "0 270 0"
+"origin" "220 -1492 -11.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "ontime"
+}
+{
+"gndLt" "1f1e220000"
+"ltOrigin" "220 -1491 -11.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_arriving"
+"angles" "90 270 -0.000125717"
+"origin" "220 -1492 -11.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "arriving"
+}
+{
+"gndLt" "1f1e220000"
+"ltOrigin" "220 -1493 -11.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_delayed"
+"angles" "270 283.263 -13.2628"
+"origin" "220 -1492 -11.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "delayed"
+}
+{
+"gndLt" "1b1a1e0000"
+"ltOrigin" "220 -1492 -10.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_boarding"
+"angles" "1.9859e-006 90 -180"
+"origin" "220 -1492 -11.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "boarding"
+}
+{
+"gndLt" "54515d2e01"
+"ltOrigin" "-1343.51 -521.529 47.4232"
+"angles" "0 45 0"
+"csv_include" "animated_models_foliage_pacific_palms06"
+"precache_script" "maps animated_models foliage_pacific_palms06"
+"targetname" "animated_model"
+"origin" "-1347 -524 -25"
+"model" "foliage_pacific_palms06_animated"
+"classname" "script_model"
+}
+{
+"gndLt" "53505c0000"
+"ltOrigin" "-1358.83 -450.969 40.4232"
+"csv_include" "animated_models_foliage_pacific_palms06"
+"precache_script" "maps animated_models foliage_pacific_palms06"
+"targetname" "animated_model"
+"origin" "-1361 -451 -32"
+"model" "foliage_pacific_palms06_animated"
+"classname" "script_model"
+}
+{
+"gndLt" "8080800001"
+"ltOrigin" "-1339.19 -455.572 204.606"
+"angles" "0 30 0"
+"classname" "script_model"
+"model" "foliage_tree_river_birch_lg_a_animated"
+"origin" "-1377 -475 -16"
+"targetname" "animated_model"
+"precache_script" "maps animated_models foliage_tree_river_birch_lg_a"
+"csv_include" "animated_models_foliage_tree_river_birch_lg_a"
+}
+{
+"gndLt" "8080800000"
+"ltOrigin" "-1305.51 -436.335 108.407"
+"angles" "357.135 29.5 1.65764"
+"csv_include" "animated_models_foliage_pacific_tropic_shrub01"
+"precache_script" "maps animated_models foliage_pacific_tropic_shrub01"
+"targetname" "animated_model"
+"origin" "-1324.5 -434.9 -24"
+"model" "foliage_pacific_tropic_shrub01_animated"
+"classname" "script_model"
+}
+{
+"gndLt" "50484d2801"
+"ltOrigin" "-1293.47 -402.299 33.5337"
+"angles" "0 38 0"
+"classname" "script_model"
+"model" "foliage_pacific_fern01_animated"
+"origin" "-1297 -401 4"
+"targetname" "animated_model"
+"precache_script" "maps animated_models foliage_pacific_fern01"
+"csv_include" "animated_models_foliage_pacific_fern01"
+}
+{
+"gndLt" "4f49502d01"
+"ltOrigin" "-1158.73 -410.572 33.5337"
+"classname" "script_model"
+"model" "foliage_pacific_fern01_animated"
+"origin" "-1157 -415 4"
+"targetname" "animated_model"
+"precache_script" "maps animated_models foliage_pacific_fern01"
+"csv_include" "animated_models_foliage_pacific_fern01"
+}
+{
+"gndLt" "5e565e3601"
+"ltOrigin" "-1373.47 -532.299 33.5337"
+"angles" "0 38 0"
+"classname" "script_model"
+"model" "foliage_pacific_fern01_animated"
+"origin" "-1377 -531 4"
+"targetname" "animated_model"
+"precache_script" "maps animated_models foliage_pacific_fern01"
+"csv_include" "animated_models_foliage_pacific_fern01"
+}
+{
+"gndLt" "5a51562101"
+"ltOrigin" "-1380.35 -440.544 33.5337"
+"angles" "0 170 0"
+"classname" "script_model"
+"model" "foliage_pacific_fern01_animated"
+"origin" "-1383 -437 4"
+"targetname" "animated_model"
+"precache_script" "maps animated_models foliage_pacific_fern01"
+"csv_include" "animated_models_foliage_pacific_fern01"
+}
+{
+"gndLt" "808080a401"
+"ltOrigin" "-1249.66 -381.608 204.606"
+"angles" "0 90 0"
+"classname" "script_model"
+"model" "foliage_tree_river_birch_lg_a_animated"
+"origin" "-1241 -403 -16"
+"targetname" "animated_model"
+"precache_script" "maps animated_models foliage_tree_river_birch_lg_a"
+"csv_include" "animated_models_foliage_tree_river_birch_lg_a"
+}
+{
+"gndLt" "53505c2401"
+"ltOrigin" "-1271.51 -425.529 47.4232"
+"angles" "0 45 0"
+"csv_include" "animated_models_foliage_pacific_palms06"
+"precache_script" "maps animated_models foliage_pacific_palms06"
+"targetname" "animated_model"
+"origin" "-1275 -428 -25"
+"model" "foliage_pacific_palms06_animated"
+"classname" "script_model"
+}
+{
+"model" "*1"
+"origin" "-1272 -1887 18"
+"classname" "script_brushmodel"
+"script_specialops" "1"
+}
+{
+"model" "*2"
+"origin" "-1272 -1917 27"
+"classname" "script_brushmodel"
+"script_specialops" "1"
+}
+{
+"model" "*3"
+"origin" "-1512 -1887 18"
+"classname" "script_brushmodel"
+"script_specialops" "1"
+}
+{
+"model" "*4"
+"origin" "-1512 -1917 27"
+"classname" "script_brushmodel"
+"script_specialops" "1"
+}
+{
+"ltOrigin" "-2781.8 1444.94 -2"
+"classname" "script_model"
+"model" "ma_flatscreen_tv_wallmount_02"
+"angles" "0 180 0"
+"modelscale" "1"
+"origin" "-2781.8 1441.2 -20"
+"destructible_type" "toy_tv_flatscreen_wallmount_02"
+"targetname" "destructible_toy"
+"csv_include" "destructible_flatscreen_tv_wallmount_02"
+"sound_csv_include" "destruct_tv_exp"
+}
+{
+"ltOrigin" "-2781.8 1435.46 -2"
+"classname" "script_model"
+"model" "ma_flatscreen_tv_wallmount_02"
+"angles" "0 3.75661e-005 0"
+"modelscale" "1"
+"origin" "-2781.8 1439.2 -20"
+"destructible_type" "toy_tv_flatscreen_wallmount_02"
+"targetname" "destructible_toy"
+"csv_include" "destructible_flatscreen_tv_wallmount_02"
+"sound_csv_include" "destruct_tv_exp"
+}
+{
+"ltOrigin" "-2781.8 1948.94 -2"
+"classname" "script_model"
+"model" "ma_flatscreen_tv_wallmount_02"
+"angles" "0 180 0"
+"modelscale" "1"
+"origin" "-2781.8 1945.2 -20"
+"destructible_type" "toy_tv_flatscreen_wallmount_02"
+"targetname" "destructible_toy"
+"csv_include" "destructible_flatscreen_tv_wallmount_02"
+"sound_csv_include" "destruct_tv_exp"
+}
+{
+"ltOrigin" "-2781.8 1939.46 -2"
+"classname" "script_model"
+"model" "ma_flatscreen_tv_wallmount_02"
+"angles" "0 3.75661e-005 0"
+"modelscale" "1"
+"origin" "-2781.8 1943.2 -20"
+"destructible_type" "toy_tv_flatscreen_wallmount_02"
+"targetname" "destructible_toy"
+"csv_include" "destructible_flatscreen_tv_wallmount_02"
+"sound_csv_include" "destruct_tv_exp"
+}
+{
+"model" "*5"
+"origin" "-156 730 -86"
+"classname" "script_brushmodel"
+"script_specialops" "1"
+}
+{
+"model" "*6"
+"origin" "-156 700 -77"
+"classname" "script_brushmodel"
+"script_specialops" "1"
+}
+{
+"model" "*7"
+"origin" "-156 614 -62"
+"classname" "script_brushmodel"
+"script_specialops" "1"
+}
+{
+"model" "*8"
+"origin" "-156 644 -53"
+"classname" "script_brushmodel"
+"script_specialops" "1"
+}
+{
+"gndLt" "8080807501"
+"ltOrigin" "3086.35 -4475.23 -112.706"
+"classname" "script_model"
+"model" "foliage_tree_palm_tall_1"
+"origin" "3139.5 -4483 -544"
+"targetname" "animated_model"
+"precache_script" "maps animated_models foliage_tree_palm_tall_1"
+"csv_include" "animated_models_foliage_tree_palm_tall_1"
+"angles" "357.135 329.5 1.65764"
+}
+{
+"gndLt" "8080800001"
+"ltOrigin" "2779.19 -4510.49 -222.992"
+"classname" "script_model"
+"model" "foliage_tree_palm_tall_1"
+"origin" "2785.8 -4474.6 -656"
+"targetname" "animated_model"
+"precache_script" "maps animated_models foliage_tree_palm_tall_1"
+"csv_include" "animated_models_foliage_tree_palm_tall_1"
+"angles" "358.436 101.724 -0.962471"
+}
+{
+"gndLt" "8080800001"
+"ltOrigin" "2537.67 -4459.07 -224.753"
+"classname" "script_model"
+"model" "foliage_tree_palm_tall_1"
+"origin" "2495.2 -4461.6 -656"
+"targetname" "animated_model"
+"precache_script" "maps animated_models foliage_tree_palm_tall_1"
+"csv_include" "animated_models_foliage_tree_palm_tall_1"
+"angles" "359.77 111.308 2.9504"
+}
+{
+"gndLt" "8080800001"
+"ltOrigin" "2209.5 -4505.87 -224.787"
+"classname" "script_model"
+"model" "foliage_tree_palm_tall_1"
+"origin" "2168.1 -4482.6 -656"
+"targetname" "animated_model"
+"precache_script" "maps animated_models foliage_tree_palm_tall_1"
+"csv_include" "animated_models_foliage_tree_palm_tall_1"
+"angles" "358.959 96.885 2.81584"
+}
+{
+"gndLt" "8080800001"
+"ltOrigin" "1900.92 -4530.03 -225.799"
+"classname" "script_model"
+"model" "foliage_tree_palm_tall_1"
+"origin" "1843.1 -4485.8 -656"
+"targetname" "animated_model"
+"precache_script" "maps animated_models foliage_tree_palm_tall_1"
+"csv_include" "animated_models_foliage_tree_palm_tall_1"
+"angles" "357.313 96.4973 3.94461"
+}
+{
+"gndLt" "514b502301"
+"ltOrigin" "3018.68 -4406.31 -398.655"
+"classname" "script_model"
+"model" "foliage_tree_palm_bushy_3"
+"origin" "3016.9 -4405.2 -656"
+"targetname" "animated_model"
+"precache_script" "maps animated_models foliage_tree_palm_bushy_3"
+"csv_include" "animated_models_foliage_tree_palm_bushy_3"
+"angles" "359.486 14.5905 1.08909"
+}
+{
+"gndLt" "8080800001"
+"ltOrigin" "2628.97 -4454.1 -399.773"
+"classname" "script_model"
+"model" "foliage_tree_palm_bushy_3"
+"origin" "2657 -4472.9 -656"
+"targetname" "animated_model"
+"precache_script" "maps animated_models foliage_tree_palm_bushy_3"
+"csv_include" "animated_models_foliage_tree_palm_bushy_3"
+"angles" "355.075 308.783 2.49788"
+}
+{
+"gndLt" "75717e5a01"
+"ltOrigin" "2322.21 -4536.33 -399.284"
+"classname" "script_model"
+"model" "foliage_tree_palm_bushy_3"
+"origin" "2318.5 -4521.6 -656"
+"targetname" "animated_model"
+"precache_script" "maps animated_models foliage_tree_palm_bushy_3"
+"csv_include" "animated_models_foliage_tree_palm_bushy_3"
+"angles" "356.632 98.0037 0.9011"
+}
+{
+"gndLt" "3330351b01"
+"ltOrigin" "2038.18 -4568.62 -398.888"
+"classname" "script_model"
+"model" "foliage_tree_palm_bushy_3"
+"origin" "2022 -4563.5 -656"
+"targetname" "animated_model"
+"precache_script" "maps animated_models foliage_tree_palm_bushy_3"
+"csv_include" "animated_models_foliage_tree_palm_bushy_3"
+"angles" "357.7 148.141 1.57015"
+}
+{
+"gndLt" "6b62665901"
+"ltOrigin" "3350.57 -4378.14 -398.799"
+"classname" "script_model"
+"model" "foliage_tree_palm_bushy_3"
+"origin" "3360.1 -4382.9 -656"
+"targetname" "animated_model"
+"precache_script" "maps animated_models foliage_tree_palm_bushy_3"
+"csv_include" "animated_models_foliage_tree_palm_bushy_3"
+"angles" "358.478 331.706 0.866666"
+}
+{
+"origin" "3435 4735.99 1766.5"
+"script_noteworthy" "node_building02_civilians"
+"angles" "0 180 0"
+"classname" "script_struct"
+}
+{
+"angles" "0 180 0"
+"classname" "script_struct"
+"script_noteworthy" "node_building_02"
+"origin" "3657 4751.99 -832.5"
+}
+{
+"model" "?1"
+"origin" "-2353 3081 2808"
+"classname" "trigger_multiple_flag_set"
+"script_flag" "flag_building_fall_2"
+}
+{
+"script_noteworthy" "building02_civilian_02"
+"origin" "5917 6223.99 -10851.5"
+"angles" "0 270 0"
+"export" "2"
+"model" "body_city_civ_male_a"
+"classname" "actor_civilian_urban_male_drone"
+}
+{
+"ltOrigin" "5468.87 5044.19 -8000.16"
+"angles" "0 180 0"
+"script_noteworthy" "building2_0"
+"origin" "5940 6163.99 -10940"
+"classname" "script_model"
+"model" "nx_pr_hithard_building02_0"
+}
+{
+"ltOrigin" "5546.33 5108.33 -8777.99"
+"angles" "0 180 0"
+"script_noteworthy" "building2_1"
+"origin" "5940 6163.99 -10940"
+"model" "nx_pr_hithard_building02_1"
+"classname" "script_model"
+}
+{
+"script_noteworthy" "building02_civilian_01"
+"origin" "5964 6223.99 -10851.5"
+"angles" "0 270 0"
+"export" "1"
+"model" "body_city_civ_male_a"
+"classname" "actor_civilian_urban_male_drone"
+}
+{
+"ltOrigin" "-1242.63 4127.54 -53"
+"angles" "0 60.4 0"
+"classname" "script_model"
+"model" "nx_display_screen_01_2"
+"origin" "-1242.91 4127.04 -126.5"
+"csv_include" "nx_destructible_display_screen_01"
+"destructible_type" "nx_destructible_display_screen_01_1"
+"sound_csv_include" "destruct_tv_exp"
+"targetname" "destructible_toy"
+}
+{
+"ltOrigin" "-1269.86 4079.59 -53"
+"angles" "0 240.4 0"
+"classname" "script_model"
+"model" "nx_display_screen_01_6"
+"origin" "-1269.58 4080.09 -126.5"
+"csv_include" "nx_destructible_display_screen_01"
+"destructible_type" "nx_destructible_display_screen_01_1"
+"sound_csv_include" "destruct_tv_exp"
+"targetname" "destructible_toy"
+}
+{
+"ltOrigin" "-1232.27 4089.95 -53"
+"angles" "0 330.4 0"
+"classname" "script_model"
+"model" "nx_display_screen_01_7"
+"origin" "-1232.77 4090.23 -126.5"
+"csv_include" "nx_destructible_display_screen_01"
+"destructible_type" "nx_destructible_display_screen_01_1"
+"sound_csv_include" "destruct_tv_exp"
+"targetname" "destructible_toy"
+}
+{
+"ltOrigin" "-1280.22 4117.18 -53"
+"angles" "0 150.4 0"
+"classname" "script_model"
+"model" "nx_display_screen_01_3"
+"origin" "-1279.72 4116.9 -126.5"
+"csv_include" "nx_destructible_display_screen_01"
+"destructible_type" "nx_destructible_display_screen_01_1"
+"sound_csv_include" "destruct_tv_exp"
+"targetname" "destructible_toy"
+}
+{
+"ltOrigin" "768.646 701 70"
+"classname" "script_model"
+"model" "sign_airport_security"
+"angles" "0 270 0"
+"origin" "768 640 80"
+"targetname" "intro_security_sign"
+}
+{
+"ltOrigin" "768.646 405 70"
+"classname" "script_model"
+"model" "sign_airport_security"
+"angles" "0 270 0"
+"origin" "768 344 80"
+"targetname" "intro_security_sign"
+}
+{
+"ltOrigin" "-1953.56 -1915.8 94"
+"classname" "script_model"
+"model" "ma_flatscreen_tv_wallmount_02"
+"angles" "0 90 0"
+"modelscale" "1"
+"origin" "-1957.3 -1915.8 76"
+"destructible_type" "toy_tv_flatscreen_wallmount_02"
+"targetname" "destructible_toy"
+"csv_include" "destructible_flatscreen_tv_wallmount_02"
+"sound_csv_include" "destruct_tv_exp"
+}
+{
+"ltOrigin" "-1953.56 -1795.8 94"
+"classname" "script_model"
+"model" "ma_flatscreen_tv_wallmount_02"
+"angles" "0 90 0"
+"modelscale" "1"
+"origin" "-1957.3 -1795.8 76"
+"destructible_type" "toy_tv_flatscreen_wallmount_02"
+"targetname" "destructible_toy"
+"csv_include" "destructible_flatscreen_tv_wallmount_02"
+"sound_csv_include" "destruct_tv_exp"
+}
+{
+"ltOrigin" "-2840.06 -1708.8 -10"
+"classname" "script_model"
+"model" "ma_flatscreen_tv_wallmount_02"
+"angles" "0 90 0"
+"modelscale" "1"
+"origin" "-2843.8 -1708.8 -28"
+"destructible_type" "toy_tv_flatscreen_wallmount_02"
+"targetname" "destructible_toy"
+"csv_include" "destructible_flatscreen_tv_wallmount_02"
+"sound_csv_include" "destruct_tv_exp"
+}
+{
+"ltOrigin" "-2849.54 -1708.8 -10"
+"classname" "script_model"
+"model" "ma_flatscreen_tv_wallmount_02"
+"angles" "0 270 0"
+"modelscale" "1"
+"origin" "-2845.8 -1708.8 -28"
+"destructible_type" "toy_tv_flatscreen_wallmount_02"
+"targetname" "destructible_toy"
+"csv_include" "destructible_flatscreen_tv_wallmount_02"
+"sound_csv_include" "destruct_tv_exp"
+}
+{
+"model" "*9"
+"origin" "-2937 -1651 -70"
+"classname" "script_brushmodel"
+"script_specialops" "1"
+}
+{
+"model" "*10"
+"origin" "-2937 -1621 -61"
+"classname" "script_brushmodel"
+"script_specialops" "1"
+}
+{
+"model" "*11"
+"origin" "-2937 -1767 -70"
+"classname" "script_brushmodel"
+"script_specialops" "1"
+}
+{
+"model" "*12"
+"origin" "-2937 -1797 -61"
+"classname" "script_brushmodel"
+"script_specialops" "1"
+}
+{
+"model" "*13"
+"origin" "-2937 -1835 -70"
+"classname" "script_brushmodel"
+"script_specialops" "1"
+}
+{
+"model" "*14"
+"origin" "-2937 -1805 -61"
+"classname" "script_brushmodel"
+"script_specialops" "1"
+}
+{
+"model" "*15"
+"origin" "-2937 -1583 -70"
+"classname" "script_brushmodel"
+"script_specialops" "1"
+}
+{
+"model" "*16"
+"origin" "-2937 -1613 -61"
+"classname" "script_brushmodel"
+"script_specialops" "1"
+}
+{
+"model" "*17"
+"origin" "-2879 -1709 -70"
+"classname" "script_brushmodel"
+"script_specialops" "1"
+}
+{
+"model" "*18"
+"origin" "-2849 -1709 -61"
+"classname" "script_brushmodel"
+"script_specialops" "1"
+}
+{
+"gndLt" "0607090000"
+"ltOrigin" "-1332 -1964 203.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_ontime"
+"angles" "0 270 0"
+"origin" "-1332 -1964 204.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "ontime"
+}
+{
+"gndLt" "0607090000"
+"ltOrigin" "-1332 -1963 204.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_arriving"
+"angles" "90 270 -0.000125717"
+"origin" "-1332 -1964 204.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "arriving"
+}
+{
+"gndLt" "0607090000"
+"ltOrigin" "-1332 -1965 204.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_delayed"
+"angles" "270 283.263 -13.2628"
+"origin" "-1332 -1964 204.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "delayed"
+}
+{
+"gndLt" "0607090000"
+"ltOrigin" "-1332 -1964 205.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_boarding"
+"angles" "1.9859e-006 90 -180"
+"origin" "-1332 -1964 204.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "boarding"
+}
+{
+"gndLt" "0607090000"
+"ltOrigin" "-1332 -1964 197.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_ontime"
+"angles" "0 270 0"
+"origin" "-1332 -1964 198.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "ontime"
+}
+{
+"gndLt" "0607090000"
+"ltOrigin" "-1332 -1963 198.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_arriving"
+"angles" "90 270 -0.000125717"
+"origin" "-1332 -1964 198.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "arriving"
+}
+{
+"gndLt" "0607090000"
+"ltOrigin" "-1332 -1965 198.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_delayed"
+"angles" "270 283.263 -13.2628"
+"origin" "-1332 -1964 198.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "delayed"
+}
+{
+"gndLt" "0607090000"
+"ltOrigin" "-1332 -1964 199.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_boarding"
+"angles" "1.9859e-006 90 -180"
+"origin" "-1332 -1964 198.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "boarding"
+}
+{
+"gndLt" "0607090000"
+"ltOrigin" "-1332 -1964 191.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_ontime"
+"angles" "0 270 0"
+"origin" "-1332 -1964 192.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "ontime"
+}
+{
+"gndLt" "0607090000"
+"ltOrigin" "-1332 -1963 192.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_arriving"
+"angles" "90 270 -0.000125717"
+"origin" "-1332 -1964 192.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "arriving"
+}
+{
+"gndLt" "0607090000"
+"ltOrigin" "-1332 -1965 192.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_delayed"
+"angles" "270 283.263 -13.2628"
+"origin" "-1332 -1964 192.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "delayed"
+}
+{
+"gndLt" "0607090000"
+"ltOrigin" "-1332 -1964 193.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_boarding"
+"angles" "1.9859e-006 90 -180"
+"origin" "-1332 -1964 192.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "boarding"
+}
+{
+"gndLt" "0607090000"
+"ltOrigin" "-1332 -1964 185.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_ontime"
+"angles" "0 270 0"
+"origin" "-1332 -1964 186.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "ontime"
+}
+{
+"gndLt" "0607090000"
+"ltOrigin" "-1332 -1963 186.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_arriving"
+"angles" "90 270 -0.000125717"
+"origin" "-1332 -1964 186.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "arriving"
+}
+{
+"gndLt" "0607090000"
+"ltOrigin" "-1332 -1965 186.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_delayed"
+"angles" "270 283.263 -13.2628"
+"origin" "-1332 -1964 186.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "delayed"
+}
+{
+"gndLt" "0607090000"
+"ltOrigin" "-1332 -1964 187.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_boarding"
+"angles" "1.9859e-006 90 -180"
+"origin" "-1332 -1964 186.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "boarding"
+}
+{
+"gndLt" "0607090000"
+"ltOrigin" "-1332 -1964 179.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_ontime"
+"angles" "0 270 0"
+"origin" "-1332 -1964 180.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "ontime"
+}
+{
+"gndLt" "0607090000"
+"ltOrigin" "-1332 -1963 180.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_arriving"
+"angles" "90 270 -0.000125717"
+"origin" "-1332 -1964 180.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "arriving"
+}
+{
+"gndLt" "0607090000"
+"ltOrigin" "-1332 -1965 180.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_delayed"
+"angles" "270 283.263 -13.2628"
+"origin" "-1332 -1964 180.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "delayed"
+}
+{
+"gndLt" "0607090000"
+"ltOrigin" "-1332 -1964 181.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_boarding"
+"angles" "1.9859e-006 90 -180"
+"origin" "-1332 -1964 180.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "boarding"
+}
+{
+"gndLt" "0607090000"
+"ltOrigin" "-1332 -1964 173.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_ontime"
+"angles" "0 270 0"
+"origin" "-1332 -1964 174.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "ontime"
+}
+{
+"gndLt" "0607090000"
+"ltOrigin" "-1332 -1963 174.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_arriving"
+"angles" "90 270 -0.000125717"
+"origin" "-1332 -1964 174.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "arriving"
+}
+{
+"gndLt" "0607090000"
+"ltOrigin" "-1332 -1965 174.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_delayed"
+"angles" "270 283.263 -13.2628"
+"origin" "-1332 -1964 174.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "delayed"
+}
+{
+"gndLt" "0607090000"
+"ltOrigin" "-1332 -1964 175.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_boarding"
+"angles" "1.9859e-006 90 -180"
+"origin" "-1332 -1964 174.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "boarding"
+}
+{
+"gndLt" "0607090000"
+"ltOrigin" "-1332 -1964 167.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_ontime"
+"angles" "0 270 0"
+"origin" "-1332 -1964 168.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "ontime"
+}
+{
+"gndLt" "0607090000"
+"ltOrigin" "-1332 -1963 168.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_arriving"
+"angles" "90 270 -0.000125717"
+"origin" "-1332 -1964 168.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "arriving"
+}
+{
+"gndLt" "0607090000"
+"ltOrigin" "-1332 -1965 168.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_delayed"
+"angles" "270 283.263 -13.2628"
+"origin" "-1332 -1964 168.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "delayed"
+}
+{
+"gndLt" "0607090000"
+"ltOrigin" "-1332 -1964 169.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_boarding"
+"angles" "1.9859e-006 90 -180"
+"origin" "-1332 -1964 168.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "boarding"
+}
+{
+"gndLt" "0607090000"
+"ltOrigin" "-1332 -1964 161.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_ontime"
+"angles" "0 270 0"
+"origin" "-1332 -1964 162.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "ontime"
+}
+{
+"gndLt" "0607090000"
+"ltOrigin" "-1332 -1963 162.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_arriving"
+"angles" "90 270 -0.000125717"
+"origin" "-1332 -1964 162.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "arriving"
+}
+{
+"gndLt" "0607090000"
+"ltOrigin" "-1332 -1965 162.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_delayed"
+"angles" "270 283.263 -13.2628"
+"origin" "-1332 -1964 162.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "delayed"
+}
+{
+"gndLt" "0607090000"
+"ltOrigin" "-1332 -1964 163.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_boarding"
+"angles" "1.9859e-006 90 -180"
+"origin" "-1332 -1964 162.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "boarding"
+}
+{
+"gndLt" "0607090000"
+"ltOrigin" "-1332 -1964 155.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_ontime"
+"angles" "0 270 0"
+"origin" "-1332 -1964 156.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "ontime"
+}
+{
+"gndLt" "0607090000"
+"ltOrigin" "-1332 -1963 156.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_arriving"
+"angles" "90 270 -0.000125717"
+"origin" "-1332 -1964 156.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "arriving"
+}
+{
+"gndLt" "0607090000"
+"ltOrigin" "-1332 -1965 156.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_delayed"
+"angles" "270 283.263 -13.2628"
+"origin" "-1332 -1964 156.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "delayed"
+}
+{
+"gndLt" "0607090000"
+"ltOrigin" "-1332 -1964 157.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_boarding"
+"angles" "1.9859e-006 90 -180"
+"origin" "-1332 -1964 156.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "boarding"
+}
+{
+"gndLt" "0607090000"
+"ltOrigin" "-1332 -1964 149.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_ontime"
+"angles" "0 270 0"
+"origin" "-1332 -1964 150.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "ontime"
+}
+{
+"gndLt" "0607090000"
+"ltOrigin" "-1332 -1963 150.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_arriving"
+"angles" "90 270 -0.000125717"
+"origin" "-1332 -1964 150.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "arriving"
+}
+{
+"gndLt" "0607090000"
+"ltOrigin" "-1332 -1965 150.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_delayed"
+"angles" "270 283.263 -13.2628"
+"origin" "-1332 -1964 150.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "delayed"
+}
+{
+"gndLt" "0607090000"
+"ltOrigin" "-1332 -1964 151.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_boarding"
+"angles" "1.9859e-006 90 -180"
+"origin" "-1332 -1964 150.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "boarding"
+}
+{
+"gndLt" "0607090000"
+"ltOrigin" "-1332 -1964 143.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_ontime"
+"angles" "0 270 0"
+"origin" "-1332 -1964 144.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "ontime"
+}
+{
+"gndLt" "0607090000"
+"ltOrigin" "-1332 -1963 144.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_arriving"
+"angles" "90 270 -0.000125717"
+"origin" "-1332 -1964 144.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "arriving"
+}
+{
+"gndLt" "0607090000"
+"ltOrigin" "-1332 -1965 144.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_delayed"
+"angles" "270 283.263 -13.2628"
+"origin" "-1332 -1964 144.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "delayed"
+}
+{
+"gndLt" "0607090000"
+"ltOrigin" "-1332 -1964 145.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_boarding"
+"angles" "1.9859e-006 90 -180"
+"origin" "-1332 -1964 144.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "boarding"
+}
+{
+"gndLt" "06070a0000"
+"ltOrigin" "-1332 -1964 137.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_ontime"
+"angles" "0 270 0"
+"origin" "-1332 -1964 138.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "ontime"
+}
+{
+"gndLt" "1414170000"
+"ltOrigin" "-1332 -1963 138.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_arriving"
+"angles" "90 270 -0.000125717"
+"origin" "-1332 -1964 138.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "arriving"
+}
+{
+"gndLt" "1414170000"
+"ltOrigin" "-1332 -1965 138.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_delayed"
+"angles" "270 283.263 -13.2628"
+"origin" "-1332 -1964 138.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "delayed"
+}
+{
+"gndLt" "05070a0000"
+"ltOrigin" "-1332 -1964 139.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_boarding"
+"angles" "1.9859e-006 90 -180"
+"origin" "-1332 -1964 138.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "boarding"
+}
+{
+"gndLt" "06070a0000"
+"ltOrigin" "-1332 -1964 131.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_ontime"
+"angles" "0 270 0"
+"origin" "-1332 -1964 132.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "ontime"
+}
+{
+"gndLt" "1414170000"
+"ltOrigin" "-1332 -1963 132.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_arriving"
+"angles" "90 270 -0.000125717"
+"origin" "-1332 -1964 132.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "arriving"
+}
+{
+"gndLt" "1414170000"
+"ltOrigin" "-1332 -1965 132.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_delayed"
+"angles" "270 283.263 -13.2628"
+"origin" "-1332 -1964 132.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "delayed"
+}
+{
+"gndLt" "05070a0000"
+"ltOrigin" "-1332 -1964 133.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_boarding"
+"angles" "1.9859e-006 90 -180"
+"origin" "-1332 -1964 132.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "boarding"
+}
+{
+"gndLt" "0607090000"
+"ltOrigin" "-1332 -1964 209.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_ontime"
+"angles" "0 270 0"
+"origin" "-1332 -1964 210.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "ontime"
+}
+{
+"gndLt" "0607090000"
+"ltOrigin" "-1332 -1963 210.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_arriving"
+"angles" "90 270 -0.000125717"
+"origin" "-1332 -1964 210.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "arriving"
+}
+{
+"gndLt" "0607090000"
+"ltOrigin" "-1332 -1965 210.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_delayed"
+"angles" "270 283.263 -13.2628"
+"origin" "-1332 -1964 210.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "delayed"
+}
+{
+"gndLt" "0607090000"
+"ltOrigin" "-1332 -1964 211.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_boarding"
+"angles" "1.9859e-006 90 -180"
+"origin" "-1332 -1964 210.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "boarding"
+}
+{
+"gndLt" "06070a0000"
+"ltOrigin" "-1332 -1964 125.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_ontime"
+"angles" "0 270 0"
+"origin" "-1332 -1964 126.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "ontime"
+}
+{
+"gndLt" "1414170000"
+"ltOrigin" "-1332 -1963 126.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_arriving"
+"angles" "90 270 -0.000125717"
+"origin" "-1332 -1964 126.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "arriving"
+}
+{
+"gndLt" "1414170000"
+"ltOrigin" "-1332 -1965 126.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_delayed"
+"angles" "270 283.263 -13.2628"
+"origin" "-1332 -1964 126.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "delayed"
+}
+{
+"gndLt" "05070a0000"
+"ltOrigin" "-1332 -1964 127.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_boarding"
+"angles" "1.9859e-006 90 -180"
+"origin" "-1332 -1964 126.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "boarding"
+}
+{
+"gndLt" "06070a0000"
+"ltOrigin" "-1332 -1964 119.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_ontime"
+"angles" "0 270 0"
+"origin" "-1332 -1964 120.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "ontime"
+}
+{
+"gndLt" "1414170000"
+"ltOrigin" "-1332 -1963 120.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_arriving"
+"angles" "90 270 -0.000125717"
+"origin" "-1332 -1964 120.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "arriving"
+}
+{
+"gndLt" "1414170000"
+"ltOrigin" "-1332 -1965 120.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_delayed"
+"angles" "270 283.263 -13.2628"
+"origin" "-1332 -1964 120.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "delayed"
+}
+{
+"gndLt" "05070a0000"
+"ltOrigin" "-1332 -1964 121.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_boarding"
+"angles" "1.9859e-006 90 -180"
+"origin" "-1332 -1964 120.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "boarding"
+}
+{
+"gndLt" "06070a0000"
+"ltOrigin" "-1332 -1964 113.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_ontime"
+"angles" "0 270 0"
+"origin" "-1332 -1964 114.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "ontime"
+}
+{
+"gndLt" "1414170000"
+"ltOrigin" "-1332 -1963 114.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_arriving"
+"angles" "90 270 -0.000125717"
+"origin" "-1332 -1964 114.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "arriving"
+}
+{
+"gndLt" "1414170000"
+"ltOrigin" "-1332 -1965 114.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_delayed"
+"angles" "270 283.263 -13.2628"
+"origin" "-1332 -1964 114.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "delayed"
+}
+{
+"gndLt" "05070a0000"
+"ltOrigin" "-1332 -1964 115.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_boarding"
+"angles" "1.9859e-006 90 -180"
+"origin" "-1332 -1964 114.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "boarding"
+}
+{
+"gndLt" "0607090000"
+"ltOrigin" "-1332 -1964 107.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_ontime"
+"angles" "0 270 0"
+"origin" "-1332 -1964 108.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "ontime"
+}
+{
+"gndLt" "1414170000"
+"ltOrigin" "-1332 -1963 108.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_arriving"
+"angles" "90 270 -0.000125717"
+"origin" "-1332 -1964 108.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "arriving"
+}
+{
+"gndLt" "1414170000"
+"ltOrigin" "-1332 -1965 108.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_delayed"
+"angles" "270 283.263 -13.2628"
+"origin" "-1332 -1964 108.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "delayed"
+}
+{
+"gndLt" "05070a0000"
+"ltOrigin" "-1332 -1964 109.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_boarding"
+"angles" "1.9859e-006 90 -180"
+"origin" "-1332 -1964 108.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "boarding"
+}
+{
+"gndLt" "06070a0000"
+"ltOrigin" "-1516 -1964 203.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_ontime"
+"angles" "0 270 0"
+"origin" "-1516 -1964 204.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "ontime"
+}
+{
+"gndLt" "06070a0000"
+"ltOrigin" "-1516 -1963 204.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_arriving"
+"angles" "90 270 -0.000125717"
+"origin" "-1516 -1964 204.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "arriving"
+}
+{
+"gndLt" "06070a0000"
+"ltOrigin" "-1516 -1965 204.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_delayed"
+"angles" "270 283.263 -13.2628"
+"origin" "-1516 -1964 204.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "delayed"
+}
+{
+"gndLt" "06070a0000"
+"ltOrigin" "-1516 -1964 205.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_boarding"
+"angles" "1.9859e-006 90 -180"
+"origin" "-1516 -1964 204.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "boarding"
+}
+{
+"gndLt" "06070a0000"
+"ltOrigin" "-1516 -1964 197.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_ontime"
+"angles" "0 270 0"
+"origin" "-1516 -1964 198.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "ontime"
+}
+{
+"gndLt" "06070a0000"
+"ltOrigin" "-1516 -1963 198.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_arriving"
+"angles" "90 270 -0.000125717"
+"origin" "-1516 -1964 198.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "arriving"
+}
+{
+"gndLt" "06070a0000"
+"ltOrigin" "-1516 -1965 198.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_delayed"
+"angles" "270 283.263 -13.2628"
+"origin" "-1516 -1964 198.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "delayed"
+}
+{
+"gndLt" "06070a0000"
+"ltOrigin" "-1516 -1964 199.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_boarding"
+"angles" "1.9859e-006 90 -180"
+"origin" "-1516 -1964 198.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "boarding"
+}
+{
+"gndLt" "06070a0000"
+"ltOrigin" "-1516 -1964 191.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_ontime"
+"angles" "0 270 0"
+"origin" "-1516 -1964 192.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "ontime"
+}
+{
+"gndLt" "06070a0000"
+"ltOrigin" "-1516 -1963 192.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_arriving"
+"angles" "90 270 -0.000125717"
+"origin" "-1516 -1964 192.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "arriving"
+}
+{
+"gndLt" "06070a0000"
+"ltOrigin" "-1516 -1965 192.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_delayed"
+"angles" "270 283.263 -13.2628"
+"origin" "-1516 -1964 192.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "delayed"
+}
+{
+"gndLt" "06070a0000"
+"ltOrigin" "-1516 -1964 193.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_boarding"
+"angles" "1.9859e-006 90 -180"
+"origin" "-1516 -1964 192.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "boarding"
+}
+{
+"gndLt" "06070a0000"
+"ltOrigin" "-1516 -1964 185.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_ontime"
+"angles" "0 270 0"
+"origin" "-1516 -1964 186.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "ontime"
+}
+{
+"gndLt" "06070a0000"
+"ltOrigin" "-1516 -1963 186.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_arriving"
+"angles" "90 270 -0.000125717"
+"origin" "-1516 -1964 186.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "arriving"
+}
+{
+"gndLt" "06070a0000"
+"ltOrigin" "-1516 -1965 186.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_delayed"
+"angles" "270 283.263 -13.2628"
+"origin" "-1516 -1964 186.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "delayed"
+}
+{
+"gndLt" "06070a0000"
+"ltOrigin" "-1516 -1964 187.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_boarding"
+"angles" "1.9859e-006 90 -180"
+"origin" "-1516 -1964 186.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "boarding"
+}
+{
+"gndLt" "06070a0000"
+"ltOrigin" "-1516 -1964 179.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_ontime"
+"angles" "0 270 0"
+"origin" "-1516 -1964 180.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "ontime"
+}
+{
+"gndLt" "06070a0000"
+"ltOrigin" "-1516 -1963 180.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_arriving"
+"angles" "90 270 -0.000125717"
+"origin" "-1516 -1964 180.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "arriving"
+}
+{
+"gndLt" "06070a0000"
+"ltOrigin" "-1516 -1965 180.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_delayed"
+"angles" "270 283.263 -13.2628"
+"origin" "-1516 -1964 180.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "delayed"
+}
+{
+"gndLt" "06070a0000"
+"ltOrigin" "-1516 -1964 181.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_boarding"
+"angles" "1.9859e-006 90 -180"
+"origin" "-1516 -1964 180.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "boarding"
+}
+{
+"gndLt" "06070a0000"
+"ltOrigin" "-1516 -1964 173.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_ontime"
+"angles" "0 270 0"
+"origin" "-1516 -1964 174.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "ontime"
+}
+{
+"gndLt" "06070a0000"
+"ltOrigin" "-1516 -1963 174.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_arriving"
+"angles" "90 270 -0.000125717"
+"origin" "-1516 -1964 174.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "arriving"
+}
+{
+"gndLt" "06070a0000"
+"ltOrigin" "-1516 -1965 174.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_delayed"
+"angles" "270 283.263 -13.2628"
+"origin" "-1516 -1964 174.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "delayed"
+}
+{
+"gndLt" "06070a0000"
+"ltOrigin" "-1516 -1964 175.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_boarding"
+"angles" "1.9859e-006 90 -180"
+"origin" "-1516 -1964 174.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "boarding"
+}
+{
+"gndLt" "06070a0000"
+"ltOrigin" "-1516 -1964 167.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_ontime"
+"angles" "0 270 0"
+"origin" "-1516 -1964 168.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "ontime"
+}
+{
+"gndLt" "06070a0000"
+"ltOrigin" "-1516 -1963 168.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_arriving"
+"angles" "90 270 -0.000125717"
+"origin" "-1516 -1964 168.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "arriving"
+}
+{
+"gndLt" "06070a0000"
+"ltOrigin" "-1516 -1965 168.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_delayed"
+"angles" "270 283.263 -13.2628"
+"origin" "-1516 -1964 168.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "delayed"
+}
+{
+"gndLt" "06070a0000"
+"ltOrigin" "-1516 -1964 169.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_boarding"
+"angles" "1.9859e-006 90 -180"
+"origin" "-1516 -1964 168.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "boarding"
+}
+{
+"gndLt" "06070a0000"
+"ltOrigin" "-1516 -1964 161.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_ontime"
+"angles" "0 270 0"
+"origin" "-1516 -1964 162.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "ontime"
+}
+{
+"gndLt" "06070a0000"
+"ltOrigin" "-1516 -1963 162.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_arriving"
+"angles" "90 270 -0.000125717"
+"origin" "-1516 -1964 162.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "arriving"
+}
+{
+"gndLt" "06070a0000"
+"ltOrigin" "-1516 -1965 162.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_delayed"
+"angles" "270 283.263 -13.2628"
+"origin" "-1516 -1964 162.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "delayed"
+}
+{
+"gndLt" "06070a0000"
+"ltOrigin" "-1516 -1964 163.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_boarding"
+"angles" "1.9859e-006 90 -180"
+"origin" "-1516 -1964 162.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "boarding"
+}
+{
+"gndLt" "06070a0000"
+"ltOrigin" "-1516 -1964 155.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_ontime"
+"angles" "0 270 0"
+"origin" "-1516 -1964 156.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "ontime"
+}
+{
+"gndLt" "06070a0000"
+"ltOrigin" "-1516 -1963 156.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_arriving"
+"angles" "90 270 -0.000125717"
+"origin" "-1516 -1964 156.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "arriving"
+}
+{
+"gndLt" "06070a0000"
+"ltOrigin" "-1516 -1965 156.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_delayed"
+"angles" "270 283.263 -13.2628"
+"origin" "-1516 -1964 156.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "delayed"
+}
+{
+"gndLt" "06070a0000"
+"ltOrigin" "-1516 -1964 157.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_boarding"
+"angles" "1.9859e-006 90 -180"
+"origin" "-1516 -1964 156.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "boarding"
+}
+{
+"gndLt" "06070a0000"
+"ltOrigin" "-1516 -1964 149.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_ontime"
+"angles" "0 270 0"
+"origin" "-1516 -1964 150.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "ontime"
+}
+{
+"gndLt" "06070a0000"
+"ltOrigin" "-1516 -1963 150.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_arriving"
+"angles" "90 270 -0.000125717"
+"origin" "-1516 -1964 150.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "arriving"
+}
+{
+"gndLt" "06070a0000"
+"ltOrigin" "-1516 -1965 150.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_delayed"
+"angles" "270 283.263 -13.2628"
+"origin" "-1516 -1964 150.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "delayed"
+}
+{
+"gndLt" "06070a0000"
+"ltOrigin" "-1516 -1964 151.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_boarding"
+"angles" "1.9859e-006 90 -180"
+"origin" "-1516 -1964 150.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "boarding"
+}
+{
+"gndLt" "06070a0000"
+"ltOrigin" "-1516 -1964 143.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_ontime"
+"angles" "0 270 0"
+"origin" "-1516 -1964 144.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "ontime"
+}
+{
+"gndLt" "06070a0000"
+"ltOrigin" "-1516 -1963 144.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_arriving"
+"angles" "90 270 -0.000125717"
+"origin" "-1516 -1964 144.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "arriving"
+}
+{
+"gndLt" "06070a0000"
+"ltOrigin" "-1516 -1965 144.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_delayed"
+"angles" "270 283.263 -13.2628"
+"origin" "-1516 -1964 144.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "delayed"
+}
+{
+"gndLt" "06070a0000"
+"ltOrigin" "-1516 -1964 145.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_boarding"
+"angles" "1.9859e-006 90 -180"
+"origin" "-1516 -1964 144.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "boarding"
+}
+{
+"gndLt" "2625290000"
+"ltOrigin" "-1516 -1964 137.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_ontime"
+"angles" "0 270 0"
+"origin" "-1516 -1964 138.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "ontime"
+}
+{
+"gndLt" "2625290000"
+"ltOrigin" "-1516 -1963 138.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_arriving"
+"angles" "90 270 -0.000125717"
+"origin" "-1516 -1964 138.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "arriving"
+}
+{
+"gndLt" "2625290000"
+"ltOrigin" "-1516 -1965 138.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_delayed"
+"angles" "270 283.263 -13.2628"
+"origin" "-1516 -1964 138.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "delayed"
+}
+{
+"gndLt" "1b1a1e0000"
+"ltOrigin" "-1516 -1964 139.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_boarding"
+"angles" "1.9859e-006 90 -180"
+"origin" "-1516 -1964 138.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "boarding"
+}
+{
+"gndLt" "2625290000"
+"ltOrigin" "-1516 -1964 131.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_ontime"
+"angles" "0 270 0"
+"origin" "-1516 -1964 132.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "ontime"
+}
+{
+"gndLt" "2625290000"
+"ltOrigin" "-1516 -1963 132.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_arriving"
+"angles" "90 270 -0.000125717"
+"origin" "-1516 -1964 132.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "arriving"
+}
+{
+"gndLt" "2625290000"
+"ltOrigin" "-1516 -1965 132.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_delayed"
+"angles" "270 283.263 -13.2628"
+"origin" "-1516 -1964 132.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "delayed"
+}
+{
+"gndLt" "2120240000"
+"ltOrigin" "-1516 -1964 133.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_boarding"
+"angles" "1.9859e-006 90 -180"
+"origin" "-1516 -1964 132.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "boarding"
+}
+{
+"gndLt" "06070a0000"
+"ltOrigin" "-1516 -1964 209.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_ontime"
+"angles" "0 270 0"
+"origin" "-1516 -1964 210.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "ontime"
+}
+{
+"gndLt" "06070a0000"
+"ltOrigin" "-1516 -1963 210.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_arriving"
+"angles" "90 270 -0.000125717"
+"origin" "-1516 -1964 210.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "arriving"
+}
+{
+"gndLt" "06070a0000"
+"ltOrigin" "-1516 -1965 210.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_delayed"
+"angles" "270 283.263 -13.2628"
+"origin" "-1516 -1964 210.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "delayed"
+}
+{
+"gndLt" "06070a0000"
+"ltOrigin" "-1516 -1964 211.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_boarding"
+"angles" "1.9859e-006 90 -180"
+"origin" "-1516 -1964 210.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "boarding"
+}
+{
+"gndLt" "2625290000"
+"ltOrigin" "-1516 -1964 125.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_ontime"
+"angles" "0 270 0"
+"origin" "-1516 -1964 126.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "ontime"
+}
+{
+"gndLt" "2625290000"
+"ltOrigin" "-1516 -1963 126.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_arriving"
+"angles" "90 270 -0.000125717"
+"origin" "-1516 -1964 126.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "arriving"
+}
+{
+"gndLt" "2625290000"
+"ltOrigin" "-1516 -1965 126.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_delayed"
+"angles" "270 283.263 -13.2628"
+"origin" "-1516 -1964 126.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "delayed"
+}
+{
+"gndLt" "2120240000"
+"ltOrigin" "-1516 -1964 127.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_boarding"
+"angles" "1.9859e-006 90 -180"
+"origin" "-1516 -1964 126.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "boarding"
+}
+{
+"gndLt" "2625290000"
+"ltOrigin" "-1516 -1964 119.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_ontime"
+"angles" "0 270 0"
+"origin" "-1516 -1964 120.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "ontime"
+}
+{
+"gndLt" "2625290000"
+"ltOrigin" "-1516 -1963 120.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_arriving"
+"angles" "90 270 -0.000125717"
+"origin" "-1516 -1964 120.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "arriving"
+}
+{
+"gndLt" "2625290000"
+"ltOrigin" "-1516 -1965 120.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_delayed"
+"angles" "270 283.263 -13.2628"
+"origin" "-1516 -1964 120.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "delayed"
+}
+{
+"gndLt" "2120240000"
+"ltOrigin" "-1516 -1964 121.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_boarding"
+"angles" "1.9859e-006 90 -180"
+"origin" "-1516 -1964 120.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "boarding"
+}
+{
+"gndLt" "2625290000"
+"ltOrigin" "-1516 -1964 113.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_ontime"
+"angles" "0 270 0"
+"origin" "-1516 -1964 114.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "ontime"
+}
+{
+"gndLt" "2625290000"
+"ltOrigin" "-1516 -1963 114.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_arriving"
+"angles" "90 270 -0.000125717"
+"origin" "-1516 -1964 114.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "arriving"
+}
+{
+"gndLt" "2625290000"
+"ltOrigin" "-1516 -1965 114.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_delayed"
+"angles" "270 283.263 -13.2628"
+"origin" "-1516 -1964 114.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "delayed"
+}
+{
+"gndLt" "2120240000"
+"ltOrigin" "-1516 -1964 115.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_boarding"
+"angles" "1.9859e-006 90 -180"
+"origin" "-1516 -1964 114.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "boarding"
+}
+{
+"gndLt" "2625290000"
+"ltOrigin" "-1516 -1964 107.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_ontime"
+"angles" "0 270 0"
+"origin" "-1516 -1964 108.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "ontime"
+}
+{
+"gndLt" "2625290000"
+"ltOrigin" "-1516 -1963 108.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_arriving"
+"angles" "90 270 -0.000125717"
+"origin" "-1516 -1964 108.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "arriving"
+}
+{
+"gndLt" "2625290000"
+"ltOrigin" "-1516 -1965 108.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_delayed"
+"angles" "270 283.263 -13.2628"
+"origin" "-1516 -1964 108.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "delayed"
+}
+{
+"gndLt" "2120240000"
+"ltOrigin" "-1516 -1964 109.5"
+"classname" "script_model"
+"model" "sign_airport_departure_status_boarding"
+"angles" "1.9859e-006 90 -180"
+"origin" "-1516 -1964 108.5"
+"targetname" "sign_departure_status"
+"script_noteworthy" "boarding"
+}
+{
+"model" "*19"
+"origin" "-1392 -1887 18"
+"classname" "script_brushmodel"
+"script_specialops" "1"
+}
+{
+"model" "*20"
+"origin" "-1392 -1917 27"
+"classname" "script_brushmodel"
+"script_specialops" "1"
+}
+{
+"model" "*21"
+"origin" "-1392 -2054 18"
+"classname" "script_brushmodel"
+"script_specialops" "1"
+}
+{
+"model" "*22"
+"origin" "-1392 -2024 27"
+"classname" "script_brushmodel"
+"script_specialops" "1"
+}
+{
+"model" "*23"
+"origin" "-2426 -1644 18"
+"classname" "script_brushmodel"
+"script_specialops" "1"
+}
+{
+"model" "*24"
+"origin" "-2396 -1644 27"
+"classname" "script_brushmodel"
+"script_specialops" "1"
+}
+{
+"model" "*25"
+"origin" "-2426 -1884 18"
+"classname" "script_brushmodel"
+"script_specialops" "1"
+}
+{
+"model" "*26"
+"origin" "-2396 -1884 27"
+"classname" "script_brushmodel"
+"script_specialops" "1"
+}
+{
+"model" "*27"
+"origin" "-2426 -1764 18"
+"classname" "script_brushmodel"
+"script_specialops" "1"
+}
+{
+"model" "*28"
+"origin" "-2396 -1764 27"
+"classname" "script_brushmodel"
+"script_specialops" "1"
+}
+{
+"model" "*29"
+"origin" "-156 226 -62"
+"classname" "script_brushmodel"
+"script_specialops" "1"
+}
+{
+"model" "*30"
+"origin" "-156 196 -53"
+"classname" "script_brushmodel"
+"script_specialops" "1"
+}
+{
+"model" "*31"
+"origin" "-156 110 -86"
+"classname" "script_brushmodel"
+"script_specialops" "1"
+}
+{
+"model" "*32"
+"origin" "-156 140 -77"
+"classname" "script_brushmodel"
+"script_specialops" "1"
+}
+{
+"gndLt" "3c383c1601"
+"ltOrigin" "-1511.1 2048.53 28.0443"
+"classname" "script_model"
+"model" "foliage_pacific_palms08_animated"
+"origin" "-1512 2048 -16"
+"targetname" "animated_model"
+"precache_script" "maps animated_models foliage_pacific_palms08"
+"csv_include" "animated_models_foliage_pacific_palms08"
+}
+{
+"gndLt" "4d474d2901"
+"ltOrigin" "-1453.68 2059.46 36.0443"
+"angles" "0 75 0"
+"classname" "script_model"
+"model" "foliage_pacific_palms08_animated"
+"origin" "-1456 2056 -8"
+"targetname" "animated_model"
+"precache_script" "maps animated_models foliage_pacific_palms08"
+"csv_include" "animated_models_foliage_pacific_palms08"
+}
+{
+"gndLt" "423e433d01"
+"ltOrigin" "-1367.1 2024.53 28.0443"
+"classname" "script_model"
+"model" "foliage_pacific_palms08_animated"
+"origin" "-1368 2024 -16"
+"targetname" "animated_model"
+"precache_script" "maps animated_models foliage_pacific_palms08"
+"csv_include" "animated_models_foliage_pacific_palms08"
+}
+{
+"gndLt" "413d421a01"
+"ltOrigin" "-1263.1 2048.53 28.0443"
+"classname" "script_model"
+"model" "foliage_pacific_palms08_animated"
+"origin" "-1264 2048 -16"
+"targetname" "animated_model"
+"precache_script" "maps animated_models foliage_pacific_palms08"
+"csv_include" "animated_models_foliage_pacific_palms08"
+}
+{
+"gndLt" "4e494e1b01"
+"ltOrigin" "-1431.1 1968.53 36.0443"
+"classname" "script_model"
+"model" "foliage_pacific_palms08_animated"
+"origin" "-1432 1968 -8"
+"targetname" "animated_model"
+"precache_script" "maps animated_models foliage_pacific_palms08"
+"csv_include" "animated_models_foliage_pacific_palms08"
+}
+{
+"gndLt" "8080800001"
+"ltOrigin" "-1365.79 1935.01 36.0443"
+"angles" "0 135 0"
+"classname" "script_model"
+"model" "foliage_pacific_palms08_animated"
+"origin" "-1360 1936 -8"
+"targetname" "animated_model"
+"precache_script" "maps animated_models foliage_pacific_palms08"
+"csv_include" "animated_models_foliage_pacific_palms08"
+}
+{
+"gndLt" "413c410001"
+"ltOrigin" "-1394.06 1887.32 28.0443"
+"angles" "0 300 0"
+"classname" "script_model"
+"model" "foliage_pacific_palms08_animated"
+"origin" "-1400 1888 -16"
+"targetname" "animated_model"
+"precache_script" "maps animated_models foliage_pacific_palms08"
+"csv_include" "animated_models_foliage_pacific_palms08"
+}
+{
+"gndLt" "4e494e3c01"
+"ltOrigin" "-1395.6 2053.39 36.0443"
+"angles" "0 285 0"
+"classname" "script_model"
+"model" "foliage_pacific_palms08_animated"
+"origin" "-1400 2056 -8"
+"targetname" "animated_model"
+"precache_script" "maps animated_models foliage_pacific_palms08"
+"csv_include" "animated_models_foliage_pacific_palms08"
+}
+{
+"classname" "mp_mtdm_spawn_team_2_start"
+"angles" "0 90 0"
+"origin" "890.4 -1655.8 -96"
+}
+{
+"classname" "mp_mtdm_spawn_team_0_start"
+"angles" "0 90 0"
+"origin" "-944 -2328 16"
+}
+{
+"classname" "mp_mtdm_spawn_team_2_start"
+"angles" "0 90 0"
+"origin" "821.9 -1649.1 -96"
+}
+{
+"classname" "mp_mtdm_spawn_team_3_start"
+"angles" "0 270 0"
+"origin" "1232 1736 -152"
+}
+{
+"classname" "mp_mtdm_spawn_team_4_start"
+"angles" "0 270 0"
+"origin" "-1360 3176 -80"
+}
+{
+"classname" "script_origin"
+"targetname" "LSD_Loop_start_2"
+"origin" "-417.5 2668.5 7192"
+"target" "LSD_Loop_start_3"
+}
+{
+"origin" "-189 -966.5 -96"
+"angles" "0 3.75661e-005 0"
+"classname" "mp_sab_spawn_allies"
+}
+{
+"classname" "mp_sab_spawn_axis"
+"angles" "0 3.75661e-005 0"
+"origin" "-191.5 -967.5 -96"
+}
+{
+"origin" "-188 -972 -96"
+"angles" "0 3.75661e-005 0"
+"classname" "mp_dm_spawn"
+}
+{
+"origin" "-191.5 -969.5 -96"
+"angles" "0 3.75661e-005 0"
+"classname" "mp_tdm_spawn"
+}
+{
+"origin" "-192 -972 -96"
+"angles" "0 3.75661e-005 0"
+"classname" "mp_dd_spawn_defender_b"
+}
+{
+"origin" "-188 -972 -96"
+"angles" "0 3.75661e-005 0"
+"classname" "mp_dd_spawn_defender"
+}
+{
+"origin" "-189 -971.5 -96"
+"angles" "0 3.75661e-005 0"
+"classname" "mp_ctf_spawn_axis"
+}
+{
+"origin" "-189 -969 -96"
+"angles" "0 3.75661e-005 0"
+"classname" "mp_ctf_spawn_allies"
+}
+{
+"origin" "-192 -968 -96"
+"angles" "0 3.75661e-005 0"
+"classname" "mp_dd_spawn_attacker_b"
+}
+{
+"origin" "-188 -968 -96"
+"angles" "0 3.75661e-005 0"
+"classname" "mp_dd_spawn_defender_a"
+}
+{
+"origin" "-192 -968 -96"
+"angles" "0 3.75661e-005 0"
+"classname" "mp_dd_spawn_attacker"
+}
+{
+"origin" "-188 -964 -96"
+"angles" "0 3.75661e-005 0"
+"classname" "mp_dd_spawn_attacker_a"
+}
+{
+"classname" "mp_dom_spawn"
+"angles" "0 3.75661e-005 0"
+"origin" "-188.5 -972 -96"
+}
+{
+"classname" "mp_escort_spawn"
+"angles" "0 3.75661e-005 0"
+"origin" "-192 -968 -96"
+}
+{
+"origin" "-1925 -1310.5 32"
+"angles" "0 3.75661e-005 0"
+"classname" "mp_sab_spawn_allies"
+}
+{
+"classname" "mp_sab_spawn_axis"
+"angles" "0 3.75661e-005 0"
+"origin" "-1927.5 -1311.5 32"
+}
+{
+"origin" "-1924 -1316 32"
+"angles" "0 3.75661e-005 0"
+"classname" "mp_dm_spawn"
+}
+{
+"origin" "-1927.5 -1313.5 32"
+"angles" "0 3.75661e-005 0"
+"classname" "mp_tdm_spawn"
+}
+{
+"origin" "-1928 -1316 32"
+"angles" "0 3.75661e-005 0"
+"classname" "mp_dd_spawn_defender_b"
+}
+{
+"origin" "-1924 -1316 32"
+"angles" "0 3.75661e-005 0"
+"classname" "mp_dd_spawn_defender"
+}
+{
+"origin" "-1925 -1315.5 32"
+"angles" "0 3.75661e-005 0"
+"classname" "mp_ctf_spawn_axis"
+}
+{
+"origin" "-1925 -1313 32"
+"angles" "0 3.75661e-005 0"
+"classname" "mp_ctf_spawn_allies"
+}
+{
+"origin" "-1928 -1312 32"
+"angles" "0 3.75661e-005 0"
+"classname" "mp_dd_spawn_attacker_b"
+}
+{
+"origin" "-1924 -1312 32"
+"angles" "0 3.75661e-005 0"
+"classname" "mp_dd_spawn_defender_a"
+}
+{
+"origin" "-1928 -1312 32"
+"angles" "0 3.75661e-005 0"
+"classname" "mp_dd_spawn_attacker"
+}
+{
+"origin" "-1924 -1308 32"
+"angles" "0 3.75661e-005 0"
+"classname" "mp_dd_spawn_attacker_a"
+}
+{
+"classname" "mp_dom_spawn"
+"angles" "0 3.75661e-005 0"
+"origin" "-1924.5 -1316 32"
+}
+{
+"classname" "mp_escort_spawn"
+"angles" "0 3.75661e-005 0"
+"origin" "-1928 -1312 32"
+}
+{
+"model" "*33"
+"origin" "-640 1112 -400"
+"classname" "script_brushmodel"
+"targetname" "pf2184_auto1"
+"script_gameobjectname" "airdrop_pallet"
+}
+{
+"ltOrigin" "-640 1112.19 -400.111"
+"model" "com_plasticcase_green_big_us_dirt"
+"classname" "script_model"
+"origin" "-640 1112 -415"
+"targetname" "care_package"
+"target" "pf2184_auto1"
+}
+{
+"classname" "script_origin"
+"targetname" "minimap_corner"
+"origin" "-2480 4696 -56"
+}
+{
+"angles" "0 90 0"
+"origin" "-255.5 -2443 -28"
+"classname" "mp_tdm_spawn_axis_start"
+}
+{
+"classname" "mp_sd_spawn_attacker"
+"angles" "0 90 0"
+"origin" "-256 -2444 -24"
+}
+{
+"origin" "-256 -2444 -22"
+"angles" "0 90 0"
+"classname" "mp_dom_spawn_axis_start"
+}
+{
+"origin" "-254.5 -2445 -23"
+"angles" "0 90 0"
+"classname" "mp_sab_spawn_axis_start"
+}
+{
+"classname" "mp_ctf_spawn_axis_start"
+"angles" "0 90 0"
+"origin" "-256 -2444 -24"
+}
+{
+"classname" "mp_dd_spawn_attacker_start"
+"angles" "0 90 0"
+"origin" "-256.5 -2444 -23"
+}
+{
+"classname" "mp_escort_spawn_axis_start"
+"angles" "0 90 0"
+"origin" "-255 -2445 -23"
+}
+{
+"origin" "860.818 -2310.94 -56"
+"angles" "0 135 0"
+"classname" "mp_sab_spawn_allies"
+}
+{
+"classname" "mp_sab_spawn_axis"
+"angles" "0 135 0"
+"origin" "863.293 -2312 -56"
+}
+{
+"origin" "864 -2306.34 -56"
+"angles" "0 135 0"
+"classname" "mp_dm_spawn"
+}
+{
+"origin" "864.707 -2310.59 -56"
+"angles" "0 135 0"
+"classname" "mp_tdm_spawn"
+}
+{
+"origin" "866.828 -2309.17 -56"
+"angles" "0 135 0"
+"classname" "mp_dd_spawn_defender_b"
+}
+{
+"origin" "864 -2306.34 -56"
+"angles" "0 135 0"
+"classname" "mp_dd_spawn_defender"
+}
+{
+"origin" "864.354 -2307.4 -56"
+"angles" "0 135 0"
+"classname" "mp_ctf_spawn_axis"
+}
+{
+"origin" "862.586 -2309.17 -56"
+"angles" "0 135 0"
+"classname" "mp_ctf_spawn_allies"
+}
+{
+"origin" "864 -2312 -56"
+"angles" "0 135 0"
+"classname" "mp_dd_spawn_attacker_b"
+}
+{
+"origin" "861.172 -2309.17 -56"
+"angles" "0 135 0"
+"classname" "mp_dd_spawn_defender_a"
+}
+{
+"origin" "864 -2312 -56"
+"angles" "0 135 0"
+"classname" "mp_dd_spawn_attacker"
+}
+{
+"origin" "858.343 -2312 -56"
+"angles" "0 135 0"
+"classname" "mp_dd_spawn_attacker_a"
+}
+{
+"classname" "mp_dom_spawn"
+"angles" "0 135 0"
+"origin" "864.354 -2306.7 -56"
+}
+{
+"classname" "mp_escort_spawn"
+"angles" "0 135 0"
+"origin" "864 -2312 -56"
+}
+{
+"classname" "mp_tdm_spawn_allies_start"
+"origin" "-416 3439 -50"
+"angles" "0 270 0"
+}
+{
+"origin" "-414.5 3438.5 -54"
+"angles" "0 270 0"
+"classname" "mp_sd_spawn_defender"
+}
+{
+"origin" "-412.5 3440.5 -48"
+"angles" "0 270 0"
+"classname" "mp_dom_spawn_allies_start"
+}
+{
+"classname" "mp_sab_spawn_allies_start"
+"angles" "0 270 0"
+"origin" "-412.5 3440 -49"
+}
+{
+"classname" "mp_ctf_spawn_allies_start"
+"angles" "0 270 0"
+"origin" "-416.5 3441.5 -46"
+}
+{
+"classname" "mp_dd_spawn_defender_start"
+"angles" "0 270 0"
+"origin" "-415.5 3439.5 -48"
+}
+{
+"classname" "mp_escort_spawn_allies_start"
+"angles" "0 270 0"
+"origin" "-414 3440 -48"
+}
+{
+"classname" "mp_mtdm_spawn_team_0_start"
+"angles" "0 90 0"
+"origin" "-1016 -2256 16"
+}
+{
+"origin" "-870.5 3517 -64"
+"angles" "0 270 0"
+"classname" "mp_sab_spawn_allies"
+}
+{
+"classname" "mp_sab_spawn_axis"
+"angles" "0 270 0"
+"origin" "-871.5 3519.5 -64"
+}
+{
+"origin" "-876 3516 -64"
+"angles" "0 270 0"
+"classname" "mp_dm_spawn"
+}
+{
+"origin" "-873.5 3519.5 -64"
+"angles" "0 270 0"
+"classname" "mp_tdm_spawn"
+}
+{
+"origin" "-876 3520 -64"
+"angles" "0 270 0"
+"classname" "mp_dd_spawn_defender_b"
+}
+{
+"origin" "-876 3516 -64"
+"angles" "0 270 0"
+"classname" "mp_dd_spawn_defender"
+}
+{
+"origin" "-875.5 3517 -64"
+"angles" "0 270 0"
+"classname" "mp_ctf_spawn_axis"
+}
+{
+"origin" "-873 3517 -64"
+"angles" "0 270 0"
+"classname" "mp_ctf_spawn_allies"
+}
+{
+"origin" "-872 3520 -64"
+"angles" "0 270 0"
+"classname" "mp_dd_spawn_attacker_b"
+}
+{
+"origin" "-872 3516 -64"
+"angles" "0 270 0"
+"classname" "mp_dd_spawn_defender_a"
+}
+{
+"origin" "-872 3520 -64"
+"angles" "0 270 0"
+"classname" "mp_dd_spawn_attacker"
+}
+{
+"origin" "-868 3516 -64"
+"angles" "0 270 0"
+"classname" "mp_dd_spawn_attacker_a"
+}
+{
+"classname" "mp_dom_spawn"
+"angles" "0 270 0"
+"origin" "-876 3516.5 -64"
+}
+{
+"classname" "mp_escort_spawn"
+"angles" "0 270 0"
+"origin" "-872 3520 -64"
+}
+{
+"origin" "-1494.5 3469 -88"
+"angles" "0 270 0"
+"classname" "mp_sab_spawn_allies"
+}
+{
+"classname" "mp_sab_spawn_axis"
+"angles" "0 270 0"
+"origin" "-1495.5 3471.5 -88"
+}
+{
+"origin" "-1500 3468 -88"
+"angles" "0 270 0"
+"classname" "mp_dm_spawn"
+}
+{
+"origin" "-1497.5 3471.5 -88"
+"angles" "0 270 0"
+"classname" "mp_tdm_spawn"
+}
+{
+"origin" "-1500 3472 -88"
+"angles" "0 270 0"
+"classname" "mp_dd_spawn_defender_b"
+}
+{
+"origin" "-1500 3468 -88"
+"angles" "0 270 0"
+"classname" "mp_dd_spawn_defender"
+}
+{
+"origin" "-1499.5 3469 -88"
+"angles" "0 270 0"
+"classname" "mp_ctf_spawn_axis"
+}
+{
+"origin" "-1497 3469 -88"
+"angles" "0 270 0"
+"classname" "mp_ctf_spawn_allies"
+}
+{
+"origin" "-1496 3472 -88"
+"angles" "0 270 0"
+"classname" "mp_dd_spawn_attacker_b"
+}
+{
+"origin" "-1496 3468 -88"
+"angles" "0 270 0"
+"classname" "mp_dd_spawn_defender_a"
+}
+{
+"origin" "-1496 3472 -88"
+"angles" "0 270 0"
+"classname" "mp_dd_spawn_attacker"
+}
+{
+"origin" "-1492 3468 -88"
+"angles" "0 270 0"
+"classname" "mp_dd_spawn_attacker_a"
+}
+{
+"classname" "mp_dom_spawn"
+"angles" "0 270 0"
+"origin" "-1500 3468.5 -88"
+}
+{
+"classname" "mp_escort_spawn"
+"angles" "0 270 0"
+"origin" "-1496 3472 -88"
+}
+{
+"angles" "0 90 0"
+"origin" "-287.5 -2515 -28"
+"classname" "mp_tdm_spawn_axis_start"
+}
+{
+"classname" "mp_sd_spawn_attacker"
+"angles" "0 90 0"
+"origin" "-288 -2516 -24"
+}
+{
+"origin" "-288 -2516 -22"
+"angles" "0 90 0"
+"classname" "mp_dom_spawn_axis_start"
+}
+{
+"origin" "-286.5 -2517 -23"
+"angles" "0 90 0"
+"classname" "mp_sab_spawn_axis_start"
+}
+{
+"classname" "mp_ctf_spawn_axis_start"
+"angles" "0 90 0"
+"origin" "-288 -2516 -24"
+}
+{
+"classname" "mp_dd_spawn_attacker_start"
+"angles" "0 90 0"
+"origin" "-288.5 -2516 -23"
+}
+{
+"classname" "mp_escort_spawn_axis_start"
+"angles" "0 90 0"
+"origin" "-287 -2517 -23"
+}
+{
+"classname" "mp_global_intermission"
+"angles" "6.49629 48.0511 -3.86584"
+"origin" "-1316.1 -713 529.1"
+}
+{
+"classname" "mp_mtdm_spawn_team_0_start"
+"angles" "0 90 0"
+"origin" "-944 -2256 16"
+}
+{
+"ltOrigin" "-167.763 -1616.08 -60.4967"
+"classname" "script_model"
+"model" "mil_tntbomb_mp"
+"targetname" "sd_bomb"
+"origin" "-168 -1616 -64"
+"script_gameobjectname" "sd"
+"spawnflags" "4"
+}
+{
+"model" "?2"
+"origin" "-168 -1616 -64"
+"classname" "trigger_multiple"
+"targetname" "sd_bomb_pickup_trig"
+"script_gameobjectname" "sd"
+}
+{
+"model" "?3"
+"origin" "-744 1120 -288"
+"targetname" "bombtrigger"
+"classname" "trigger_use_touch"
+"script_gameobjectname" "bombzone"
+}
+{
+"model" "*34"
+"origin" "-744 1120 -310"
+"classname" "script_brushmodel"
+"targetname" "pf2193_auto1"
+"script_gameobjectname" "airdrop_pallet"
+}
+{
+"ltOrigin" "-744 1120.19 -295.111"
+"model" "com_plasticcase_green_big_us_dirt"
+"classname" "script_model"
+"origin" "-744 1120 -310"
+"targetname" "airdrop_crate"
+"target" "pf2193_auto1"
+}
+{
+"model" "?4"
+"origin" "-232 648 -88"
+"classname" "trigger_use_touch"
+"targetname" "bombzone"
+"script_gameobjectname" "bombzone"
+"target" "pf2194_auto1"
+"script_bombmode_original" "1"
+"script_label" "_a"
+}
+{
+"model" "?5"
+"origin" "-232 648 -88"
+"script_gameobjectname" "bombzone"
+"classname" "trigger_use_touch"
+"targetname" "pf2194_auto2"
+}
+{
+"gndLt" "0e0e110001"
+"ltOrigin" "-230.327 647.395 -78.4441"
+"classname" "script_model"
+"model" "com_bomb_objective_d"
+"angles" "0 330 0"
+"origin" "-232 648 -95.9"
+"spawnflags" "4"
+"targetname" "exploder"
+"script_exploder" "pf2194_1"
+"script_gameobjectname" "bombzone"
+}
+{
+"model" "*35"
+"origin" "-231 647 -68"
+"classname" "script_brushmodel"
+"script_gameobjectname" "bombzone"
+}
+{
+"gndLt" "4a454b0000"
+"ltOrigin" "-231.559 647.605 -67.8773"
+"target" "pf2194_auto2"
+"targetname" "pf2194_auto1"
+"spawnflags" "4"
+"script_gameobjectname" "bombzone"
+"script_exploder" "pf2194_1"
+"origin" "-230.268 647 -97.9"
+"angles" "0 150 0"
+"model" "com_bomb_objective"
+"classname" "script_model"
+}
+{
+"model" "?6"
+"origin" "240 2496 -96"
+"classname" "trigger_use_touch"
+"targetname" "bombzone"
+"script_gameobjectname" "bombzone"
+"target" "pf2195_auto1"
+"script_bombmode_original" "1"
+"script_label" "_b"
+}
+{
+"model" "?7"
+"origin" "240 2496 -96"
+"script_gameobjectname" "bombzone"
+"classname" "trigger_use_touch"
+"targetname" "pf2195_auto2"
+}
+{
+"gndLt" "5b54584201"
+"ltOrigin" "241.202 2497.03 -75.8773"
+"classname" "script_model"
+"model" "com_bomb_objective"
+"angles" "0 225 0"
+"origin" "242.121 2498.12 -105.9"
+"script_exploder" "pf2195_2"
+"script_gameobjectname" "bombzone"
+"spawnflags" "4"
+"targetname" "pf2195_auto1"
+"target" "pf2195_auto2"
+}
+{
+"gndLt" "5b54583e01"
+"ltOrigin" "240.919 2498.42 -86.4441"
+"classname" "script_model"
+"model" "com_bomb_objective_d"
+"angles" "0 45 0"
+"origin" "240 2496 -103.9"
+"spawnflags" "4"
+"targetname" "exploder"
+"script_exploder" "pf2195_2"
+"script_gameobjectname" "bombzone"
+}
+{
+"model" "*36"
+"origin" "242 2497 -76"
+"classname" "script_brushmodel"
+"script_gameobjectname" "bombzone"
+}
+{
+"classname" "mp_mtdm_spawn_team_2_start"
+"angles" "0 90 0"
+"origin" "816.9 -1582.8 -96"
+}
+{
+"classname" "mp_mtdm_spawn_team_2_start"
+"angles" "0 90 0"
+"origin" "893 -1580.4 -96"
+}
+{
+"classname" "mp_mtdm_spawn_team_3_start"
+"angles" "0 270 0"
+"origin" "1312 1792 -152"
+}
+{
+"classname" "mp_mtdm_spawn_team_3_start"
+"angles" "0 270 0"
+"origin" "1264 1840 -152"
+}
+{
+"classname" "script_origin"
+"script_linkname" "pf0_flag2"
+"script_linkto" "pf0_flag1 pf0_flag3"
+"targetname" "flag_descriptor"
+"origin" "-870.9 655.5 36"
+}
+{
+"origin" "-104.3 -936 -4"
+"targetname" "flag_descriptor"
+"script_linkto" "pf0_flag2 pf0_flag3"
+"script_linkname" "pf0_flag1"
+"classname" "script_origin"
+}
+{
+"origin" "-151.4 2417 12"
+"targetname" "flag_descriptor"
+"script_linkto" "pf0_flag1 pf0_flag2"
+"script_linkname" "pf0_flag3"
+"classname" "script_origin"
+}
+{
+"script_label" "_a"
+"model" "prop_flag_neutral"
+"script_gameobjectname" "dom onslaught"
+"origin" "-104 -936 -112"
+"targetname" "flag_primary"
+"height" "128"
+"radius" "160"
+"classname" "trigger_radius"
+}
+{
+"classname" "trigger_radius"
+"radius" "160"
+"height" "128"
+"targetname" "flag_primary"
+"origin" "-872 656 -72"
+"script_gameobjectname" "dom onslaught"
+"model" "prop_flag_neutral"
+"script_label" "_b"
+}
+{
+"classname" "trigger_radius"
+"radius" "160"
+"height" "128"
+"targetname" "flag_primary"
+"origin" "-152 2416 -96"
+"script_gameobjectname" "dom onslaught"
+"model" "prop_flag_neutral"
+"script_label" "_c"
+}
+{
+"classname" "mp_mtdm_spawn_team_3_start"
+"angles" "0 270 0"
+"origin" "1184 1816 -152"
+}
+{
+"classname" "mp_mtdm_spawn_team_4_start"
+"angles" "0 270 0"
+"origin" "-1256 3176 -80"
+}
+{
+"classname" "mp_mtdm_spawn_team_4_start"
+"angles" "0 270 0"
+"origin" "-1344 3096 -80"
+}
+{
+"classname" "mp_mtdm_spawn_team_4_start"
+"angles" "0 270 0"
+"origin" "-1272 3096 -80"
+}
+{
+"gndLt" "3b363a4301"
+"ltOrigin" "-7.76291 639.917 -76.4967"
+"classname" "script_model"
+"model" "mil_tntbomb_mp"
+"targetname" "sab_bomb"
+"origin" "-8 640 -80"
+"script_gameobjectname" "sab"
+"spawnflags" "4"
+}
+{
+"model" "?8"
+"origin" "-8 640 -80"
+"classname" "trigger_multiple"
+"targetname" "sab_bomb_pickup_trig"
+"script_gameobjectname" "sab"
+}
+{
+"model" "?9"
+"origin" "240 2496 -96"
+"target" "pf2200_auto1"
+"script_gameobjectname" "sab"
+"targetname" "sab_bomb_allies"
+"classname" "trigger_use_touch"
+}
+{
+"model" "?10"
+"origin" "240 2496 -96"
+"classname" "trigger_use_touch"
+"script_gameobjectname" "sab"
+"targetname" "sab_bomb_defuse_allies"
+}
+{
+"model" "*37"
+"origin" "242 2497 -76"
+"classname" "script_brushmodel"
+"script_gameobjectname" "sab"
+}
+{
+"gndLt" "5b54584201"
+"ltOrigin" "241.202 2497.03 -75.9773"
+"classname" "script_model"
+"model" "com_bomb_objective"
+"angles" "0 225 0"
+"origin" "242.121 2498.12 -106"
+"script_exploder" "pf2200_1"
+"script_gameobjectname" "sab"
+"spawnflags" "4"
+"targetname" "pf2200_auto1"
+}
+{
+"gndLt" "5b54583e01"
+"ltOrigin" "240.919 2498.42 -86.5441"
+"classname" "script_model"
+"model" "com_bomb_objective_d"
+"angles" "0 45 0"
+"origin" "240 2496 -104"
+"spawnflags" "4"
+"targetname" "exploder"
+"script_exploder" "pf2200_1"
+"script_gameobjectname" "sab"
+}
+{
+"model" "?11"
+"origin" "488 -1016 -104"
+"target" "pf2201_auto1"
+"script_gameobjectname" "sab"
+"targetname" "sab_bomb_axis"
+"classname" "trigger_use_touch"
+}
+{
+"model" "?12"
+"origin" "488 -1016 -104"
+"classname" "trigger_use_touch"
+"script_gameobjectname" "sab"
+"targetname" "sab_bomb_defuse_axis"
+}
+{
+"gndLt" "1414170001"
+"ltOrigin" "489.429 -1015.32 -83.9773"
+"classname" "script_model"
+"model" "com_bomb_objective"
+"angles" "0 210 0"
+"origin" "490.598 -1014.5 -114"
+"script_exploder" "pf2201_2"
+"script_gameobjectname" "sab"
+"spawnflags" "4"
+"targetname" "pf2201_auto1"
+}
+{
+"gndLt" "1313160001"
+"ltOrigin" "490.422 -1013.02 -94.5441"
+"classname" "script_model"
+"model" "com_bomb_objective_d"
+"angles" "0 30 0"
+"origin" "488 -1016 -112"
+"spawnflags" "4"
+"targetname" "exploder"
+"script_exploder" "pf2201_2"
+"script_gameobjectname" "sab"
+}
+{
+"model" "*38"
+"origin" "490 -1015 -84"
+"classname" "script_brushmodel"
+"script_gameobjectname" "sab"
+}
+{
+"gndLt" "443e410001"
+"ltOrigin" "-5.3 -73.6143 -48.8114"
+"classname" "script_model"
+"model" "com_plasticcase_beige_big"
+"angles" "0 0 0"
+"origin" "-5.3 -73.8 -63.7"
+"script_gameobjectname" "hq"
+"targetname" "pf2202_auto1"
+"spawnflags" "4"
+}
+{
+"ltOrigin" "-1.3 -76.82 -26.247"
+"classname" "script_model"
+"model" "com_laptop_2_open"
+"angles" "0 270 0"
+"origin" "-1.3 -77.8 -33.7"
+"targetname" "hq_hardpoint"
+"script_gameobjectname" "hq"
+"target" "pf2202_auto1"
+"spawnflags" "4"
+}
+{
+"ltOrigin" "11.4171 -79.7427 -33.1216"
+"origin" "13.4 -82.5 -33.7"
+"angles" "1.70755e-006 40 -89.9997"
+"model" "com_cellphone_on"
+"classname" "script_model"
+"script_gameobjectname" "hq"
+"targetname" "pf2202_auto1"
+"spawnflags" "4"
+}
+{
+"model" "*39"
+"origin" "-6 -74 -48"
+"classname" "script_brushmodel"
+"script_gameobjectname" "hq"
+"targetname" "pf2202_auto1"
+}
+{
+"model" "*40"
+"origin" "-1 -70 -25"
+"classname" "script_brushmodel"
+"script_gameobjectname" "hq"
+"targetname" "pf2202_auto1"
+}
+{
+"model" "?13"
+"origin" "-7 -79 -43"
+"classname" "trigger_multiple"
+"targetname" "radiotrigger"
+}
+{
+"gndLt" "1d1b1f0001"
+"ltOrigin" "190.2 -77.9143 -48.8114"
+"classname" "script_model"
+"model" "com_plasticcase_beige_big"
+"angles" "0 0 0"
+"origin" "190.2 -78.1 -63.7"
+"script_gameobjectname" "hq"
+"targetname" "pf2203_auto1"
+"spawnflags" "4"
+}
+{
+"gndLt" "2f2c2f0000"
+"ltOrigin" "194.2 -81.1199 -26.247"
+"classname" "script_model"
+"model" "com_laptop_2_open"
+"angles" "0 270 0"
+"origin" "194.2 -82.1 -33.7"
+"targetname" "hq_hardpoint"
+"script_gameobjectname" "hq"
+"target" "pf2203_auto1"
+"spawnflags" "4"
+}
+{
+"ltOrigin" "206.917 -84.0427 -33.1216"
+"origin" "208.9 -86.8 -33.7"
+"angles" "1.70755e-006 40 -89.9997"
+"model" "com_cellphone_on"
+"classname" "script_model"
+"script_gameobjectname" "hq"
+"targetname" "pf2203_auto1"
+"spawnflags" "4"
+}
+{
+"model" "*41"
+"origin" "190 -78 -48"
+"classname" "script_brushmodel"
+"script_gameobjectname" "hq"
+"targetname" "pf2203_auto1"
+}
+{
+"model" "*42"
+"origin" "194 -75 -25"
+"classname" "script_brushmodel"
+"script_gameobjectname" "hq"
+"targetname" "pf2203_auto1"
+}
+{
+"model" "?14"
+"origin" "190 -83 -43"
+"classname" "trigger_multiple"
+"targetname" "radiotrigger"
+}
+{
+"gndLt" "413d410001"
+"ltOrigin" "-201.3 -67.0143 -48.8114"
+"classname" "script_model"
+"model" "com_plasticcase_beige_big"
+"angles" "0 0 0"
+"origin" "-201.3 -67.2 -63.7"
+"script_gameobjectname" "hq"
+"targetname" "pf2204_auto1"
+"spawnflags" "4"
+}
+{
+"ltOrigin" "-197.3 -70.22 -26.247"
+"classname" "script_model"
+"model" "com_laptop_2_open"
+"angles" "0 270 0"
+"origin" "-197.3 -71.2 -33.7"
+"targetname" "hq_hardpoint"
+"script_gameobjectname" "hq"
+"target" "pf2204_auto1"
+"spawnflags" "4"
+}
+{
+"ltOrigin" "-184.583 -73.1427 -33.1216"
+"origin" "-182.6 -75.9 -33.7"
+"angles" "1.70755e-006 40 -89.9997"
+"model" "com_cellphone_on"
+"classname" "script_model"
+"script_gameobjectname" "hq"
+"targetname" "pf2204_auto1"
+"spawnflags" "4"
+}
+{
+"model" "*43"
+"origin" "-202 -67 -48"
+"classname" "script_brushmodel"
+"script_gameobjectname" "hq"
+"targetname" "pf2204_auto1"
+}
+{
+"model" "*44"
+"origin" "-197 -64 -25"
+"classname" "script_brushmodel"
+"script_gameobjectname" "hq"
+"targetname" "pf2204_auto1"
+}
+{
+"model" "?15"
+"origin" "-203 -76 -43"
+"classname" "trigger_multiple"
+"targetname" "radiotrigger"
+}
+{
+"origin" "-497.5 -629 -32"
+"angles" "0 90 0"
+"classname" "mp_sab_spawn_allies"
+}
+{
+"classname" "mp_sab_spawn_axis"
+"angles" "0 90 0"
+"origin" "-496.5 -631.5 -32"
+}
+{
+"origin" "-492 -628 -32"
+"angles" "0 90 0"
+"classname" "mp_dm_spawn"
+}
+{
+"origin" "-494.5 -631.5 -32"
+"angles" "0 90 0"
+"classname" "mp_tdm_spawn"
+}
+{
+"origin" "-492 -632 -32"
+"angles" "0 90 0"
+"classname" "mp_dd_spawn_defender_b"
+}
+{
+"origin" "-492 -628 -32"
+"angles" "0 90 0"
+"classname" "mp_dd_spawn_defender"
+}
+{
+"origin" "-492.5 -629 -32"
+"angles" "0 90 0"
+"classname" "mp_ctf_spawn_axis"
+}
+{
+"origin" "-495 -629 -32"
+"angles" "0 90 0"
+"classname" "mp_ctf_spawn_allies"
+}
+{
+"origin" "-496 -632 -32"
+"angles" "0 90 0"
+"classname" "mp_dd_spawn_attacker_b"
+}
+{
+"origin" "-496 -628 -32"
+"angles" "0 90 0"
+"classname" "mp_dd_spawn_defender_a"
+}
+{
+"origin" "-496 -632 -32"
+"angles" "0 90 0"
+"classname" "mp_dd_spawn_attacker"
+}
+{
+"origin" "-500 -628 -32"
+"angles" "0 90 0"
+"classname" "mp_dd_spawn_attacker_a"
+}
+{
+"classname" "mp_dom_spawn"
+"angles" "0 90 0"
+"origin" "-492 -628.5 -32"
+}
+{
+"classname" "mp_escort_spawn"
+"angles" "0 90 0"
+"origin" "-496 -632 -32"
+}
+{
+"origin" "-1916.65 -392.201 8"
+"angles" "0 330 0"
+"classname" "mp_sab_spawn_allies"
+}
+{
+"classname" "mp_sab_spawn_axis"
+"angles" "0 330 0"
+"origin" "-1919.32 -391.817 8"
+}
+{
+"origin" "-1918.54 -397.464 8"
+"angles" "0 330 0"
+"classname" "mp_dm_spawn"
+}
+{
+"origin" "-1920.32 -393.549 8"
+"angles" "0 330 0"
+"classname" "mp_tdm_spawn"
+}
+{
+"origin" "-1922 -395.464 8"
+"angles" "0 330 0"
+"classname" "mp_dd_spawn_defender_b"
+}
+{
+"origin" "-1918.54 -397.464 8"
+"angles" "0 330 0"
+"classname" "mp_dd_spawn_defender"
+}
+{
+"origin" "-1919.15 -396.531 8"
+"angles" "0 330 0"
+"classname" "mp_ctf_spawn_axis"
+}
+{
+"origin" "-1917.9 -394.366 8"
+"angles" "0 330 0"
+"classname" "mp_ctf_spawn_allies"
+}
+{
+"origin" "-1920 -392 8"
+"angles" "0 330 0"
+"classname" "mp_dd_spawn_attacker_b"
+}
+{
+"origin" "-1916.54 -394 8"
+"angles" "0 330 0"
+"classname" "mp_dd_spawn_defender_a"
+}
+{
+"origin" "-1920 -392 8"
+"angles" "0 330 0"
+"classname" "mp_dd_spawn_attacker"
+}
+{
+"origin" "-1914.54 -390.536 8"
+"angles" "0 330 0"
+"classname" "mp_dd_spawn_attacker_a"
+}
+{
+"classname" "mp_dom_spawn"
+"angles" "0 330 0"
+"origin" "-1918.97 -397.214 8"
+}
+{
+"classname" "mp_escort_spawn"
+"angles" "0 330 0"
+"origin" "-1920 -392 8"
+}
+{
+"classname" "script_origin"
+"targetname" "LSD_start"
+"target" "LSD_start_1"
+"origin" "5376 640 9416"
+"angles" "35 180 6.82341e-006"
+}
+{
+"classname" "script_origin"
+"targetname" "LSD_start_1"
+"origin" "3312 648 7664"
+"target" "LSD_start_2"
+}
+{
+"classname" "trigger_radius"
+"radius" "64"
+"height" "128"
+"origin" "-144 2904 -64"
+"targetname" "ctf_trig_allies"
+"target" "ctf_flag_allies"
+"script_gameobjectname" "ctf"
+}
+{
+"gndLt" "3d36371401"
+"ltOrigin" "-117.686 2908.41 -30.4885"
+"classname" "script_model"
+"model" "prop_flag_neutral"
+"targetname" "ctf_flag_allies"
+"origin" "-144 2904 -80"
+"script_gameobjectname" "ctf"
+"spawnflags" "4"
+}
+{
+"classname" "trigger_radius"
+"radius" "64"
+"height" "128"
+"origin" "-144 2904 -64"
+"targetname" "ctf_zone_allies"
+"script_gameobjectname" "ctf"
+}
+{
+"classname" "trigger_radius"
+"radius" "64"
+"height" "128"
+"origin" "176 -1184 -96"
+"targetname" "ctf_trig_axis"
+"target" "ctf_flag_axis"
+"script_gameobjectname" "ctf"
+}
+{
+"gndLt" "6960640001"
+"ltOrigin" "202.314 -1179.59 -62.4885"
+"classname" "script_model"
+"model" "prop_flag_neutral"
+"targetname" "ctf_flag_axis"
+"origin" "176 -1184 -112"
+"script_gameobjectname" "ctf"
+"spawnflags" "4"
+}
+{
+"classname" "trigger_radius"
+"radius" "64"
+"height" "128"
+"origin" "176 -1184 -96"
+"targetname" "ctf_zone_axis"
+"script_gameobjectname" "ctf"
+}
+{
+"classname" "script_origin"
+"targetname" "LSD_Loop_start"
+"target" "LSD_Loop_start_1"
+"origin" "1978 689.5 7192"
+}
+{
+"origin" "-1821 1969.5 -16"
+"angles" "0 3.75661e-005 0"
+"classname" "mp_sab_spawn_allies"
+}
+{
+"classname" "mp_sab_spawn_axis"
+"angles" "0 3.75661e-005 0"
+"origin" "-1823.5 1968.5 -16"
+}
+{
+"origin" "-1820 1964 -16"
+"angles" "0 3.75661e-005 0"
+"classname" "mp_dm_spawn"
+}
+{
+"origin" "-1823.5 1966.5 -16"
+"angles" "0 3.75661e-005 0"
+"classname" "mp_tdm_spawn"
+}
+{
+"origin" "-1824 1964 -16"
+"angles" "0 3.75661e-005 0"
+"classname" "mp_dd_spawn_defender_b"
+}
+{
+"origin" "-1820 1964 -16"
+"angles" "0 3.75661e-005 0"
+"classname" "mp_dd_spawn_defender"
+}
+{
+"origin" "-1821 1964.5 -16"
+"angles" "0 3.75661e-005 0"
+"classname" "mp_ctf_spawn_axis"
+}
+{
+"origin" "-1821 1967 -16"
+"angles" "0 3.75661e-005 0"
+"classname" "mp_ctf_spawn_allies"
+}
+{
+"origin" "-1824 1968 -16"
+"angles" "0 3.75661e-005 0"
+"classname" "mp_dd_spawn_attacker_b"
+}
+{
+"origin" "-1820 1968 -16"
+"angles" "0 3.75661e-005 0"
+"classname" "mp_dd_spawn_defender_a"
+}
+{
+"origin" "-1824 1968 -16"
+"angles" "0 3.75661e-005 0"
+"classname" "mp_dd_spawn_attacker"
+}
+{
+"origin" "-1820 1972 -16"
+"angles" "0 3.75661e-005 0"
+"classname" "mp_dd_spawn_attacker_a"
+}
+{
+"classname" "mp_dom_spawn"
+"angles" "0 3.75661e-005 0"
+"origin" "-1820.5 1964 -16"
+}
+{
+"classname" "mp_escort_spawn"
+"angles" "0 3.75661e-005 0"
+"origin" "-1824 1968 -16"
+}
+{
+"origin" "-1035 1854.5 -16"
+"angles" "0 180 0"
+"classname" "mp_sab_spawn_allies"
+}
+{
+"classname" "mp_sab_spawn_axis"
+"angles" "0 180 0"
+"origin" "-1032.5 1855.5 -16"
+}
+{
+"origin" "-1036 1860 -16"
+"angles" "0 180 0"
+"classname" "mp_dm_spawn"
+}
+{
+"origin" "-1032.5 1857.5 -16"
+"angles" "0 180 0"
+"classname" "mp_tdm_spawn"
+}
+{
+"origin" "-1032 1860 -16"
+"angles" "0 180 0"
+"classname" "mp_dd_spawn_defender_b"
+}
+{
+"origin" "-1036 1860 -16"
+"angles" "0 180 0"
+"classname" "mp_dd_spawn_defender"
+}
+{
+"origin" "-1035 1859.5 -16"
+"angles" "0 180 0"
+"classname" "mp_ctf_spawn_axis"
+}
+{
+"origin" "-1035 1857 -16"
+"angles" "0 180 0"
+"classname" "mp_ctf_spawn_allies"
+}
+{
+"origin" "-1032 1856 -16"
+"angles" "0 180 0"
+"classname" "mp_dd_spawn_attacker_b"
+}
+{
+"origin" "-1036 1856 -16"
+"angles" "0 180 0"
+"classname" "mp_dd_spawn_defender_a"
+}
+{
+"origin" "-1032 1856 -16"
+"angles" "0 180 0"
+"classname" "mp_dd_spawn_attacker"
+}
+{
+"origin" "-1036 1852 -16"
+"angles" "0 180 0"
+"classname" "mp_dd_spawn_attacker_a"
+}
+{
+"classname" "mp_dom_spawn"
+"angles" "0 180 0"
+"origin" "-1035.5 1860 -16"
+}
+{
+"classname" "mp_escort_spawn"
+"angles" "0 180 0"
+"origin" "-1032 1856 -16"
+}
+{
+"classname" "script_origin"
+"targetname" "LSD_Loop_start_1"
+"origin" "1090 2347 7192"
+"target" "LSD_Loop_start_2"
+}
+{
+"classname" "script_origin"
+"targetname" "LSD_Loop_start_3"
+"origin" "-2014.5 2280.5 7192"
+"target" "LSD_Loop_start_4"
+}
+{
+"origin" "803 -918.5 -96"
+"angles" "0 3.75661e-005 0"
+"classname" "mp_sab_spawn_allies"
+}
+{
+"classname" "mp_sab_spawn_axis"
+"angles" "0 3.75661e-005 0"
+"origin" "800.5 -919.5 -96"
+}
+{
+"origin" "804 -924 -96"
+"angles" "0 3.75661e-005 0"
+"classname" "mp_dm_spawn"
+}
+{
+"origin" "800.5 -921.5 -96"
+"angles" "0 3.75661e-005 0"
+"classname" "mp_tdm_spawn"
+}
+{
+"origin" "800 -924 -96"
+"angles" "0 3.75661e-005 0"
+"classname" "mp_dd_spawn_defender_b"
+}
+{
+"origin" "804 -924 -96"
+"angles" "0 3.75661e-005 0"
+"classname" "mp_dd_spawn_defender"
+}
+{
+"origin" "803 -923.5 -96"
+"angles" "0 3.75661e-005 0"
+"classname" "mp_ctf_spawn_axis"
+}
+{
+"origin" "803 -921 -96"
+"angles" "0 3.75661e-005 0"
+"classname" "mp_ctf_spawn_allies"
+}
+{
+"origin" "800 -920 -96"
+"angles" "0 3.75661e-005 0"
+"classname" "mp_dd_spawn_attacker_b"
+}
+{
+"origin" "804 -920 -96"
+"angles" "0 3.75661e-005 0"
+"classname" "mp_dd_spawn_defender_a"
+}
+{
+"origin" "800 -920 -96"
+"angles" "0 3.75661e-005 0"
+"classname" "mp_dd_spawn_attacker"
+}
+{
+"origin" "804 -916 -96"
+"angles" "0 3.75661e-005 0"
+"classname" "mp_dd_spawn_attacker_a"
+}
+{
+"classname" "mp_dom_spawn"
+"angles" "0 3.75661e-005 0"
+"origin" "803.5 -924 -96"
+}
+{
+"classname" "mp_escort_spawn"
+"angles" "0 3.75661e-005 0"
+"origin" "800 -920 -96"
+}
+{
+"origin" "-1494.5 -195 -8"
+"angles" "0 270 0"
+"classname" "mp_sab_spawn_allies"
+}
+{
+"classname" "mp_sab_spawn_axis"
+"angles" "0 270 0"
+"origin" "-1495.5 -192.5 -8"
+}
+{
+"origin" "-1500 -196 -8"
+"angles" "0 270 0"
+"classname" "mp_dm_spawn"
+}
+{
+"origin" "-1497.5 -192.5 -8"
+"angles" "0 270 0"
+"classname" "mp_tdm_spawn"
+}
+{
+"origin" "-1500 -192 -8"
+"angles" "0 270 0"
+"classname" "mp_dd_spawn_defender_b"
+}
+{
+"origin" "-1500 -196 -8"
+"angles" "0 270 0"
+"classname" "mp_dd_spawn_defender"
+}
+{
+"origin" "-1499.5 -195 -8"
+"angles" "0 270 0"
+"classname" "mp_ctf_spawn_axis"
+}
+{
+"origin" "-1497 -195 -8"
+"angles" "0 270 0"
+"classname" "mp_ctf_spawn_allies"
+}
+{
+"origin" "-1496 -192 -8"
+"angles" "0 270 0"
+"classname" "mp_dd_spawn_attacker_b"
+}
+{
+"origin" "-1496 -196 -8"
+"angles" "0 270 0"
+"classname" "mp_dd_spawn_defender_a"
+}
+{
+"origin" "-1496 -192 -8"
+"angles" "0 270 0"
+"classname" "mp_dd_spawn_attacker"
+}
+{
+"origin" "-1492 -196 -8"
+"angles" "0 270 0"
+"classname" "mp_dd_spawn_attacker_a"
+}
+{
+"classname" "mp_dom_spawn"
+"angles" "0 270 0"
+"origin" "-1500 -195.5 -8"
+}
+{
+"classname" "mp_escort_spawn"
+"angles" "0 270 0"
+"origin" "-1496 -192 -8"
+}
+{
+"origin" "907 -334.5 -176"
+"angles" "0 3.75661e-005 0"
+"classname" "mp_sab_spawn_allies"
+}
+{
+"classname" "mp_sab_spawn_axis"
+"angles" "0 3.75661e-005 0"
+"origin" "904.5 -335.5 -176"
+}
+{
+"origin" "908 -340 -176"
+"angles" "0 3.75661e-005 0"
+"classname" "mp_dm_spawn"
+}
+{
+"origin" "904.5 -337.5 -176"
+"angles" "0 3.75661e-005 0"
+"classname" "mp_tdm_spawn"
+}
+{
+"origin" "904 -340 -176"
+"angles" "0 3.75661e-005 0"
+"classname" "mp_dd_spawn_defender_b"
+}
+{
+"origin" "908 -340 -176"
+"angles" "0 3.75661e-005 0"
+"classname" "mp_dd_spawn_defender"
+}
+{
+"origin" "907 -339.5 -176"
+"angles" "0 3.75661e-005 0"
+"classname" "mp_ctf_spawn_axis"
+}
+{
+"origin" "907 -337 -176"
+"angles" "0 3.75661e-005 0"
+"classname" "mp_ctf_spawn_allies"
+}
+{
+"origin" "904 -336 -176"
+"angles" "0 3.75661e-005 0"
+"classname" "mp_dd_spawn_attacker_b"
+}
+{
+"origin" "908 -336 -176"
+"angles" "0 3.75661e-005 0"
+"classname" "mp_dd_spawn_defender_a"
+}
+{
+"origin" "904 -336 -176"
+"angles" "0 3.75661e-005 0"
+"classname" "mp_dd_spawn_attacker"
+}
+{
+"origin" "908 -332 -176"
+"angles" "0 3.75661e-005 0"
+"classname" "mp_dd_spawn_attacker_a"
+}
+{
+"classname" "mp_dom_spawn"
+"angles" "0 3.75661e-005 0"
+"origin" "907.5 -340 -176"
+}
+{
+"classname" "mp_escort_spawn"
+"angles" "0 3.75661e-005 0"
+"origin" "904 -336 -176"
+}
+{
+"classname" "script_origin"
+"target" "heli_start_2"
+"targetname" "heli_start_1"
+"origin" "2864.1 -1272.8 2446.6"
+"angles" "0 135 0"
+}
+{
+"classname" "script_origin"
+"target" "heli_start_1"
+"targetname" "heli_start"
+"origin" "3475.1 -2096.6 2446.6"
+"angles" "0 90 0"
+}
+{
+"classname" "script_origin"
+"target" "heli_start_3"
+"targetname" "heli_start_2"
+"origin" "2419.5 -800.6 2446.6"
+"angles" "0 225 0"
+}
+{
+"classname" "script_origin"
+"targetname" "heli_start_3"
+"origin" "1827.4 -367.8 2446.6"
+"angles" "0 270 0"
+}
+{
+"classname" "script_origin"
+"target" "heli_loop_start_1"
+"targetname" "heli_loop_start"
+"origin" "1576 336 2448"
+"angles" "0 90 0"
+}
+{
+"classname" "script_origin"
+"target" "heli_loop_start_2"
+"targetname" "heli_loop_start_1"
+"origin" "1432 1352 2448"
+"angles" "0 180 0"
+}
+{
+"classname" "script_origin"
+"target" "heli_loop_start_3"
+"targetname" "heli_loop_start_2"
+"origin" "1304 2288 2448"
+"angles" "0 180 0"
+}
+{
+"classname" "script_origin"
+"targetname" "heli_loop_start_3"
+"origin" "1016 2920 2448"
+"angles" "0 180 0"
+"target" "heli_loop_start_4"
+}
+{
+"angles" "0 180 0"
+"origin" "-2344 2776 2448"
+"targetname" "heli_leave"
+"target" "heli_leave_1"
+"classname" "script_origin"
+}
+{
+"angles" "0 135 0"
+"origin" "-3640 3952 2448"
+"targetname" "heli_leave_1"
+"target" "heli_leave_2"
+"classname" "script_origin"
+}
+{
+"angles" "0 90 0"
+"origin" "-4392 5584 2448"
+"targetname" "heli_leave_2"
+"classname" "script_origin"
+}
+{
+"classname" "script_origin"
+"target" "heli_crash_start_1"
+"targetname" "heli_crash_start"
+"origin" "1912 856 1616"
+"angles" "0 45 0"
+}
+{
+"classname" "script_origin"
+"targetname" "heli_crash_start_1"
+"origin" "5640 3256 -1592"
+"angles" "0 45 0"
+}
+{
+"origin" "-665.5 -2261 -96"
+"angles" "0 90 0"
+"classname" "mp_sab_spawn_allies"
+}
+{
+"classname" "mp_sab_spawn_axis"
+"angles" "0 90 0"
+"origin" "-664.5 -2263.5 -96"
+}
+{
+"origin" "-660 -2260 -96"
+"angles" "0 90 0"
+"classname" "mp_dm_spawn"
+}
+{
+"origin" "-662.5 -2263.5 -96"
+"angles" "0 90 0"
+"classname" "mp_tdm_spawn"
+}
+{
+"origin" "-660 -2264 -96"
+"angles" "0 90 0"
+"classname" "mp_dd_spawn_defender_b"
+}
+{
+"origin" "-660 -2260 -96"
+"angles" "0 90 0"
+"classname" "mp_dd_spawn_defender"
+}
+{
+"origin" "-660.5 -2261 -96"
+"angles" "0 90 0"
+"classname" "mp_ctf_spawn_axis"
+}
+{
+"origin" "-663 -2261 -96"
+"angles" "0 90 0"
+"classname" "mp_ctf_spawn_allies"
+}
+{
+"origin" "-664 -2264 -96"
+"angles" "0 90 0"
+"classname" "mp_dd_spawn_attacker_b"
+}
+{
+"origin" "-664 -2260 -96"
+"angles" "0 90 0"
+"classname" "mp_dd_spawn_defender_a"
+}
+{
+"origin" "-664 -2264 -96"
+"angles" "0 90 0"
+"classname" "mp_dd_spawn_attacker"
+}
+{
+"origin" "-668 -2260 -96"
+"angles" "0 90 0"
+"classname" "mp_dd_spawn_attacker_a"
+}
+{
+"classname" "mp_dom_spawn"
+"angles" "0 90 0"
+"origin" "-660 -2260.5 -96"
+}
+{
+"classname" "mp_escort_spawn"
+"angles" "0 90 0"
+"origin" "-664 -2264 -96"
+}
+{
+"angles" "0 90 0"
+"origin" "-207.5 -2515 -28"
+"classname" "mp_tdm_spawn_axis_start"
+}
+{
+"classname" "mp_sd_spawn_attacker"
+"angles" "0 90 0"
+"origin" "-208 -2516 -24"
+}
+{
+"origin" "-208 -2516 -22"
+"angles" "0 90 0"
+"classname" "mp_dom_spawn_axis_start"
+}
+{
+"origin" "-206.5 -2517 -23"
+"angles" "0 90 0"
+"classname" "mp_sab_spawn_axis_start"
+}
+{
+"classname" "mp_ctf_spawn_axis_start"
+"angles" "0 90 0"
+"origin" "-208 -2516 -24"
+}
+{
+"classname" "mp_dd_spawn_attacker_start"
+"angles" "0 90 0"
+"origin" "-208.5 -2516 -23"
+}
+{
+"classname" "mp_escort_spawn_axis_start"
+"angles" "0 90 0"
+"origin" "-207 -2517 -23"
+}
+{
+"angles" "0 90 0"
+"origin" "-167.5 -2443 -28"
+"classname" "mp_tdm_spawn_axis_start"
+}
+{
+"classname" "mp_sd_spawn_attacker"
+"angles" "0 90 0"
+"origin" "-168 -2444 -24"
+}
+{
+"origin" "-168 -2444 -22"
+"angles" "0 90 0"
+"classname" "mp_dom_spawn_axis_start"
+}
+{
+"origin" "-166.5 -2445 -23"
+"angles" "0 90 0"
+"classname" "mp_sab_spawn_axis_start"
+}
+{
+"classname" "mp_ctf_spawn_axis_start"
+"angles" "0 90 0"
+"origin" "-168 -2444 -24"
+}
+{
+"classname" "mp_dd_spawn_attacker_start"
+"angles" "0 90 0"
+"origin" "-168.5 -2444 -23"
+}
+{
+"classname" "mp_escort_spawn_axis_start"
+"angles" "0 90 0"
+"origin" "-167 -2445 -23"
+}
+{
+"angles" "0 90 0"
+"origin" "-127.5 -2515 -28"
+"classname" "mp_tdm_spawn_axis_start"
+}
+{
+"classname" "mp_sd_spawn_attacker"
+"angles" "0 90 0"
+"origin" "-128 -2516 -24"
+}
+{
+"origin" "-128 -2516 -22"
+"angles" "0 90 0"
+"classname" "mp_dom_spawn_axis_start"
+}
+{
+"origin" "-126.5 -2517 -23"
+"angles" "0 90 0"
+"classname" "mp_sab_spawn_axis_start"
+}
+{
+"classname" "mp_ctf_spawn_axis_start"
+"angles" "0 90 0"
+"origin" "-128 -2516 -24"
+}
+{
+"classname" "mp_dd_spawn_attacker_start"
+"angles" "0 90 0"
+"origin" "-128.5 -2516 -23"
+}
+{
+"classname" "mp_escort_spawn_axis_start"
+"angles" "0 90 0"
+"origin" "-127 -2517 -23"
+}
+{
+"angles" "0 90 0"
+"origin" "-103.5 -2387 -28"
+"classname" "mp_tdm_spawn_axis_start"
+}
+{
+"classname" "mp_sd_spawn_attacker"
+"angles" "0 90 0"
+"origin" "-104 -2388 -24"
+}
+{
+"origin" "-104 -2388 -22"
+"angles" "0 90 0"
+"classname" "mp_dom_spawn_axis_start"
+}
+{
+"origin" "-102.5 -2389 -23"
+"angles" "0 90 0"
+"classname" "mp_sab_spawn_axis_start"
+}
+{
+"classname" "mp_ctf_spawn_axis_start"
+"angles" "0 90 0"
+"origin" "-104 -2388 -24"
+}
+{
+"classname" "mp_dd_spawn_attacker_start"
+"angles" "0 90 0"
+"origin" "-104.5 -2388 -23"
+}
+{
+"classname" "mp_escort_spawn_axis_start"
+"angles" "0 90 0"
+"origin" "-103 -2389 -23"
+}
+{
+"angles" "0 90 0"
+"origin" "-207.5 -2379 -28"
+"classname" "mp_tdm_spawn_axis_start"
+}
+{
+"classname" "mp_sd_spawn_attacker"
+"angles" "0 90 0"
+"origin" "-208 -2380 -24"
+}
+{
+"origin" "-208 -2380 -22"
+"angles" "0 90 0"
+"classname" "mp_dom_spawn_axis_start"
+}
+{
+"origin" "-206.5 -2381 -23"
+"angles" "0 90 0"
+"classname" "mp_sab_spawn_axis_start"
+}
+{
+"classname" "mp_ctf_spawn_axis_start"
+"angles" "0 90 0"
+"origin" "-208 -2380 -24"
+}
+{
+"classname" "mp_dd_spawn_attacker_start"
+"angles" "0 90 0"
+"origin" "-208.5 -2380 -23"
+}
+{
+"classname" "mp_escort_spawn_axis_start"
+"angles" "0 90 0"
+"origin" "-207 -2381 -23"
+}
+{
+"angles" "0 90 0"
+"origin" "-295.5 -2363 -28"
+"classname" "mp_tdm_spawn_axis_start"
+}
+{
+"classname" "mp_sd_spawn_attacker"
+"angles" "0 90 0"
+"origin" "-296 -2364 -24"
+}
+{
+"origin" "-296 -2364 -22"
+"angles" "0 90 0"
+"classname" "mp_dom_spawn_axis_start"
+}
+{
+"origin" "-294.5 -2365 -23"
+"angles" "0 90 0"
+"classname" "mp_sab_spawn_axis_start"
+}
+{
+"classname" "mp_ctf_spawn_axis_start"
+"angles" "0 90 0"
+"origin" "-296 -2364 -24"
+}
+{
+"classname" "mp_dd_spawn_attacker_start"
+"angles" "0 90 0"
+"origin" "-296.5 -2364 -23"
+}
+{
+"classname" "mp_escort_spawn_axis_start"
+"angles" "0 90 0"
+"origin" "-295 -2365 -23"
+}
+{
+"classname" "mp_tdm_spawn_allies_start"
+"origin" "-488 3439 -50"
+"angles" "0 270 0"
+}
+{
+"origin" "-486.5 3438.5 -54"
+"angles" "0 270 0"
+"classname" "mp_sd_spawn_defender"
+}
+{
+"origin" "-484.5 3440.5 -48"
+"angles" "0 270 0"
+"classname" "mp_dom_spawn_allies_start"
+}
+{
+"classname" "mp_sab_spawn_allies_start"
+"angles" "0 270 0"
+"origin" "-484.5 3440 -49"
+}
+{
+"classname" "mp_ctf_spawn_allies_start"
+"angles" "0 270 0"
+"origin" "-488.5 3441.5 -46"
+}
+{
+"classname" "mp_dd_spawn_defender_start"
+"angles" "0 270 0"
+"origin" "-487.5 3439.5 -48"
+}
+{
+"classname" "mp_escort_spawn_allies_start"
+"angles" "0 270 0"
+"origin" "-486 3440 -48"
+}
+{
+"classname" "mp_tdm_spawn_allies_start"
+"origin" "-344 3439 -50"
+"angles" "0 270 0"
+}
+{
+"origin" "-342.5 3438.5 -54"
+"angles" "0 270 0"
+"classname" "mp_sd_spawn_defender"
+}
+{
+"origin" "-340.5 3440.5 -48"
+"angles" "0 270 0"
+"classname" "mp_dom_spawn_allies_start"
+}
+{
+"classname" "mp_sab_spawn_allies_start"
+"angles" "0 270 0"
+"origin" "-340.5 3440 -49"
+}
+{
+"classname" "mp_ctf_spawn_allies_start"
+"angles" "0 270 0"
+"origin" "-344.5 3441.5 -46"
+}
+{
+"classname" "mp_dd_spawn_defender_start"
+"angles" "0 270 0"
+"origin" "-343.5 3439.5 -48"
+}
+{
+"classname" "mp_escort_spawn_allies_start"
+"angles" "0 270 0"
+"origin" "-342 3440 -48"
+}
+{
+"classname" "mp_tdm_spawn_allies_start"
+"origin" "-456 3383 -50"
+"angles" "0 270 0"
+}
+{
+"origin" "-454.5 3382.5 -54"
+"angles" "0 270 0"
+"classname" "mp_sd_spawn_defender"
+}
+{
+"origin" "-452.5 3384.5 -48"
+"angles" "0 270 0"
+"classname" "mp_dom_spawn_allies_start"
+}
+{
+"classname" "mp_sab_spawn_allies_start"
+"angles" "0 270 0"
+"origin" "-452.5 3384 -49"
+}
+{
+"classname" "mp_ctf_spawn_allies_start"
+"angles" "0 270 0"
+"origin" "-456.5 3385.5 -46"
+}
+{
+"classname" "mp_dd_spawn_defender_start"
+"angles" "0 270 0"
+"origin" "-455.5 3383.5 -48"
+}
+{
+"classname" "mp_escort_spawn_allies_start"
+"angles" "0 270 0"
+"origin" "-454 3384 -48"
+}
+{
+"classname" "mp_tdm_spawn_allies_start"
+"origin" "-536 3383 -50"
+"angles" "0 270 0"
+}
+{
+"origin" "-534.5 3382.5 -54"
+"angles" "0 270 0"
+"classname" "mp_sd_spawn_defender"
+}
+{
+"origin" "-532.5 3384.5 -48"
+"angles" "0 270 0"
+"classname" "mp_dom_spawn_allies_start"
+}
+{
+"classname" "mp_sab_spawn_allies_start"
+"angles" "0 270 0"
+"origin" "-532.5 3384 -49"
+}
+{
+"classname" "mp_ctf_spawn_allies_start"
+"angles" "0 270 0"
+"origin" "-536.5 3385.5 -46"
+}
+{
+"classname" "mp_dd_spawn_defender_start"
+"angles" "0 270 0"
+"origin" "-535.5 3383.5 -48"
+}
+{
+"classname" "mp_escort_spawn_allies_start"
+"angles" "0 270 0"
+"origin" "-534 3384 -48"
+}
+{
+"classname" "mp_tdm_spawn_allies_start"
+"origin" "-376 3383 -50"
+"angles" "0 270 0"
+}
+{
+"origin" "-374.5 3382.5 -54"
+"angles" "0 270 0"
+"classname" "mp_sd_spawn_defender"
+}
+{
+"origin" "-372.5 3384.5 -48"
+"angles" "0 270 0"
+"classname" "mp_dom_spawn_allies_start"
+}
+{
+"classname" "mp_sab_spawn_allies_start"
+"angles" "0 270 0"
+"origin" "-372.5 3384 -49"
+}
+{
+"classname" "mp_ctf_spawn_allies_start"
+"angles" "0 270 0"
+"origin" "-376.5 3385.5 -46"
+}
+{
+"classname" "mp_dd_spawn_defender_start"
+"angles" "0 270 0"
+"origin" "-375.5 3383.5 -48"
+}
+{
+"classname" "mp_escort_spawn_allies_start"
+"angles" "0 270 0"
+"origin" "-374 3384 -48"
+}
+{
+"classname" "mp_tdm_spawn_allies_start"
+"origin" "-296 3383 -50"
+"angles" "0 270 0"
+}
+{
+"origin" "-294.5 3382.5 -54"
+"angles" "0 270 0"
+"classname" "mp_sd_spawn_defender"
+}
+{
+"origin" "-292.5 3384.5 -48"
+"angles" "0 270 0"
+"classname" "mp_dom_spawn_allies_start"
+}
+{
+"classname" "mp_sab_spawn_allies_start"
+"angles" "0 270 0"
+"origin" "-292.5 3384 -49"
+}
+{
+"classname" "mp_ctf_spawn_allies_start"
+"angles" "0 270 0"
+"origin" "-296.5 3385.5 -46"
+}
+{
+"classname" "mp_dd_spawn_defender_start"
+"angles" "0 270 0"
+"origin" "-295.5 3383.5 -48"
+}
+{
+"classname" "mp_escort_spawn_allies_start"
+"angles" "0 270 0"
+"origin" "-294 3384 -48"
+}
+{
+"classname" "mp_tdm_spawn_allies_start"
+"origin" "-336 3311 -50"
+"angles" "0 270 0"
+}
+{
+"origin" "-334.5 3310.5 -54"
+"angles" "0 270 0"
+"classname" "mp_sd_spawn_defender"
+}
+{
+"origin" "-332.5 3312.5 -48"
+"angles" "0 270 0"
+"classname" "mp_dom_spawn_allies_start"
+}
+{
+"classname" "mp_sab_spawn_allies_start"
+"angles" "0 270 0"
+"origin" "-332.5 3312 -49"
+}
+{
+"classname" "mp_ctf_spawn_allies_start"
+"angles" "0 270 0"
+"origin" "-336.5 3313.5 -46"
+}
+{
+"classname" "mp_dd_spawn_defender_start"
+"angles" "0 270 0"
+"origin" "-335.5 3311.5 -48"
+}
+{
+"classname" "mp_escort_spawn_allies_start"
+"angles" "0 270 0"
+"origin" "-334 3312 -48"
+}
+{
+"classname" "mp_tdm_spawn_allies_start"
+"origin" "-496 3303 -50"
+"angles" "0 270 0"
+}
+{
+"origin" "-494.5 3302.5 -54"
+"angles" "0 270 0"
+"classname" "mp_sd_spawn_defender"
+}
+{
+"origin" "-492.5 3304.5 -48"
+"angles" "0 270 0"
+"classname" "mp_dom_spawn_allies_start"
+}
+{
+"classname" "mp_sab_spawn_allies_start"
+"angles" "0 270 0"
+"origin" "-492.5 3304 -49"
+}
+{
+"classname" "mp_ctf_spawn_allies_start"
+"angles" "0 270 0"
+"origin" "-496.5 3305.5 -46"
+}
+{
+"classname" "mp_dd_spawn_defender_start"
+"angles" "0 270 0"
+"origin" "-495.5 3303.5 -48"
+}
+{
+"classname" "mp_escort_spawn_allies_start"
+"angles" "0 270 0"
+"origin" "-494 3304 -48"
+}
+{
+"classname" "script_origin"
+"targetname" "minimap_corner"
+"origin" "2224 -2672 -56"
+}
+{
+"origin" "-198.5 3517 -48"
+"angles" "0 270 0"
+"classname" "mp_sab_spawn_allies"
+}
+{
+"classname" "mp_sab_spawn_axis"
+"angles" "0 270 0"
+"origin" "-199.5 3519.5 -48"
+}
+{
+"origin" "-204 3516 -48"
+"angles" "0 270 0"
+"classname" "mp_dm_spawn"
+}
+{
+"origin" "-201.5 3519.5 -48"
+"angles" "0 270 0"
+"classname" "mp_tdm_spawn"
+}
+{
+"origin" "-204 3520 -48"
+"angles" "0 270 0"
+"classname" "mp_dd_spawn_defender_b"
+}
+{
+"origin" "-204 3516 -48"
+"angles" "0 270 0"
+"classname" "mp_dd_spawn_defender"
+}
+{
+"origin" "-203.5 3517 -48"
+"angles" "0 270 0"
+"classname" "mp_ctf_spawn_axis"
+}
+{
+"origin" "-201 3517 -48"
+"angles" "0 270 0"
+"classname" "mp_ctf_spawn_allies"
+}
+{
+"origin" "-200 3520 -48"
+"angles" "0 270 0"
+"classname" "mp_dd_spawn_attacker_b"
+}
+{
+"origin" "-200 3516 -48"
+"angles" "0 270 0"
+"classname" "mp_dd_spawn_defender_a"
+}
+{
+"origin" "-200 3520 -48"
+"angles" "0 270 0"
+"classname" "mp_dd_spawn_attacker"
+}
+{
+"origin" "-196 3516 -48"
+"angles" "0 270 0"
+"classname" "mp_dd_spawn_attacker_a"
+}
+{
+"classname" "mp_dom_spawn"
+"angles" "0 270 0"
+"origin" "-204 3516.5 -48"
+}
+{
+"classname" "mp_escort_spawn"
+"angles" "0 270 0"
+"origin" "-200 3520 -48"
+}
+{
+"origin" "-1661 3105.5 -88"
+"angles" "0 3.75661e-005 0"
+"classname" "mp_sab_spawn_allies"
+}
+{
+"classname" "mp_sab_spawn_axis"
+"angles" "0 3.75661e-005 0"
+"origin" "-1663.5 3104.5 -88"
+}
+{
+"origin" "-1660 3100 -88"
+"angles" "0 3.75661e-005 0"
+"classname" "mp_dm_spawn"
+}
+{
+"origin" "-1663.5 3102.5 -88"
+"angles" "0 3.75661e-005 0"
+"classname" "mp_tdm_spawn"
+}
+{
+"origin" "-1664 3100 -88"
+"angles" "0 3.75661e-005 0"
+"classname" "mp_dd_spawn_defender_b"
+}
+{
+"origin" "-1660 3100 -88"
+"angles" "0 3.75661e-005 0"
+"classname" "mp_dd_spawn_defender"
+}
+{
+"origin" "-1661 3100.5 -88"
+"angles" "0 3.75661e-005 0"
+"classname" "mp_ctf_spawn_axis"
+}
+{
+"origin" "-1661 3103 -88"
+"angles" "0 3.75661e-005 0"
+"classname" "mp_ctf_spawn_allies"
+}
+{
+"origin" "-1664 3104 -88"
+"angles" "0 3.75661e-005 0"
+"classname" "mp_dd_spawn_attacker_b"
+}
+{
+"origin" "-1660 3104 -88"
+"angles" "0 3.75661e-005 0"
+"classname" "mp_dd_spawn_defender_a"
+}
+{
+"origin" "-1664 3104 -88"
+"angles" "0 3.75661e-005 0"
+"classname" "mp_dd_spawn_attacker"
+}
+{
+"origin" "-1660 3108 -88"
+"angles" "0 3.75661e-005 0"
+"classname" "mp_dd_spawn_attacker_a"
+}
+{
+"classname" "mp_dom_spawn"
+"angles" "0 3.75661e-005 0"
+"origin" "-1660.5 3100 -88"
+}
+{
+"classname" "mp_escort_spawn"
+"angles" "0 3.75661e-005 0"
+"origin" "-1664 3104 -88"
+}
+{
+"origin" "301 2830.5 -64"
+"angles" "0 180 0"
+"classname" "mp_sab_spawn_allies"
+}
+{
+"classname" "mp_sab_spawn_axis"
+"angles" "0 180 0"
+"origin" "303.5 2831.5 -64"
+}
+{
+"origin" "300 2836 -64"
+"angles" "0 180 0"
+"classname" "mp_dm_spawn"
+}
+{
+"origin" "303.5 2833.5 -64"
+"angles" "0 180 0"
+"classname" "mp_tdm_spawn"
+}
+{
+"origin" "304 2836 -64"
+"angles" "0 180 0"
+"classname" "mp_dd_spawn_defender_b"
+}
+{
+"origin" "300 2836 -64"
+"angles" "0 180 0"
+"classname" "mp_dd_spawn_defender"
+}
+{
+"origin" "301 2835.5 -64"
+"angles" "0 180 0"
+"classname" "mp_ctf_spawn_axis"
+}
+{
+"origin" "301 2833 -64"
+"angles" "0 180 0"
+"classname" "mp_ctf_spawn_allies"
+}
+{
+"origin" "304 2832 -64"
+"angles" "0 180 0"
+"classname" "mp_dd_spawn_attacker_b"
+}
+{
+"origin" "300 2832 -64"
+"angles" "0 180 0"
+"classname" "mp_dd_spawn_defender_a"
+}
+{
+"origin" "304 2832 -64"
+"angles" "0 180 0"
+"classname" "mp_dd_spawn_attacker"
+}
+{
+"origin" "300 2828 -64"
+"angles" "0 180 0"
+"classname" "mp_dd_spawn_attacker_a"
+}
+{
+"classname" "mp_dom_spawn"
+"angles" "0 180 0"
+"origin" "300.5 2836 -64"
+}
+{
+"classname" "mp_escort_spawn"
+"angles" "0 180 0"
+"origin" "304 2832 -64"
+}
+{
+"origin" "497.5 3269 -56"
+"angles" "0 270 0"
+"classname" "mp_sab_spawn_allies"
+}
+{
+"classname" "mp_sab_spawn_axis"
+"angles" "0 270 0"
+"origin" "496.5 3271.5 -56"
+}
+{
+"origin" "492 3268 -56"
+"angles" "0 270 0"
+"classname" "mp_dm_spawn"
+}
+{
+"origin" "494.5 3271.5 -56"
+"angles" "0 270 0"
+"classname" "mp_tdm_spawn"
+}
+{
+"origin" "492 3272 -56"
+"angles" "0 270 0"
+"classname" "mp_dd_spawn_defender_b"
+}
+{
+"origin" "492 3268 -56"
+"angles" "0 270 0"
+"classname" "mp_dd_spawn_defender"
+}
+{
+"origin" "492.5 3269 -56"
+"angles" "0 270 0"
+"classname" "mp_ctf_spawn_axis"
+}
+{
+"origin" "495 3269 -56"
+"angles" "0 270 0"
+"classname" "mp_ctf_spawn_allies"
+}
+{
+"origin" "496 3272 -56"
+"angles" "0 270 0"
+"classname" "mp_dd_spawn_attacker_b"
+}
+{
+"origin" "496 3268 -56"
+"angles" "0 270 0"
+"classname" "mp_dd_spawn_defender_a"
+}
+{
+"origin" "496 3272 -56"
+"angles" "0 270 0"
+"classname" "mp_dd_spawn_attacker"
+}
+{
+"origin" "500 3268 -56"
+"angles" "0 270 0"
+"classname" "mp_dd_spawn_attacker_a"
+}
+{
+"classname" "mp_dom_spawn"
+"angles" "0 270 0"
+"origin" "492 3268.5 -56"
+}
+{
+"classname" "mp_escort_spawn"
+"angles" "0 270 0"
+"origin" "496 3272 -56"
+}
+{
+"origin" "897.5 2589 -88"
+"angles" "0 270 0"
+"classname" "mp_sab_spawn_allies"
+}
+{
+"classname" "mp_sab_spawn_axis"
+"angles" "0 270 0"
+"origin" "896.5 2591.5 -88"
+}
+{
+"origin" "892 2588 -88"
+"angles" "0 270 0"
+"classname" "mp_dm_spawn"
+}
+{
+"origin" "894.5 2591.5 -88"
+"angles" "0 270 0"
+"classname" "mp_tdm_spawn"
+}
+{
+"origin" "892 2592 -88"
+"angles" "0 270 0"
+"classname" "mp_dd_spawn_defender_b"
+}
+{
+"origin" "892 2588 -88"
+"angles" "0 270 0"
+"classname" "mp_dd_spawn_defender"
+}
+{
+"origin" "892.5 2589 -88"
+"angles" "0 270 0"
+"classname" "mp_ctf_spawn_axis"
+}
+{
+"origin" "895 2589 -88"
+"angles" "0 270 0"
+"classname" "mp_ctf_spawn_allies"
+}
+{
+"origin" "896 2592 -88"
+"angles" "0 270 0"
+"classname" "mp_dd_spawn_attacker_b"
+}
+{
+"origin" "896 2588 -88"
+"angles" "0 270 0"
+"classname" "mp_dd_spawn_defender_a"
+}
+{
+"origin" "896 2592 -88"
+"angles" "0 270 0"
+"classname" "mp_dd_spawn_attacker"
+}
+{
+"origin" "900 2588 -88"
+"angles" "0 270 0"
+"classname" "mp_dd_spawn_attacker_a"
+}
+{
+"classname" "mp_dom_spawn"
+"angles" "0 270 0"
+"origin" "892 2588.5 -88"
+}
+{
+"classname" "mp_escort_spawn"
+"angles" "0 270 0"
+"origin" "896 2592 -88"
+}
+{
+"origin" "-1449.5 -1245 -8"
+"angles" "0 90 0"
+"classname" "mp_sab_spawn_allies"
+}
+{
+"classname" "mp_sab_spawn_axis"
+"angles" "0 90 0"
+"origin" "-1448.5 -1247.5 -8"
+}
+{
+"origin" "-1444 -1244 -8"
+"angles" "0 90 0"
+"classname" "mp_dm_spawn"
+}
+{
+"origin" "-1446.5 -1247.5 -8"
+"angles" "0 90 0"
+"classname" "mp_tdm_spawn"
+}
+{
+"origin" "-1444 -1248 -8"
+"angles" "0 90 0"
+"classname" "mp_dd_spawn_defender_b"
+}
+{
+"origin" "-1444 -1244 -8"
+"angles" "0 90 0"
+"classname" "mp_dd_spawn_defender"
+}
+{
+"origin" "-1444.5 -1245 -8"
+"angles" "0 90 0"
+"classname" "mp_ctf_spawn_axis"
+}
+{
+"origin" "-1447 -1245 -8"
+"angles" "0 90 0"
+"classname" "mp_ctf_spawn_allies"
+}
+{
+"origin" "-1448 -1248 -8"
+"angles" "0 90 0"
+"classname" "mp_dd_spawn_attacker_b"
+}
+{
+"origin" "-1448 -1244 -8"
+"angles" "0 90 0"
+"classname" "mp_dd_spawn_defender_a"
+}
+{
+"origin" "-1448 -1248 -8"
+"angles" "0 90 0"
+"classname" "mp_dd_spawn_attacker"
+}
+{
+"origin" "-1452 -1244 -8"
+"angles" "0 90 0"
+"classname" "mp_dd_spawn_attacker_a"
+}
+{
+"classname" "mp_dom_spawn"
+"angles" "0 90 0"
+"origin" "-1444 -1244.5 -8"
+}
+{
+"classname" "mp_escort_spawn"
+"angles" "0 90 0"
+"origin" "-1448 -1248 -8"
+}
+{
+"origin" "179 1961.5 -88"
+"angles" "0 3.75661e-005 0"
+"classname" "mp_sab_spawn_allies"
+}
+{
+"classname" "mp_sab_spawn_axis"
+"angles" "0 3.75661e-005 0"
+"origin" "176.5 1960.5 -88"
+}
+{
+"origin" "180 1956 -88"
+"angles" "0 3.75661e-005 0"
+"classname" "mp_dm_spawn"
+}
+{
+"origin" "176.5 1958.5 -88"
+"angles" "0 3.75661e-005 0"
+"classname" "mp_tdm_spawn"
+}
+{
+"origin" "176 1956 -88"
+"angles" "0 3.75661e-005 0"
+"classname" "mp_dd_spawn_defender_b"
+}
+{
+"origin" "180 1956 -88"
+"angles" "0 3.75661e-005 0"
+"classname" "mp_dd_spawn_defender"
+}
+{
+"origin" "179 1956.5 -88"
+"angles" "0 3.75661e-005 0"
+"classname" "mp_ctf_spawn_axis"
+}
+{
+"origin" "179 1959 -88"
+"angles" "0 3.75661e-005 0"
+"classname" "mp_ctf_spawn_allies"
+}
+{
+"origin" "176 1960 -88"
+"angles" "0 3.75661e-005 0"
+"classname" "mp_dd_spawn_attacker_b"
+}
+{
+"origin" "180 1960 -88"
+"angles" "0 3.75661e-005 0"
+"classname" "mp_dd_spawn_defender_a"
+}
+{
+"origin" "176 1960 -88"
+"angles" "0 3.75661e-005 0"
+"classname" "mp_dd_spawn_attacker"
+}
+{
+"origin" "180 1964 -88"
+"angles" "0 3.75661e-005 0"
+"classname" "mp_dd_spawn_attacker_a"
+}
+{
+"classname" "mp_dom_spawn"
+"angles" "0 3.75661e-005 0"
+"origin" "179.5 1956 -88"
+}
+{
+"classname" "mp_escort_spawn"
+"angles" "0 3.75661e-005 0"
+"origin" "176 1960 -88"
+}
+{
+"origin" "763 1201.5 -80"
+"angles" "0 3.75661e-005 0"
+"classname" "mp_sab_spawn_allies"
+}
+{
+"classname" "mp_sab_spawn_axis"
+"angles" "0 3.75661e-005 0"
+"origin" "760.5 1200.5 -80"
+}
+{
+"origin" "764 1196 -80"
+"angles" "0 3.75661e-005 0"
+"classname" "mp_dm_spawn"
+}
+{
+"origin" "760.5 1198.5 -80"
+"angles" "0 3.75661e-005 0"
+"classname" "mp_tdm_spawn"
+}
+{
+"origin" "760 1196 -80"
+"angles" "0 3.75661e-005 0"
+"classname" "mp_dd_spawn_defender_b"
+}
+{
+"origin" "764 1196 -80"
+"angles" "0 3.75661e-005 0"
+"classname" "mp_dd_spawn_defender"
+}
+{
+"origin" "763 1196.5 -80"
+"angles" "0 3.75661e-005 0"
+"classname" "mp_ctf_spawn_axis"
+}
+{
+"origin" "763 1199 -80"
+"angles" "0 3.75661e-005 0"
+"classname" "mp_ctf_spawn_allies"
+}
+{
+"origin" "760 1200 -80"
+"angles" "0 3.75661e-005 0"
+"classname" "mp_dd_spawn_attacker_b"
+}
+{
+"origin" "764 1200 -80"
+"angles" "0 3.75661e-005 0"
+"classname" "mp_dd_spawn_defender_a"
+}
+{
+"origin" "760 1200 -80"
+"angles" "0 3.75661e-005 0"
+"classname" "mp_dd_spawn_attacker"
+}
+{
+"origin" "764 1204 -80"
+"angles" "0 3.75661e-005 0"
+"classname" "mp_dd_spawn_attacker_a"
+}
+{
+"classname" "mp_dom_spawn"
+"angles" "0 3.75661e-005 0"
+"origin" "763.5 1196 -80"
+}
+{
+"classname" "mp_escort_spawn"
+"angles" "0 3.75661e-005 0"
+"origin" "760 1200 -80"
+}
+{
+"classname" "script_origin"
+"targetname" "LSD_Loop_start_4"
+"origin" "-2818.5 587 7192"
+"target" "LSD_Loop_start_5"
+}
+{
+"origin" "-1059 -1209.5 24"
+"angles" "0 180 0"
+"classname" "mp_sab_spawn_allies"
+}
+{
+"classname" "mp_sab_spawn_axis"
+"angles" "0 180 0"
+"origin" "-1056.5 -1208.5 24"
+}
+{
+"origin" "-1060 -1204 24"
+"angles" "0 180 0"
+"classname" "mp_dm_spawn"
+}
+{
+"origin" "-1056.5 -1206.5 24"
+"angles" "0 180 0"
+"classname" "mp_tdm_spawn"
+}
+{
+"origin" "-1056 -1204 24"
+"angles" "0 180 0"
+"classname" "mp_dd_spawn_defender_b"
+}
+{
+"origin" "-1060 -1204 24"
+"angles" "0 180 0"
+"classname" "mp_dd_spawn_defender"
+}
+{
+"origin" "-1059 -1204.5 24"
+"angles" "0 180 0"
+"classname" "mp_ctf_spawn_axis"
+}
+{
+"origin" "-1059 -1207 24"
+"angles" "0 180 0"
+"classname" "mp_ctf_spawn_allies"
+}
+{
+"origin" "-1056 -1208 24"
+"angles" "0 180 0"
+"classname" "mp_dd_spawn_attacker_b"
+}
+{
+"origin" "-1060 -1208 24"
+"angles" "0 180 0"
+"classname" "mp_dd_spawn_defender_a"
+}
+{
+"origin" "-1056 -1208 24"
+"angles" "0 180 0"
+"classname" "mp_dd_spawn_attacker"
+}
+{
+"origin" "-1060 -1212 24"
+"angles" "0 180 0"
+"classname" "mp_dd_spawn_attacker_a"
+}
+{
+"classname" "mp_dom_spawn"
+"angles" "0 180 0"
+"origin" "-1059.5 -1204 24"
+}
+{
+"classname" "mp_escort_spawn"
+"angles" "0 180 0"
+"origin" "-1056 -1208 24"
+}
+{
+"classname" "script_origin"
+"targetname" "LSD_Loop_start_5"
+"origin" "-2102.5 -1440 7192"
+"target" "LSD_Loop_start_6"
+}
+{
+"origin" "1406.5 -477 -184"
+"angles" "0 90 0"
+"classname" "mp_sab_spawn_allies"
+}
+{
+"classname" "mp_sab_spawn_axis"
+"angles" "0 90 0"
+"origin" "1407.5 -479.5 -184"
+}
+{
+"origin" "1412 -476 -184"
+"angles" "0 90 0"
+"classname" "mp_dm_spawn"
+}
+{
+"origin" "1409.5 -479.5 -184"
+"angles" "0 90 0"
+"classname" "mp_tdm_spawn"
+}
+{
+"origin" "1412 -480 -184"
+"angles" "0 90 0"
+"classname" "mp_dd_spawn_defender_b"
+}
+{
+"origin" "1412 -476 -184"
+"angles" "0 90 0"
+"classname" "mp_dd_spawn_defender"
+}
+{
+"origin" "1411.5 -477 -184"
+"angles" "0 90 0"
+"classname" "mp_ctf_spawn_axis"
+}
+{
+"origin" "1409 -477 -184"
+"angles" "0 90 0"
+"classname" "mp_ctf_spawn_allies"
+}
+{
+"origin" "1408 -480 -184"
+"angles" "0 90 0"
+"classname" "mp_dd_spawn_attacker_b"
+}
+{
+"origin" "1408 -476 -184"
+"angles" "0 90 0"
+"classname" "mp_dd_spawn_defender_a"
+}
+{
+"origin" "1408 -480 -184"
+"angles" "0 90 0"
+"classname" "mp_dd_spawn_attacker"
+}
+{
+"origin" "1404 -476 -184"
+"angles" "0 90 0"
+"classname" "mp_dd_spawn_attacker_a"
+}
+{
+"classname" "mp_dom_spawn"
+"angles" "0 90 0"
+"origin" "1412 -476.5 -184"
+}
+{
+"classname" "mp_escort_spawn"
+"angles" "0 90 0"
+"origin" "1408 -480 -184"
+}
+{
+"origin" "872.5 -1696 -96"
+"angles" "0 90 0"
+"classname" "mp_sab_spawn_allies"
+}
+{
+"classname" "mp_sab_spawn_axis"
+"angles" "0 90 0"
+"origin" "873.5 -1698.5 -96"
+}
+{
+"origin" "878 -1695 -96"
+"angles" "0 90 0"
+"classname" "mp_dm_spawn"
+}
+{
+"origin" "875.5 -1698.5 -96"
+"angles" "0 90 0"
+"classname" "mp_tdm_spawn"
+}
+{
+"origin" "878 -1699 -96"
+"angles" "0 90 0"
+"classname" "mp_dd_spawn_defender_b"
+}
+{
+"origin" "878 -1695 -96"
+"angles" "0 90 0"
+"classname" "mp_dd_spawn_defender"
+}
+{
+"origin" "877.5 -1696 -96"
+"angles" "0 90 0"
+"classname" "mp_ctf_spawn_axis"
+}
+{
+"origin" "875 -1696 -96"
+"angles" "0 90 0"
+"classname" "mp_ctf_spawn_allies"
+}
+{
+"origin" "874 -1699 -96"
+"angles" "0 90 0"
+"classname" "mp_dd_spawn_attacker_b"
+}
+{
+"origin" "874 -1695 -96"
+"angles" "0 90 0"
+"classname" "mp_dd_spawn_defender_a"
+}
+{
+"origin" "874 -1699 -96"
+"angles" "0 90 0"
+"classname" "mp_dd_spawn_attacker"
+}
+{
+"origin" "870 -1695 -96"
+"angles" "0 90 0"
+"classname" "mp_dd_spawn_attacker_a"
+}
+{
+"classname" "mp_dom_spawn"
+"angles" "0 90 0"
+"origin" "878 -1695.5 -96"
+}
+{
+"classname" "mp_escort_spawn"
+"angles" "0 90 0"
+"origin" "874 -1699 -96"
+}
+{
+"classname" "script_origin"
+"targetname" "LSD_Loop_start_6"
+"origin" "-707.5 -1738.5 7192"
+"target" "LSD_Loop_start_7"
+}
+{
+"origin" "1117 -865.5 -96"
+"angles" "0 180 0"
+"classname" "mp_sab_spawn_allies"
+}
+{
+"classname" "mp_sab_spawn_axis"
+"angles" "0 180 0"
+"origin" "1119.5 -864.5 -96"
+}
+{
+"origin" "1116 -860 -96"
+"angles" "0 180 0"
+"classname" "mp_dm_spawn"
+}
+{
+"origin" "1119.5 -862.5 -96"
+"angles" "0 180 0"
+"classname" "mp_tdm_spawn"
+}
+{
+"origin" "1120 -860 -96"
+"angles" "0 180 0"
+"classname" "mp_dd_spawn_defender_b"
+}
+{
+"origin" "1116 -860 -96"
+"angles" "0 180 0"
+"classname" "mp_dd_spawn_defender"
+}
+{
+"origin" "1117 -860.5 -96"
+"angles" "0 180 0"
+"classname" "mp_ctf_spawn_axis"
+}
+{
+"origin" "1117 -863 -96"
+"angles" "0 180 0"
+"classname" "mp_ctf_spawn_allies"
+}
+{
+"origin" "1120 -864 -96"
+"angles" "0 180 0"
+"classname" "mp_dd_spawn_attacker_b"
+}
+{
+"origin" "1116 -864 -96"
+"angles" "0 180 0"
+"classname" "mp_dd_spawn_defender_a"
+}
+{
+"origin" "1120 -864 -96"
+"angles" "0 180 0"
+"classname" "mp_dd_spawn_attacker"
+}
+{
+"origin" "1116 -868 -96"
+"angles" "0 180 0"
+"classname" "mp_dd_spawn_attacker_a"
+}
+{
+"classname" "mp_dom_spawn"
+"angles" "0 180 0"
+"origin" "1116.5 -860 -96"
+}
+{
+"classname" "mp_escort_spawn"
+"angles" "0 180 0"
+"origin" "1120 -864 -96"
+}
+{
+"classname" "script_origin"
+"targetname" "LSD_Loop_start_7"
+"origin" "1278 -1161 7192"
+"target" "LSD_Loop_start_8"
+}
+{
+"origin" "-89.5 -2517 -24"
+"angles" "0 90 0"
+"classname" "mp_sab_spawn_allies"
+}
+{
+"classname" "mp_sab_spawn_axis"
+"angles" "0 90 0"
+"origin" "-88.5 -2519.5 -24"
+}
+{
+"origin" "-84 -2516 -24"
+"angles" "0 90 0"
+"classname" "mp_dm_spawn"
+}
+{
+"origin" "-86.5 -2519.5 -24"
+"angles" "0 90 0"
+"classname" "mp_tdm_spawn"
+}
+{
+"origin" "-84 -2520 -24"
+"angles" "0 90 0"
+"classname" "mp_dd_spawn_defender_b"
+}
+{
+"origin" "-84 -2516 -24"
+"angles" "0 90 0"
+"classname" "mp_dd_spawn_defender"
+}
+{
+"origin" "-84.5 -2517 -24"
+"angles" "0 90 0"
+"classname" "mp_ctf_spawn_axis"
+}
+{
+"origin" "-87 -2517 -24"
+"angles" "0 90 0"
+"classname" "mp_ctf_spawn_allies"
+}
+{
+"origin" "-88 -2520 -24"
+"angles" "0 90 0"
+"classname" "mp_dd_spawn_attacker_b"
+}
+{
+"origin" "-88 -2516 -24"
+"angles" "0 90 0"
+"classname" "mp_dd_spawn_defender_a"
+}
+{
+"origin" "-88 -2520 -24"
+"angles" "0 90 0"
+"classname" "mp_dd_spawn_attacker"
+}
+{
+"origin" "-92 -2516 -24"
+"angles" "0 90 0"
+"classname" "mp_dd_spawn_attacker_a"
+}
+{
+"classname" "mp_dom_spawn"
+"angles" "0 90 0"
+"origin" "-84 -2516.5 -24"
+}
+{
+"classname" "mp_escort_spawn"
+"angles" "0 90 0"
+"origin" "-88 -2520 -24"
+}
+{
+"origin" "6.5 -2333 -104"
+"angles" "0 90 0"
+"classname" "mp_sab_spawn_allies"
+}
+{
+"classname" "mp_sab_spawn_axis"
+"angles" "0 90 0"
+"origin" "7.5 -2335.5 -104"
+}
+{
+"origin" "12 -2332 -104"
+"angles" "0 90 0"
+"classname" "mp_dm_spawn"
+}
+{
+"origin" "9.5 -2335.5 -104"
+"angles" "0 90 0"
+"classname" "mp_tdm_spawn"
+}
+{
+"origin" "12 -2336 -104"
+"angles" "0 90 0"
+"classname" "mp_dd_spawn_defender_b"
+}
+{
+"origin" "12 -2332 -104"
+"angles" "0 90 0"
+"classname" "mp_dd_spawn_defender"
+}
+{
+"origin" "11.5 -2333 -104"
+"angles" "0 90 0"
+"classname" "mp_ctf_spawn_axis"
+}
+{
+"origin" "9 -2333 -104"
+"angles" "0 90 0"
+"classname" "mp_ctf_spawn_allies"
+}
+{
+"origin" "8 -2336 -104"
+"angles" "0 90 0"
+"classname" "mp_dd_spawn_attacker_b"
+}
+{
+"origin" "8 -2332 -104"
+"angles" "0 90 0"
+"classname" "mp_dd_spawn_defender_a"
+}
+{
+"origin" "8 -2336 -104"
+"angles" "0 90 0"
+"classname" "mp_dd_spawn_attacker"
+}
+{
+"origin" "4 -2332 -104"
+"angles" "0 90 0"
+"classname" "mp_dd_spawn_attacker_a"
+}
+{
+"classname" "mp_dom_spawn"
+"angles" "0 90 0"
+"origin" "12 -2332.5 -104"
+}
+{
+"classname" "mp_escort_spawn"
+"angles" "0 90 0"
+"origin" "8 -2336 -104"
+}
+{
+"origin" "-622.5 -1251 -96"
+"angles" "0 270 0"
+"classname" "mp_sab_spawn_allies"
+}
+{
+"classname" "mp_sab_spawn_axis"
+"angles" "0 270 0"
+"origin" "-623.5 -1248.5 -96"
+}
+{
+"origin" "-628 -1252 -96"
+"angles" "0 270 0"
+"classname" "mp_dm_spawn"
+}
+{
+"origin" "-625.5 -1248.5 -96"
+"angles" "0 270 0"
+"classname" "mp_tdm_spawn"
+}
+{
+"origin" "-628 -1248 -96"
+"angles" "0 270 0"
+"classname" "mp_dd_spawn_defender_b"
+}
+{
+"origin" "-628 -1252 -96"
+"angles" "0 270 0"
+"classname" "mp_dd_spawn_defender"
+}
+{
+"origin" "-627.5 -1251 -96"
+"angles" "0 270 0"
+"classname" "mp_ctf_spawn_axis"
+}
+{
+"origin" "-625 -1251 -96"
+"angles" "0 270 0"
+"classname" "mp_ctf_spawn_allies"
+}
+{
+"origin" "-624 -1248 -96"
+"angles" "0 270 0"
+"classname" "mp_dd_spawn_attacker_b"
+}
+{
+"origin" "-624 -1252 -96"
+"angles" "0 270 0"
+"classname" "mp_dd_spawn_defender_a"
+}
+{
+"origin" "-624 -1248 -96"
+"angles" "0 270 0"
+"classname" "mp_dd_spawn_attacker"
+}
+{
+"origin" "-620 -1252 -96"
+"angles" "0 270 0"
+"classname" "mp_dd_spawn_attacker_a"
+}
+{
+"classname" "mp_dom_spawn"
+"angles" "0 270 0"
+"origin" "-628 -1251.5 -96"
+}
+{
+"classname" "mp_escort_spawn"
+"angles" "0 270 0"
+"origin" "-624 -1248 -96"
+}
+{
+"classname" "script_origin"
+"targetname" "LSD_Loop_start_8"
+"origin" "1976 626.5 7192"
+}
+{
+"origin" "-1857.5 -2173 24"
+"angles" "0 90 0"
+"classname" "mp_sab_spawn_allies"
+}
+{
+"classname" "mp_sab_spawn_axis"
+"angles" "0 90 0"
+"origin" "-1856.5 -2175.5 24"
+}
+{
+"origin" "-1852 -2172 24"
+"angles" "0 90 0"
+"classname" "mp_dm_spawn"
+}
+{
+"origin" "-1854.5 -2175.5 24"
+"angles" "0 90 0"
+"classname" "mp_tdm_spawn"
+}
+{
+"origin" "-1852 -2176 24"
+"angles" "0 90 0"
+"classname" "mp_dd_spawn_defender_b"
+}
+{
+"origin" "-1852 -2172 24"
+"angles" "0 90 0"
+"classname" "mp_dd_spawn_defender"
+}
+{
+"origin" "-1852.5 -2173 24"
+"angles" "0 90 0"
+"classname" "mp_ctf_spawn_axis"
+}
+{
+"origin" "-1855 -2173 24"
+"angles" "0 90 0"
+"classname" "mp_ctf_spawn_allies"
+}
+{
+"origin" "-1856 -2176 24"
+"angles" "0 90 0"
+"classname" "mp_dd_spawn_attacker_b"
+}
+{
+"origin" "-1856 -2172 24"
+"angles" "0 90 0"
+"classname" "mp_dd_spawn_defender_a"
+}
+{
+"origin" "-1856 -2176 24"
+"angles" "0 90 0"
+"classname" "mp_dd_spawn_attacker"
+}
+{
+"origin" "-1860 -2172 24"
+"angles" "0 90 0"
+"classname" "mp_dd_spawn_attacker_a"
+}
+{
+"classname" "mp_dom_spawn"
+"angles" "0 90 0"
+"origin" "-1852 -2172.5 24"
+}
+{
+"classname" "mp_escort_spawn"
+"angles" "0 90 0"
+"origin" "-1856 -2176 24"
+}
+{
+"classname" "script_origin"
+"targetname" "LSD_leave_1"
+"origin" "-1327 77.5 7192"
+"target" "LSD_leave_2"
+}
+{
+"origin" "574.5 -253 -104"
+"angles" "0 90 0"
+"classname" "mp_sab_spawn_allies"
+}
+{
+"classname" "mp_sab_spawn_axis"
+"angles" "0 90 0"
+"origin" "575.5 -255.5 -104"
+}
+{
+"origin" "580 -252 -104"
+"angles" "0 90 0"
+"classname" "mp_dm_spawn"
+}
+{
+"origin" "577.5 -255.5 -104"
+"angles" "0 90 0"
+"classname" "mp_tdm_spawn"
+}
+{
+"origin" "580 -256 -104"
+"angles" "0 90 0"
+"classname" "mp_dd_spawn_defender_b"
+}
+{
+"origin" "580 -252 -104"
+"angles" "0 90 0"
+"classname" "mp_dd_spawn_defender"
+}
+{
+"origin" "579.5 -253 -104"
+"angles" "0 90 0"
+"classname" "mp_ctf_spawn_axis"
+}
+{
+"origin" "577 -253 -104"
+"angles" "0 90 0"
+"classname" "mp_ctf_spawn_allies"
+}
+{
+"origin" "576 -256 -104"
+"angles" "0 90 0"
+"classname" "mp_dd_spawn_attacker_b"
+}
+{
+"origin" "576 -252 -104"
+"angles" "0 90 0"
+"classname" "mp_dd_spawn_defender_a"
+}
+{
+"origin" "576 -256 -104"
+"angles" "0 90 0"
+"classname" "mp_dd_spawn_attacker"
+}
+{
+"origin" "572 -252 -104"
+"angles" "0 90 0"
+"classname" "mp_dd_spawn_attacker_a"
+}
+{
+"classname" "mp_dom_spawn"
+"angles" "0 90 0"
+"origin" "580 -252.5 -104"
+}
+{
+"classname" "mp_escort_spawn"
+"angles" "0 90 0"
+"origin" "576 -256 -104"
+}
+{
+"origin" "-955 2174.5 -96"
+"angles" "0 180 0"
+"classname" "mp_sab_spawn_allies"
+}
+{
+"classname" "mp_sab_spawn_axis"
+"angles" "0 180 0"
+"origin" "-952.5 2175.5 -96"
+}
+{
+"origin" "-956 2180 -96"
+"angles" "0 180 0"
+"classname" "mp_dm_spawn"
+}
+{
+"origin" "-952.5 2177.5 -96"
+"angles" "0 180 0"
+"classname" "mp_tdm_spawn"
+}
+{
+"origin" "-952 2180 -96"
+"angles" "0 180 0"
+"classname" "mp_dd_spawn_defender_b"
+}
+{
+"origin" "-956 2180 -96"
+"angles" "0 180 0"
+"classname" "mp_dd_spawn_defender"
+}
+{
+"origin" "-955 2179.5 -96"
+"angles" "0 180 0"
+"classname" "mp_ctf_spawn_axis"
+}
+{
+"origin" "-955 2177 -96"
+"angles" "0 180 0"
+"classname" "mp_ctf_spawn_allies"
+}
+{
+"origin" "-952 2176 -96"
+"angles" "0 180 0"
+"classname" "mp_dd_spawn_attacker_b"
+}
+{
+"origin" "-956 2176 -96"
+"angles" "0 180 0"
+"classname" "mp_dd_spawn_defender_a"
+}
+{
+"origin" "-952 2176 -96"
+"angles" "0 180 0"
+"classname" "mp_dd_spawn_attacker"
+}
+{
+"origin" "-956 2172 -96"
+"angles" "0 180 0"
+"classname" "mp_dd_spawn_attacker_a"
+}
+{
+"classname" "mp_dom_spawn"
+"angles" "0 180 0"
+"origin" "-955.5 2180 -96"
+}
+{
+"classname" "mp_escort_spawn"
+"angles" "0 180 0"
+"origin" "-952 2176 -96"
+}
+{
+"origin" "-693 2161.5 -96"
+"angles" "0 3.75661e-005 0"
+"classname" "mp_sab_spawn_allies"
+}
+{
+"classname" "mp_sab_spawn_axis"
+"angles" "0 3.75661e-005 0"
+"origin" "-695.5 2160.5 -96"
+}
+{
+"origin" "-692 2156 -96"
+"angles" "0 3.75661e-005 0"
+"classname" "mp_dm_spawn"
+}
+{
+"origin" "-695.5 2158.5 -96"
+"angles" "0 3.75661e-005 0"
+"classname" "mp_tdm_spawn"
+}
+{
+"origin" "-696 2156 -96"
+"angles" "0 3.75661e-005 0"
+"classname" "mp_dd_spawn_defender_b"
+}
+{
+"origin" "-692 2156 -96"
+"angles" "0 3.75661e-005 0"
+"classname" "mp_dd_spawn_defender"
+}
+{
+"origin" "-693 2156.5 -96"
+"angles" "0 3.75661e-005 0"
+"classname" "mp_ctf_spawn_axis"
+}
+{
+"origin" "-693 2159 -96"
+"angles" "0 3.75661e-005 0"
+"classname" "mp_ctf_spawn_allies"
+}
+{
+"origin" "-696 2160 -96"
+"angles" "0 3.75661e-005 0"
+"classname" "mp_dd_spawn_attacker_b"
+}
+{
+"origin" "-692 2160 -96"
+"angles" "0 3.75661e-005 0"
+"classname" "mp_dd_spawn_defender_a"
+}
+{
+"origin" "-696 2160 -96"
+"angles" "0 3.75661e-005 0"
+"classname" "mp_dd_spawn_attacker"
+}
+{
+"origin" "-692 2164 -96"
+"angles" "0 3.75661e-005 0"
+"classname" "mp_dd_spawn_attacker_a"
+}
+{
+"classname" "mp_dom_spawn"
+"angles" "0 3.75661e-005 0"
+"origin" "-692.5 2156 -96"
+}
+{
+"classname" "mp_escort_spawn"
+"angles" "0 3.75661e-005 0"
+"origin" "-696 2160 -96"
+}
+{
+"classname" "script_origin"
+"targetname" "heli_loop_start_4"
+"origin" "512 3400 2448"
+"angles" "0 180 0"
+"target" "heli_loop_start_5"
+}
+{
+"classname" "script_origin"
+"targetname" "heli_loop_start_5"
+"origin" "-384 3560 2448"
+"angles" "0 180 0"
+"target" "heli_loop_start_6"
+}
+{
+"classname" "script_origin"
+"targetname" "heli_loop_start_6"
+"origin" "-1328 3392 2448"
+"angles" "0 180 0"
+"target" "heli_loop_start_7"
+}
+{
+"classname" "script_origin"
+"targetname" "heli_loop_start_7"
+"origin" "-2120 2816 2448"
+"angles" "0 180 0"
+"target" "heli_loop_start_8"
+}
+{
+"classname" "script_origin"
+"targetname" "heli_loop_start_8"
+"origin" "-2416 1848 2448"
+"angles" "0 180 0"
+"target" "heli_loop_start_9"
+}
+{
+"classname" "script_origin"
+"targetname" "heli_loop_start_9"
+"origin" "-2496 800 2448"
+"angles" "0 180 0"
+"target" "heli_loop_start_10"
+}
+{
+"classname" "script_origin"
+"targetname" "heli_loop_start_10"
+"origin" "-2352 -216 2448"
+"angles" "0 180 0"
+"target" "heli_loop_start_11"
+}
+{
+"classname" "script_origin"
+"targetname" "heli_loop_start_11"
+"origin" "-1824 -1248 2448"
+"angles" "0 180 0"
+"target" "heli_loop_start_12"
+}
+{
+"target" "heli_loop_start_13"
+"angles" "0 180 0"
+"origin" "-264 -1656 2448"
+"targetname" "heli_loop_start_12"
+"classname" "script_origin"
+}
+{
+"classname" "script_origin"
+"targetname" "heli_loop_start_13"
+"origin" "1120 -976 2448"
+"angles" "0 180 0"
+}
+{
+"origin" "-1693.77 2461.49 -96"
+"angles" "0 285 0"
+"classname" "mp_sab_spawn_allies"
+}
+{
+"classname" "mp_sab_spawn_axis"
+"angles" "0 285 0"
+"origin" "-1695.39 2463.65 -96"
+}
+{
+"origin" "-1698.83 2459.1 -96"
+"angles" "0 285 0"
+"classname" "mp_dm_spawn"
+}
+{
+"origin" "-1697.32 2463.13 -96"
+"angles" "0 285 0"
+"classname" "mp_tdm_spawn"
+}
+{
+"origin" "-1699.86 2462.96 -96"
+"angles" "0 285 0"
+"classname" "mp_dd_spawn_defender_b"
+}
+{
+"origin" "-1698.83 2459.1 -96"
+"angles" "0 285 0"
+"classname" "mp_dd_spawn_defender"
+}
+{
+"origin" "-1698.6 2460.2 -96"
+"angles" "0 285 0"
+"classname" "mp_ctf_spawn_axis"
+}
+{
+"origin" "-1696.19 2460.84 -96"
+"angles" "0 285 0"
+"classname" "mp_ctf_spawn_allies"
+}
+{
+"origin" "-1696 2464 -96"
+"angles" "0 285 0"
+"classname" "mp_dd_spawn_attacker_b"
+}
+{
+"origin" "-1694.96 2460.14 -96"
+"angles" "0 285 0"
+"classname" "mp_dd_spawn_defender_a"
+}
+{
+"origin" "-1696 2464 -96"
+"angles" "0 285 0"
+"classname" "mp_dd_spawn_attacker"
+}
+{
+"origin" "-1691.1 2461.17 -96"
+"angles" "0 285 0"
+"classname" "mp_dd_spawn_attacker_a"
+}
+{
+"classname" "mp_dom_spawn"
+"angles" "0 285 0"
+"origin" "-1698.96 2459.58 -96"
+}
+{
+"classname" "mp_escort_spawn"
+"angles" "0 285 0"
+"origin" "-1696 2464 -96"
+}
+{
+"classname" "script_origin"
+"targetname" "LSD_leave"
+"origin" "1282 -1070 7192"
+"target" "LSD_leave_1"
+}
+{
+"classname" "script_origin"
+"targetname" "LSD_leave_2"
+"origin" "-2127.5 1755.5 7192"
+}
+{
+"classname" "script_origin"
+"targetname" "LSD_crash_start_1"
+"origin" "1486 -1587 7182.5"
+}
+{
+"classname" "script_origin"
+"targetname" "LSD_crash_start"
+"origin" "-2352 -1621 7182.5"
+"target" "LSD_crash_start_1"
+}
+{
+"classname" "script_origin"
+"targetname" "LSD_start_2"
+"origin" "1999 648 7192"
+}

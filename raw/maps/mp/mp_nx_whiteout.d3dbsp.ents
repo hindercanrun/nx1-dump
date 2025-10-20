@@ -1,0 +1,3601 @@
+{
+"origin" "0 0 0"
+"classname" "worldspawn"
+"suncolor" "0.972549 0.913726 0.756863 0.847059"
+"sundirection" "-36 22.5 0"
+"sunlight" "1"
+"_color" "0.807843 0.980392 0.992157"
+"ambient" ".4"
+"northyaw" "144"
+"radiosityscale" "1.8"
+"sunradiosity" "1.2"
+"skylight" ".95"
+"skycolor" "0.517647 0.686275 1"
+"maxbounces" "1"
+"contrastgain" "0"
+}
+{
+"origin" "-1692 244 -64"
+"angles" "0 90 0"
+"classname" "mp_dom_spawn"
+"script_linkto" "pf0_flag2"
+}
+{
+"angles" "0 179.8 0"
+"targetname" "light_glow_white_bulb_FX_origin"
+"origin" "2666.44 1912.51 336.5"
+"classname" "script_struct"
+}
+{
+"angles" "0 179.8 0"
+"targetname" "light_glow_white_bulb_FX_origin"
+"origin" "2509.56 1804.06 210.5"
+"classname" "script_struct"
+}
+{
+"gndLt" "5865740001"
+"ltOrigin" "2232.69 2127.74 249.706"
+"angles" "0 179.8 0"
+"classname" "script_model"
+"model" "me_electricbox4"
+"origin" "2232.67 2123.03 250.5"
+"targetname" "destructible_toy"
+"destructible_type" "toy_electricbox4"
+"csv_include" "destructible_electricalbox4"
+"sound_csv_include" "destruct_spark_box"
+}
+{
+"angles" "0 179.8 0"
+"targetname" "light_glow_white_bulb_FX_origin"
+"origin" "2496.2 1988.11 210.5"
+"classname" "script_struct"
+}
+{
+"ltOrigin" "2241.87 1749.99 213.415"
+"classname" "script_model"
+"model" "me_lightfluohang_on"
+"angles" "0 359.8 0"
+"origin" "2241.87 1749.99 205"
+"modelscale" "1.1"
+"csv_include" "destructible_light_fluorescent_single"
+"destructible_type" "toy_light_ceiling_fluorescent_single"
+"targetname" "destructible_toy"
+"precache_script" "common_scripts _destructible_types_anim_light_fluo_single"
+"sound_csv_include" "destruct_fluorescent_light"
+}
+{
+"angles" "0 179.8 -90"
+"targetname" "light_glow_white_bulb_FX_origin"
+"origin" "2600.66 1975.24 202"
+"classname" "script_struct"
+}
+{
+"ltOrigin" "2669.17 1692.79 329.206"
+"angles" "0 359.8 0"
+"classname" "script_model"
+"model" "me_electricbox4"
+"origin" "2669.19 1697.5 330"
+"targetname" "destructible_toy"
+"destructible_type" "toy_electricbox4"
+"csv_include" "destructible_electricalbox4"
+"sound_csv_include" "destruct_spark_box"
+}
+{
+"ltOrigin" "252.761 2512.34 160.768"
+"angles" "0 135 0"
+"destructible_type" "vehicle_uaz_winter"
+"targetname" "destructible_vehicle"
+"origin" "257.5 2506.9 95.1"
+"model" "vehicle_uaz_winter_destructible"
+"classname" "script_model"
+"csv_include" "destructible_uaz_winter"
+"sound_csv_include" "vehicle_car_exp"
+}
+{
+"gndLt" "0c0e100000"
+"ltOrigin" "1277.52 214.038 149"
+"angles" "0 210 0"
+"classname" "script_model"
+"model" "me_electricbox2"
+"targetname" "destructible_toy"
+"destructible_type" "toy_electricbox2"
+"csv_include" "destructible_electricalbox2"
+"sound_csv_include" "destruct_spark_box"
+"origin" "1279.29 210.936 149"
+}
+{
+"gndLt" "2631340000"
+"ltOrigin" "1256.79 203.198 143.206"
+"angles" "0 210 0"
+"classname" "script_model"
+"model" "me_electricbox4"
+"origin" "1259.37 199.436 144"
+"targetname" "destructible_toy"
+"destructible_type" "toy_electricbox4"
+"csv_include" "destructible_electricalbox4"
+"sound_csv_include" "destruct_spark_box"
+}
+{
+"angles" "0 120 0"
+"targetname" "light_glow_white_bulb_FX_origin"
+"origin" "1271.98 -335.413 219.5"
+"classname" "script_struct"
+}
+{
+"angles" "0 120 0"
+"targetname" "light_glow_white_bulb_FX_origin"
+"origin" "1115.91 -49.0889 219.5"
+"classname" "script_struct"
+}
+{
+"model" "?0"
+"origin" "5020 -156 768"
+"classname" "trigger_multiple"
+"targetname" "radiation"
+}
+{
+"model" "?1"
+"origin" "4912 -558 768"
+"classname" "trigger_multiple"
+"targetname" "radiation"
+}
+{
+"angles" "0 3.97179e-006 0"
+"targetname" "light_red_steady_FX_origin"
+"origin" "1419.5 3107.5 262"
+"classname" "script_struct"
+}
+{
+"angles" "0 3.97179e-006 0"
+"targetname" "light_red_steady_FX_origin"
+"origin" "1213.5 3107.5 262"
+"classname" "script_struct"
+}
+{
+"gndLt" "4854667301"
+"ltOrigin" "121.522 2212.12 108.425"
+"angles" "0 1.9859e-006 0"
+"origin" "122 2212 60"
+"classname" "script_model"
+"model" "furniture_gaspump01_damaged"
+"csv_include" "destructible_gaspump01"
+"destructible_type" "destructible_gaspump"
+"targetname" "destructible_toy"
+"sound_csv_include" "destruct_gaspump"
+}
+{
+"gndLt" "46525fa801"
+"ltOrigin" "121.522 2060.12 108.425"
+"angles" "0 1.9859e-006 0"
+"origin" "122 2060 60"
+"classname" "script_model"
+"model" "furniture_gaspump01_damaged"
+"csv_include" "destructible_gaspump01"
+"destructible_type" "destructible_gaspump"
+"targetname" "destructible_toy"
+"sound_csv_include" "destruct_gaspump"
+}
+{
+"ltOrigin" "-387.349 1726.12 119.89"
+"angles" "2.67889 276.014 0.747255"
+"classname" "script_model"
+"model" "vehicle_pickup_destructible_mp"
+"origin" "-383.4 1721.2 82"
+"targetname" "destructible_vehicle"
+"destructible_type" "vehicle_pickup"
+"csv_include" "destructible_vehicle_pickup_destructible_mp"
+}
+{
+"gndLt" "808080c201"
+"ltOrigin" "-51.5791 1899.44 138.127"
+"angles" "0.881971 128.16 0.35571"
+"classname" "script_model"
+"model" "vehicle_bm21_cover_destructible"
+"origin" "-55.8 1903.3 78.8"
+"targetname" "destructible_vehicle"
+"destructible_type" "vehicle_bm21_cover"
+"csv_include" "destructible_vehicle_bm21_cover"
+}
+{
+"gndLt" "8080809601"
+"ltOrigin" "265.71 3113.58 122.127"
+"angles" "0.881972 237.16 0.35571"
+"classname" "script_model"
+"model" "vehicle_bm21_cover_destructible"
+"origin" "262.2 3109.3 62.8"
+"targetname" "destructible_vehicle"
+"destructible_type" "vehicle_bm21_cover"
+"csv_include" "destructible_vehicle_bm21_cover"
+}
+{
+"angles" "0 35 -90"
+"targetname" "fluorescent_glow_FX_origin"
+"origin" "46.7701 79.8007 233"
+"classname" "script_struct"
+}
+{
+"angles" "0 125 -90"
+"targetname" "fluorescent_glow_FX_origin"
+"origin" "-241.2 -141.981 233"
+"classname" "script_struct"
+}
+{
+"angles" "0 35 -90"
+"targetname" "fluorescent_glow_FX_origin"
+"origin" "-75.2836 -5.66219 233"
+"classname" "script_struct"
+}
+{
+"ltOrigin" "1833.57 -620.481 165.17"
+"angles" "1.89484 28.972 -1.71434"
+"destructible_type" "vehicle_uaz_winter"
+"targetname" "destructible_vehicle"
+"origin" "1827.4 -625.2 100.5"
+"model" "vehicle_uaz_winter_destructible"
+"classname" "script_model"
+"csv_include" "destructible_uaz_winter"
+"sound_csv_include" "vehicle_car_exp"
+}
+{
+"angles" "22.7 270 4.21738e-006"
+"classname" "script_origin"
+"targetname" "pa_speaker"
+"origin" "214 -4068.61 719.045"
+}
+{
+"angles" "22.7 270 4.21738e-006"
+"classname" "script_origin"
+"targetname" "pa_speaker"
+"origin" "310 -4068.61 719.045"
+}
+{
+"angles" "22.7 1.9859e-006 -7.85532e-014"
+"classname" "script_origin"
+"targetname" "pa_speaker"
+"origin" "434.611 -3928 719.045"
+}
+{
+"angles" "22.7 1.9859e-006 -7.85532e-014"
+"classname" "script_origin"
+"targetname" "pa_speaker"
+"origin" "434.611 -3832 719.045"
+}
+{
+"angles" "22.7 90 -2.98722e-006"
+"classname" "script_origin"
+"targetname" "pa_speaker"
+"origin" "310 -3691.39 719.045"
+}
+{
+"angles" "22.7 90 -2.98722e-006"
+"classname" "script_origin"
+"targetname" "pa_speaker"
+"origin" "214 -3691.39 719.045"
+}
+{
+"angles" "22.7 180 5.68013e-006"
+"classname" "script_origin"
+"targetname" "pa_speaker"
+"origin" "89.3887 -3832 719.045"
+}
+{
+"angles" "22.7 180 5.68013e-006"
+"classname" "script_origin"
+"targetname" "pa_speaker"
+"origin" "89.3887 -3928 719.045"
+}
+{
+"model" "?2"
+"origin" "4802 800 -1222"
+"classname" "trigger_hurt"
+"dmg" "3000"
+}
+{
+"ltOrigin" "3016.88 1174.8 42.5482"
+"angles" "349.46 289.345 21.0584"
+"destructible_type" "vehicle_uaz_winter"
+"targetname" "destructible_vehicle"
+"origin" "3032.7 1178.7 -5.3"
+"model" "vehicle_uaz_winter_destructible"
+"classname" "script_model"
+"csv_include" "destructible_uaz_winter"
+"sound_csv_include" "vehicle_car_exp"
+}
+{
+"angles" "358.043 352.903 -1.6977"
+"classname" "script_struct"
+"targetname" "light_blue_steady_FX_origin"
+"origin" "2479.59 -967.65 120.909"
+}
+{
+"angles" "359.422 349.915 1.57532"
+"classname" "script_struct"
+"targetname" "light_blue_steady_FX_origin"
+"origin" "2546.62 -960.66 123.906"
+}
+{
+"angles" "357.903 209.344 -2.42585"
+"classname" "script_struct"
+"targetname" "light_blue_steady_FX_origin"
+"origin" "2659.22 -961.202 138.145"
+}
+{
+"angles" "359.006 2.03247 1.81549"
+"classname" "script_struct"
+"targetname" "light_blue_steady_FX_origin"
+"origin" "2755.24 -944.852 164.913"
+}
+{
+"angles" "357.705 162.532 0.173035"
+"classname" "script_struct"
+"targetname" "light_blue_steady_FX_origin"
+"origin" "2942.41 -902.497 237.149"
+}
+{
+"angles" "0.735474 159.06 0.505829"
+"classname" "script_struct"
+"targetname" "light_blue_steady_FX_origin"
+"origin" "3090.14 -846.862 241.258"
+}
+{
+"angles" "1.89484 114.972 -1.71434"
+"classname" "script_struct"
+"targetname" "light_blue_steady_FX_origin"
+"origin" "3112.21 -653.658 234.509"
+}
+{
+"angles" "0.590515 290.841 1.14456"
+"classname" "script_struct"
+"targetname" "light_blue_steady_FX_origin"
+"origin" "3172.08 -464.199 207.204"
+}
+{
+"angles" "357.602 86.6931 1.01624"
+"classname" "script_struct"
+"targetname" "light_blue_steady_FX_origin"
+"origin" "3299.81 -445.697 233.511"
+}
+{
+"angles" "0.805054 293.763 1.29105"
+"classname" "script_struct"
+"targetname" "light_blue_steady_FX_origin"
+"origin" "3515.82 -413.047 225.12"
+}
+{
+"angles" "2.32925 355.089 0.158081"
+"classname" "script_struct"
+"targetname" "light_blue_steady_FX_origin"
+"origin" "3649.33 -353.326 169.968"
+}
+{
+"angles" "2.39761 304.376 0.0556946"
+"classname" "script_struct"
+"targetname" "light_blue_steady_FX_origin"
+"origin" "3922.7 -220.933 34.6619"
+}
+{
+"angles" "358.821 42.4292 1.90201"
+"classname" "script_struct"
+"targetname" "light_blue_steady_FX_origin"
+"origin" "3788.6 -284.224 79.4139"
+}
+{
+"angles" "359.887 40.6055 1.52786"
+"classname" "script_struct"
+"targetname" "light_blue_steady_FX_origin"
+"origin" "4159.13 -76.9904 6.11488"
+}
+{
+"angles" "2.12692 270.692 -0.516516"
+"classname" "script_struct"
+"targetname" "light_blue_steady_FX_origin"
+"origin" "4144.04 103.133 6.01075"
+}
+{
+"angles" "358.196 190.393 -0.858763"
+"classname" "script_struct"
+"targetname" "light_blue_steady_FX_origin"
+"origin" "4123.39 256.19 5.88172"
+}
+{
+"angles" "358.85 4.06494 1.7662"
+"classname" "script_struct"
+"targetname" "light_blue_steady_FX_origin"
+"origin" "4090.38 537.587 10.5045"
+}
+{
+"angles" "1.74713 87.8686 0.97641"
+"classname" "script_struct"
+"targetname" "light_blue_steady_FX_origin"
+"origin" "4066.36 709.65 31.4187"
+}
+{
+"angles" "0.735626 317.043 1.00082"
+"classname" "script_struct"
+"targetname" "light_blue_steady_FX_origin"
+"origin" "4032.95 810.885 34.2964"
+}
+{
+"model" "?3"
+"origin" "5506 870 768"
+"classname" "trigger_multiple"
+"targetname" "radiation"
+}
+{
+"script_noteworthy" "platform_train_script"
+"classname" "script_origin"
+"radius" "34.2357"
+"targetname" "train_front"
+"origin" "-1077.5 -938.5 297"
+}
+{
+"script_noteworthy" "platform_train_script"
+"classname" "script_origin"
+"radius" "34.2357"
+"targetname" "train_back"
+"origin" "-2261.5 -938.5 297"
+}
+{
+"script_noteworthy" "platform_train_script"
+"classname" "script_origin"
+"radius" "34.2357"
+"targetname" "train_blackhawk_lookat_front"
+"origin" "-837.5 -1130.5 273"
+}
+{
+"script_noteworthy" "platform_train_script"
+"classname" "script_origin"
+"radius" "34.2357"
+"targetname" "train_blackhawk_lookat_back"
+"origin" "-2501.5 -682.5 273"
+}
+{
+"script_noteworthy" "platform_train_script"
+"origin" "-1573.5 -1010.5 321"
+"targetname" "anim_window_mid_right_top"
+"_color" "1 1 1"
+"radius" "30.8121"
+"classname" "script_origin"
+"angles" "0 270 0"
+"script_stance" "crouch"
+}
+{
+"script_noteworthy" "platform_train_script"
+"origin" "-1781.5 -1010.5 177"
+"targetname" "anim_window_back_right"
+"_color" "1 1 1"
+"radius" "30.8121"
+"classname" "script_origin"
+"angles" "0 270 0"
+"script_stance" "crouch"
+}
+{
+"script_noteworthy" "platform_train_script"
+"origin" "-1573.5 -1010.5 177"
+"targetname" "anim_window_mid_right"
+"_color" "1 1 1"
+"radius" "30.8121"
+"classname" "script_origin"
+"angles" "0 270 0"
+"script_stance" "crouch"
+}
+{
+"script_noteworthy" "platform_train_script"
+"classname" "script_origin"
+"radius" "30.8121"
+"_color" "1 1 1"
+"targetname" "anim_window_front_right"
+"origin" "-1365.5 -1010.5 177"
+"angles" "0 270 0"
+"script_stance" "crouch"
+}
+{
+"script_noteworthy" "platform_train_script"
+"origin" "-1781.5 -866.5 177"
+"targetname" "anim_window_back_left"
+"_color" "1 1 1"
+"radius" "30.8121"
+"classname" "script_origin"
+"angles" "0 90 0"
+"script_stance" "crouch"
+}
+{
+"script_noteworthy" "platform_train_script"
+"origin" "-1573.5 -866.5 177"
+"targetname" "anim_window_mid_left"
+"_color" "1 1 1"
+"radius" "30.8121"
+"classname" "script_origin"
+"angles" "0 90 0"
+"script_stance" "crouch"
+}
+{
+"model" "*1"
+"script_noteworthy" "platform_train_geo"
+"origin" "-1110 -939 333"
+"classname" "script_brushmodel"
+}
+{
+"model" "*2"
+"script_noteworthy" "platform_train_geo"
+"origin" "-2137 -938 449"
+"classname" "script_brushmodel"
+}
+{
+"ltOrigin" "-1224.79 -830.5 340.07"
+"script_noteworthy" "platform_train_geo"
+"classname" "script_model"
+"model" "ch_dinerboothchair_4"
+"angles" "0 270 0"
+"origin" "-1225.5 -830.5 318"
+}
+{
+"model" "*3"
+"script_noteworthy" "platform_train_geo"
+"origin" "-2213 -898 241"
+"classname" "script_brushmodel"
+}
+{
+"ltOrigin" "-1160.79 -830.5 340.07"
+"script_noteworthy" "platform_train_geo"
+"classname" "script_model"
+"model" "ch_dinerboothchair_4"
+"angles" "0 270 0"
+"origin" "-1161.5 -830.5 318"
+}
+{
+"ltOrigin" "-1711.5 -1050.43 385.505"
+"script_noteworthy" "platform_train_geo"
+"targetname" "destructible_toy"
+"sound_csv_include" "destruct_tv_exp"
+"destructible_type" "nx_destructible_display_screen_01_1"
+"csv_include" "nx_destructible_display_screen_01"
+"origin" "-1711.5 -1062.5 313"
+"model" "nx_display_screen_01_2"
+"classname" "script_model"
+"angles" "9.00012 90 -6.76699e-007"
+}
+{
+"ltOrigin" "-1490.19 -847.031 413"
+"script_noteworthy" "platform_train_geo"
+"classname" "script_model"
+"model" "nx_moonbase_monitor_on_04"
+"origin" "-1487.5 -844.5 413"
+"angles" "0 315 0"
+}
+{
+"ltOrigin" "-1575.5 -816.494 389.001"
+"angles" "0 180 0"
+"classname" "script_model"
+"model" "nx_prototype_harbor_glass_tops01"
+"origin" "-1575.5 -810.5 353"
+"script_noteworthy" "platform_train_geo"
+}
+{
+"ltOrigin" "-2060.79 -830.5 340.07"
+"script_noteworthy" "platform_train_geo"
+"origin" "-2061.5 -830.5 318"
+"angles" "0 270 0"
+"model" "ch_dinerboothchair_4"
+"classname" "script_model"
+}
+{
+"ltOrigin" "-1996.79 -830.5 340.07"
+"script_noteworthy" "platform_train_geo"
+"origin" "-1997.5 -830.5 318"
+"angles" "0 270 0"
+"model" "ch_dinerboothchair_4"
+"classname" "script_model"
+}
+{
+"ltOrigin" "-1284.19 -847.031 413"
+"script_noteworthy" "platform_train_geo"
+"classname" "script_model"
+"model" "nx_moonbase_monitor_on_04"
+"origin" "-1281.5 -844.5 413"
+"angles" "0 315 0"
+}
+{
+"model" "*4"
+"script_noteworthy" "platform_train_geo"
+"origin" "-1735 -815 337"
+"classname" "script_brushmodel"
+}
+{
+"ltOrigin" "-1932.79 -830.5 340.07"
+"script_noteworthy" "platform_train_geo"
+"origin" "-1933.5 -830.5 318"
+"angles" "0 270 0"
+"model" "ch_dinerboothchair_4"
+"classname" "script_model"
+}
+{
+"model" "*5"
+"script_noteworthy" "platform_train_geo"
+"origin" "-1705 -821 389"
+"classname" "script_brushmodel"
+}
+{
+"ltOrigin" "-1573.5 -856.5 190.477"
+"script_noteworthy" "platform_train_geo"
+"classname" "script_model"
+"model" "furniture_chair_airport"
+"origin" "-1573.5 -856.5 170"
+}
+{
+"model" "*6"
+"script_noteworthy" "platform_train_geo"
+"origin" "-2090 -822 389"
+"classname" "script_brushmodel"
+}
+{
+"model" "*7"
+"script_noteworthy" "platform_train_geo"
+"origin" "-1445 -815 337"
+"classname" "script_brushmodel"
+}
+{
+"ltOrigin" "-1100.99 -938.5 388.997"
+"model" "nx_prototype_harbor_glass_topfc01"
+"origin" "-1077.5 -938.5 353"
+"classname" "script_model"
+"script_noteworthy" "platform_train_geo"
+}
+{
+"ltOrigin" "-1781.5 -856.5 190.477"
+"script_noteworthy" "platform_train_geo"
+"classname" "script_model"
+"model" "furniture_chair_airport"
+"origin" "-1781.5 -856.5 170"
+}
+{
+"model" "*8"
+"script_noteworthy" "platform_train_geo"
+"origin" "-2140 -942 193"
+"classname" "script_brushmodel"
+}
+{
+"model" "*9"
+"script_noteworthy" "platform_train_geo"
+"origin" "-1677 -853 225"
+"classname" "script_brushmodel"
+}
+{
+"model" "*10"
+"script_noteworthy" "platform_train_geo"
+"origin" "-1783 -827 421"
+"classname" "script_brushmodel"
+}
+{
+"ltOrigin" "-1575.5 -1060.51 389.001"
+"origin" "-1575.5 -1066.5 353"
+"model" "nx_prototype_harbor_glass_tops01"
+"classname" "script_model"
+"script_noteworthy" "platform_train_geo"
+}
+{
+"ltOrigin" "-1373.5 -856.5 190.477"
+"script_noteworthy" "platform_train_geo"
+"classname" "script_model"
+"model" "furniture_chair_airport"
+"origin" "-1373.5 -856.5 170"
+}
+{
+"ltOrigin" "-1991.5 -1060.51 389.001"
+"origin" "-1991.5 -1066.5 353"
+"model" "nx_prototype_harbor_glass_tops01"
+"classname" "script_model"
+"script_noteworthy" "platform_train_geo"
+}
+{
+"ltOrigin" "-1925.5 -961.793 340.07"
+"script_noteworthy" "platform_train_geo"
+"classname" "script_model"
+"model" "ch_dinerboothchair_4"
+"angles" "0 1.9859e-006 0"
+"origin" "-1925.5 -962.5 318"
+}
+{
+"ltOrigin" "-1925.5 -1021.79 340.07"
+"script_noteworthy" "platform_train_geo"
+"origin" "-1925.5 -1022.5 318"
+"angles" "0 1.9859e-006 0"
+"model" "ch_dinerboothchair_4"
+"classname" "script_model"
+}
+{
+"model" "*11"
+"script_noteworthy" "platform_train_geo"
+"origin" "-1863 -815 333"
+"classname" "script_brushmodel"
+}
+{
+"ltOrigin" "-1857.5 -1050.43 385.505"
+"script_noteworthy" "platform_train_geo"
+"targetname" "destructible_toy"
+"sound_csv_include" "destruct_tv_exp"
+"destructible_type" "nx_destructible_display_screen_01_1"
+"csv_include" "nx_destructible_display_screen_01"
+"origin" "-1857.5 -1062.5 313"
+"model" "nx_display_screen_01_3"
+"classname" "script_model"
+"angles" "9.00012 90 -6.76699e-007"
+}
+{
+"model" "*12"
+"script_noteworthy" "platform_train_geo"
+"origin" "-1677 -1026 180"
+"classname" "script_brushmodel"
+}
+{
+"ltOrigin" "-1981.5 -856.5 190.477"
+"script_noteworthy" "platform_train_geo"
+"classname" "script_model"
+"model" "furniture_chair_airport"
+"origin" "-1981.5 -856.5 170"
+}
+{
+"ltOrigin" "-1709.5 -826.565 385.505"
+"script_noteworthy" "platform_train_geo"
+"angles" "9.0001 270 2.7781e-006"
+"classname" "script_model"
+"model" "nx_display_screen_01_6"
+"origin" "-1709.5 -814.5 313"
+"csv_include" "nx_destructible_display_screen_01"
+"destructible_type" "nx_destructible_display_screen_01_1"
+"sound_csv_include" "destruct_tv_exp"
+"targetname" "destructible_toy"
+}
+{
+"model" "*13"
+"script_noteworthy" "platform_train_geo"
+"origin" "-1293 -821 389"
+"classname" "script_brushmodel"
+}
+{
+"gndLt" "8080800001"
+"ltOrigin" "-2124.79 -830.5 340.07"
+"script_noteworthy" "platform_train_geo"
+"origin" "-2125.5 -830.5 318"
+"angles" "0 270 0"
+"model" "ch_dinerboothchair_4"
+"classname" "script_model"
+}
+{
+"model" "*14"
+"script_noteworthy" "platform_train_geo"
+"origin" "-1885 -837 374"
+"classname" "script_brushmodel"
+}
+{
+"ltOrigin" "-1781.5 -1024.5 190.477"
+"script_noteworthy" "platform_train_geo"
+"classname" "script_model"
+"model" "furniture_chair_airport"
+"origin" "-1781.5 -1024.5 170"
+"angles" "0 180 0"
+}
+{
+"model" "*15"
+"script_noteworthy" "platform_train_geo"
+"origin" "-1669 -998 404"
+"classname" "script_brushmodel"
+}
+{
+"ltOrigin" "-1573.5 -1024.5 190.477"
+"script_noteworthy" "platform_train_geo"
+"classname" "script_model"
+"model" "furniture_chair_airport"
+"origin" "-1573.5 -1024.5 170"
+"angles" "0 180 0"
+}
+{
+"ltOrigin" "-1904.19 -847.031 413"
+"script_noteworthy" "platform_train_geo"
+"classname" "script_model"
+"model" "nx_moonbase_monitor_on_04"
+"origin" "-1901.5 -844.5 413"
+"angles" "0 315 0"
+}
+{
+"ltOrigin" "-1373.5 -1024.5 190.477"
+"script_noteworthy" "platform_train_geo"
+"classname" "script_model"
+"model" "furniture_chair_airport"
+"origin" "-1373.5 -1024.5 170"
+"angles" "0 180 0"
+}
+{
+"ltOrigin" "-1490.19 -847.031 293"
+"script_noteworthy" "platform_train_geo"
+"classname" "script_model"
+"model" "nx_moonbase_monitor_on_04"
+"origin" "-1487.5 -844.5 293"
+"angles" "0 315 0"
+}
+{
+"ltOrigin" "-2188.79 -830.5 340.07"
+"script_noteworthy" "platform_train_geo"
+"origin" "-2189.5 -830.5 318"
+"angles" "0 270 0"
+"model" "ch_dinerboothchair_4"
+"classname" "script_model"
+}
+{
+"model" "*16"
+"script_noteworthy" "platform_train_geo"
+"origin" "-1703 -815 333"
+"classname" "script_brushmodel"
+}
+{
+"model" "*17"
+"script_noteworthy" "platform_train_geo"
+"origin" "-1844 -1055 369"
+"classname" "script_brushmodel"
+}
+{
+"model" "*18"
+"script_noteworthy" "platform_train_geo"
+"origin" "-1182 -942 193"
+"classname" "script_brushmodel"
+}
+{
+"ltOrigin" "-1284.19 -847.031 293"
+"script_noteworthy" "platform_train_geo"
+"classname" "script_model"
+"model" "nx_moonbase_monitor_on_04"
+"origin" "-1281.5 -844.5 293"
+"angles" "0 315 0"
+}
+{
+"ltOrigin" "-1904.19 -847.031 293"
+"script_noteworthy" "platform_train_geo"
+"classname" "script_model"
+"model" "nx_moonbase_monitor_on_04"
+"origin" "-1901.5 -844.5 293"
+"angles" "0 315 0"
+}
+{
+"ltOrigin" "-1486.47 -1046.89 293"
+"script_noteworthy" "platform_train_geo"
+"angles" "0 245 0"
+"origin" "-1483.5 -1048.5 293"
+"model" "nx_moonbase_monitor_on_04"
+"classname" "script_model"
+}
+{
+"ltOrigin" "-1278.45 -1047.14 293"
+"script_noteworthy" "platform_train_geo"
+"angles" "0 249 0"
+"origin" "-1275.5 -1048.5 293"
+"model" "nx_moonbase_monitor_on_04"
+"classname" "script_model"
+}
+{
+"ltOrigin" "-1902.45 -1047.14 293"
+"script_noteworthy" "platform_train_geo"
+"angles" "0 249 0"
+"origin" "-1899.5 -1048.5 293"
+"model" "nx_moonbase_monitor_on_04"
+"classname" "script_model"
+}
+{
+"ltOrigin" "-1705.92 -849.334 291.944"
+"script_noteworthy" "platform_train_geo"
+"classname" "script_model"
+"model" "nx_lunar_monitor_alert"
+"angles" "359.422 311.797 9.84951"
+"origin" "-1695.5 -841.5 307.5"
+}
+{
+"ltOrigin" "-1697.2 -1037.73 291.944"
+"script_noteworthy" "platform_train_geo"
+"origin" "-1687.5 -1045.5 307.5"
+"angles" "359.422 237.797 9.84951"
+"model" "nx_lunar_monitor_alert"
+"classname" "script_model"
+}
+{
+"model" "*19"
+"script_noteworthy" "platform_train_geo"
+"origin" "-1105 -834 353"
+"classname" "script_brushmodel"
+}
+{
+"model" "*20"
+"script_noteworthy" "platform_train_geo"
+"origin" "-2149 -816 389"
+"classname" "script_brushmodel"
+}
+{
+"model" "*21"
+"script_noteworthy" "platform_train_geo"
+"origin" "-1882 -938 172"
+"classname" "script_brushmodel"
+}
+{
+"ltOrigin" "-1448.81 -1029.97 413"
+"script_noteworthy" "platform_train_geo"
+"classname" "script_model"
+"model" "nx_moonbase_monitor_on_04"
+"origin" "-1451.5 -1032.5 413"
+"angles" "0 135 0"
+}
+{
+"model" "*22"
+"script_noteworthy" "platform_train_geo"
+"origin" "-1263 -837 374"
+"classname" "script_brushmodel"
+}
+{
+"model" "*23"
+"script_noteworthy" "platform_train_geo"
+"origin" "-1263 -849 372"
+"classname" "script_brushmodel"
+}
+{
+"model" "*24"
+"script_noteworthy" "platform_train_geo"
+"origin" "-1683 -850 415"
+"classname" "script_brushmodel"
+}
+{
+"model" "*25"
+"script_noteworthy" "platform_train_geo"
+"origin" "-1863 -821 389"
+"classname" "script_brushmodel"
+}
+{
+"ltOrigin" "-1991.5 -816.494 389.001"
+"angles" "0 180 0"
+"classname" "script_model"
+"model" "nx_prototype_harbor_glass_tops01"
+"origin" "-1991.5 -810.5 353"
+"script_noteworthy" "platform_train_geo"
+}
+{
+"gndLt" "0000000000"
+"ltOrigin" "-1133.5 -934.501 241"
+"script_noteworthy" "platform_train_geo"
+"classname" "script_model"
+"model" "nx_prototype_harbor_glass_botf01"
+"origin" "-1181.5 -938.5 169"
+}
+{
+"model" "*26"
+"script_noteworthy" "platform_train_geo"
+"origin" "-1427 -822 369"
+"classname" "script_brushmodel"
+}
+{
+"model" "*27"
+"script_noteworthy" "platform_train_geo"
+"origin" "-1885 -849 372"
+"classname" "script_brushmodel"
+}
+{
+"model" "*28"
+"script_noteworthy" "platform_train_geo"
+"origin" "-1683 -829 322"
+"classname" "script_brushmodel"
+}
+{
+"ltOrigin" "-1572.79 -830.5 340.07"
+"script_noteworthy" "platform_train_geo"
+"classname" "script_model"
+"model" "ch_dinerboothchair_4"
+"angles" "0 270 0"
+"origin" "-1573.5 -830.5 318"
+}
+{
+"ltOrigin" "-1508.79 -830.5 340.07"
+"script_noteworthy" "platform_train_geo"
+"classname" "script_model"
+"model" "ch_dinerboothchair_4"
+"angles" "0 270 0"
+"origin" "-1509.5 -830.5 318"
+}
+{
+"model" "*29"
+"script_noteworthy" "platform_train_geo"
+"origin" "-1885 -850 415"
+"classname" "script_brushmodel"
+}
+{
+"model" "*30"
+"script_noteworthy" "platform_train_geo"
+"origin" "-1365 -828 421"
+"classname" "script_brushmodel"
+}
+{
+"model" "*31"
+"script_noteworthy" "platform_train_geo"
+"origin" "-1469 -818 389"
+"classname" "script_brushmodel"
+}
+{
+"model" "*32"
+"script_noteworthy" "platform_train_geo"
+"origin" "-1303 -822 369"
+"classname" "script_brushmodel"
+}
+{
+"model" "*33"
+"script_noteworthy" "platform_train_geo"
+"origin" "-1575 -814 333"
+"classname" "script_brushmodel"
+}
+{
+"ltOrigin" "-1862.7 -1031.28 412.81"
+"script_noteworthy" "platform_train_geo"
+"classname" "script_model"
+"model" "nx_moonbase_monitor_on_04"
+"angles" "359.422 131.797 9.84951"
+"origin" "-1865.5 -1033.5 413.5"
+}
+{
+"model" "*34"
+"script_noteworthy" "platform_train_geo"
+"origin" "-1474 -938 172"
+"classname" "script_brushmodel"
+}
+{
+"model" "*35"
+"script_noteworthy" "platform_train_geo"
+"origin" "-1198 -822 241"
+"classname" "script_brushmodel"
+}
+{
+"model" "*36"
+"script_noteworthy" "platform_train_geo"
+"origin" "-1577 -964 294"
+"classname" "script_brushmodel"
+}
+{
+"ltOrigin" "-2209.5 -938.5 389.001"
+"classname" "script_model"
+"model" "nx_prototype_harbor_glass_topb01"
+"origin" "-2261.5 -938.5 353"
+"script_noteworthy" "platform_train_geo"
+}
+{
+"gndLt" "333a3d0000"
+"ltOrigin" "-1666.75 -944.5 153"
+"script_noteworthy" "platform_train_geo"
+"origin" "-1667.5 -942.5 209"
+"model" "nx_prototype_harbor_floor02"
+"classname" "script_model"
+}
+{
+"model" "*37"
+"script_noteworthy" "platform_train_geo"
+"origin" "-1154 -844 241"
+"classname" "script_brushmodel"
+}
+{
+"model" "*38"
+"script_noteworthy" "platform_train_geo"
+"origin" "-1127 -839 389"
+"classname" "script_brushmodel"
+}
+{
+"model" "*39"
+"script_noteworthy" "platform_train_geo"
+"origin" "-1700 -938 153"
+"classname" "script_brushmodel"
+}
+{
+"ltOrigin" "-2205.5 -940.5 241.001"
+"script_noteworthy" "platform_train_geo"
+"classname" "script_model"
+"model" "nx_prototype_harbor_glass_botb01"
+"origin" "-2157.5 -940.5 169"
+}
+{
+"gndLt" "3338380000"
+"ltOrigin" "-1365.5 -821.5 247"
+"origin" "-1365.5 -821.5 247"
+"model" "nx_prototype_harbor_window01"
+"classname" "script_model"
+"script_noteworthy" "platform_train_geo"
+}
+{
+"model" "*40"
+"script_noteworthy" "platform_train_geo"
+"origin" "-1933 -964 294"
+"classname" "script_brushmodel"
+}
+{
+"model" "*41"
+"script_noteworthy" "platform_train_geo"
+"origin" "-1437 -821 389"
+"classname" "script_brushmodel"
+}
+{
+"model" "*42"
+"script_noteworthy" "platform_train_geo"
+"origin" "-1577 -912 294"
+"classname" "script_brushmodel"
+}
+{
+"model" "*43"
+"script_noteworthy" "platform_train_geo"
+"origin" "-1187 -938 448"
+"classname" "script_brushmodel"
+}
+{
+"model" "*44"
+"script_noteworthy" "platform_train_geo"
+"origin" "-1293 -815 337"
+"classname" "script_brushmodel"
+}
+{
+"model" "*45"
+"script_noteworthy" "platform_train_geo"
+"origin" "-1685 -845 428"
+"classname" "script_brushmodel"
+}
+{
+"model" "*46"
+"script_noteworthy" "platform_train_geo"
+"origin" "-1263 -850 415"
+"classname" "script_brushmodel"
+}
+{
+"model" "*47"
+"script_noteworthy" "platform_train_geo"
+"origin" "-1263 -829 322"
+"classname" "script_brushmodel"
+}
+{
+"model" "*48"
+"script_noteworthy" "platform_train_geo"
+"origin" "-1692 -878 437"
+"classname" "script_brushmodel"
+}
+{
+"model" "*49"
+"script_noteworthy" "platform_train_geo"
+"origin" "-1700 -857 424"
+"classname" "script_brushmodel"
+}
+{
+"model" "*50"
+"script_noteworthy" "platform_train_geo"
+"origin" "-1361 -964 294"
+"classname" "script_brushmodel"
+}
+{
+"ltOrigin" "-1636.79 -830.5 340.07"
+"script_noteworthy" "platform_train_geo"
+"classname" "script_model"
+"model" "ch_dinerboothchair_4"
+"angles" "0 270 0"
+"origin" "-1637.5 -830.5 318"
+}
+{
+"model" "*51"
+"script_noteworthy" "platform_train_geo"
+"origin" "-1202 -816 389"
+"classname" "script_brushmodel"
+}
+{
+"ltOrigin" "-1781.5 -821.5 247"
+"origin" "-1781.5 -821.5 247"
+"model" "nx_prototype_harbor_window01"
+"classname" "script_model"
+"script_noteworthy" "platform_train_geo"
+}
+{
+"ltOrigin" "-1989.5 -821.5 247"
+"origin" "-1989.5 -821.5 247"
+"model" "nx_prototype_harbor_window01"
+"classname" "script_model"
+"script_noteworthy" "platform_train_geo"
+}
+{
+"model" "*52"
+"script_noteworthy" "platform_train_geo"
+"origin" "-1678 -878 437"
+"classname" "script_brushmodel"
+}
+{
+"ltOrigin" "-1781.5 -1055.5 247"
+"classname" "script_model"
+"model" "nx_prototype_harbor_window01"
+"origin" "-1781.5 -1055.5 247"
+"angles" "0 180 0"
+"script_noteworthy" "platform_train_geo"
+}
+{
+"ltOrigin" "-1989.5 -1055.5 247"
+"classname" "script_model"
+"model" "nx_prototype_harbor_window01"
+"origin" "-1989.5 -1055.5 247"
+"angles" "0 180 0"
+"script_noteworthy" "platform_train_geo"
+}
+{
+"gndLt" "8080800000"
+"ltOrigin" "-1573.5 -1055.5 247"
+"classname" "script_model"
+"model" "nx_prototype_harbor_window01"
+"origin" "-1573.5 -1055.5 247"
+"angles" "0 180 0"
+"script_noteworthy" "platform_train_geo"
+}
+{
+"gndLt" "8080800000"
+"ltOrigin" "-1365.5 -1055.5 247"
+"classname" "script_model"
+"model" "nx_prototype_harbor_window01"
+"origin" "-1365.5 -1055.5 247"
+"angles" "0 180 0"
+"script_noteworthy" "platform_train_geo"
+}
+{
+"model" "*53"
+"script_noteworthy" "platform_train_geo"
+"origin" "-1831 -815 337"
+"classname" "script_brushmodel"
+}
+{
+"model" "*54"
+"script_noteworthy" "platform_train_geo"
+"origin" "-1831 -821 385"
+"classname" "script_brushmodel"
+}
+{
+"model" "*55"
+"script_noteworthy" "platform_train_geo"
+"origin" "-1258 -938 172"
+"classname" "script_brushmodel"
+}
+{
+"model" "*56"
+"script_noteworthy" "platform_train_geo"
+"origin" "-1541 -938 304"
+"classname" "script_brushmodel"
+}
+{
+"model" "*57"
+"script_noteworthy" "platform_train_geo"
+"origin" "-2082 -938 172"
+"classname" "script_brushmodel"
+}
+{
+"ltOrigin" "-1705.92 -849.334 411.944"
+"script_noteworthy" "platform_train_geo"
+"classname" "script_model"
+"model" "nx_lunar_monitor_alert"
+"angles" "359.422 311.797 9.84951"
+"origin" "-1695.5 -841.5 427.5"
+}
+{
+"model" "*58"
+"script_noteworthy" "platform_train_geo"
+"origin" "-1933 -912 294"
+"classname" "script_brushmodel"
+}
+{
+"model" "*59"
+"script_noteworthy" "platform_train_geo"
+"origin" "-1467 -837 374"
+"classname" "script_brushmodel"
+}
+{
+"model" "*60"
+"script_noteworthy" "platform_train_geo"
+"origin" "-1773 -857 424"
+"classname" "script_brushmodel"
+}
+{
+"model" "*61"
+"script_noteworthy" "platform_train_geo"
+"origin" "-1110 -939 338"
+"classname" "script_brushmodel"
+}
+{
+"model" "*62"
+"script_noteworthy" "platform_train_geo"
+"origin" "-1215 -938 471"
+"classname" "script_brushmodel"
+}
+{
+"model" "*63"
+"script_noteworthy" "platform_train_geo"
+"origin" "-1257 -938 462"
+"classname" "script_brushmodel"
+}
+{
+"model" "*64"
+"script_noteworthy" "platform_train_geo"
+"origin" "-1231 -992 153"
+"classname" "script_brushmodel"
+}
+{
+"model" "*65"
+"script_noteworthy" "platform_train_geo"
+"origin" "-1271 -1032 153"
+"classname" "script_brushmodel"
+}
+{
+"model" "*66"
+"script_noteworthy" "platform_train_geo"
+"origin" "-1231 -884 153"
+"classname" "script_brushmodel"
+}
+{
+"model" "*67"
+"script_noteworthy" "platform_train_geo"
+"origin" "-1271 -844 153"
+"classname" "script_brushmodel"
+}
+{
+"model" "*68"
+"script_noteworthy" "platform_train_geo"
+"origin" "-1263 -853 225"
+"classname" "script_brushmodel"
+}
+{
+"model" "*69"
+"script_noteworthy" "platform_train_geo"
+"origin" "-1685 -847 448"
+"classname" "script_brushmodel"
+}
+{
+"model" "*70"
+"script_noteworthy" "platform_train_geo"
+"origin" "-2232 -833 313"
+"classname" "script_brushmodel"
+}
+{
+"model" "*71"
+"script_noteworthy" "platform_train_geo"
+"origin" "-2185 -964 310"
+"classname" "script_brushmodel"
+}
+{
+"model" "*72"
+"script_noteworthy" "platform_train_geo"
+"origin" "-1106 -1043 353"
+"classname" "script_brushmodel"
+}
+{
+"ltOrigin" "-1293.5 -1050.43 385.505"
+"script_noteworthy" "platform_train_geo"
+"targetname" "destructible_toy"
+"sound_csv_include" "destruct_tv_exp"
+"destructible_type" "nx_destructible_display_screen_01_1"
+"csv_include" "nx_destructible_display_screen_01"
+"origin" "-1293.5 -1062.5 313"
+"model" "nx_display_screen_01_5"
+"classname" "script_model"
+"angles" "9.00012 90 -6.76699e-007"
+}
+{
+"model" "*73"
+"script_noteworthy" "platform_train_geo"
+"origin" "-1735 -1061 337"
+"classname" "script_brushmodel"
+}
+{
+"model" "*74"
+"script_noteworthy" "platform_train_geo"
+"origin" "-1705 -1055 389"
+"classname" "script_brushmodel"
+}
+{
+"model" "*75"
+"script_noteworthy" "platform_train_geo"
+"origin" "-2090 -1056 389"
+"classname" "script_brushmodel"
+}
+{
+"model" "*76"
+"script_noteworthy" "platform_train_geo"
+"origin" "-1885 -827 322"
+"classname" "script_brushmodel"
+}
+{
+"model" "*77"
+"script_noteworthy" "platform_train_geo"
+"origin" "-1685 -880 450"
+"classname" "script_brushmodel"
+}
+{
+"model" "*78"
+"script_noteworthy" "platform_train_geo"
+"origin" "-1467 -849 372"
+"classname" "script_brushmodel"
+}
+{
+"model" "*79"
+"script_noteworthy" "platform_train_geo"
+"origin" "-1467 -850 415"
+"classname" "script_brushmodel"
+}
+{
+"model" "*80"
+"script_noteworthy" "platform_train_geo"
+"origin" "-1467 -829 322"
+"classname" "script_brushmodel"
+}
+{
+"model" "*81"
+"script_noteworthy" "platform_train_geo"
+"origin" "-1445 -1061 337"
+"classname" "script_brushmodel"
+}
+{
+"model" "*82"
+"script_noteworthy" "platform_train_geo"
+"origin" "-1783 -1050 421"
+"classname" "script_brushmodel"
+}
+{
+"model" "*83"
+"script_noteworthy" "platform_train_geo"
+"origin" "-1863 -1061 333"
+"classname" "script_brushmodel"
+}
+{
+"ltOrigin" "-1439.5 -1050.43 385.505"
+"script_noteworthy" "platform_train_geo"
+"targetname" "destructible_toy"
+"sound_csv_include" "destruct_tv_exp"
+"destructible_type" "nx_destructible_display_screen_01_1"
+"csv_include" "nx_destructible_display_screen_01"
+"origin" "-1439.5 -1062.5 313"
+"model" "nx_display_screen_01_1"
+"classname" "script_model"
+"angles" "9.00012 90 -6.76699e-007"
+}
+{
+"ltOrigin" "-1437.5 -828.565 385.505"
+"script_noteworthy" "platform_train_geo"
+"targetname" "destructible_toy"
+"sound_csv_include" "destruct_tv_exp"
+"destructible_type" "nx_destructible_display_screen_01_1"
+"csv_include" "nx_destructible_display_screen_01"
+"origin" "-1437.5 -816.5 313"
+"model" "nx_display_screen_01_2"
+"classname" "script_model"
+"angles" "9.0001 270 2.7781e-006"
+}
+{
+"model" "*84"
+"script_noteworthy" "platform_train_geo"
+"origin" "-1293 -1055 389"
+"classname" "script_brushmodel"
+}
+{
+"model" "*85"
+"script_noteworthy" "platform_train_geo"
+"origin" "-1885 -1039 374"
+"classname" "script_brushmodel"
+}
+{
+"model" "*86"
+"script_noteworthy" "platform_train_geo"
+"origin" "-1703 -1061 333"
+"classname" "script_brushmodel"
+}
+{
+"model" "*87"
+"script_noteworthy" "platform_train_geo"
+"origin" "-2232 -1043 353"
+"classname" "script_brushmodel"
+}
+{
+"ltOrigin" "-1291.5 -828.565 385.505"
+"script_noteworthy" "platform_train_geo"
+"targetname" "destructible_toy"
+"sound_csv_include" "destruct_tv_exp"
+"destructible_type" "nx_destructible_display_screen_01_1"
+"csv_include" "nx_destructible_display_screen_01"
+"origin" "-1291.5 -816.5 313"
+"model" "nx_display_screen_01_3"
+"classname" "script_model"
+"angles" "9.0001 270 2.7781e-006"
+}
+{
+"ltOrigin" "-1855.5 -826.565 385.505"
+"script_noteworthy" "platform_train_geo"
+"angles" "9.0001 270 2.7781e-006"
+"classname" "script_model"
+"model" "nx_display_screen_01_5"
+"origin" "-1855.5 -814.5 313"
+"csv_include" "nx_destructible_display_screen_01"
+"destructible_type" "nx_destructible_display_screen_01_1"
+"sound_csv_include" "destruct_tv_exp"
+"targetname" "destructible_toy"
+}
+{
+"model" "*88"
+"script_noteworthy" "platform_train_geo"
+"origin" "-2149 -1060 389"
+"classname" "script_brushmodel"
+}
+{
+"model" "*89"
+"script_noteworthy" "platform_train_geo"
+"origin" "-1263 -1039 374"
+"classname" "script_brushmodel"
+}
+{
+"model" "*90"
+"script_noteworthy" "platform_train_geo"
+"origin" "-1263 -1028 372"
+"classname" "script_brushmodel"
+}
+{
+"model" "*91"
+"script_noteworthy" "platform_train_geo"
+"origin" "-1683 -1026 415"
+"classname" "script_brushmodel"
+}
+{
+"model" "*92"
+"script_noteworthy" "platform_train_geo"
+"origin" "-1863 -1055 389"
+"classname" "script_brushmodel"
+}
+{
+"model" "*93"
+"script_noteworthy" "platform_train_geo"
+"origin" "-1427 -1055 369"
+"classname" "script_brushmodel"
+}
+{
+"model" "*94"
+"script_noteworthy" "platform_train_geo"
+"origin" "-1885 -1028 372"
+"classname" "script_brushmodel"
+}
+{
+"model" "*95"
+"script_noteworthy" "platform_train_geo"
+"origin" "-1683 -1048 322"
+"classname" "script_brushmodel"
+}
+{
+"model" "*96"
+"script_noteworthy" "platform_train_geo"
+"origin" "-1885 -1026 415"
+"classname" "script_brushmodel"
+}
+{
+"model" "*97"
+"script_noteworthy" "platform_train_geo"
+"origin" "-1365 -1050 422"
+"classname" "script_brushmodel"
+}
+{
+"model" "*98"
+"script_noteworthy" "platform_train_geo"
+"origin" "-1469 -1055 389"
+"classname" "script_brushmodel"
+}
+{
+"model" "*99"
+"script_noteworthy" "platform_train_geo"
+"origin" "-1303 -1055 369"
+"classname" "script_brushmodel"
+}
+{
+"model" "*100"
+"script_noteworthy" "platform_train_geo"
+"origin" "-1575 -1062 333"
+"classname" "script_brushmodel"
+}
+{
+"model" "*101"
+"script_noteworthy" "platform_train_geo"
+"origin" "-1127 -1037 389"
+"classname" "script_brushmodel"
+}
+{
+"model" "*102"
+"script_noteworthy" "platform_train_geo"
+"origin" "-1437 -1055 389"
+"classname" "script_brushmodel"
+}
+{
+"model" "*103"
+"script_noteworthy" "platform_train_geo"
+"origin" "-1293 -1061 337"
+"classname" "script_brushmodel"
+}
+{
+"model" "*104"
+"script_noteworthy" "platform_train_geo"
+"origin" "-1685 -1031 428"
+"classname" "script_brushmodel"
+}
+{
+"model" "*105"
+"script_noteworthy" "platform_train_geo"
+"origin" "-1263 -1026 415"
+"classname" "script_brushmodel"
+}
+{
+"model" "*106"
+"script_noteworthy" "platform_train_geo"
+"origin" "-1263 -1048 322"
+"classname" "script_brushmodel"
+}
+{
+"model" "*107"
+"script_noteworthy" "platform_train_geo"
+"origin" "-1926 -998 437"
+"classname" "script_brushmodel"
+}
+{
+"model" "*108"
+"script_noteworthy" "platform_train_geo"
+"origin" "-1700 -1020 424"
+"classname" "script_brushmodel"
+}
+{
+"model" "*109"
+"script_noteworthy" "platform_train_geo"
+"origin" "-1202 -1060 389"
+"classname" "script_brushmodel"
+}
+{
+"model" "*110"
+"script_noteworthy" "platform_train_geo"
+"origin" "-1678 -998 437"
+"classname" "script_brushmodel"
+}
+{
+"model" "*111"
+"script_noteworthy" "platform_train_geo"
+"origin" "-1831 -1061 337"
+"classname" "script_brushmodel"
+}
+{
+"model" "*112"
+"script_noteworthy" "platform_train_geo"
+"origin" "-1831 -1056 385"
+"classname" "script_brushmodel"
+}
+{
+"model" "*113"
+"script_noteworthy" "platform_train_geo"
+"origin" "-1467 -1039 374"
+"classname" "script_brushmodel"
+}
+{
+"model" "*114"
+"script_noteworthy" "platform_train_geo"
+"origin" "-1773 -1020 424"
+"classname" "script_brushmodel"
+}
+{
+"model" "*115"
+"script_noteworthy" "platform_train_geo"
+"origin" "-2232 -1043 313"
+"classname" "script_brushmodel"
+}
+{
+"model" "*116"
+"script_noteworthy" "platform_train_geo"
+"origin" "-2102 -1016 437"
+"classname" "script_brushmodel"
+}
+{
+"model" "*117"
+"script_noteworthy" "platform_train_geo"
+"origin" "-2123 -938 471"
+"classname" "script_brushmodel"
+}
+{
+"model" "*118"
+"script_noteworthy" "platform_train_geo"
+"origin" "-1685 -1029 448"
+"classname" "script_brushmodel"
+}
+{
+"model" "*119"
+"script_noteworthy" "platform_train_geo"
+"origin" "-1885 -1050 322"
+"classname" "script_brushmodel"
+}
+{
+"model" "*120"
+"script_noteworthy" "platform_train_geo"
+"origin" "-1685 -996 450"
+"classname" "script_brushmodel"
+}
+{
+"model" "*121"
+"script_noteworthy" "platform_train_geo"
+"origin" "-1467 -1028 372"
+"classname" "script_brushmodel"
+}
+{
+"model" "*122"
+"script_noteworthy" "platform_train_geo"
+"origin" "-1467 -1026 415"
+"classname" "script_brushmodel"
+}
+{
+"model" "*123"
+"script_noteworthy" "platform_train_geo"
+"origin" "-1467 -1048 322"
+"classname" "script_brushmodel"
+}
+{
+"ltOrigin" "-1243.08 -1029.67 413.944"
+"script_noteworthy" "platform_train_geo"
+"classname" "script_model"
+"model" "nx_lunar_monitor_alert"
+"angles" "359.422 131.797 9.84951"
+"origin" "-1253.5 -1037.5 429.5"
+}
+{
+"ltOrigin" "-1660.7 -1033.28 412.81"
+"script_noteworthy" "platform_train_geo"
+"classname" "script_model"
+"model" "nx_moonbase_monitor_on_04"
+"angles" "359.422 131.797 9.84951"
+"origin" "-1663.5 -1035.5 413.5"
+}
+{
+"ltOrigin" "-1638.21 -1046.5 340.07"
+"script_noteworthy" "platform_train_geo"
+"classname" "script_model"
+"model" "ch_dinerboothchair_4"
+"angles" "0 90 0"
+"origin" "-1637.5 -1046.5 318"
+}
+{
+"model" "*124"
+"script_noteworthy" "platform_train_geo"
+"origin" "-1231 -844 448"
+"classname" "script_brushmodel"
+}
+{
+"ltOrigin" "-1574.21 -1046.5 340.07"
+"script_noteworthy" "platform_train_geo"
+"classname" "script_model"
+"model" "ch_dinerboothchair_4"
+"angles" "0 90 0"
+"origin" "-1573.5 -1046.5 318"
+}
+{
+"ltOrigin" "-1510.21 -1046.5 340.07"
+"script_noteworthy" "platform_train_geo"
+"classname" "script_model"
+"model" "ch_dinerboothchair_4"
+"angles" "0 90 0"
+"origin" "-1509.5 -1046.5 318"
+}
+{
+"ltOrigin" "-1162.21 -1046.5 340.07"
+"script_noteworthy" "platform_train_geo"
+"classname" "script_model"
+"model" "ch_dinerboothchair_4"
+"angles" "0 90 0"
+"origin" "-1161.5 -1046.5 318"
+}
+{
+"ltOrigin" "-1226.21 -1046.5 340.07"
+"script_noteworthy" "platform_train_geo"
+"classname" "script_model"
+"model" "ch_dinerboothchair_4"
+"angles" "0 90 0"
+"origin" "-1225.5 -1046.5 318"
+}
+{
+"model" "*125"
+"script_noteworthy" "platform_train_geo"
+"origin" "-2081 -938 462"
+"classname" "script_brushmodel"
+}
+{
+"model" "*126"
+"script_noteworthy" "platform_train_geo"
+"origin" "-1231 -1032 448"
+"classname" "script_brushmodel"
+}
+{
+"model" "*127"
+"script_noteworthy" "platform_train_geo"
+"origin" "-2156 -880 449"
+"classname" "script_brushmodel"
+}
+{
+"model" "*128"
+"script_noteworthy" "platform_train_geo"
+"origin" "-2115 -836 449"
+"classname" "script_brushmodel"
+}
+{
+"model" "*129"
+"script_noteworthy" "platform_train_geo"
+"origin" "-2156 -996 449"
+"classname" "script_brushmodel"
+}
+{
+"model" "*130"
+"script_noteworthy" "platform_train_geo"
+"origin" "-2115 -1040 449"
+"classname" "script_brushmodel"
+}
+{
+"model" "*131"
+"script_noteworthy" "platform_train_geo"
+"origin" "-2102 -860 437"
+"classname" "script_brushmodel"
+}
+{
+"model" "*132"
+"script_noteworthy" "platform_train_geo"
+"origin" "-2048 -986 247"
+"classname" "script_brushmodel"
+}
+{
+"model" "*133"
+"script_noteworthy" "platform_train_geo"
+"origin" "-1677 -866 245"
+"classname" "script_brushmodel"
+}
+{
+"model" "*134"
+"script_noteworthy" "platform_train_geo"
+"origin" "-1985 -878 245"
+"classname" "script_brushmodel"
+}
+{
+"model" "*135"
+"script_noteworthy" "platform_train_geo"
+"origin" "-1365 -870 245"
+"classname" "script_brushmodel"
+}
+{
+"model" "*136"
+"script_noteworthy" "platform_train_geo"
+"origin" "-1365 -990 245"
+"classname" "script_brushmodel"
+}
+{
+"model" "*137"
+"script_noteworthy" "platform_train_geo"
+"origin" "-1885 -853 225"
+"classname" "script_brushmodel"
+}
+{
+"model" "*138"
+"script_noteworthy" "platform_train_geo"
+"origin" "-1467 -853 225"
+"classname" "script_brushmodel"
+}
+{
+"model" "*139"
+"script_noteworthy" "platform_train_geo"
+"origin" "-2185 -912 310"
+"classname" "script_brushmodel"
+}
+{
+"model" "*140"
+"script_noteworthy" "platform_train_geo"
+"origin" "-1885 -994 245"
+"classname" "script_brushmodel"
+}
+{
+"model" "*141"
+"script_noteworthy" "platform_train_geo"
+"origin" "-2228 -837 333"
+"classname" "script_brushmodel"
+}
+{
+"model" "*142"
+"script_noteworthy" "platform_train_geo"
+"origin" "-2257 -938 333"
+"classname" "script_brushmodel"
+}
+{
+"model" "*143"
+"script_noteworthy" "platform_train_geo"
+"origin" "-2228 -1039 333"
+"classname" "script_brushmodel"
+}
+{
+"model" "*144"
+"script_noteworthy" "platform_train_geo"
+"origin" "-1683 -1028 372"
+"classname" "script_brushmodel"
+}
+{
+"model" "*145"
+"script_noteworthy" "platform_train_geo"
+"origin" "-1683 -849 372"
+"classname" "script_brushmodel"
+}
+{
+"model" "*146"
+"script_noteworthy" "platform_train_geo"
+"origin" "-2107 -884 153"
+"classname" "script_brushmodel"
+}
+{
+"model" "*147"
+"script_noteworthy" "platform_train_geo"
+"origin" "-2107 -992 153"
+"classname" "script_brushmodel"
+}
+{
+"model" "*148"
+"script_noteworthy" "platform_train_geo"
+"origin" "-1211 -942 193"
+"classname" "script_brushmodel"
+}
+{
+"model" "*149"
+"script_noteworthy" "platform_train_geo"
+"origin" "-1677 -994 245"
+"classname" "script_brushmodel"
+}
+{
+"model" "*150"
+"script_noteworthy" "platform_train_geo"
+"origin" "-1361 -912 294"
+"classname" "script_brushmodel"
+}
+{
+"model" "*151"
+"script_noteworthy" "platform_train_geo"
+"origin" "-1785 -964 294"
+"classname" "script_brushmodel"
+}
+{
+"model" "*152"
+"script_noteworthy" "platform_train_geo"
+"origin" "-1785 -912 294"
+"classname" "script_brushmodel"
+}
+{
+"model" "*153"
+"script_noteworthy" "platform_train_geo"
+"origin" "-1213 -964 294"
+"classname" "script_brushmodel"
+}
+{
+"model" "*154"
+"script_noteworthy" "platform_train_geo"
+"origin" "-1213 -912 294"
+"classname" "script_brushmodel"
+}
+{
+"model" "*155"
+"script_noteworthy" "platform_train_geo"
+"origin" "-1683 -1028 225"
+"classname" "script_brushmodel"
+}
+{
+"model" "*156"
+"script_noteworthy" "platform_train_geo"
+"origin" "-1263 -1028 225"
+"classname" "script_brushmodel"
+}
+{
+"model" "*157"
+"script_noteworthy" "platform_train_geo"
+"origin" "-1885 -1028 225"
+"classname" "script_brushmodel"
+}
+{
+"model" "*158"
+"script_noteworthy" "platform_train_geo"
+"origin" "-1467 -1028 225"
+"classname" "script_brushmodel"
+}
+{
+"gndLt" "393d3b0000"
+"ltOrigin" "-1573.5 -821.5 247"
+"script_noteworthy" "platform_train_geo"
+"classname" "script_model"
+"model" "nx_prototype_harbor_window01"
+"origin" "-1573.5 -821.5 247"
+}
+{
+"model" "*159"
+"script_noteworthy" "platform_train_geo"
+"origin" "-1677 -1026 180"
+"classname" "script_brushmodel"
+}
+{
+"model" "*160"
+"script_noteworthy" "platform_train_geo"
+"origin" "-2048 -948 262"
+"classname" "script_brushmodel"
+}
+{
+"model" "*161"
+"script_noteworthy" "platform_train_geo"
+"origin" "-2048 -1026 262"
+"classname" "script_brushmodel"
+}
+{
+"model" "*162"
+"script_noteworthy" "platform_train_geo"
+"origin" "-1663 -818 307"
+"classname" "script_brushmodel"
+}
+{
+"model" "*163"
+"script_noteworthy" "platform_train_geo"
+"origin" "-1722 -1055 369"
+"classname" "script_brushmodel"
+}
+{
+"model" "*164"
+"script_noteworthy" "platform_train_geo"
+"origin" "-1844 -822 369"
+"classname" "script_brushmodel"
+}
+{
+"model" "*165"
+"script_noteworthy" "platform_train_geo"
+"origin" "-1721 -822 369"
+"classname" "script_brushmodel"
+}
+{
+"ltOrigin" "-1669.5 -938.5 317"
+"script_noteworthy" "platform_train_geo"
+"origin" "-1669.5 -938.5 209"
+"model" "nx_prototype_harbor_floor01"
+"classname" "script_model"
+}
+{
+"model" "*166"
+"script_noteworthy" "platform_train_geo"
+"origin" "-2232 -833 353"
+"classname" "script_brushmodel"
+}
+{
+"model" "*167"
+"script_noteworthy" "platform_train_geo"
+"origin" "-1081 -938 353"
+"classname" "script_brushmodel"
+}
+{
+"model" "*168"
+"script_noteworthy" "platform_train_geo"
+"origin" "-2157 -942 193"
+"classname" "script_brushmodel"
+}
+{
+"model" "*169"
+"script_noteworthy" "platform_train_geo"
+"origin" "-2132 -861 193"
+"classname" "script_brushmodel"
+}
+{
+"model" "*170"
+"script_noteworthy" "platform_train_geo"
+"origin" "-1677 -838 193"
+"classname" "script_brushmodel"
+}
+{
+"model" "*171"
+"script_noteworthy" "platform_train_geo"
+"origin" "-2161 -942 209"
+"classname" "script_brushmodel"
+}
+{
+"model" "*172"
+"script_noteworthy" "platform_train_geo"
+"origin" "-2132 -1023 193"
+"classname" "script_brushmodel"
+}
+{
+"model" "*173"
+"script_noteworthy" "platform_train_geo"
+"origin" "-1675 -1046 193"
+"classname" "script_brushmodel"
+}
+{
+"model" "*174"
+"script_noteworthy" "platform_train_geo"
+"origin" "-1197 -938 425"
+"classname" "script_brushmodel"
+}
+{
+"model" "*175"
+"script_noteworthy" "platform_train_geo"
+"origin" "-2141 -938 425"
+"classname" "script_brushmodel"
+}
+{
+"model" "*176"
+"script_noteworthy" "platform_train_geo"
+"origin" "-1162 -849 241"
+"classname" "script_brushmodel"
+}
+{
+"model" "*177"
+"script_noteworthy" "platform_train_geo"
+"origin" "-1162 -1025 241"
+"classname" "script_brushmodel"
+}
+{
+"model" "*178"
+"script_noteworthy" "platform_train_geo"
+"origin" "-1665 -1058 307"
+"classname" "script_brushmodel"
+}
+{
+"model" "*179"
+"script_noteworthy" "platform_train_geo"
+"origin" "-1207 -857 209"
+"classname" "script_brushmodel"
+}
+{
+"model" "*180"
+"script_noteworthy" "platform_train_geo"
+"origin" "-1937 -994 317"
+"classname" "script_brushmodel"
+}
+{
+"model" "*181"
+"script_noteworthy" "platform_train_geo"
+"origin" "-2176 -848 241"
+"classname" "script_brushmodel"
+}
+{
+"model" "*182"
+"script_noteworthy" "platform_train_geo"
+"origin" "-2176 -1028 241"
+"classname" "script_brushmodel"
+}
+{
+"script_noteworthy" "platform_train_script"
+"origin" "-1365.5 -866.5 177"
+"targetname" "anim_window_front_left"
+"_color" "1 1 1"
+"radius" "30.8121"
+"classname" "script_origin"
+"angles" "0 90 0"
+"script_stance" "crouch"
+}
+{
+"script_noteworthy" "platform_train_script"
+"angles" "0 90 0"
+"classname" "script_origin"
+"radius" "30.8121"
+"_color" "1 1 1"
+"targetname" "anim_window_mid_left_top"
+"origin" "-1573.5 -866.5 321"
+"script_stance" "crouch"
+}
+{
+"script_noteworthy" "platform_train_script"
+"classname" "script_origin"
+"radius" "30.8121"
+"_color" "1 1 1"
+"targetname" "anim_window_front_right_top"
+"origin" "-1365.5 -1010.5 321"
+"angles" "0 270 0"
+"script_stance" "stand"
+}
+{
+"script_noteworthy" "platform_train_script"
+"origin" "-1881.5 -910.5 349"
+"angles" "0 345 0"
+"targetname" "player_start"
+"classname" "script_origin"
+}
+{
+"script_noteworthy" "platform_train_script"
+"origin" "-1365.5 -866.5 321"
+"targetname" "anim_window_front_left_top"
+"_color" "1 1 1"
+"radius" "30.8121"
+"classname" "script_origin"
+"angles" "0 90 0"
+"script_stance" "stand"
+}
+{
+"script_noteworthy" "platform_train_script"
+"origin" "-1781.5 -1010.5 321"
+"targetname" "anim_window_back_right_top"
+"_color" "1 1 1"
+"radius" "30.8121"
+"classname" "script_origin"
+"angles" "0 270 0"
+"script_stance" "stand"
+}
+{
+"script_noteworthy" "platform_train_script"
+"origin" "-1781.5 -866.5 321"
+"targetname" "anim_window_back_left_top"
+"_color" "1 1 1"
+"radius" "30.8121"
+"classname" "script_origin"
+"angles" "0 90 0"
+"script_stance" "stand"
+}
+{
+"script_noteworthy" "platform_train_script"
+"origin" "-1669.5 -938.5 441"
+"targetname" "derail_vignette"
+"classname" "script_origin"
+"angles" "0 1.9859e-006 0"
+}
+{
+"script_noteworthy" "platform_train_script"
+"radius" "153.435"
+"targetname" "tram_derail_at_door"
+"classname" "script_origin"
+"origin" "-1365.5 -938.5 329"
+}
+{
+"model" "?4"
+"origin" "2838 -1542 768"
+"classname" "trigger_multiple"
+"targetname" "radiation"
+}
+{
+"model" "?5"
+"origin" "2104 -1722 768"
+"classname" "trigger_multiple"
+"targetname" "radiation"
+}
+{
+"angles" "358.464 357.605 0.100555"
+"classname" "script_struct"
+"targetname" "light_blue_steady_FX_origin"
+"origin" "2211.63 -1213.25 91.4655"
+}
+{
+"angles" "1.05621 42.5171 -1.95648"
+"classname" "script_struct"
+"targetname" "light_blue_steady_FX_origin"
+"origin" "2311.3 -1106.97 100.37"
+}
+{
+"angles" "358.042 326.865 0.426025"
+"classname" "script_struct"
+"targetname" "light_blue_steady_FX_origin"
+"origin" "2406.51 -986.637 121.079"
+}
+{
+"model" "?6"
+"origin" "5910 2454 768"
+"classname" "trigger_multiple"
+"targetname" "radiation"
+}
+{
+"angles" "0.931549 335.577 1.53656"
+"classname" "script_struct"
+"targetname" "light_blue_steady_FX_origin"
+"origin" "3358.02 -314.272 132.642"
+}
+{
+"model" "?7"
+"origin" "4952 -1550 768"
+"classname" "trigger_multiple"
+"targetname" "radiation"
+}
+{
+"model" "?8"
+"origin" "2362 -1578 768"
+"classname" "trigger_multiple"
+"targetname" "radiation"
+}
+{
+"ltOrigin" "1445.83 2887.73 81.6526"
+"angles" "2.27753 356.901 -0.712596"
+"destructible_type" "vehicle_uaz_winter"
+"targetname" "destructible_vehicle"
+"origin" "1440.1 2887.9 16.4"
+"model" "vehicle_uaz_winter_destructible"
+"classname" "script_model"
+"csv_include" "destructible_uaz_winter"
+"sound_csv_include" "vehicle_car_exp"
+}
+{
+"classname" "mp_mtdm_spawn_team_1_start"
+"angles" "0 90 0"
+"origin" "-192 -896 -32"
+}
+{
+"classname" "mp_mtdm_spawn_team_0_start"
+"angles" "0 90 0"
+"origin" "-256 -896 -32"
+}
+{
+"classname" "mp_mtdm_spawn_team_2_start"
+"angles" "0 90 0"
+"origin" "-128 -896 -32"
+}
+{
+"classname" "mp_mtdm_spawn_team_3_start"
+"angles" "0 90 0"
+"origin" "-64 -896 -32"
+}
+{
+"classname" "mp_mtdm_spawn_team_4_start"
+"angles" "0 90 0"
+"origin" "0 -896 -32"
+}
+{
+"classname" "mp_mtdm_spawn_team_5_start"
+"angles" "0 90 0"
+"origin" "64 -896 -32"
+}
+{
+"classname" "mp_mtdm_spawn_team_6_start"
+"angles" "0 90 0"
+"origin" "128 -896 -32"
+}
+{
+"classname" "mp_mtdm_spawn_team_7_start"
+"angles" "0 90 0"
+"origin" "192 -896 -32"
+}
+{
+"model" "*183"
+"origin" "-1300 1496 -49"
+"classname" "script_brushmodel"
+"targetname" "pf863_auto1"
+"script_gameobjectname" "airdrop_pallet"
+}
+{
+"ltOrigin" "-1300 1496.19 -49.1114"
+"model" "com_plasticcase_green_big_us_dirt"
+"classname" "script_model"
+"origin" "-1300 1496 -64"
+"targetname" "care_package"
+"target" "pf863_auto1"
+}
+{
+"classname" "script_origin"
+"targetname" "minimap_corner"
+"origin" "-1160 3552 -56"
+}
+{
+"classname" "script_origin"
+"targetname" "minimap_corner"
+"origin" "4128 -1716 -56"
+}
+{
+"classname" "mp_tdm_spawn_axis_start"
+"origin" "2660.7 4375.8 52"
+"angles" "0 270 0"
+}
+{
+"classname" "mp_tdm_spawn_allies_start"
+"origin" "-1347.5 -553.5 178"
+"angles" "0 0 0"
+}
+{
+"classname" "mp_sd_spawn_attacker"
+"angles" "0 0 0"
+"origin" "-2132 1564 -64"
+}
+{
+"origin" "2708 1508 136"
+"angles" "0 359.592 0"
+"classname" "mp_dm_spawn"
+}
+{
+"origin" "-998 1050 80"
+"angles" "0 320 0"
+"classname" "mp_tdm_spawn"
+}
+{
+"classname" "mp_global_intermission"
+"angles" "0 48 0"
+"origin" "-1588.1 -229 257.1"
+}
+{
+"classname" "mp_sd_spawn_defender"
+"angles" "0 180 0"
+"origin" "-1292 -232 -64"
+}
+{
+"ltOrigin" "-1883.76 619.917 -60.4967"
+"classname" "script_model"
+"model" "mil_tntbomb_mp"
+"targetname" "sd_bomb"
+"origin" "-1884 620 -64"
+"script_gameobjectname" "sd"
+"spawnflags" "4"
+}
+{
+"model" "?9"
+"origin" "-1884 620 -64"
+"classname" "trigger_multiple"
+"targetname" "sd_bomb_pickup_trig"
+"script_gameobjectname" "sd"
+}
+{
+"model" "?10"
+"origin" "-1404 1504 -40"
+"targetname" "bombtrigger"
+"classname" "trigger_use_touch"
+"script_gameobjectname" "bombzone"
+}
+{
+"model" "*184"
+"origin" "-1404 1504 -62"
+"classname" "script_brushmodel"
+"targetname" "pf866_auto1"
+"script_gameobjectname" "airdrop_pallet"
+}
+{
+"ltOrigin" "-1404 1504.19 -47.1114"
+"model" "com_plasticcase_green_big_us_dirt"
+"classname" "script_model"
+"origin" "-1404 1504 -62"
+"targetname" "airdrop_crate"
+"target" "pf866_auto1"
+}
+{
+"model" "?11"
+"origin" "-1708 564 -56"
+"classname" "trigger_use_touch"
+"targetname" "bombzone"
+"script_gameobjectname" "bombzone"
+"target" "pf867_auto1"
+"script_bombmode_original" "1"
+"script_label" "_a"
+}
+{
+"model" "?12"
+"origin" "-1708 564 -56"
+"script_gameobjectname" "bombzone"
+"classname" "trigger_use_touch"
+"targetname" "pf867_auto2"
+}
+{
+"ltOrigin" "-1711.41 569.563 -46.4441"
+"classname" "script_model"
+"model" "com_bomb_objective_d"
+"angles" "0 90 0"
+"origin" "-1708 564 -63.9"
+"spawnflags" "4"
+"targetname" "exploder"
+"script_exploder" "pf867_1"
+"script_gameobjectname" "bombzone"
+}
+{
+"model" "*185"
+"origin" "-1707 566 -36"
+"classname" "script_brushmodel"
+"script_gameobjectname" "bombzone"
+}
+{
+"ltOrigin" "-1707.88 564.58 -35.8773"
+"target" "pf867_auto2"
+"targetname" "pf867_auto1"
+"spawnflags" "4"
+"script_gameobjectname" "bombzone"
+"script_exploder" "pf867_1"
+"origin" "-1708 566 -65.9"
+"angles" "0 270 0"
+"model" "com_bomb_objective"
+"classname" "script_model"
+}
+{
+"model" "?13"
+"origin" "-1564 708 -56"
+"classname" "trigger_use_touch"
+"targetname" "bombzone"
+"script_gameobjectname" "bombzone"
+"target" "pf868_auto1"
+"script_bombmode_original" "1"
+"script_label" "_b"
+}
+{
+"model" "?14"
+"origin" "-1564 708 -56"
+"script_gameobjectname" "bombzone"
+"classname" "trigger_use_touch"
+"targetname" "pf868_auto2"
+}
+{
+"ltOrigin" "-1563.88 709.58 -35.8773"
+"classname" "script_model"
+"model" "com_bomb_objective"
+"angles" "0 270 0"
+"origin" "-1564 711 -65.9"
+"script_exploder" "pf868_2"
+"script_gameobjectname" "bombzone"
+"spawnflags" "4"
+"targetname" "pf868_auto1"
+"target" "pf868_auto2"
+}
+{
+"ltOrigin" "-1567.41 713.563 -46.4441"
+"classname" "script_model"
+"model" "com_bomb_objective_d"
+"angles" "0 90 0"
+"origin" "-1564 708 -63.9"
+"spawnflags" "4"
+"targetname" "exploder"
+"script_exploder" "pf868_2"
+"script_gameobjectname" "bombzone"
+}
+{
+"model" "*186"
+"origin" "-1563 711 -36"
+"classname" "script_brushmodel"
+"script_gameobjectname" "bombzone"
+}
+{
+"origin" "-2132 1500 -64"
+"angles" "0 0 0"
+"classname" "mp_dom_spawn_allies_start"
+}
+{
+"origin" "-1292 -296 -64"
+"angles" "0 180 0"
+"classname" "mp_dom_spawn_axis_start"
+}
+{
+"script_linkto" "pf0_flag1"
+"classname" "mp_dom_spawn"
+"angles" "0 90 0"
+"origin" "-2028 244 -64"
+}
+{
+"origin" "-1364 252 -64"
+"angles" "0 90 0"
+"classname" "mp_dom_spawn"
+"script_linkto" "pf0_flag3"
+}
+{
+"classname" "script_origin"
+"script_linkname" "pf0_flag2"
+"script_linkto" "pf0_flag1 pf0_flag3"
+"targetname" "flag_descriptor"
+"origin" "-1700.9 423.5 0"
+}
+{
+"origin" "-2024.3 420 0"
+"targetname" "flag_descriptor"
+"script_linkto" "pf0_flag2 pf0_flag3"
+"script_linkname" "pf0_flag1"
+"classname" "script_origin"
+}
+{
+"origin" "-1389.4 467 0"
+"targetname" "flag_descriptor"
+"script_linkto" "pf0_flag1 pf0_flag2"
+"script_linkname" "pf0_flag3"
+"classname" "script_origin"
+}
+{
+"script_label" "_a"
+"model" "prop_flag_neutral"
+"script_gameobjectname" "dom onslaught"
+"origin" "-1964 500 -64"
+"targetname" "flag_primary"
+"height" "128"
+"radius" "160"
+"classname" "trigger_radius"
+}
+{
+"classname" "trigger_radius"
+"radius" "160"
+"height" "128"
+"targetname" "flag_primary"
+"origin" "-1700 452 -64"
+"script_gameobjectname" "dom onslaught"
+"model" "prop_flag_neutral"
+"script_label" "_b"
+}
+{
+"classname" "trigger_radius"
+"radius" "160"
+"height" "128"
+"targetname" "flag_primary"
+"origin" "-1388 500 -64"
+"script_gameobjectname" "dom onslaught"
+"model" "prop_flag_neutral"
+"script_label" "_c"
+}
+{
+"classname" "mp_sab_spawn_allies_start"
+"angles" "0 0 0"
+"origin" "-2036 1196 -64"
+}
+{
+"classname" "mp_sab_spawn_allies"
+"angles" "0 0 0"
+"origin" "-1972 1196 -64"
+}
+{
+"classname" "mp_sab_spawn_axis_start"
+"angles" "0 180 0"
+"origin" "-1100 276 -64"
+}
+{
+"classname" "mp_sab_spawn_axis"
+"angles" "0 180 0"
+"origin" "-1164 276 -64"
+}
+{
+"ltOrigin" "-1707.76 323.917 -60.4967"
+"classname" "script_model"
+"model" "mil_tntbomb_mp"
+"targetname" "sab_bomb"
+"origin" "-1708 324 -64"
+"script_gameobjectname" "sab"
+"spawnflags" "4"
+}
+{
+"model" "?15"
+"origin" "-1708 324 -64"
+"classname" "trigger_multiple"
+"targetname" "sab_bomb_pickup_trig"
+"script_gameobjectname" "sab"
+}
+{
+"model" "?16"
+"origin" "-1900 308 -56"
+"target" "pf873_auto1"
+"script_gameobjectname" "sab"
+"targetname" "sab_bomb_allies"
+"classname" "trigger_use_touch"
+}
+{
+"model" "?17"
+"origin" "-1900 308 -56"
+"classname" "trigger_use_touch"
+"script_gameobjectname" "sab"
+"targetname" "sab_bomb_defuse_allies"
+}
+{
+"model" "*187"
+"origin" "-1899 311 -36"
+"classname" "script_brushmodel"
+"script_gameobjectname" "sab"
+}
+{
+"ltOrigin" "-1899.88 309.58 -35.9773"
+"classname" "script_model"
+"model" "com_bomb_objective"
+"angles" "0 270 0"
+"origin" "-1900 311 -66"
+"script_exploder" "pf873_1"
+"script_gameobjectname" "sab"
+"spawnflags" "4"
+"targetname" "pf873_auto1"
+}
+{
+"ltOrigin" "-1903.41 313.563 -46.5441"
+"classname" "script_model"
+"model" "com_bomb_objective_d"
+"angles" "0 90 0"
+"origin" "-1900 308 -64"
+"spawnflags" "4"
+"targetname" "exploder"
+"script_exploder" "pf873_1"
+"script_gameobjectname" "sab"
+}
+{
+"model" "?18"
+"origin" "-1516 308 -56"
+"target" "pf874_auto1"
+"script_gameobjectname" "sab"
+"targetname" "sab_bomb_axis"
+"classname" "trigger_use_touch"
+}
+{
+"model" "?19"
+"origin" "-1516 308 -56"
+"classname" "trigger_use_touch"
+"script_gameobjectname" "sab"
+"targetname" "sab_bomb_defuse_axis"
+}
+{
+"ltOrigin" "-1515.88 309.58 -35.9773"
+"classname" "script_model"
+"model" "com_bomb_objective"
+"angles" "0 270 0"
+"origin" "-1516 311 -66"
+"script_exploder" "pf874_2"
+"script_gameobjectname" "sab"
+"spawnflags" "4"
+"targetname" "pf874_auto1"
+}
+{
+"ltOrigin" "-1519.41 313.563 -46.5441"
+"classname" "script_model"
+"model" "com_bomb_objective_d"
+"angles" "0 90 0"
+"origin" "-1516 308 -64"
+"spawnflags" "4"
+"targetname" "exploder"
+"script_exploder" "pf874_2"
+"script_gameobjectname" "sab"
+}
+{
+"model" "*188"
+"origin" "-1515 311 -36"
+"classname" "script_brushmodel"
+"script_gameobjectname" "sab"
+}
+{
+"ltOrigin" "-1713.3 98.3857 -48.8114"
+"classname" "script_model"
+"model" "com_plasticcase_beige_big"
+"angles" "0 0 0"
+"origin" "-1713.3 98.2 -63.7"
+"script_gameobjectname" "hq"
+"targetname" "pf875_auto1"
+"spawnflags" "4"
+}
+{
+"ltOrigin" "-1709.3 95.18 -26.247"
+"classname" "script_model"
+"model" "com_laptop_2_open"
+"angles" "0 270 0"
+"origin" "-1709.3 94.2 -33.7"
+"targetname" "hq_hardpoint"
+"script_gameobjectname" "hq"
+"target" "pf875_auto1"
+"spawnflags" "4"
+}
+{
+"ltOrigin" "-1696.58 92.2573 -33.1216"
+"origin" "-1694.6 89.5 -33.7"
+"angles" "1.70755e-006 40 -89.9997"
+"model" "com_cellphone_on"
+"classname" "script_model"
+"script_gameobjectname" "hq"
+"targetname" "pf875_auto1"
+"spawnflags" "4"
+}
+{
+"model" "*189"
+"origin" "-1714 98 -48"
+"classname" "script_brushmodel"
+"script_gameobjectname" "hq"
+"targetname" "pf875_auto1"
+}
+{
+"model" "*190"
+"origin" "-1709 102 -25"
+"classname" "script_brushmodel"
+"script_gameobjectname" "hq"
+"targetname" "pf875_auto1"
+}
+{
+"model" "?20"
+"origin" "-1715 93 -43"
+"classname" "trigger_multiple"
+"targetname" "radiotrigger"
+}
+{
+"ltOrigin" "-1517.8 94.0857 -48.8114"
+"classname" "script_model"
+"model" "com_plasticcase_beige_big"
+"angles" "0 0 0"
+"origin" "-1517.8 93.9 -63.7"
+"script_gameobjectname" "hq"
+"targetname" "pf876_auto1"
+"spawnflags" "4"
+}
+{
+"ltOrigin" "-1513.8 90.8801 -26.247"
+"classname" "script_model"
+"model" "com_laptop_2_open"
+"angles" "0 270 0"
+"origin" "-1513.8 89.9 -33.7"
+"targetname" "hq_hardpoint"
+"script_gameobjectname" "hq"
+"target" "pf876_auto1"
+"spawnflags" "4"
+}
+{
+"ltOrigin" "-1501.08 87.9573 -33.1216"
+"origin" "-1499.1 85.2 -33.7"
+"angles" "1.70755e-006 40 -89.9997"
+"model" "com_cellphone_on"
+"classname" "script_model"
+"script_gameobjectname" "hq"
+"targetname" "pf876_auto1"
+"spawnflags" "4"
+}
+{
+"model" "*191"
+"origin" "-1518 94 -48"
+"classname" "script_brushmodel"
+"script_gameobjectname" "hq"
+"targetname" "pf876_auto1"
+}
+{
+"model" "*192"
+"origin" "-1514 97 -25"
+"classname" "script_brushmodel"
+"script_gameobjectname" "hq"
+"targetname" "pf876_auto1"
+}
+{
+"model" "?21"
+"origin" "-1518 89 -43"
+"classname" "trigger_multiple"
+"targetname" "radiotrigger"
+}
+{
+"ltOrigin" "-1909.3 104.986 -48.8114"
+"classname" "script_model"
+"model" "com_plasticcase_beige_big"
+"angles" "0 0 0"
+"origin" "-1909.3 104.8 -63.7"
+"script_gameobjectname" "hq"
+"targetname" "pf877_auto1"
+"spawnflags" "4"
+}
+{
+"ltOrigin" "-1905.3 101.78 -26.247"
+"classname" "script_model"
+"model" "com_laptop_2_open"
+"angles" "0 270 0"
+"origin" "-1905.3 100.8 -33.7"
+"targetname" "hq_hardpoint"
+"script_gameobjectname" "hq"
+"target" "pf877_auto1"
+"spawnflags" "4"
+}
+{
+"ltOrigin" "-1892.58 98.8573 -33.1216"
+"origin" "-1890.6 96.1 -33.7"
+"angles" "1.70755e-006 40 -89.9997"
+"model" "com_cellphone_on"
+"classname" "script_model"
+"script_gameobjectname" "hq"
+"targetname" "pf877_auto1"
+"spawnflags" "4"
+}
+{
+"model" "*193"
+"origin" "-1910 105 -48"
+"classname" "script_brushmodel"
+"script_gameobjectname" "hq"
+"targetname" "pf877_auto1"
+}
+{
+"model" "*194"
+"origin" "-1905 108 -25"
+"classname" "script_brushmodel"
+"script_gameobjectname" "hq"
+"targetname" "pf877_auto1"
+}
+{
+"model" "?22"
+"origin" "-1911 96 -43"
+"classname" "trigger_multiple"
+"targetname" "radiotrigger"
+}
+{
+"classname" "mp_ctf_spawn_allies_start"
+"angles" "0 0 0"
+"origin" "-2036 876 -64"
+}
+{
+"classname" "mp_ctf_spawn_allies"
+"angles" "0 0 0"
+"origin" "-1972 876 -64"
+}
+{
+"classname" "mp_ctf_spawn_axis_start"
+"angles" "0 180 0"
+"origin" "-1100 -44 -64"
+}
+{
+"classname" "mp_ctf_spawn_axis"
+"angles" "0 180 0"
+"origin" "-1164 -44 -64"
+}
+{
+"classname" "trigger_radius"
+"radius" "64"
+"height" "128"
+"origin" "-1900 -12 -48"
+"targetname" "ctf_trig_allies"
+"target" "ctf_flag_allies"
+"script_gameobjectname" "ctf"
+}
+{
+"ltOrigin" "-1873.69 -7.58814 -14.4885"
+"classname" "script_model"
+"model" "prop_flag_neutral"
+"targetname" "ctf_flag_allies"
+"origin" "-1900 -12 -64"
+"script_gameobjectname" "ctf"
+"spawnflags" "4"
+}
+{
+"classname" "trigger_radius"
+"radius" "64"
+"height" "128"
+"origin" "-1900 -12 -48"
+"targetname" "ctf_zone_allies"
+"script_gameobjectname" "ctf"
+}
+{
+"classname" "trigger_radius"
+"radius" "64"
+"height" "128"
+"origin" "-1516 -12 -48"
+"targetname" "ctf_trig_axis"
+"target" "ctf_flag_axis"
+"script_gameobjectname" "ctf"
+}
+{
+"ltOrigin" "-1489.69 -7.58814 -14.4885"
+"classname" "script_model"
+"model" "prop_flag_neutral"
+"targetname" "ctf_flag_axis"
+"origin" "-1516 -12 -64"
+"script_gameobjectname" "ctf"
+"spawnflags" "4"
+}
+{
+"classname" "trigger_radius"
+"radius" "64"
+"height" "128"
+"origin" "-1516 -12 -48"
+"targetname" "ctf_zone_axis"
+"script_gameobjectname" "ctf"
+}
+{
+"classname" "mp_dd_spawn_attacker"
+"angles" "0 0 0"
+"origin" "-2272 -216 -64"
+}
+{
+"classname" "mp_dd_spawn_attacker_a"
+"angles" "0 0 0"
+"origin" "-2224 -168 -64"
+}
+{
+"classname" "mp_dd_spawn_attacker_b"
+"angles" "0 0 0"
+"origin" "-2224 -264 -64"
+}
+{
+"classname" "mp_dd_spawn_attacker_start"
+"angles" "0 0 0"
+"origin" "-2176 -216 -64"
+}
+{
+"classname" "mp_dd_spawn_defender"
+"angles" "0 180 0"
+"origin" "-1856 -216 -64"
+}
+{
+"classname" "mp_dd_spawn_defender_a"
+"angles" "0 180 0"
+"origin" "-1904 -168 -64"
+}
+{
+"classname" "mp_dd_spawn_defender_b"
+"angles" "0 180 0"
+"origin" "-1904 -264 -64"
+}
+{
+"classname" "mp_dd_spawn_defender_start"
+"angles" "0 180 0"
+"origin" "-1952 -216 -64"
+}
+{
+"classname" "script_origin"
+"target" "heli_start_2"
+"targetname" "heli_start_1"
+"origin" "3288.1 987.2 1170.6"
+"angles" "0 135 0"
+}
+{
+"classname" "script_origin"
+"target" "heli_start_1"
+"targetname" "heli_start"
+"origin" "2743.1 -312.6 1170.6"
+"angles" "0 90 0"
+}
+{
+"angles" "0 225 0"
+"origin" "2223.5 2195.4 1170.6"
+"targetname" "heli_start_2"
+"target" "heli_start_3"
+"classname" "script_origin"
+}
+{
+"classname" "script_origin"
+"targetname" "heli_start_3"
+"origin" "463.4 -231.8 1170.6"
+"angles" "0 270 0"
+}
+{
+"classname" "script_origin"
+"target" "heli_loop_start_1"
+"targetname" "heli_loop_start"
+"origin" "2756 -328 1172"
+"angles" "0 90 0"
+}
+{
+"classname" "script_origin"
+"target" "heli_loop_start_2"
+"targetname" "heli_loop_start_1"
+"origin" "2776 2484 1172"
+"angles" "0 180 0"
+}
+{
+"classname" "script_origin"
+"target" "heli_loop_start_3"
+"targetname" "heli_loop_start_2"
+"origin" "284 2532 1172"
+"angles" "0 180 0"
+}
+{
+"classname" "script_origin"
+"targetname" "heli_loop_start_3"
+"origin" "212 -188 1172"
+"angles" "0 180 0"
+}
+{
+"classname" "script_origin"
+"target" "heli_leave_1"
+"targetname" "heli_leave"
+"origin" "1696 968 1172"
+"angles" "0 180 0"
+}
+{
+"classname" "script_origin"
+"target" "heli_leave_2"
+"targetname" "heli_leave_1"
+"origin" "540 -248 1172"
+"angles" "0 135 0"
+}
+{
+"classname" "script_origin"
+"targetname" "heli_leave_2"
+"origin" "-132 2044 1172"
+"angles" "0 90 0"
+}
+{
+"classname" "script_origin"
+"target" "heli_crash_start_1"
+"targetname" "heli_crash_start"
+"origin" "1088 680 1172"
+"angles" "0 45 0"
+}
+{
+"classname" "script_origin"
+"targetname" "heli_crash_start_1"
+"origin" "496 -2012 484"
+"angles" "0 45 0"
+}
+{
+"classname" "mp_mtdm_spawn_team_8_start"
+"angles" "0 90 0"
+"origin" "256 -896 -32"
+}
+{
+"classname" "mp_tdm_spawn_allies_start"
+"origin" "-1343.5 -605.5 178"
+"angles" "0 0 0"
+}
+{
+"classname" "mp_tdm_spawn_allies_start"
+"origin" "-1339.5 -661.5 178"
+"angles" "0 0 0"
+}
+{
+"classname" "mp_tdm_spawn_allies_start"
+"origin" "-1159.5 -581.5 178"
+"angles" "0 0 0"
+}
+{
+"classname" "mp_tdm_spawn_allies_start"
+"origin" "-1363.5 -1253.5 178"
+"angles" "0 0 0"
+}
+{
+"classname" "mp_tdm_spawn_allies_start"
+"origin" "-1363.5 -1313.5 178"
+"angles" "0 0 0"
+}
+{
+"classname" "mp_tdm_spawn_allies_start"
+"origin" "-1363.5 -1369.5 178"
+"angles" "0 0 0"
+}
+{
+"classname" "mp_tdm_spawn_allies_start"
+"origin" "-1183.5 -1281.5 178"
+"angles" "0 0 0"
+}
+{
+"classname" "mp_tdm_spawn_allies_start"
+"origin" "-1367.5 -1205.5 178"
+"angles" "0 0 0"
+}
+{
+"classname" "mp_tdm_spawn_axis_start"
+"origin" "2732.7 4375.8 52"
+"angles" "0 270 0"
+}
+{
+"classname" "mp_tdm_spawn_axis_start"
+"origin" "2812.7 4379.8 52"
+"angles" "0 270 0"
+}
+{
+"classname" "mp_tdm_spawn_axis_start"
+"origin" "2892.7 4383.8 52"
+"angles" "0 270 0"
+}
+{
+"classname" "mp_tdm_spawn_axis_start"
+"origin" "2860.7 4279.8 52"
+"angles" "0 270 0"
+}
+{
+"classname" "mp_tdm_spawn_axis_start"
+"origin" "2780.7 4267.8 52"
+"angles" "0 270 0"
+}
+{
+"classname" "mp_tdm_spawn_axis_start"
+"origin" "2696.7 4267.8 52"
+"angles" "0 270 0"
+}
+{
+"classname" "mp_tdm_spawn_axis_start"
+"origin" "2732.7 4159.8 72"
+"angles" "0 270 0"
+}
+{
+"classname" "mp_tdm_spawn_axis_start"
+"origin" "2832.7 4163.8 72"
+"angles" "0 270 0"
+}
+{
+"origin" "-930 1490 96"
+"angles" "0 0 0"
+"classname" "mp_tdm_spawn"
+}
+{
+"origin" "-280 554.8 128"
+"angles" "0 170 0"
+"classname" "mp_tdm_spawn"
+}
+{
+"origin" "2938 3302 224"
+"angles" "0 190 0"
+"classname" "mp_tdm_spawn"
+}
+{
+"origin" "660 -1278 176"
+"angles" "0 90 0"
+"classname" "mp_tdm_spawn"
+}
+{
+"origin" "1142 -666 112"
+"angles" "0 37.3 0"
+"classname" "mp_tdm_spawn"
+}
+{
+"origin" "1906 -1078 120"
+"angles" "0 35 0"
+"classname" "mp_tdm_spawn"
+}
+{
+"origin" "2638 -822 64"
+"angles" "0 90 0"
+"classname" "mp_tdm_spawn"
+}
+{
+"origin" "1074 194 120"
+"angles" "0 165 0"
+"classname" "mp_tdm_spawn"
+}
+{
+"origin" "2234 -590 136"
+"angles" "0 170 0"
+"classname" "mp_tdm_spawn"
+}
+{
+"classname" "script_origin"
+"targetname" "LSD_Loop_start_2"
+"origin" "1246.5 3372.5 5784"
+"target" "LSD_Loop_start_3"
+}
+{
+"origin" "1086 2422 152"
+"angles" "0 0 0"
+"classname" "mp_tdm_spawn"
+}
+{
+"classname" "mp_tdm_spawn"
+"angles" "0 0 0"
+"origin" "-502 2830 76"
+}
+{
+"origin" "-895 2592 76"
+"angles" "0 274.1 0"
+"classname" "mp_tdm_spawn"
+}
+{
+"classname" "script_origin"
+"targetname" "LSD_start"
+"target" "LSD_start_1"
+"origin" "7040 1344 8008"
+"angles" "35 180 6.82341e-006"
+}
+{
+"origin" "-82 1478 124"
+"angles" "0 116.1 0"
+"classname" "mp_tdm_spawn"
+}
+{
+"origin" "1962.8 1804 136"
+"angles" "0 180 0"
+"classname" "mp_tdm_spawn"
+}
+{
+"origin" "1854 2918 88"
+"angles" "0 180 0"
+"classname" "mp_tdm_spawn"
+}
+{
+"classname" "mp_tdm_spawn"
+"angles" "0 210 0"
+"origin" "930 3486 180"
+}
+{
+"origin" "1133 -198 117"
+"angles" "0 130.7 0"
+"classname" "mp_tdm_spawn"
+}
+{
+"origin" "2698 1506 132"
+"angles" "0 1.9859e-006 0"
+"classname" "mp_tdm_spawn"
+}
+{
+"classname" "script_origin"
+"targetname" "LSD_start_1"
+"origin" "4976 1352 6256"
+"target" "LSD_start_2"
+}
+{
+"origin" "3860 468 24"
+"angles" "0 179.592 0"
+"classname" "mp_dm_spawn"
+}
+{
+"origin" "2232 -592 140"
+"angles" "0 174.592 0"
+"classname" "mp_dm_spawn"
+}
+{
+"origin" "3858 466 20"
+"angles" "0 180 0"
+"classname" "mp_tdm_spawn"
+}
+{
+"classname" "script_origin"
+"targetname" "LSD_Loop_start"
+"target" "LSD_Loop_start_1"
+"origin" "3642 1393.5 5784"
+}
+{
+"classname" "script_origin"
+"targetname" "LSD_Loop_start_1"
+"origin" "2754 3051 5784"
+"target" "LSD_Loop_start_2"
+}
+{
+"classname" "script_origin"
+"targetname" "LSD_Loop_start_3"
+"origin" "-350.5 2984.5 5784"
+"target" "LSD_Loop_start_4"
+}
+{
+"classname" "script_origin"
+"targetname" "LSD_Loop_start_4"
+"origin" "-1154.5 1291 5784"
+"target" "LSD_Loop_start_5"
+}
+{
+"classname" "script_origin"
+"targetname" "LSD_Loop_start_5"
+"origin" "-438.5 -736 5784"
+"target" "LSD_Loop_start_6"
+}
+{
+"classname" "script_origin"
+"targetname" "LSD_Loop_start_6"
+"origin" "956.5 -1034.5 5784"
+"target" "LSD_Loop_start_7"
+}
+{
+"classname" "script_origin"
+"targetname" "LSD_Loop_start_7"
+"origin" "2942 -457 5784"
+"target" "LSD_Loop_start_8"
+}
+{
+"classname" "script_origin"
+"targetname" "LSD_Loop_start_8"
+"origin" "3640 1330.5 5784"
+}
+{
+"classname" "script_origin"
+"targetname" "LSD_leave_1"
+"origin" "337 781.5 5784"
+"target" "LSD_leave_2"
+}
+{
+"classname" "script_origin"
+"targetname" "LSD_leave"
+"origin" "2946 -366 5784"
+"target" "LSD_leave_1"
+}
+{
+"classname" "script_origin"
+"targetname" "LSD_leave_2"
+"origin" "-463.5 2459.5 5784"
+}
+{
+"classname" "script_origin"
+"targetname" "LSD_crash_start_1"
+"origin" "3150 -883 5774.5"
+}
+{
+"classname" "script_origin"
+"targetname" "LSD_crash_start"
+"origin" "-688 -917 5774.5"
+"target" "LSD_crash_start_1"
+}
+{
+"classname" "script_origin"
+"targetname" "LSD_start_2"
+"origin" "3663 1352 5784"
+}
+{
+"origin" "2640 -816 64"
+"angles" "0 89.592 0"
+"classname" "mp_dm_spawn"
+}
+{
+"origin" "1908 -1080 120"
+"angles" "0 39.592 0"
+"classname" "mp_dm_spawn"
+}
+{
+"origin" "1144 -668 116"
+"angles" "0 39.592 0"
+"classname" "mp_dm_spawn"
+}
+{
+"origin" "1136 -196 116"
+"angles" "0 139.592 0"
+"classname" "mp_dm_spawn"
+}
+{
+"origin" "1072 196 120"
+"angles" "0 159.592 0"
+"classname" "mp_dm_spawn"
+}
+{
+"origin" "2936 2200 400"
+"angles" "0 359.592 0"
+"classname" "mp_dm_spawn"
+}
+{
+"origin" "1088 2420 152"
+"angles" "0 359.592 0"
+"classname" "mp_dm_spawn"
+}
+{
+"origin" "1964 1804 136"
+"angles" "0 179.592 0"
+"classname" "mp_dm_spawn"
+}
+{
+"origin" "1852 2916 88"
+"angles" "0 179.592 0"
+"classname" "mp_dm_spawn"
+}
+{
+"origin" "2940 3304 228"
+"angles" "0 194.592 0"
+"classname" "mp_dm_spawn"
+}
+{
+"origin" "936 3492 184"
+"angles" "0 194.592 0"
+"classname" "mp_dm_spawn"
+}
+{
+"origin" "-504 2828 76"
+"angles" "0 14.592 0"
+"classname" "mp_dm_spawn"
+}
+{
+"origin" "-80 1476 132"
+"angles" "0 114.592 0"
+"classname" "mp_dm_spawn"
+}
+{
+"origin" "-276 552 128"
+"angles" "0 169.592 0"
+"classname" "mp_dm_spawn"
+}
+{
+"origin" "-1000 1060 76"
+"angles" "0 314.592 0"
+"classname" "mp_dm_spawn"
+}
+{
+"origin" "-924 1492 96"
+"angles" "0 359.592 0"
+"classname" "mp_dm_spawn"
+}
+{
+"origin" "660 -1280 72"
+"angles" "0 89.592 0"
+"classname" "mp_dm_spawn"
+}
+{
+"origin" "474 1806 152"
+"angles" "0 116.1 0"
+"classname" "mp_tdm_spawn"
+}
+{
+"origin" "476 1804 160"
+"angles" "0 114.592 0"
+"classname" "mp_dm_spawn"
+}
+{
+"origin" "1533.8 1736.2 152"
+"angles" "0 196.1 0"
+"classname" "mp_tdm_spawn"
+}
+{
+"origin" "1536.2 1737.8 160"
+"angles" "0 194.592 0"
+"classname" "mp_dm_spawn"
+}
+{
+"origin" "1943.7 2128.7 164"
+"angles" "0 146.1 0"
+"classname" "mp_tdm_spawn"
+}
+{
+"origin" "1946.5 2127.9 172"
+"angles" "0 144.592 0"
+"classname" "mp_dm_spawn"
+}
+{
+"origin" "1801.5 3410.7 89.3"
+"angles" "0 6.1 0"
+"classname" "mp_tdm_spawn"
+}
+{
+"origin" "1798.9 3409.6 97.3"
+"angles" "0 4.592 0"
+"classname" "mp_dm_spawn"
+}
+{
+"origin" "-15.5 187 123"
+"angles" "0 225.7 0"
+"classname" "mp_tdm_spawn"
+}
+{
+"origin" "-17.8 189.9 122"
+"angles" "0 234.592 0"
+"classname" "mp_dm_spawn"
+}
+{
+"origin" "-498.7 -287.3 123"
+"angles" "0 90.7 0"
+"classname" "mp_tdm_spawn"
+}
+{
+"origin" "-495 -287.7 122"
+"angles" "0 99.592 0"
+"classname" "mp_dm_spawn"
+}
+{
+"origin" "-321.4 1361.7 126.8"
+"angles" "0 330 0"
+"classname" "mp_tdm_spawn"
+}
+{
+"origin" "-324.2 1365.7 126.8"
+"angles" "0 329.592 0"
+"classname" "mp_dm_spawn"
+}
+{
+"origin" "1799 2446.5 135"
+"angles" "0 35 0"
+"classname" "mp_tdm_spawn"
+}
+{
+"origin" "1794.2 2445.7 135"
+"angles" "0 34.592 0"
+"classname" "mp_dm_spawn"
+}
+{
+"origin" "2462 -36.4 102.2"
+"angles" "0 120 0"
+"classname" "mp_tdm_spawn"
+}
+{
+"origin" "2459.1 -36.1 106.2"
+"angles" "0 124.592 0"
+"classname" "mp_dm_spawn"
+}
+{
+"origin" "1672.9 14.1 116.6"
+"angles" "0 0 0"
+"classname" "mp_tdm_spawn"
+}
+{
+"origin" "1674.6 16.4 120.6"
+"angles" "0 4.592 0"
+"classname" "mp_dm_spawn"
+}
+{
+"origin" "2564.2 670.3 -46.9"
+"angles" "0 160 0"
+"classname" "mp_tdm_spawn"
+}
+{
+"origin" "2561.8 668.8 -42.9"
+"angles" "0 164.592 0"
+"classname" "mp_dm_spawn"
+}
+{
+"origin" "3422.5 1388.1 226.1"
+"angles" "0 270 0"
+"classname" "mp_tdm_spawn"
+}
+{
+"origin" "3424.7 1386.4 230.1"
+"angles" "0 274.592 0"
+"classname" "mp_dm_spawn"
+}
+{
+"origin" "3318.2 -98.5 29.5"
+"angles" "0 180 0"
+"classname" "mp_tdm_spawn"
+}
+{
+"origin" "3316.5 -100.7 33.5"
+"angles" "0 184.592 0"
+"classname" "mp_dm_spawn"
+}
+{
+"origin" "-293.9 -833.2 189.1"
+"angles" "0 5 0"
+"classname" "mp_tdm_spawn"
+}
+{
+"origin" "-292.4 -830.8 193.1"
+"angles" "0 9.592 0"
+"classname" "mp_dm_spawn"
+}
+{
+"origin" "2456.8 2065.2 116.1"
+"angles" "0 5 0"
+"classname" "mp_tdm_spawn"
+}
+{
+"origin" "2458.3 2067.6 120.1"
+"angles" "0 9.592 0"
+"classname" "mp_dm_spawn"
+}
